@@ -448,6 +448,7 @@ footer .copy{border-top:1px solid rgba(255,255,255,.12);margin-top:26px;padding-
   .bar{grid-template-columns:minmax(0,1fr) 70px 44px}
 }
 @media (prefers-reduced-motion:reduce){*{transition:none!important}}
+.adm-entry{text-decoration:none;display:inline-flex;align-items:center;gap:6px}
 .login{display:flex;flex-direction:column;gap:14px;width:min(380px,100%);margin:22px auto 0;text-align:left}
 </style>
 </head>
@@ -456,7 +457,7 @@ footer .copy{border-top:1px solid rgba(255,255,255,.12);margin-top:26px;padding-
   <span data-i="inst"></span>
   <div class="tools">
     <span id="adminPill" class="admin-pill" hidden data-i="admin_badge"></span>
-    <button class="tb-btn" id="themeBtn" type="button"></button>
+    <a class="tb-btn adm-entry" id="admEntry" href="#admin"><svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><rect x="4" y="10" width="16" height="11" rx="2"/><path d="M8 10V7a4 4 0 0 1 8 0v3"/></svg><span data-i="lg_link"></span></a><button class="tb-btn" id="themeBtn" type="button"></button>
     <div class="langs" role="group" aria-label="Til / Язык / Language"><button data-lang="uz">O‘zb</button><button data-lang="ru">Рус</button><button data-lang="en">Eng</button></div>
   </div>
 </div></div>
@@ -1305,7 +1306,7 @@ function renderStats(){
 /* ================= admin ================= */
 function renderAdmin(){
   $("admGate").hidden=isAdmin; $("admBody").hidden=!isAdmin; if(!isAdmin)return;
-  if($("admWho"))$("admWho").textContent=(window.YR_AUTH&&YR_AUTH.email)||"";
+  if($("admEntry"))$("admEntry").hidden=false;if($("admWho"))$("admWho").textContent=(window.YR_AUTH&&YR_AUTH.email)||"";
   const pend=subs.filter(s=>s.status==="pending").length;
   const tabs=[["dash",t("a_dash"),""],["docs",t("a_docs"),allDocs().length],["mod",t("a_mod"),pend],["news",t("a_news"),news.length],["exp",t("a_exp"),xreqs.filter(r=>r.status==="pending").length],["qa",t("a_qa"),qaPending().length],["links",t("a_links"),links.length],["set",t("a_set"),""]];
   $("admNav").innerHTML=tabs.map(([k,l,n])=>`<button data-tab="${k}" class="${admTab===k?"on":""}"><span>${l}</span>${n!==""?`<span class="cnt ${(k==="mod"&&pend)||(k==="exp"&&n)||(k==="qa"&&n)?"hot":""}">${n}</span>`:""}</button>`).join("");
