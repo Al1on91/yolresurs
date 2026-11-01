@@ -7,9 +7,9 @@
   let NEED_PW=false; try{const h=location.hash||"";NEED_PW=/type=(recovery|invite|signup)/.test(h)}catch(e){}
   const sb=HAS_SB?window.supabase.createClient(CFG.supabaseUrl,CFG.supabaseAnonKey,{auth:{persistSession:true,autoRefreshToken:true}}):null;
   window.YR_SB=sb;
-  const PUBLIC=["docs","news","links","collections","site","specialists","qa","specstat"];
+  const PUBLIC=["docs","news","links","collections","site","specialists","qa","specstat","norms"];
   const ANON_INSERT=["submissions","specreq","qareq"];
-  const STATIC=["docs","news","links","collections","site","specialists","qa","specstat"];
+  const STATIC=["docs","news","links","collections","site","specialists","qa","specstat","norms"];
   let session=null, isAdmin=false;
   const staticCache={}, sbCache={}, subs=[];
   

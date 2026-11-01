@@ -318,6 +318,33 @@ table.tbl td.act .btn{margin-left:4px}
 .qa-short .note{margin-top:10px;display:block}
 @media (max-width:1000px){.askband{grid-template-columns:auto 1fr}.askband .ab-in{grid-column:1/-1}}
 @media (max-width:640px){.askfab span{display:none}.askfab{padding:13px}}
+.nm-tiles{display:grid;grid-template-columns:repeat(5,1fr);gap:12px;margin-bottom:16px}
+.nm-tile{background:var(--surface);border:1px solid var(--line);border-radius:10px;padding:14px 16px;cursor:pointer;text-align:left;font:inherit;color:inherit}
+.nm-tile b{display:block;font-size:24px;font-family:var(--serif,inherit)}
+.nm-tile span{font-size:13.5px;color:var(--muted)}
+.nm-tile.on{border-color:var(--brand-2);box-shadow:0 0 0 2px color-mix(in srgb,var(--brand-2) 25%,transparent)}
+.nm-legend{background:var(--surface);border:1px solid var(--line);border-radius:10px;padding:12px 16px;margin-bottom:16px}
+.nm-legend summary{cursor:pointer;font-weight:700}
+.nm-legend dl{display:grid;grid-template-columns:auto 1fr;gap:8px 14px;margin:12px 0 0;font-size:14px;align-items:start}
+.nm-legend dd{margin:0;color:var(--muted)}
+.nm-bar{display:flex;gap:10px;flex-wrap:wrap;align-items:center}
+.nm-bar select{height:48px;border:1px solid var(--line);border-radius:8px;padding:0 12px;background:var(--surface);color:var(--ink);font:inherit;min-width:200px}
+.nst{display:inline-block;font-size:12.5px;font-weight:700;padding:3px 9px;border-radius:99px;white-space:nowrap}
+.nst.fund{background:color-mix(in srgb,#2f6fd0 13%,var(--surface));color:#245cb0}
+.nst.active,.nst.amended{background:color-mix(in srgb,#1f9d63 15%,var(--surface));color:#16774a}
+.nst.updating,.nst.draft{background:color-mix(in srgb,#d4890b 17%,var(--surface));color:#8f5800}
+.nst.replaced,.nst.cancelled{background:color-mix(in srgb,#c0392b 13%,var(--surface));color:#a02d22}
+:root[data-mode="dark"] .nst.fund{color:#8db6f2}:root[data-mode="dark"] .nst.active,:root[data-mode="dark"] .nst.amended{color:#5fd39b}
+:root[data-mode="dark"] .nst.updating,:root[data-mode="dark"] .nst.draft{color:#f0b54a}:root[data-mode="dark"] .nst.replaced,:root[data-mode="dark"] .nst.cancelled{color:#f08a7e}
+.nm-tbl td{vertical-align:top}
+.nm-code{font-weight:700;white-space:nowrap}
+.nm-code small{display:block;font-weight:400;color:var(--muted);font-size:12px}
+.nm-rel{font-size:13px;margin-top:6px;color:var(--muted)}
+.nm-rel b{color:var(--ink)}
+.nm-note{font-size:13px;color:var(--muted);margin-top:4px}
+.nm-src{font-size:13px;white-space:nowrap}
+.nm-src .note{display:block;font-size:12px}
+@media (max-width:1000px){.nm-tiles{grid-template-columns:repeat(2,1fr)}}
 .qa-lab{display:block;font-weight:700;margin-bottom:8px}
 .qa-in{width:100%;padding:12px 14px;border:1px solid var(--line);border-radius:8px;background:var(--surface);resize:vertical;font-size:16px;line-height:1.5}
 .qa-in:focus{border-color:var(--brand-2);outline:2px solid color-mix(in srgb,var(--brand-2) 25%,transparent)}
@@ -475,6 +502,7 @@ nav.main a.adm-entry:hover{background:#0c6a5d}
     <a href="#home" data-nav="home" data-i="nav_home"></a>
     <a href="#news" data-nav="news" data-i="nav_news"></a>
     <a href="#catalog" data-nav="catalog" data-i="nav_catalog"></a>
+    <a href="#norms" data-nav="norms" data-i="nav_norms"></a>
     <a href="#intl" data-nav="intl" data-i="nav_intl"></a>
     <a href="#experts" data-nav="experts" data-i="nav_exp"></a>
     <a href="#qa" data-nav="qa" data-i="nav_qa"></a>
@@ -583,6 +611,22 @@ nav.main a.adm-entry:hover{background:#0c6a5d}
     </aside>
     <div><div class="searchrow"><label for="iq" class="sr" data-i="f_query"></label><input id="iq" type="search" autocomplete="off"></div><div class="toolbar"><span id="iCount" style="color:var(--muted)"></span></div><div class="rows" id="iResults"></div></div>
   </div>
+</section>
+
+<!-- NORMS REGISTRY -->
+<section class="view" id="v-norms">
+  <div class="page-h"><div class="crumbs"><a href="#home" data-i="nav_home"></a> / <span data-i="nav_norms"></span></div><h1 data-i="nm_h"></h1><p data-i="nm_p"></p></div>
+  <div class="nm-tiles" id="nmTiles"></div>
+  <details class="nm-legend"><summary data-i="nm_legend_h"></summary><div id="nmLegend"></div></details>
+  <div class="nm-bar">
+    <div class="searchrow" style="margin:0;flex:1;min-width:240px"><label for="nmQ" class="sr" data-i="nm_search"></label><input id="nmQ" type="search" autocomplete="off"></div>
+    <select id="nmType" aria-label="type"></select>
+    <select id="nmArea" aria-label="area"></select>
+  </div>
+  <div class="chips2" id="nmStatus" style="margin:12px 0 16px"></div>
+  <div class="toolbar"><span id="nmCount" style="color:var(--muted)"></span></div>
+  <div class="tbl-wrap nm-wrap"><table class="tbl nm-tbl"><thead><tr><th data-i="nm_c_code"></th><th data-i="nm_c_title"></th><th data-i="nm_c_status"></th><th data-i="nm_c_src"></th></tr></thead><tbody id="nmBody"></tbody></table></div>
+  <div style="text-align:center;margin-top:16px"><button class="btn sec" id="nmMore" type="button" hidden data-i="nm_more"></button></div>
 </section>
 
 <!-- Q&A -->
@@ -1322,7 +1366,7 @@ function renderAdmin(){
   $("admGate").hidden=isAdmin; $("admBody").hidden=!isAdmin; if(!isAdmin)return;
   if($("admEntry"))$("admEntry").hidden=true;if($("admWho"))$("admWho").textContent=(window.YR_AUTH&&YR_AUTH.email)||"";
   const pend=subs.filter(s=>s.status==="pending").length;
-  const tabs=[["dash",t("a_dash"),""],["docs",t("a_docs"),allDocs().length],["mod",t("a_mod"),pend],["news",t("a_news"),news.length],["exp",t("a_exp"),xreqs.filter(r=>r.status==="pending").length],["qa",t("a_qa"),qaPending().length],["links",t("a_links"),links.length],["set",t("a_set"),""]];
+  const tabs=[["dash",t("a_dash"),""],["docs",t("a_docs"),allDocs().length],["mod",t("a_mod"),pend],["news",t("a_news"),news.length],["exp",t("a_exp"),xreqs.filter(r=>r.status==="pending").length],["qa",t("a_qa"),qaPending().length],["norms",t("a_norms"),norms.length],["links",t("a_links"),links.length],["set",t("a_set"),""]];
   $("admNav").innerHTML=tabs.map(([k,l,n])=>`<button data-tab="${k}" class="${admTab===k?"on":""}"><span>${l}</span>${n!==""?`<span class="cnt ${(k==="mod"&&pend)||(k==="exp"&&n)||(k==="qa"&&n)?"hot":""}">${n}</span>`:""}</button>`).join("");
   const P=$("admPanel"); const warn=dbState==="off"?`<p class="err" style="margin:0 0 14px">${t("db_off")}</p>`:"";
   if(admTab==="dash"){
@@ -1351,6 +1395,7 @@ function renderAdmin(){
   }
   if(admTab==="exp"){P.innerHTML=expAdminHtml(warn)}
   if(admTab==="qa"){P.innerHTML=qaAdminHtml(warn)}
+  if(admTab==="norms"){P.innerHTML=nmAdminHtml(warn);wireNmAdmin()}
   if(admTab==="links"){
     const ls=[...links].sort((a,b)=>(a.order||0)-(b.order||0)); const L=linkEdit||{};
     P.innerHTML=`<div class="editor"><h3>${linkEdit&&linkEdit._id?t("edit"):t("l_new_h")}</h3><form class="form3" id="linkForm" novalidate>
@@ -1650,7 +1695,8 @@ function qaSearch(q){
     return Object.assign({d},r)}).filter(x=>x.sc>=4).sort((a,b)=>b.sc-a.sc).slice(0,10);
   const nws=news.map(n=>Object.assign({n},qaScore([[norm(n.title),3],[norm(n.summary),1.5]],terms))).filter(x=>x.sc>=6).sort((a,b)=>b.sc-a.sc).slice(0,4);
   const exps=experts.map(x=>Object.assign({x},qaScore([[norm(x.areas.map(a=>Object.values(XAREAS[a]||{}).join(" ")).join(" ")),3],[norm(x.bio+" "+x.works.join(" ")+" "+x.position),1.5]],terms))).filter(x=>x.sc>=4).sort((a,b)=>b.sc-a.sc).slice(0,3);
-  return{terms,docs,nws,exps};
+  const nms=norms.map(n=>Object.assign({n},qaScore([[norm(nmCode(n)+" "+n.title+" "+uzLat(n.title)),3],[norm(n.note+" "+n.replaces+" "+n.replacedBy),1.5]],terms))).filter(x=>x.sc>=6).sort((a,b)=>b.sc-a.sc||NM_ORDER[a.n.status]-NM_ORDER[b.n.status]).slice(0,6);
+  return{terms,docs,nws,exps,nms};
 }
 function qaHitDoc(h,i,terms){
   const d=h.d, uz=(d.tr&&d.tr.uz)||{}, loc=(d.tr&&d.tr[lang])||{};
@@ -1690,11 +1736,12 @@ function qaRun(q){
   qaLast={q}; const R=qaSearch(q);
   $("qaOut").hidden=false; const au=$("qaAuto"); au.hidden=true;
   if(R.docs.length<2){au.hidden=false;au.innerHTML=`<span class="note">${esc(DB&&USERID?t("qa_auto_saved"):t("qa_auto_anon"))}</span>`;qaAutoSave(q)}
-  const n=R.docs.length+R.nws.length+R.exps.length;
+  const n=R.docs.length+R.nws.length+R.exps.length+R.nms.length;
   if(!n){$("qaSum").innerHTML=esc(t("qa_sum_none"));$("qaRes").innerHTML="";return}
   const top=R.docs[0]?`<a href="#doc-${esc(R.docs[0].d.id)}">${esc(trTitle(R.docs[0].d)||R.docs[0].d.t)}</a>`:R.nws[0]?esc(R.nws[0].n.title):esc(R.exps[0].x.name);
   $("qaSum").innerHTML=qaShort(R)+`<p style="margin:14px 0 0">${t("qa_sum_found").replace("{n}",n).replace("{top}",top)}</p>`;
   $("qaRes").innerHTML=(R.docs.length?`<div class="qa-grp">${t("qa_g_docs")} (${R.docs.length})</div>`+R.docs.map((h,i)=>qaHitDoc(h,i,R.terms)).join(""):"")
+    +(R.nms.length?`<div class="qa-grp">${t("g_norms")} (${R.nms.length})</div>`+R.nms.map(h=>`<div class="qa-hit"><h3><a href="#norms" data-nmq="${esc(h.n.number||h.n.title.slice(0,30))}">${esc(nmCode(h.n))}</a>&nbsp;${nst(h.n.status)}</h3><div class="sub-t" style="margin-left:0">${qaMark(nmTitle(h.n),R.terms)}</div>${h.n.replacedBy?`<div class="nm-rel">${t("nm_replacedBy")}: <b>${esc(h.n.replacedBy)}</b></div>`:""}<div class="lnk" style="margin-left:0">${h.n.source.u?`<a href="${esc(h.n.source.u)}" target="_blank" rel="noopener noreferrer">${esc(h.n.source.t)} ${EXT}</a>`:""}</div></div>`).join(""):"")
     +(R.nws.length?`<div class="qa-grp">${t("qa_g_news")} (${R.nws.length})</div>`+R.nws.map(h=>qaHitNews(h,R.terms)).join(""):"")
     +(R.exps.length?`<div class="qa-grp">${t("qa_g_exp")}</div>`+R.exps.map(h=>qaHitExp(h,R.terms)).join(""):"");
   $("qaOut").scrollIntoView({behavior:"smooth",block:"start"});
@@ -1735,13 +1782,124 @@ $("qaForm").addEventListener("submit",e=>{e.preventDefault();qaRun($("qaQ").valu
 $("qaQ").addEventListener("keydown",e=>{if(e.key==="Enter"&&(e.ctrlKey||e.metaKey)){e.preventDefault();qaRun($("qaQ").value.trim())}});
 $("qaAQ").addEventListener("input",renderQA);
 
+/* ================= normative registry (me'yoriy hujjatlar reyestri) ================= */
+Object.assign(T.uz,{nm_corresp:"Mos eski hujjat",nm_newreg:"Yangi reglament",nav_norms:"Me’yorlar",nm_h:"Me’yoriy hujjatlar reyestri",nm_p:"Yo‘l sohasidagi standartlar, qurilish normalari, idoraviy normalar va qonunlar — holati, qaysi hujjat nimani almashtirgani va manbasi bilan. Asos: Avtomobil yo‘llari ilmiy-tadqiqot institutining Avtoyulnorma.uz fondi va rasmiy manbalar.",
+nm_search:"Raqam yoki nom bo‘yicha qidirish (masalan: 9128, битум, ko‘prik)",nm_all_types:"Barcha turlar",nm_all_areas:"Barcha yo‘nalishlar",nm_all_st:"Barcha holatlar",nm_count:"{n} ta hujjat",nm_more:"Yana ko‘rsatish",nm_none:"Mos hujjat topilmadi.",
+nm_c_code:"Belgisi",nm_c_title:"Nomi",nm_c_status:"Holati",nm_c_src:"Manba",nm_checked:"tekshirilgan",nm_replaces:"O‘rniga kelgan",nm_replacedBy:"Almashtiruvchi hujjat",nm_legend_h:"Holatlar nimani bildiradi?",
+nm_t_all:"Jami hujjatlar",nm_t_fund:"Institut fondida",nm_t_ok:"Amalda (tasdiqlangan)",nm_t_upd:"Yangilanmoqda / ishlab chiqilmoqda",nm_t_old:"Almashtirilgan / bekor",
+st_fund:"Institut fondida",st_active:"Amalda",st_amended:"Amalda, o‘zgartirish bilan",st_updating:"Yangilanmoqda",st_draft:"Ishlab chiqilmoqda",st_replaced:"Almashtirilgan",st_cancelled:"Bekor qilingan",
+lg_fund:"Avtomobil yo‘llari ilmiy-tadqiqot institutining rasmiy Avtoyulnorma.uz fondida mavjud. Fondda amal qilish holati alohida ko‘rsatilmagan — muhim loyihalar uchun Avtoyulnorma.uz yoki lex.uz’da tekshiring.",
+lg_active:"Rasmiy manbada amaldaligi tasdiqlangan.",lg_amended:"Amalda, lekin unga o‘zgartirish yoki qo‘shimchalar kiritilgan — eng so‘nggi tahririni qo‘llang.",lg_updating:"Hujjat yangi reglament bilan almashtirilish jarayonida; yangi hujjat belgisi ko‘rsatilgan.",
+lg_draft:"Yangi normativ hujjat ishlab chiqilmoqda.",lg_replaced:"Boshqa hujjat bilan almashtirilgan — almashtiruvchi hujjatni qo‘llang.",lg_cancelled:"O‘z kuchini yo‘qotgan.",
+ar_general:"Umumiy va huquqiy",ar_design:"Loyihalash va qidiruv",ar_bridges:"Ko‘priklar, quvurlar, tunnellar",ar_bitumen:"Bitum, asfaltbeton, mastikalar",ar_aggregates:"Inert materiallar, grunt, beton",ar_safety:"Harakat xavfsizligi va jihozlash",ar_maintenance:"Saqlash, ta’mir, diagnostika",ar_testing:"Sinov va nazorat usullari",ar_airfield:"Aerodromlar",ar_economics:"Smeta va iqtisod",ar_ecology:"Ekologiya va ko‘kalamzorlashtirish",
+a_norms:"Me’yorlar",nm_new:"Yangi me’yor qo‘shish",nm_edit_h:"Me’yorni tahrirlash",nm_f_type:"Turi (GOST, ShNQ, IQN…)",nm_f_num:"Raqami",nm_f_title:"Nomi",nm_f_status:"Holati",nm_f_area:"Yo‘nalish",nm_f_rep:"O‘rniga kelgan hujjat",nm_f_repby:"Almashtiruvchi hujjat",nm_f_note:"Izoh",nm_f_srct:"Manba nomi",nm_f_srcu:"Manba havolasi",nm_saved:"Saqlandi",g_norms:"Me’yoriy hujjatlar"});
+Object.assign(T.ru,{nm_corresp:"Соответствует прежнему",nm_newreg:"Новый регламент",nav_norms:"Нормы",nm_h:"Реестр нормативных документов",nm_p:"Стандарты, строительные нормы, ведомственные нормы и законы дорожной отрасли — со статусом, связями замены и источником. Основа: фонд Avtoyulnorma.uz НИИ автомобильных дорог и официальные источники.",
+nm_search:"Поиск по номеру или названию (например: 9128, битум, мост)",nm_all_types:"Все виды",nm_all_areas:"Все направления",nm_all_st:"Все статусы",nm_count:"Документов: {n}",nm_more:"Показать ещё",nm_none:"Документы не найдены.",
+nm_c_code:"Обозначение",nm_c_title:"Название",nm_c_status:"Статус",nm_c_src:"Источник",nm_checked:"проверено",nm_replaces:"Вместо",nm_replacedBy:"Заменён на",nm_legend_h:"Что означают статусы?",
+nm_t_all:"Всего документов",nm_t_fund:"В фонде института",nm_t_ok:"Действует (подтверждено)",nm_t_upd:"Обновляется / разрабатывается",nm_t_old:"Заменён / отменён",
+st_fund:"В фонде института",st_active:"Действует",st_amended:"Действует, с изменениями",st_updating:"Обновляется",st_draft:"Разрабатывается",st_replaced:"Заменён",st_cancelled:"Отменён",
+lg_fund:"Есть в официальном фонде Avtoyulnorma.uz НИИ автомобильных дорог. Статус действия в фонде отдельно не указан — для важных проектов проверьте на Avtoyulnorma.uz или lex.uz.",
+lg_active:"Действие подтверждено официальным источником.",lg_amended:"Действует, но в него внесены изменения или дополнения — применяйте последнюю редакцию.",lg_updating:"Документ в процессе замены новым регламентом; указано обозначение нового документа.",
+lg_draft:"Разрабатывается новый нормативный документ.",lg_replaced:"Заменён другим документом — применяйте заменяющий.",lg_cancelled:"Утратил силу.",
+ar_general:"Общие и правовые",ar_design:"Проектирование и изыскания",ar_bridges:"Мосты, трубы, тоннели",ar_bitumen:"Битум, асфальтобетон, мастики",ar_aggregates:"Инертные материалы, грунт, бетон",ar_safety:"Безопасность и обустройство",ar_maintenance:"Содержание, ремонт, диагностика",ar_testing:"Методы испытаний и контроля",ar_airfield:"Аэродромы",ar_economics:"Сметы и экономика",ar_ecology:"Экология и озеленение",
+a_norms:"Нормы",nm_new:"Добавить норму",nm_edit_h:"Редактирование нормы",nm_f_type:"Вид (ГОСТ, ШНК, ВСН…)",nm_f_num:"Номер",nm_f_title:"Название",nm_f_status:"Статус",nm_f_area:"Направление",nm_f_rep:"Вместо документа",nm_f_repby:"Заменён на",nm_f_note:"Примечание",nm_f_srct:"Источник",nm_f_srcu:"Ссылка на источник",nm_saved:"Сохранено",g_norms:"Нормативные документы"});
+Object.assign(T.en,{nm_corresp:"Corresponds to former",nm_newreg:"New regulation",nav_norms:"Standards",nm_h:"Register of normative documents",nm_p:"Road-sector standards, building codes, departmental norms and laws — with status, replacement links and source. Based on the Avtoyulnorma.uz collection of the Road Research Institute and official sources.",
+nm_search:"Search by number or title (e.g. 9128, bitumen, bridge)",nm_all_types:"All types",nm_all_areas:"All fields",nm_all_st:"All statuses",nm_count:"{n} documents",nm_more:"Show more",nm_none:"No matching documents.",
+nm_c_code:"Code",nm_c_title:"Title",nm_c_status:"Status",nm_c_src:"Source",nm_checked:"checked",nm_replaces:"Replaces",nm_replacedBy:"Replaced by",nm_legend_h:"What do the statuses mean?",
+nm_t_all:"Total documents",nm_t_fund:"In institute collection",nm_t_ok:"In force (confirmed)",nm_t_upd:"Being updated / drafted",nm_t_old:"Replaced / cancelled",
+st_fund:"In institute collection",st_active:"In force",st_amended:"In force, amended",st_updating:"Being updated",st_draft:"Being drafted",st_replaced:"Replaced",st_cancelled:"Cancelled",
+lg_fund:"Listed in the official Avtoyulnorma.uz collection of the Road Research Institute. The collection does not state the legal status — for important projects check Avtoyulnorma.uz or lex.uz.",
+lg_active:"In force, confirmed by an official source.",lg_amended:"In force but amended or supplemented — use the latest edition.",lg_updating:"Being replaced by a new regulation; the new document code is shown.",
+lg_draft:"A new normative document is being drafted.",lg_replaced:"Replaced by another document — use the replacement.",lg_cancelled:"No longer in force.",
+ar_general:"General and legal",ar_design:"Design and surveys",ar_bridges:"Bridges, culverts, tunnels",ar_bitumen:"Bitumen, asphalt, mastics",ar_aggregates:"Aggregates, soils, concrete",ar_safety:"Road safety and furniture",ar_maintenance:"Maintenance, repair, diagnostics",ar_testing:"Test and control methods",ar_airfield:"Airfields",ar_economics:"Estimates and economics",ar_ecology:"Ecology and landscaping",
+a_norms:"Standards",nm_new:"Add standard",nm_edit_h:"Edit standard",nm_f_type:"Type (GOST, ShNQ, IQN…)",nm_f_num:"Number",nm_f_title:"Title",nm_f_status:"Status",nm_f_area:"Field",nm_f_rep:"Replaces",nm_f_repby:"Replaced by",nm_f_note:"Note",nm_f_srct:"Source name",nm_f_srcu:"Source link",nm_saved:"Saved",g_norms:"Normative documents"});
+const NM_ST=["fund","active","amended","updating","draft","replaced","cancelled"];
+const NM_AREAS=["general","design","bridges","bitumen","aggregates","safety","maintenance","testing","airfield","economics","ecology"];
+const NM_ORDER={active:0,amended:1,updating:2,draft:3,replaced:4,cancelled:5,fund:6};
+let norms=[], nmStatus="", nmLimit=100, nmEdit=null, nmAdmQ="";
+/* Uzbek Cyrillic → Latin (only for texts that are clearly Uzbek) */
+const UZC={"а":"a","б":"b","в":"v","г":"g","д":"d","ж":"j","з":"z","и":"i","й":"y","к":"k","л":"l","м":"m","н":"n","о":"o","п":"p","р":"r","с":"s","т":"t","у":"u","ф":"f","х":"x","ч":"ch","ш":"sh","ъ":"’","ь":"","э":"e","ў":"o‘","қ":"q","ғ":"g‘","ҳ":"h","ы":"i","щ":"sh","ц":"s"};
+function uzLat(s){return String(s).replace(/[ЁёЕеЮюЯяЦц]|[А-Яа-яЎўҚқҒғҲҳ]/g,(c,i,str)=>{const lo=c.toLowerCase(),up=c!==lo;let r;
+  if(lo==="е"){const prev=str[i-1]||" ";r=/[\s\-(«"“]/.test(prev)||/[аеёиоуўэюяaeiou]/i.test(prev)?"ye":"e"}
+  else if(lo==="ё")r="yo";else if(lo==="ю")r="yu";else if(lo==="я")r="ya";else if(lo==="ц")r="ts";else r=UZC[lo]??c;
+  return up?(r.charAt(0).toUpperCase()+r.slice(1)):r})}
+const isUzCyr=s=>/[ўқғҳЎҚҒҲ]/.test(s)||/йўл|учун|(^|\s)ва\s|[а-я]лар(и|нинг|да|га)?(\s|$|\.)/.test(s);
+const nmTitle=n=>lang==="uz"&&isUzCyr(n.title)?uzLat(n.title):n.title;
+const nmCode=n=>(n.type||"")+(n.number?" "+n.number:"");
+function mapNorm(id,x){return{_id:id,type:clip(x.type,30),typeOrig:clip(x.typeOrig,30),number:clip(x.number,60),title:clip(x.title,600),status:NM_ST.includes(x.status)?x.status:"fund",area:NM_AREAS.includes(x.area)?x.area:"general",replaces:clip(x.replaces,120),replacedBy:clip(x.replacedBy,120),note:clip(x.note,600),source:x.source&&typeof x.source==="object"?{t:clip(x.source.t,160),u:okUrl(x.source.u)?String(x.source.u):""}:{t:"",u:""},origin:String(x.origin||""),checked:/^\d{4}-\d{2}-\d{2}$/.test(x.checked||"")?x.checked:""}}
+const nst=s=>`<span class="nst ${s}">${esc(t("st_"+s))}</span>`;
+function nmBuildFilters(){
+  const ty=$("nmType"), ar=$("nmArea");
+  if(ty.dataset.lang!==lang||ty.dataset.n!=String(norms.length)){const v=ty.value;const types=[...new Set(norms.map(n=>n.type))].sort();ty.innerHTML=`<option value="">${t("nm_all_types")}</option>`+types.map(x=>`<option value="${esc(x)}">${esc(x)} (${norms.filter(n=>n.type===x).length})</option>`).join("");ty.value=v;ty.dataset.lang=lang;ty.dataset.n=norms.length}
+  if(ar.dataset.lang!==lang||ar.dataset.n!=String(norms.length)){const v=ar.value;ar.innerHTML=`<option value="">${t("nm_all_areas")}</option>`+NM_AREAS.filter(a=>norms.some(n=>n.area===a)).map(a=>`<option value="${a}">${esc(t("ar_"+a))} (${norms.filter(n=>n.area===a).length})</option>`).join("");ar.value=v;ar.dataset.lang=lang;ar.dataset.n=norms.length}
+  $("nmQ").placeholder=t("nm_search");
+}
+function nmFiltered(){
+  const q=norm($("nmQ").value.trim()), ty=$("nmType").value, ar=$("nmArea").value;
+  const qs=q.split(/\s+/).filter(Boolean);
+  const st=nmStatus==="ok"?["active","amended"]:nmStatus==="upd"?["updating","draft"]:nmStatus==="old"?["replaced","cancelled"]:nmStatus==="fund"?["fund"]:null;
+  return norms.filter(n=>(!ty||n.type===ty)&&(!ar||n.area===ar)&&(!st||st.includes(n.status))&&(!qs.length||(()=>{const h=norm([nmCode(n),n.typeOrig,n.title,uzLat(n.title),n.replaces,n.replacedBy,n.note].join(" "));return qs.every(w=>h.includes(w))})()))
+    .sort((a,b)=>(NM_ORDER[a.status]-NM_ORDER[b.status])||nmCode(a).localeCompare(nmCode(b),undefined,{numeric:true}));
+}
+function nmRow(n){
+  const rel=(n.replaces?`<div class="nm-rel">${n.origin==="avtoyulnorma"?t("nm_corresp"):t("nm_replaces")}: <b>${esc(n.replaces)}</b></div>`:"")+(n.replacedBy?`<div class="nm-rel">${n.status==="updating"?t("nm_newreg"):t("nm_replacedBy")}: <b>${esc(n.replacedBy)}</b></div>`:"");
+  return `<tr><td class="nm-code">${esc(nmCode(n))}${n.typeOrig&&n.typeOrig!==n.type?`<small>${esc(n.typeOrig)} ${esc(n.number)}</small>`:""}</td>
+    <td>${esc(nmTitle(n))}${rel}${n.note?`<div class="nm-note">${esc(n.note)}</div>`:""}</td><td>${nst(n.status)}</td>
+    <td class="nm-src">${n.source.u?`<a href="${esc(n.source.u)}" target="_blank" rel="noopener noreferrer">${esc(n.source.t||"URL")} ${EXT}</a>`:esc(n.source.t||"—")}${n.checked?`<span class="note">${t("nm_checked")}: ${esc(fmtDate(n.checked))}</span>`:""}</td></tr>`;
+}
+function renderNorms(){
+  nmBuildFilters();
+  const c=k=>norms.filter(n=>k.includes(n.status)).length;
+  const tiles=[["","nm_t_all",norms.length],["fund","nm_t_fund",c(["fund"])],["ok","nm_t_ok",c(["active","amended"])],["upd","nm_t_upd",c(["updating","draft"])],["old","nm_t_old",c(["replaced","cancelled"])]];
+  $("nmTiles").innerHTML=tiles.map(([k,l,v])=>`<button type="button" class="nm-tile ${nmStatus===k?"on":""}" data-nmst="${k}"><b>${fmt(v)}</b><span>${t(l)}</span></button>`).join("");
+  $("nmStatus").innerHTML="";
+  $("nmLegend").innerHTML=`<dl>${NM_ST.map(s=>`<dt>${nst(s)}</dt><dd>${esc(t("lg_"+s))}</dd>`).join("")}</dl>`;
+  const list=nmFiltered();
+  $("nmCount").textContent=t("nm_count").replace("{n}",fmt(list.length));
+  $("nmBody").innerHTML=list.length?list.slice(0,nmLimit).map(nmRow).join(""):`<tr><td colspan="4"><div class="empty">${t("nm_none")}</div></td></tr>`;
+  $("nmMore").hidden=list.length<=nmLimit;
+}
+$("nmQ").addEventListener("input",()=>{nmLimit=100;renderNorms()});
+$("nmType").addEventListener("change",()=>{nmLimit=100;renderNorms()});
+$("nmArea").addEventListener("change",()=>{nmLimit=100;renderNorms()});
+$("nmMore").onclick=()=>{nmLimit+=200;renderNorms()};
+/* admin */
+function nmAdminHtml(warn){
+  const E=nmEdit;
+  const form=E?`<div class="editor"><h3>${E._id?t("nm_edit_h"):t("nm_new")}</h3><form class="form" id="nmForm" novalidate>
+    <div class="field"><label for="nfT">${t("nm_f_type")}</label><input id="nfT" value="${esc(E.type||"")}"></div>
+    <div class="field"><label for="nfN">${t("nm_f_num")}</label><input id="nfN" value="${esc(E.number||"")}"></div>
+    <div class="field full"><label for="nfTi">${t("nm_f_title")}</label><input id="nfTi" value="${esc(E.title||"")}"></div>
+    <div class="field"><label for="nfS">${t("nm_f_status")}</label><select id="nfS">${NM_ST.map(s=>`<option value="${s}" ${E.status===s?"selected":""}>${esc(t("st_"+s))}</option>`).join("")}</select></div>
+    <div class="field"><label for="nfA">${t("nm_f_area")}</label><select id="nfA">${NM_AREAS.map(a=>`<option value="${a}" ${E.area===a?"selected":""}>${esc(t("ar_"+a))}</option>`).join("")}</select></div>
+    <div class="field"><label for="nfR">${t("nm_f_rep")}</label><input id="nfR" value="${esc(E.replaces||"")}"></div>
+    <div class="field"><label for="nfRB">${t("nm_f_repby")}</label><input id="nfRB" value="${esc(E.replacedBy||"")}"></div>
+    <div class="field full"><label for="nfNo">${t("nm_f_note")}</label><textarea id="nfNo" rows="2">${esc(E.note||"")}</textarea></div>
+    <div class="field"><label for="nfST">${t("nm_f_srct")}</label><input id="nfST" value="${esc((E.source&&E.source.t)||"")}"></div>
+    <div class="field"><label for="nfSU">${t("nm_f_srcu")}</label><input id="nfSU" type="url" placeholder="https://" value="${esc((E.source&&E.source.u)||"")}"></div>
+    <div class="full" style="display:flex;gap:10px;align-items:center"><button class="btn" type="submit">${t("save")}</button><button class="btn sec" type="button" data-nmcancel>${t("cancel")}</button><span class="err" id="nfErr"></span></div></form></div>`:"";
+  const q=norm(nmAdmQ); const list=norms.filter(n=>!q||norm(nmCode(n)+" "+n.title).includes(q)).sort((a,b)=>(NM_ORDER[a.status]-NM_ORDER[b.status])||nmCode(a).localeCompare(nmCode(b),undefined,{numeric:true})).slice(0,150);
+  return form+`<div class="panel">${warn}<div class="panel-h"><h2>${t("a_norms")} (${norms.length})</h2>${E?"":`<button class="btn" data-nmnew>${t("nm_new")}</button>`}</div>
+    <div class="searchrow"><input id="nmAdmQ" type="search" placeholder="${esc(t("nm_search"))}" value="${esc(nmAdmQ)}" aria-label="search"></div>
+    <div class="tbl-wrap"><table class="tbl"><tbody>${list.map(n=>`<tr><td class="t"><b>${esc(nmCode(n))}</b> — ${esc(nmTitle(n)).slice(0,140)}</td><td>${nst(n.status)}</td><td class="act"><button class="btn sec sm" data-nmedit="${esc(n._id)}">${t("edit")}</button><button class="btn danger sm ${armDel===n._id?"arm":""}" data-nmdel="${esc(n._id)}">${armDel===n._id?t("del_sure"):t("del")}</button></td></tr>`).join("")}</tbody></table></div></div>`;
+}
+function wireNmAdmin(){
+  const qi=$("nmAdmQ"); if(qi)qi.oninput=()=>{nmAdmQ=qi.value;const pos=qi.selectionStart;renderAdmin();const n=$("nmAdmQ");n.focus();n.setSelectionRange(pos,pos)};
+  const f=$("nmForm"); if(!f)return;
+  f.onsubmit=async e=>{e.preventDefault();const er=$("nfErr");er.textContent="";
+    const rec={type:$("nfT").value.trim(),number:$("nfN").value.trim(),title:$("nfTi").value.trim(),status:$("nfS").value,area:$("nfA").value,replaces:$("nfR").value.trim(),replacedBy:$("nfRB").value.trim(),note:$("nfNo").value.trim(),source:{t:$("nfST").value.trim(),u:$("nfSU").value.trim()},origin:"admin",checked:new Date().toISOString().slice(0,10)};
+    if(!rec.title){er.textContent=t("nm_f_title")+"?";return} if(rec.source.u&&!okUrl(rec.source.u)){er.textContent=t("bad_url");return} if(!DB){er.textContent=t("db_off");return}
+    if(nmEdit&&nmEdit.typeOrig)rec.typeOrig=nmEdit.typeOrig;
+    try{await DB.collection("norms").doc(nmEdit._id||newId("nm")).set(rec);nmEdit=null;toast(t("nm_saved"));renderAdmin()}catch(err){er.textContent=(err&&err.message)||"Error"}};
+}
+
 /* ================= routing & events ================= */
-const VIEWS=["home","news","catalog","intl","experts","qa","upload","stats","admin","doc"];
+const VIEWS=["home","news","catalog","norms","intl","experts","qa","upload","stats","admin","doc"];
 function route(){
   const h=(location.hash||"#home").slice(1); const v=h.startsWith("doc-")?"doc":(VIEWS.includes(h)?h:"home");
   VIEWS.forEach(x=>$("v-"+x).classList.toggle("on",x===v));
   document.querySelectorAll("[data-nav]").forEach(a=>a.classList.toggle("on",a.dataset.nav===v||(v==="doc"&&a.dataset.nav==="catalog")));
-  ({home:renderHome,news:renderNews,catalog:renderCatalog,intl:renderIntl,experts:renderExperts,qa:renderQA,upload:renderUpload,stats:renderStats,admin:renderAdmin})[v]?.();
+  ({home:renderHome,news:renderNews,catalog:renderCatalog,norms:renderNorms,intl:renderIntl,experts:renderExperts,qa:renderQA,upload:renderUpload,stats:renderStats,admin:renderAdmin})[v]?.();
   if(v==="doc")renderDoc(h.slice(4));
   $("askFab").hidden=(v==="qa"||v==="admin");
 }
@@ -1771,6 +1929,12 @@ document.addEventListener("click",e=>{
   if(el=g("[data-approve]")){approve(el.dataset.approve);return}
   if(el=g("[data-reject]")){reject(el.dataset.reject);return}
   if(el=g("[data-ledit]")){linkEdit=Object.assign({},links.find(l=>l._id===el.dataset.ledit));armDel=null;renderAdmin();return}
+  if(el=g("[data-nmq]")){e.preventDefault();$("nmQ").value=el.dataset.nmq;nmStatus="";go("norms");return}
+  if(el=g("[data-nmst]")){nmStatus=el.dataset.nmst;nmLimit=100;renderNorms();return}
+  if(g("[data-nmnew]")){nmEdit={status:"active",area:"general",source:{t:"",u:""}};renderAdmin();window.scrollTo(0,0);return}
+  if(g("[data-nmcancel]")){nmEdit=null;renderAdmin();return}
+  if(el=g("[data-nmedit]")){const n=norms.find(x=>x._id===el.dataset.nmedit);if(n){nmEdit=JSON.parse(JSON.stringify(n));renderAdmin();window.scrollTo(0,0)}return}
+  if(el=g("[data-nmdel]")){const id=el.dataset.nmdel;if(armDel===id){DB.collection("norms").doc(id).delete().then(()=>{armDel=null;toast(t("deleted"))}).catch(er=>toast(er.message||"Error"))}else{armDel=id;renderAdmin()}return}
   if(el=g("[data-qarun]")){e.preventDefault();const it=((myQa&&myQa.items)||[]).find(x=>x.id===el.dataset.qarun);if(it){$("qaQ").value=it.q;qaRun(it.q)}return}
   if(el=g("[data-qaex]")){const q=t("qa_ex"+el.dataset.qaex);$("qaQ").value=q;qaRun(q);return}
   if(el=g("[data-qago]")){e.preventDefault();const it=document.getElementById("qa-"+el.dataset.qago);if(it){const d=it.querySelector("details");if(d)d.open=true;it.scrollIntoView({behavior:"smooth",block:"center"})}return}
@@ -1831,7 +1995,7 @@ applyI18n(); paintAdminChrome(); route();
 fetch("catalog/trb-idea.json").then(r=>r.ok?r.json():null).then(x=>{if(!x||!Array.isArray(x.items))return;staticColls=[{name:String(x.name||""),org:String(x.org||""),cat:CATS[x.cat]?x.cat:"report",lang:LANGN[x.lang]?x.lang:"en",listUrl:okUrl(x.listUrl)?String(x.listUrl):"",items:x.items.filter(it=>Array.isArray(it)&&it.length>=3).map(it=>[String(it[0]),String(it[1]),String(it[2]),okUrl(it[3])?String(it[3]):""])}];rerender()}).catch(()=>{});
 const rerender=()=>{buildFilterChecks();paintLinks();paintAnnounce();
   if(location.hash==="#admin"){const ae=document.activeElement;const typing=ae&&$("admPanel").contains(ae)&&/INPUT|TEXTAREA|SELECT/.test(ae.tagName);
-    if(editing||typing||linkEdit){paintAdminChrome();return}}
+    if(editing||typing||linkEdit||nmEdit){paintAdminChrome();return}}
   route()};
 (async()=>{
   if(!window.claude||!window.claude.use){dbState="off";route();return}
@@ -1854,6 +2018,7 @@ const rerender=()=>{buildFilterChecks();paintLinks();paintAnnounce();
     if(isAdmin){db.collection("specreq").onSnapshot(s=>{xreqRaw=s.docs.map(d=>mapExpert(d.id,d.data()||{})).filter(x=>x.name);calcXreqs();rerender()},()=>{});
       db.collection("specstat").onSnapshot(s=>{xstat={};s.docs.forEach(d=>{const x=d.data()||{};xstat[d.id]={status:String(x.status||""),at:+x.at||0}});calcXreqs();rerender()},()=>{})}
     {const mine=LS.get("yr_myspec",null);if(mine&&mine.id){myReq=mapExpert(mine.id,mine.rec||{});watchMySpec()}}
+    db.collection("norms").onSnapshot(s=>{ok();norms=s.docs.map(d=>mapNorm(d.id,d.data()||{})).filter(n=>n.title);rerender()},()=>{});
     db.collection("qa").onSnapshot(s=>{qaAnswers=s.docs.map(d=>mapQaAns(d.id,d.data()||{})).filter(a=>a.q);rerender()},()=>{});
     if(isAdmin)db.collection("qareq").onSnapshot(s=>{qaReqAll=s.docs.map(d=>{const x=d.data()||{};return{items:Array.isArray(x.items)?x.items:[Object.assign({id:d.id},x)]}});rerender()},()=>{});
     myQa={items:LS.get("yr_myqa",[])};

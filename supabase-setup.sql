@@ -30,7 +30,7 @@ drop policy if exists "admin all"     on public.records;
 -- Hamma o‘qiy oladigan bo‘limlar
 create policy "public read" on public.records for select
   to anon, authenticated
-  using (col in ('docs','news','links','collections','site','specialists','qa','specstat'));
+  using (col in ('docs','news','links','collections','site','specialists','qa','specstat','norms'));
 
 -- Foydalanuvchilar faqat yangi ariza / savol qo‘sha oladi (o‘qiy olmaydi, o‘zgartira olmaydi)
 create policy "anon submit" on public.records for insert
