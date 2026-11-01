@@ -1,12 +1,5 @@
 [
  {
-  "id": "l-lex",
-  "desc": "Normativ-huquqiy hujjatlar",
-  "order": 3,
-  "title": "Lex.uz — qonunchilik ma’lumotlari bazasi",
-  "url": "https://lex.uz"
- },
- {
   "id": "l-mintrans",
   "desc": "Rasmiy veb-sayt",
   "order": 1,
@@ -14,24 +7,38 @@
   "url": "https://gov.uz/oz/mintrans"
  },
  {
-  "id": "l-piarc",
-  "desc": "Xalqaro yo‘l tashkiloti",
-  "order": 5,
-  "title": "PIARC — Jahon yo‘l assotsiatsiyasi",
-  "url": "https://www.piarc.org"
- },
- {
-  "id": "l-trid",
-  "desc": "Xalqaro transport tadqiqotlari bazasi",
-  "order": 4,
-  "title": "TRID — Transport Research International Documentation",
-  "url": "https://trid.trb.org"
- },
- {
   "id": "l-uzavtoyul",
   "desc": "Transport vazirligi huzuridagi qo‘mita",
   "order": 2,
   "title": "Avtomobil yo‘llari qo‘mitasi",
   "url": "https://gov.uz/oz/uzavtoyul"
+ },
+ {
+  "id": "l-avtoyulnorma",
+  "title": "Avtoyulnorma.uz — yo‘l sohasi me’yoriy hujjatlari bazasi",
+  "url": "https://avtoyulnorma.uz/uz",
+  "desc": "Avtomobil yo‘llari ilmiy-tadqiqot instituti: standartlar, me’yorlar va atamalar",
+  "order": 3
+ },
+ {
+  "id": "l-lex",
+  "desc": "Normativ-huquqiy hujjatlar",
+  "order": 4,
+  "title": "Lex.uz — qonunchilik ma’lumotlari bazasi",
+  "url": "https://lex.uz"
+ },
+ {
+  "id": "l-trid",
+  "desc": "Xalqaro transport tadqiqotlari bazasi",
+  "order": 5,
+  "title": "TRID — Transport Research International Documentation",
+  "url": "https://trid.trb.org"
+ },
+ {
+  "id": "l-piarc",
+  "desc": "Xalqaro yo‘l tashkiloti",
+  "order": 6,
+  "title": "PIARC — Jahon yo‘l assotsiatsiyasi",
+  "url": "https://www.piarc.org"
  }
 ]
