@@ -87,7 +87,9 @@ main.wrap{padding-top:32px;padding-bottom:80px}
 .quick span{opacity:.75}
 
 .kpis{display:grid;grid-template-columns:repeat(4,1fr);background:var(--surface);border:1px solid var(--line);border-radius:12px;margin-top:20px}
-.kpi{padding:18px 22px;border-left:1px solid var(--line)}
+.kpi{padding:18px 22px;border:0;border-left:1px solid var(--line);background:none;text-align:left;font:inherit;color:inherit;cursor:pointer;transition:background .15s}
+.kpi:hover{background:var(--surface-2,#f3f6fb)}.kpi:hover b{color:var(--accent,#0b5d3b)}.kpi:focus-visible{outline:2px solid var(--accent,#0b5d3b);outline-offset:-2px}
+.kpis .kpi:first-child{border-radius:12px 0 0 12px}.kpis .kpi:last-child{border-radius:0 12px 12px 0}
 .kpi:first-child{border-left:0}
 .kpi b{display:block;font:700 26px/1.1 var(--display);font-variant-numeric:tabular-nums}
 .kpi span{color:var(--muted);font-size:14px}
@@ -576,7 +578,8 @@ nav.main a.adm-entry:hover{background:#0c6a5d}
         <div class="field"><span class="lab" data-i="f_year"></span><div class="row2"><input id="y1" type="number" min="1900" max="2100" placeholder="1940" aria-label="from"><input id="y2" type="number" min="1900" max="2100" placeholder="2026" aria-label="to"></div></div>
         <div class="field"><label for="fSrc" data-i="f_src"></label><select id="fSrc"><option value="" data-i="src_all"></option><option value="nat" data-i="src_nat"></option><option value="intl" data-i="src_intl"></option></select></div>
         <div class="field"><label for="fLang" data-i="f_lang"></label><select id="fLang"><option value="" data-i="any"></option><option value="uz">O‘zbek</option><option value="ru">Русский</option><option value="en">English</option></select></div>
-        <div class="field"><label for="fAuthor" data-i="f_author"></label><input id="fAuthor" type="text"></div>
+        <div class="field"><label for="fAuthor" data-i="f_author"></label><input id="fAuthor" type="text" list="authorList" autocomplete="off"><datalist id="authorList"></datalist></div>
+        <div class="field"><label for="fOrg" data-i="f_org"></label><select id="fOrg"><option value=""></option></select></div>
         <button class="btn sec sm" id="resetF" type="button" data-i="reset"></button>
       </div>
       <div class="ad"><span class="lbl" data-i="ad_tag"></span><b data-i="ad_h"></b><span data-i="ad_p"></span></div>
@@ -1043,7 +1046,7 @@ function newsArt(cat,scope){
 let news=[], nScope="all", nCat="";
 const FTYPES=["PDF","DOCX","DWG","JPG","WEB"];
 const LNAME={uz:{uz:"o‘zbek",ru:"rus",en:"ingliz"},ru:{uz:"узбекский",ru:"русский",en:"английский"},en:{uz:"Uzbek",ru:"Russian",en:"English"}};
-T.uz.k_intl="xalqaro manba";T.ru.k_intl="международных источников";T.en.k_intl="international sources";T.uz.k_orgs="tashkilot";T.ru.k_orgs="организаций";T.en.k_orgs="organizations";T.uz.intl_home_h="Xalqaro manbalardan";T.ru.intl_home_h="Из международных источников";T.en.intl_home_h="From international sources";
+T.uz.k_intl="xalqaro manba";T.ru.k_intl="международных источников";T.en.k_intl="international sources";T.uz.k_orgs="tashkilot";T.uz.kpi_go="Bosing — tegishli bo‘limga o‘tasiz";T.ru.kpi_go="Нажмите, чтобы перейти в раздел";T.en.kpi_go="Click to open the section";T.uz.f_org="Tashkilot";T.ru.f_org="Организация";T.en.f_org="Organization";T.uz.org_all="Barcha tashkilotlar";T.ru.org_all="Все организации";T.en.org_all="All organizations";T.ru.k_orgs="организаций";T.en.k_orgs="organizations";T.uz.intl_home_h="Xalqaro manbalardan";T.ru.intl_home_h="Из международных источников";T.en.intl_home_h="From international sources";
 const QUICK=["asfaltbeton","ko‘prik","harakat xavfsizligi","monitoring","bitum"];
 const SVG=d=>`<svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round">${d}</svg>`;
 const CICON={norm:SVG('<path d="M12 3v18M5 7h14M7 7l-3 7a3 3 0 0 0 6 0zM17 7l-3 7a3 3 0 0 0 6 0zM8 21h8"/>'),article:SVG('<path d="M14 3H7a2 2 0 0 0-2 2v14a2 2 0 0 0 2 2h10a2 2 0 0 0 2-2V8z"/><path d="M14 3v5h5M9 13h6M9 17h6"/>'),report:SVG('<path d="M4 20V10M10 20V4M16 20v-7M22 20H2"/>'),thesis:SVG('<path d="M22 9 12 4 2 9l10 5z"/><path d="M6 11v5c3 2.5 9 2.5 12 0v-5"/>'),project:SVG('<path d="M3 21h18M5 21V8l7-5 7 5v13M9 21v-6h6v6"/>'),guide:SVG('<path d="M4 19.5A2.5 2.5 0 0 1 6.5 17H20V3H6.5A2.5 2.5 0 0 0 4 5.5z"/><path d="M4 19.5A2.5 2.5 0 0 0 6.5 22H20v-5"/>'),gallery:SVG('<rect x="3" y="4" width="18" height="16" rx="2"/><path d="m3 17 5-5 4 4 3-3 6 6"/><circle cx="16" cy="9" r="1.5"/>'),history:SVG('<path d="M21 8v13H3V8M1 3h22v5H1zM10 12h4"/>')};
@@ -1139,7 +1142,7 @@ function row(d,q){
 function renderHome(){
   const hn=newsSorted().slice(0,3); $("homeNews").innerHTML=hn.length?hn.map(newsCard).join(""):`<div class="empty" style="grid-column:1/-1">${t("no_news")}</div>`;
   const all=allDocs(), authors=new Set(all.flatMap(d=>d.a)), tv=all.reduce((s,d)=>s+d.V,0), td=all.reduce((s,d)=>s+d.DL,0);
-  $("kpis").innerHTML=[[all.length,"t_docs"],[authors.size,"t_authors"],[all.filter(d=>d.intl).length,"k_intl"],[new Set(all.map(d=>d.org)).size,"k_orgs"]].map(([n,k])=>`<div class="kpi"><b>${fmt(n)}</b><span>${t(k)}</span></div>`).join("");
+  $("kpis").innerHTML=[[all.length,"t_docs"],[authors.size,"t_authors"],[all.filter(d=>d.intl).length,"k_intl"],[new Set(all.map(d=>d.org)).size,"k_orgs"]].map(([n,k])=>`<button type="button" class="kpi" data-kpi="${k}" title="${esc(t("kpi_go"))}"><b>${fmt(n)}</b><span>${t(k)}</span></button>`).join("");
   $("homeCats").innerHTML=Object.keys(CATS).map(c=>`<button class="cat" data-cat="${c}"><span class="ci">${CICON[c]}</span><span><b>${esc(catName(c))}</b><span>${all.filter(d=>d.cat===c).length} ${t("t_docs")}</span></span></button>`).join("");
   const rec=[...all].filter(d=>d.src!=="coll").sort((a,b)=>(b.src==="own")-(a.src==="own")||b.added-a.added).slice(0,5);
   $("homeRecent").innerHTML=rec.length?rec.map(d=>row(d,"")).join(""):`<div class="empty">${t("none")}</div>`;
@@ -1156,8 +1159,9 @@ function buildFilterChecks(){
 }
 function renderCatalog(){
   const q=$("q").value.trim(), cs=[...document.querySelectorAll("#fCats input:checked")].map(i=>i.value), fs=[...document.querySelectorAll("#fTypes input:checked")].map(i=>i.value);
-  const y1=+$("y1").value||0, y2=+$("y2").value||9999, lg=$("fLang").value, au=norm($("fAuthor").value.trim()), sr=$("fSrc").value;
-  let r=allDocs().filter(d=>!sr||(sr==="intl"?d.intl:!d.intl)).map(d=>({d,s:score(d,q)})).filter(x=>x.s>0).filter(({d})=>(!cs.length||cs.includes(d.cat))&&(!fs.length||fs.includes(d.f))&&((!$("y1").value&&!$("y2").value)||(d.y>=y1&&d.y<=y2))&&(!lg||d.l===lg)&&(!au||norm(d.a.join(" ")).includes(au)));
+  const y1=+$("y1").value||0, y2=+$("y2").value||9999, lg=$("fLang").value, au=norm($("fAuthor").value.trim()), sr=$("fSrc").value, og=$("fOrg").value;
+  {const A=allDocs(),oc={};A.forEach(d=>{if(d.org)oc[d.org]=(oc[d.org]||0)+1});const ok=Object.keys(oc).sort((a,b)=>oc[b]-oc[a]||a.localeCompare(b));const sig=ok.join("|")+lang;if($("fOrg").dataset.sig!==sig){$("fOrg").innerHTML=`<option value="">${esc(t("org_all"))}</option>`+ok.map(o=>`<option value="${esc(o)}">${esc(o)} (${oc[o]})</option>`).join("");$("fOrg").value=ok.includes(og)?og:"";$("fOrg").dataset.sig=sig;$("authorList").innerHTML=[...new Set(A.flatMap(d=>d.a))].filter(Boolean).sort((a,b)=>a.localeCompare(b)).map(a=>`<option value="${esc(a)}">`).join("")}}
+  let r=allDocs().filter(d=>!sr||(sr==="intl"?d.intl:!d.intl)).map(d=>({d,s:score(d,q)})).filter(x=>x.s>0).filter(({d})=>(!cs.length||cs.includes(d.cat))&&(!fs.length||fs.includes(d.f))&&((!$("y1").value&&!$("y2").value)||(d.y>=y1&&d.y<=y2))&&(!lg||d.l===lg)&&(!au||norm(d.a.join(" ")).includes(au))&&(!og||d.org===og));
   const s=$("sort").value;
   r.sort((a,b)=>s==="new"?b.d.y-a.d.y:s==="views"?b.d.V-a.d.V:s==="dl"?b.d.DL-a.d.DL:(b.s-a.s)||(b.d.V-a.d.V));
   $("count").textContent=`${r.length} ${t("found")}`;
@@ -1905,7 +1909,7 @@ function route(){
   $("askFab").hidden=(v==="qa"||v==="admin");
 }
 function go(h){if(location.hash==="#"+h)route();else location.hash=h;window.scrollTo(0,0)}
-function resetFilters(){["q","y1","y2","fAuthor"].forEach(id=>$(id).value="");$("fLang").value="";$("fSrc").value="";$("sort").value="rel";document.querySelectorAll("#fCats input,#fTypes input").forEach(i=>i.checked=false)}
+function resetFilters(){["q","y1","y2","fAuthor"].forEach(id=>$(id).value="");$("fOrg").value="";$("fLang").value="";$("fSrc").value="";$("sort").value="rel";document.querySelectorAll("#fCats input,#fTypes input").forEach(i=>i.checked=false)}
 document.addEventListener("click",e=>{
   const g=s=>e.target.closest(s);
   let el;
@@ -1913,6 +1917,7 @@ document.addEventListener("click",e=>{
   if(el=g("[data-nscope]")){nScope=el.dataset.nscope;renderNews();return}
   if(el=g("[data-ncat]")){nCat=el.dataset.ncat;renderNews();return}
   if(el=g("[data-org]")){const o=el.dataset.org;const on=el.classList.contains("on");document.querySelectorAll("#iOrgs input").forEach(i=>i.checked=!on&&i.value===o);renderIntl();return}
+  if(el=g("[data-kpi]")){const k=el.dataset.kpi;if(k==="k_intl"){go("intl");return}resetFilters();go("catalog");if(k==="t_authors"||k==="k_orgs")setTimeout(()=>{const f=$(k==="k_orgs"?"fOrg":"fAuthor");f.scrollIntoView({block:"center"});f.focus();if(k==="k_orgs"&&f.showPicker)try{f.showPicker()}catch(e){}},80);return}
   if(el=g("[data-cat]")){resetFilters();document.querySelector(`#fCats input[value="${el.dataset.cat}"]`).checked=true;go("catalog");return}
   if(el=g("[data-kw]")){resetFilters();$("q").value=el.dataset.kw;go("catalog");return}
   if(el=g("[data-lang]")){lang=el.dataset.lang;store("yr_lang",lang);applyI18n();route();return}
@@ -1953,7 +1958,7 @@ document.addEventListener("click",e=>{
 });
 $("homeAsk").addEventListener("submit",e=>{e.preventDefault();const q=$("haq").value.trim();if(!q){$("haq").focus();return}$("qaQ").value=q;go("qa");setTimeout(()=>qaRun(q),60)});
 $("homeSearch").addEventListener("submit",e=>{e.preventDefault();resetFilters();$("q").value=$("hq").value;go("catalog")});
-["q","y1","y2","fLang","fAuthor","sort","fSrc"].forEach(id=>$(id).addEventListener("input",renderCatalog));
+["q","y1","y2","fLang","fAuthor","sort","fSrc","fOrg"].forEach(id=>$(id).addEventListener("input",renderCatalog));
 $("fCats").addEventListener("change",renderCatalog); $("iq").addEventListener("input",renderIntl); $("iOrgs").addEventListener("change",renderIntl); $("iCats").addEventListener("change",renderIntl); $("iTags").addEventListener("change",renderIntl); $("fTypes").addEventListener("change",renderCatalog);
 $("resetF").onclick=()=>{resetFilters();renderCatalog()};
 window.addEventListener("hashchange",route);
