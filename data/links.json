@@ -1,0 +1,37 @@
+[
+ {
+  "id": "l-lex",
+  "desc": "Normativ-huquqiy hujjatlar",
+  "order": 3,
+  "title": "Lex.uz — qonunchilik ma’lumotlari bazasi",
+  "url": "https://lex.uz"
+ },
+ {
+  "id": "l-mintrans",
+  "desc": "Rasmiy veb-sayt",
+  "order": 1,
+  "title": "O‘zbekiston Respublikasi Transport vazirligi",
+  "url": "https://gov.uz/oz/mintrans"
+ },
+ {
+  "id": "l-piarc",
+  "desc": "Xalqaro yo‘l tashkiloti",
+  "order": 5,
+  "title": "PIARC — Jahon yo‘l assotsiatsiyasi",
+  "url": "https://www.piarc.org"
+ },
+ {
+  "id": "l-trid",
+  "desc": "Xalqaro transport tadqiqotlari bazasi",
+  "order": 4,
+  "title": "TRID — Transport Research International Documentation",
+  "url": "https://trid.trb.org"
+ },
+ {
+  "id": "l-uzavtoyul",
+  "desc": "Transport vazirligi huzuridagi qo‘mita",
+  "order": 2,
+  "title": "Avtomobil yo‘llari qo‘mitasi",
+  "url": "https://gov.uz/oz/uzavtoyul"
+ }
+]
