@@ -344,6 +344,53 @@ table.tbl td.act .btn{margin-left:4px}
 .nm-rel{font-size:13px;margin-top:6px;color:var(--muted)}
 .nm-rel b{color:var(--ink)}
 .nm-note{font-size:13px;color:var(--muted);margin-top:4px}
+.muted{color:var(--muted)}
+.quizband{margin:10px 0 8px;display:grid;grid-template-columns:auto 1fr auto;gap:18px;align-items:center;background:var(--surface);border:1px solid var(--line);border-left:4px solid var(--brand-2);border-radius:14px;padding:14px 22px}
+.quizband .ab-ic{font-size:24px;width:48px;height:48px;display:grid;place-items:center;border-radius:12px;background:color-mix(in srgb,var(--brand-2) 12%,transparent)}
+.quizband .ab-tx b{display:block}.quizband .ab-tx span{color:var(--muted);font-size:14px}
+@media (max-width:700px){.quizband{grid-template-columns:auto 1fr}.quizband .btn{grid-column:1/-1}}
+.qz-wrap{display:grid;grid-template-columns:minmax(260px,.85fr) 1.4fr;gap:24px;align-items:start}
+@media (max-width:900px){.qz-wrap{grid-template-columns:1fr}}
+.qz-hero{background:linear-gradient(160deg,color-mix(in srgb,var(--brand) 92%,#000),var(--brand-2));color:var(--on-brand);border-radius:18px;padding:30px 28px;position:sticky;top:90px}
+@media (max-width:900px){.qz-hero{position:static}}
+.qz-hero h1{margin:0 0 10px;font:700 34px/1.15 var(--display)}
+.qz-hero p{opacity:.9;line-height:1.55;margin:0 0 20px}
+.qz-feat{list-style:none;padding:0;margin:0;display:grid;gap:14px}
+.qz-feat li{display:grid;grid-template-columns:44px 1fr;gap:12px;align-items:center}
+.qz-feat li>span{width:44px;height:44px;border-radius:50%;background:rgba(255,255,255,.16);display:grid;place-items:center;font-size:19px}
+.qz-feat b{display:block}.qz-feat div span{font-size:13.5px;opacity:.85}
+.qz-bestbox{margin-top:20px;font-weight:700}.qz-bestbox:empty{display:none}
+.qz-main{background:var(--surface);border:1px solid var(--line);border-radius:18px;padding:28px 30px;scroll-margin-top:90px}
+@media (max-width:600px){.qz-main{padding:20px 16px}}
+.qz-h{display:flex;align-items:center;gap:12px;margin:0 0 6px;font-size:24px}.qz-ic{font-size:26px}
+.qz-seg{display:flex;flex-wrap:wrap;gap:8px}
+.qz-seg label{cursor:pointer}.qz-seg input{position:absolute;opacity:0;pointer-events:none}
+.qz-seg span{display:inline-block;border:1px solid var(--line);border-radius:10px;padding:9px 16px;font-weight:600}
+.qz-seg input:checked+span{background:var(--brand-2);border-color:var(--brand-2);color:#fff}
+.qz-seg input:focus-visible+span{outline:2px solid var(--accent);outline-offset:2px}
+.qz-go{width:100%;justify-content:center;padding:14px;font-size:16px;margin-top:6px}
+.qz-info{margin-top:18px;background:color-mix(in srgb,var(--brand-2) 7%,transparent);border-radius:12px;padding:14px 18px}
+.qz-info ul{margin:8px 0 0;padding-left:20px;line-height:1.8;font-size:14.5px}
+.qz-top{display:flex;justify-content:space-between;color:var(--muted);font-size:14px;font-weight:600}
+.qz-bar{height:6px;background:var(--line);border-radius:99px;margin:8px 0 18px;overflow:hidden}.qz-bar i{display:block;height:100%;background:var(--brand-2);transition:width .3s}
+.qz-lead{font-size:17px;font-weight:600;margin:0 0 10px}
+.qz-quote{margin:0 0 16px;padding:12px 16px;border-left:4px solid var(--brand-2);background:color-mix(in srgb,var(--brand-2) 6%,transparent);border-radius:0 10px 10px 0;line-height:1.55}
+.qz-opts{display:grid;gap:10px}
+.qz-opt{display:grid;grid-template-columns:32px 1fr;gap:12px;align-items:center;text-align:left;background:var(--surface);border:1px solid var(--line);border-radius:12px;padding:12px 14px;font:inherit;color:inherit;cursor:pointer;transition:border-color .15s,background .15s}
+.qz-opt:hover:not(:disabled){border-color:var(--brand-2);background:color-mix(in srgb,var(--brand-2) 5%,transparent)}
+.qz-opt:disabled{cursor:default}
+.qz-l{width:32px;height:32px;border-radius:8px;background:var(--line);display:grid;place-items:center;font-weight:700;font-size:14px}
+.qz-opt.ok{border-color:var(--accent);background:color-mix(in srgb,var(--accent) 10%,transparent)}.qz-opt.ok .qz-l{background:var(--accent);color:#fff}
+.qz-opt.bad{border-color:#d64545;background:color-mix(in srgb,#d64545 9%,transparent)}.qz-opt.bad .qz-l{background:#d64545;color:#fff}
+.qz-fb{margin:16px 0 14px;padding:12px 16px;border-radius:12px}.qz-fb.ok{background:color-mix(in srgb,var(--accent) 10%,transparent)}.qz-fb.bad{background:color-mix(in srgb,#d64545 9%,transparent)}
+.qz-fb b{display:block;margin-bottom:4px}
+.qz-quit{margin-left:8px}
+.qz-res{display:flex;gap:22px;align-items:center;flex-wrap:wrap}
+.qz-ring{--p:0;width:120px;height:120px;border-radius:50%;background:conic-gradient(var(--accent) calc(var(--p)*1%),var(--line) 0);display:grid;place-items:center;flex:none}
+.qz-ring b{width:94px;height:94px;border-radius:50%;background:var(--surface);display:grid;place-items:center;font:700 26px/1 var(--display)}
+.qz-rev{padding-left:20px;display:grid;gap:12px}
+.qz-rev li{border:1px solid var(--line);border-radius:12px;padding:12px 16px}.qz-rev li.ok{border-left:4px solid var(--accent)}.qz-rev li.bad{border-left:4px solid #d64545}
+.qz-rev .qz-lead{font-size:15px}.qz-rev .qz-quote{font-size:14px;margin-bottom:8px}
 .gl-link{margin-top:12px;display:inline-flex;gap:6px;align-items:center;text-decoration:none}
 .gl-letters{display:flex;flex-wrap:wrap;gap:4px;margin-top:14px}
 .gl-letters button{border:1px solid var(--line);background:var(--surface);border-radius:8px;min-width:34px;height:32px;padding:0 8px;font:600 13px/1 inherit;color:inherit;cursor:pointer}
@@ -556,6 +603,8 @@ nav.main a.adm-entry:hover{background:#0c6a5d}
     <div class="ab-in"><label for="haq" class="sr" data-i="qa_lab"></label><input id="haq" type="text" autocomplete="off" maxlength="300"><button class="btn" type="submit" data-i="ab_btn"></button></div>
   </form>
 
+  <div class="quizband"><span class="ab-ic" aria-hidden="true">🎯</span><div class="ab-tx"><b data-i="qzb_h"></b><span data-i="qzb_p"></span></div><a class="btn" href="#quiz"><span data-i="qz_start"></span> →</a></div>
+
   <div class="sec-h"><h2 data-i="news_home"></h2><a href="#news" data-i="news_all"></a></div>
   <div class="news-grid three" id="homeNews"></div>
 
@@ -635,8 +684,23 @@ nav.main a.adm-entry:hover{background:#0c6a5d}
 </section>
 
 <!-- NORMS REGISTRY -->
+<section class="view" id="v-quiz">
+  <div class="page-h"><div class="crumbs"><a href="#home" data-i="nav_home"></a> / <span data-i="qz_h"></span></div></div>
+  <div class="qz-wrap">
+    <aside class="qz-hero">
+      <h1 data-i="qz_h"></h1><p data-i="qz_p"></p>
+      <ul class="qz-feat">
+        <li><span aria-hidden="true">⏱</span><div><b data-i="qz_f1h"></b><span data-i="qz_f1"></span></div></li>
+        <li><span aria-hidden="true">📄</span><div><b data-i="qz_f2h"></b><span data-i="qz_f2"></span></div></li>
+        <li><span aria-hidden="true">🛡</span><div><b data-i="qz_f3h"></b><span data-i="qz_f3"></span></div></li>
+      </ul>
+      <div class="qz-bestbox" id="qzBest"></div>
+    </aside>
+    <div class="qz-main" id="qzMain" aria-live="polite"></div>
+  </div>
+</section>
 <section class="view" id="v-glossary">
-  <div class="page-h"><div class="crumbs"><a href="#home" data-i="nav_home"></a> / <a href="#norms" data-i="nav_norms"></a> / <span data-i="gl_h"></span></div><h1 data-i="gl_h"></h1><p data-i="gl_p"></p></div>
+  <div class="page-h"><div class="crumbs"><a href="#home" data-i="nav_home"></a> / <a href="#norms" data-i="nav_norms"></a> / <span data-i="gl_h"></span></div><h1 data-i="gl_h"></h1><p data-i="gl_p"></p><a class="btn sec sm gl-link" href="#quiz"><span aria-hidden="true">🎯</span> <span data-i="qz_h"></span> →</a></div>
   <div class="nm-bar">
     <div class="searchrow" style="margin:0;flex:1;min-width:240px"><label for="glQ" class="sr" data-i="gl_search"></label><input id="glQ" type="search" autocomplete="off"></div>
     <select id="glArea" aria-label="area"></select>
@@ -1073,7 +1137,7 @@ function newsArt(cat,scope){
 let news=[], nScope="all", nCat="";
 const FTYPES=["PDF","DOCX","DWG","JPG","WEB"];
 const LNAME={uz:{uz:"o‘zbek",ru:"rus",en:"ingliz"},ru:{uz:"узбекский",ru:"русский",en:"английский"},en:{uz:"Uzbek",ru:"Russian",en:"English"}};
-T.uz.k_intl="xalqaro manba";T.ru.k_intl="международных источников";T.en.k_intl="international sources";T.uz.k_orgs="tashkilot";T.uz.nav_gl="Atamalar lug‘ati";T.ru.nav_gl="Словарь терминов";T.en.nav_gl="Glossary";T.uz.gl_h="Atamalar lug‘ati";T.ru.gl_h="Словарь терминов";T.en.gl_h="Glossary of road terms";T.uz.gl_p="Yo‘l sohasi atamalari va ularning rasmiy ta’riflari. Har bir ta’rif amaldagi me’yoriy hujjat yoki qonun matnidan aynan olingan, manbasi havola bilan ko‘rsatilgan. Ruscha va inglizcha muqobillar ma’lumot uchun berilgan.";T.ru.gl_p="Термины дорожной отрасли и их официальные определения. Каждое определение дословно взято из действующего нормативного документа или закона, источник указан ссылкой. Русские и английские эквиваленты приведены для справки.";T.en.gl_p="Road-sector terms with their official definitions. Each definition is quoted verbatim from a normative document or law in force, with a link to the source. Russian and English equivalents are given for reference.";T.uz.gl_search="Atama yoki so‘z: vıraj, yo‘l to‘shamasi, эстакада, runway…".replace("ı","i");T.ru.gl_search="Термин или слово: вираж, дорожная одежда, runway…";T.en.gl_search="Term or word: runway, pavement, viraj…";T.uz.gl_src="Manba";T.ru.gl_src="Источник";T.en.gl_src="Source";T.uz.gl_reg="Reyestrda ko‘rish";T.ru.gl_reg="Открыть в реестре";T.en.gl_reg="View in registry";T.uz.gl_all="Barchasi";T.ru.gl_all="Все";T.en.gl_all="All";T.uz.gl_found="ta atama";T.ru.gl_found="терминов";T.en.gl_found="terms";T.uz.gl_ru_orig="Qonunning rasmiy ruscha matni";T.ru.gl_ru_orig="официальный текст закона";T.en.gl_ru_orig="official Russian text of the law";T.uz.gl_def_h="Rasmiy ta’rif";T.ru.gl_def_h="Официальное определение";T.en.gl_def_h="Official definition";T.uz.gl_open="Atamalar lug‘ati";T.ru.gl_open="Словарь терминов";T.en.gl_open="Glossary";T.uz.k_norms="me’yoriy hujjat";T.ru.k_norms="нормативных документов";T.en.k_norms="normative documents";T.uz.kpi_go="Bosing — tegishli bo‘limga o‘tasiz";T.ru.kpi_go="Нажмите, чтобы перейти в раздел";T.en.kpi_go="Click to open the section";T.uz.f_org="Tashkilot";T.ru.f_org="Организация";T.en.f_org="Organization";T.uz.org_all="Barcha tashkilotlar";T.ru.org_all="Все организации";T.en.org_all="All organizations";T.ru.k_orgs="организаций";T.en.k_orgs="organizations";T.uz.intl_home_h="Xalqaro manbalardan";T.ru.intl_home_h="Из международных источников";T.en.intl_home_h="From international sources";
+T.uz.k_intl="xalqaro manba";T.ru.k_intl="международных источников";T.en.k_intl="international sources";T.uz.k_orgs="tashkilot";T.uz.qz_h='Bilim testi';T.ru.qz_h='Тест знаний';T.en.qz_h='Knowledge test';T.uz.qz_p='Yo‘l sohasidagi atamalar va me’yoriy hujjatlarni qanchalik bilishingizni sinab ko‘ring. Savollar platformadagi rasmiy manbalardan tuziladi, har bir javobning manbasi ko‘rsatiladi.';T.ru.qz_p='Проверьте, насколько хорошо вы знаете термины и нормативные документы дорожной отрасли. Вопросы составляются из официальных источников платформы, к каждому ответу указан источник.';T.en.qz_p="Check how well you know road-sector terms and normative documents. Questions are built from the platform's official sources, with a source for every answer.";T.uz.qz_f1h='Tez va qulay';T.ru.qz_f1h='Быстро и удобно';T.en.qz_f1h='Quick and easy';T.uz.qz_f1='Ro‘yxatdan o‘tish shart emas — istalgan joydan, telefondan ham.';T.ru.qz_f1='Без регистрации — с любого устройства.';T.en.qz_f1='No sign-up — from any device.';T.uz.qz_f2h='Manbali javoblar';T.ru.qz_f2h='Ответы с источником';T.en.qz_f2h='Sourced answers';T.uz.qz_f2='Har bir to‘g‘ri javob qaysi ShNQ yoki qonundan olingani ko‘rsatiladi.';T.ru.qz_f2='Для каждого ответа указан ШНК или закон.';T.en.qz_f2='Each answer shows the ShNQ or law it comes from.';T.uz.qz_f3h='Shaxsiy ma’lumot so‘ralmaydi';T.ru.qz_f3h='Без личных данных';T.en.qz_f3h='No personal data';T.uz.qz_f3='Natija faqat sizning brauzeringizda qoladi.';T.ru.qz_f3='Результат остаётся только в вашем браузере.';T.en.qz_f3='Your result stays in your browser.';T.uz.qz_setup_h='Testni sozlash';T.ru.qz_setup_h='Настройка теста';T.en.qz_setup_h='Set up the test';T.uz.qz_setup_p='Mavzu va savollar sonini tanlang. Har safar savollar yangidan aralashtiriladi.';T.ru.qz_setup_p='Выберите тему и число вопросов. Вопросы каждый раз перемешиваются.';T.en.qz_setup_p='Choose a topic and number of questions. Questions are shuffled every time.';T.uz.qz_topic='Mavzu';T.ru.qz_topic='Тема';T.en.qz_topic='Topic';T.uz.qz_t_mix='Aralash';T.ru.qz_t_mix='Смешанный';T.en.qz_t_mix='Mixed';T.uz.qz_t_gl='Atamalar';T.ru.qz_t_gl='Термины';T.en.qz_t_gl='Terms';T.uz.qz_t_nm='Me’yoriy hujjatlar';T.ru.qz_t_nm='Нормативные документы';T.en.qz_t_nm='Normative documents';T.uz.qz_count='Savollar soni';T.ru.qz_count='Число вопросов';T.en.qz_count='Questions';T.uz.qz_start='Testni boshlash';T.ru.qz_start='Начать тест';T.en.qz_start='Start test';T.uz.qz_wait='Ma’lumotlar yuklanmoqda, bir oz kuting…';T.ru.qz_wait='Данные загружаются…';T.en.qz_wait='Loading data…';T.uz.qz_info_h='Test haqida';T.ru.qz_info_h='О тесте';T.en.qz_info_h='About the test';T.uz.qz_i1='Har bir savolga bitta to‘g‘ri javob bor';T.ru.qz_i1='На каждый вопрос один правильный ответ';T.en.qz_i1='One correct answer per question';T.uz.qz_i2='Javob berilgach, to‘g‘risi va manbasi darhol ko‘rsatiladi';T.ru.qz_i2='После ответа сразу показываются правильный ответ и источник';T.en.qz_i2='After answering, the correct answer and source appear';T.uz.qz_i3='Vaqt cheklanmagan, sarflangan vaqt hisoblanadi';T.ru.qz_i3='Время не ограничено, но учитывается';T.en.qz_i3='No time limit; time is tracked';T.uz.qz_i4='Eng yaxshi natijangiz shu qurilmada saqlanadi';T.ru.qz_i4='Лучший результат сохраняется на этом устройстве';T.en.qz_i4='Your best score is kept on this device';T.uz.qz_qn='{i}-savol / {n}';T.ru.qz_qn='Вопрос {i} из {n}';T.en.qz_qn='Question {i} of {n}';T.uz.qz_q_def='Quyidagi rasmiy ta’rif qaysi atamaga tegishli?';T.ru.qz_q_def='Какому термину соответствует это официальное определение?';T.en.qz_q_def='Which term does this official definition belong to?';T.uz.qz_q_src='{t} atamasining rasmiy ta’rifi qaysi hujjatda berilgan?';T.ru.qz_q_src='В каком документе дано официальное определение термина {t}?';T.en.qz_q_src='Which document gives the official definition of {t}?';T.uz.qz_q_code='Quyidagi nomdagi amaldagi me’yoriy hujjatning belgisi qaysi?';T.ru.qz_q_code='Какое обозначение у действующего документа с таким названием?';T.en.qz_q_code='What is the code of the document in force with this title?';T.uz.qz_q_rep='{c} («{t}») o‘rniga qaysi hujjat kelgan?';T.ru.qz_q_rep='Какой документ заменил {c} («{t}»)?';T.en.qz_q_rep='Which document replaced {c} («{t}»)?';T.uz.qz_right='To‘g‘ri!';T.ru.qz_right='Верно!';T.en.qz_right='Correct!';T.uz.qz_wrong='Noto‘g‘ri. To‘g‘ri javob: {a}';T.ru.qz_wrong='Неверно. Правильный ответ: {a}';T.en.qz_wrong='Not quite. Correct answer: {a}';T.uz.qz_next='Keyingi savol';T.ru.qz_next='Следующий вопрос';T.en.qz_next='Next question';T.uz.qz_finish='Natijani ko‘rish';T.ru.qz_finish='Показать результат';T.en.qz_finish='See result';T.uz.qz_quit='Testni to‘xtatish';T.ru.qz_quit='Прервать тест';T.en.qz_quit='Stop test';T.uz.qz_res='{n} ta savoldan {ok} tasiga to‘g‘ri javob berdingiz. Sarflangan vaqt: {t}.';T.ru.qz_res='Правильных ответов: {ok} из {n}. Время: {t}.';T.en.qz_res='You answered {ok} of {n} correctly. Time: {t}.';T.uz.qz_l1='Yana mashq qiling';T.ru.qz_l1='Нужно больше практики';T.en.qz_l1='Keep practising';T.uz.qz_l2='Yomon emas';T.ru.qz_l2='Неплохо';T.en.qz_l2='Not bad';T.uz.qz_l3='Yaxshi natija!';T.ru.qz_l3='Хороший результат!';T.en.qz_l3='Good result!';T.uz.qz_l4='A’lo! Siz haqiqiy mutaxassissiz';T.ru.qz_l4='Отлично! Вы настоящий специалист';T.en.qz_l4="Excellent! You're a true expert";T.uz.qz_again='Qayta topshirish';T.ru.qz_again='Пройти снова';T.en.qz_again='Try again';T.uz.qz_review='Javoblar tahlili';T.ru.qz_review='Разбор ответов';T.en.qz_review='Answer review';T.uz.qz_your='Sizning javobingiz';T.ru.qz_your='Ваш ответ';T.en.qz_your='Your answer';T.uz.qz_correct='To‘g‘risi';T.ru.qz_correct='Правильно';T.en.qz_correct='Correct';T.uz.qz_best='Eng yaxshi natijangiz';T.ru.qz_best='Ваш лучший результат';T.en.qz_best='Your best score';T.uz.qzb_h='Bilimingizni sinab ko‘ring';T.ru.qzb_h='Проверьте свои знания';T.en.qzb_h='Test your knowledge';T.uz.qzb_p='Atamalar va me’yoriy hujjatlar bo‘yicha qisqa test — manbali javoblar bilan.';T.ru.qzb_p='Короткий тест по терминам и нормативным документам — с источниками.';T.en.qzb_p='A short quiz on terms and normative documents — with sources.';T.uz.nav_gl="Atamalar lug‘ati";T.ru.nav_gl="Словарь терминов";T.en.nav_gl="Glossary";T.uz.gl_h="Atamalar lug‘ati";T.ru.gl_h="Словарь терминов";T.en.gl_h="Glossary of road terms";T.uz.gl_p="Yo‘l sohasi atamalari va ularning rasmiy ta’riflari. Har bir ta’rif amaldagi me’yoriy hujjat yoki qonun matnidan aynan olingan, manbasi havola bilan ko‘rsatilgan. Ruscha va inglizcha muqobillar ma’lumot uchun berilgan.";T.ru.gl_p="Термины дорожной отрасли и их официальные определения. Каждое определение дословно взято из действующего нормативного документа или закона, источник указан ссылкой. Русские и английские эквиваленты приведены для справки.";T.en.gl_p="Road-sector terms with their official definitions. Each definition is quoted verbatim from a normative document or law in force, with a link to the source. Russian and English equivalents are given for reference.";T.uz.gl_search="Atama yoki so‘z: vıraj, yo‘l to‘shamasi, эстакада, runway…".replace("ı","i");T.ru.gl_search="Термин или слово: вираж, дорожная одежда, runway…";T.en.gl_search="Term or word: runway, pavement, viraj…";T.uz.gl_src="Manba";T.ru.gl_src="Источник";T.en.gl_src="Source";T.uz.gl_reg="Reyestrda ko‘rish";T.ru.gl_reg="Открыть в реестре";T.en.gl_reg="View in registry";T.uz.gl_all="Barchasi";T.ru.gl_all="Все";T.en.gl_all="All";T.uz.gl_found="ta atama";T.ru.gl_found="терминов";T.en.gl_found="terms";T.uz.gl_ru_orig="Qonunning rasmiy ruscha matni";T.ru.gl_ru_orig="официальный текст закона";T.en.gl_ru_orig="official Russian text of the law";T.uz.gl_def_h="Rasmiy ta’rif";T.ru.gl_def_h="Официальное определение";T.en.gl_def_h="Official definition";T.uz.gl_open="Atamalar lug‘ati";T.ru.gl_open="Словарь терминов";T.en.gl_open="Glossary";T.uz.k_norms="me’yoriy hujjat";T.ru.k_norms="нормативных документов";T.en.k_norms="normative documents";T.uz.kpi_go="Bosing — tegishli bo‘limga o‘tasiz";T.ru.kpi_go="Нажмите, чтобы перейти в раздел";T.en.kpi_go="Click to open the section";T.uz.f_org="Tashkilot";T.ru.f_org="Организация";T.en.f_org="Organization";T.uz.org_all="Barcha tashkilotlar";T.ru.org_all="Все организации";T.en.org_all="All organizations";T.ru.k_orgs="организаций";T.en.k_orgs="organizations";T.uz.intl_home_h="Xalqaro manbalardan";T.ru.intl_home_h="Из международных источников";T.en.intl_home_h="From international sources";
 const QUICK=["asfaltbeton","ko‘prik","harakat xavfsizligi","monitoring","bitum"];
 const SVG=d=>`<svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round">${d}</svg>`;
 const CICON={norm:SVG('<path d="M12 3v18M5 7h14M7 7l-3 7a3 3 0 0 0 6 0zM17 7l-3 7a3 3 0 0 0 6 0zM8 21h8"/>'),article:SVG('<path d="M14 3H7a2 2 0 0 0-2 2v14a2 2 0 0 0 2 2h10a2 2 0 0 0 2-2V8z"/><path d="M14 3v5h5M9 13h6M9 17h6"/>'),report:SVG('<path d="M4 20V10M10 20V4M16 20v-7M22 20H2"/>'),thesis:SVG('<path d="M22 9 12 4 2 9l10 5z"/><path d="M6 11v5c3 2.5 9 2.5 12 0v-5"/>'),project:SVG('<path d="M3 21h18M5 21V8l7-5 7 5v13M9 21v-6h6v6"/>'),guide:SVG('<path d="M4 19.5A2.5 2.5 0 0 1 6.5 17H20V3H6.5A2.5 2.5 0 0 0 4 5.5z"/><path d="M4 19.5A2.5 2.5 0 0 0 6.5 22H20v-5"/>'),gallery:SVG('<rect x="3" y="4" width="18" height="16" rx="2"/><path d="m3 17 5-5 4 4 3-3 6 6"/><circle cx="16" cy="9" r="1.5"/>'),history:SVG('<path d="M21 8v13H3V8M1 3h22v5H1zM10 12h4"/>')};
@@ -1956,13 +2020,108 @@ function renderGlossary(){
 }
 function glSearch(terms){if(!GL.terms.length)return[];
   return GL.terms.map(e=>Object.assign({e},qaScore([[glNorm(e),5],[norm(e.d.map(d=>d.x+" "+uzLat(d.x)).join(" ")),1]],terms))).filter(x=>x.sc>=5).sort((a,b)=>b.sc-a.sc||glTerm(a.e).length-glTerm(b.e).length).slice(0,3)}
+
+/* ================= quiz (Bilim testi) ================= */
+let QZ=null; // {qs,i,ans,start,topic}
+const qzShuffle=a=>{a=[...a];for(let i=a.length-1;i>0;i--){const j=Math.floor(Math.random()*(i+1));[a[i],a[j]]=[a[j],a[i]]}return a};
+function qzPick(pool,n,not){return qzShuffle(pool.filter(x=>!not.includes(x))).slice(0,n)}
+function qzGlossQs(){
+  const out=[], terms=GL.terms;
+  const uzT=terms.filter(e=>e.d.some(d=>d.l==="uz"));
+  uzT.forEach(e=>{const d=e.d.find(x=>x.l==="uz");const dl=norm(uzLat(d.x)+" "+d.x);
+    const stem=norm(uzLat(e.uz)).replace(/\(.*?\)/g,"").trim().split(/\s+/).filter(w=>w.length>=5).map(w=>w.slice(0,5));
+    if(stem.some(st=>dl.includes(st)))return;
+    const same=uzT.filter(x=>x!==e&&x.a===e.a), other=uzT.filter(x=>x!==e&&x.a!==e.a);
+    let dis=qzPick(same,3,[]); if(dis.length<3)dis=dis.concat(qzPick(other,3-dis.length,dis));
+    out.push({k:"def",q:{e,d},ok:glTerm(e),opts:qzShuffle([glTerm(e),...dis.map(glTerm)]),src:d.s});
+  });
+  const srcIds=Object.keys(GL.src);
+  terms.forEach(e=>{const d=e.d[0];const s=GL.src[d.s];if(!s)return;
+    const dis=qzPick(srcIds.filter(x=>x!==d.s&&!e.d.some(y=>y.s===x)),3,[]).map(x=>GL.src[x].t);
+    out.push({k:"src",q:{e},ok:s.t,opts:qzShuffle([s.t,...dis]),src:d.s});
+  });
+  return out;
+}
+function qzNormQs(){
+  const out=[];
+  const pool=norms.filter(n=>n.number&&!/[()]/.test(n.number)&&n.title&&["active","amended"].includes(n.status)&&["tmsiti","verified"].includes(n.origin));
+  const uniq={};pool.forEach(n=>{const k=nmTitle(n);if(!uniq[k])uniq[k]=n});
+  const P=Object.values(uniq);
+  P.forEach(n=>{const same=P.filter(x=>x!==n&&x.type===n.type);if(same.length<3)return;
+    const dis=qzPick(same,3,[]);out.push({k:"code",q:{n},ok:nmCode(n),opts:qzShuffle([nmCode(n),...dis.map(nmCode)]),nm:n});
+  });
+  norms.filter(n=>n.replacedBy&&n.number).forEach(n=>{const codes=[...new Set(norms.filter(x=>x.type===n.type&&x!==n&&x.number).map(nmCode))];const okc=n.replacedBy;
+    const dis=qzPick(codes.filter(c=>c!==okc&&c!==nmCode(n)),3,[]);if(dis.length<3)return;out.push({k:"rep",q:{n},ok:okc,opts:qzShuffle([okc,...dis]),nm:n})});
+  return out;
+}
+function qzStart(topic,count){
+  const half=Math.ceil(count/2);let pool=topic==="gl"?qzGlossQs():topic==="nm"?qzNormQs():qzShuffle(qzGlossQs()).slice(0,half).concat(qzShuffle(qzNormQs()).slice(0,count-half));
+  const qs=qzShuffle(pool).slice(0,count);
+  if(!qs.length){$("qzMsg").textContent=t("qz_wait");return}
+  QZ={qs,i:0,ans:[],start:Date.now(),topic,count:qs.length};renderQuiz();
+}
+function qzQText(x){
+  if(x.k==="def")return `<p class="qz-lead">${t("qz_q_def")}</p><blockquote class="qz-quote">${esc(glDef(x.q.d))}</blockquote>`;
+  if(x.k==="src")return `<p class="qz-lead">${t("qz_q_src").replace("{t}",`<b>«${esc(glTerm(x.q.e))}»</b>`)}</p>`;
+  if(x.k==="code")return `<p class="qz-lead">${t("qz_q_code")}</p><blockquote class="qz-quote">«${esc(nmTitle(x.q.n))}»</blockquote>`;
+  if(x.k==="rep")return `<p class="qz-lead">${t("qz_q_rep").replace("{c}",`<b>${esc(nmCode(x.q.n))}</b>`).replace("{t}",esc(nmTitle(x.q.n)))}</p>`;
+  return "";
+}
+function qzSrcHtml(x){
+  if(x.src)return glSrcHtml(x.src);
+  const n=x.k==="rep"?(norms.find(m=>nmCode(m)===x.ok)||x.nm):x.nm;
+  if(!n)return"";
+  return `<div class="gl-src">${t("gl_src")}: <a href="#norms" data-nmq="${esc(n.number)}">${esc(nmCode(n))}</a>${n.source&&n.source.u?` · <a href="${esc(n.source.u)}" target="_blank" rel="noopener noreferrer">${esc(n.source.t)} ${EXT}</a>`:""}${n.lex?` · <a href="${esc(n.lex)}" target="_blank" rel="noopener noreferrer">lex.uz ${EXT}</a>`:""}${n.note&&x.k==="rep"?`<div class="note">${esc(n.note)}</div>`:""}</div>`;
+}
+const qzTime=ms=>{const s=Math.round(ms/1000);return `${Math.floor(s/60)}:${String(s%60).padStart(2,"0")}`};
+function renderQuiz(){
+  const box=$("qzMain"); const best=+(store("yr_qz_best")||0);
+  $("qzBest").textContent=best?`${t("qz_best")}: ${best}%`:"";
+  const ready=GL.terms.length&&norms.length;
+  if(!QZ){
+    box.innerHTML=`<h2 class="qz-h"><span class="qz-ic" aria-hidden="true">🎯</span>${t("qz_setup_h")}</h2><p class="muted">${t("qz_setup_p")}</p>
+    <div class="field"><span class="lab">${t("qz_topic")}</span><div class="qz-seg" role="radiogroup">
+      ${[["mix","qz_t_mix"],["gl","qz_t_gl"],["nm","qz_t_nm"]].map(([v,k],i)=>`<label><input type="radio" name="qzTopic" value="${v}" ${i===0?"checked":""}><span>${t(k)}</span></label>`).join("")}</div></div>
+    <div class="field"><span class="lab">${t("qz_count")}</span><div class="qz-seg" role="radiogroup">
+      ${[10,20,30].map((v,i)=>`<label><input type="radio" name="qzCount" value="${v}" ${i===0?"checked":""}><span>${v}</span></label>`).join("")}</div></div>
+    <button class="btn qz-go" type="button" id="qzGo" ${ready?"":"disabled"}>${t("qz_start")} →</button><div class="note" id="qzMsg" role="status">${ready?"":t("qz_wait")}</div>
+    <div class="qz-info"><b>${t("qz_info_h")}</b><ul><li>${t("qz_i1")}</li><li>${t("qz_i2")}</li><li>${t("qz_i3")}</li><li>${t("qz_i4")}</li></ul></div>`;
+    return;
+  }
+  if(QZ.i<QZ.qs.length){
+    const x=QZ.qs[QZ.i], a=QZ.ans[QZ.i];
+    box.innerHTML=`<div class="qz-top"><span>${t("qz_qn").replace("{i}",QZ.i+1).replace("{n}",QZ.qs.length)}</span><span id="qzClock">⏱ ${qzTime(Date.now()-QZ.start)}</span></div>
+    <div class="qz-bar"><i style="width:${(QZ.i/QZ.qs.length)*100}%"></i></div>
+    ${qzQText(x)}
+    <div class="qz-opts">${x.opts.map((o,j)=>{let c="";if(a!=null){if(o===x.ok)c="ok";else if(j===a)c="bad"}return `<button type="button" class="qz-opt ${c}" data-qzo="${j}" ${a!=null?"disabled":""}><span class="qz-l">${"ABCD"[j]}</span><span>${esc(o)}</span></button>`}).join("")}</div>
+    ${a!=null?`<div class="qz-fb ${x.opts[a]===x.ok?"ok":"bad"}"><b>${x.opts[a]===x.ok?t("qz_right"):t("qz_wrong").replace("{a}",esc(x.ok))}</b>${qzSrcHtml(x)}</div>
+    <button class="btn" type="button" id="qzNext">${QZ.i+1<QZ.qs.length?t("qz_next"):t("qz_finish")} →</button>`:""}
+    <button class="btn sec sm qz-quit" type="button" id="qzQuit">${t("qz_quit")}</button>`;
+    return;
+  }
+  const ok=QZ.qs.filter((x,i)=>x.opts[QZ.ans[i]]===x.ok).length, pct=Math.round(ok/QZ.qs.length*100), tm=QZ.end-QZ.start;
+  if(!QZ.saved){QZ.saved=1;if(pct>best)store("yr_qz_best",String(pct))}
+  const lvl=pct>=90?"qz_l4":pct>=70?"qz_l3":pct>=50?"qz_l2":"qz_l1";
+  box.innerHTML=`<div class="qz-res"><div class="qz-ring" style="--p:${pct}"><b>${pct}%</b></div><div><h2 style="margin:0 0 4px">${t(lvl)}</h2><p class="muted" style="margin:0">${t("qz_res").replace("{ok}",ok).replace("{n}",QZ.qs.length).replace("{t}",qzTime(tm))}</p>
+    <div style="display:flex;gap:8px;flex-wrap:wrap;margin-top:12px"><button class="btn" type="button" id="qzAgain">${t("qz_again")}</button><a class="btn sec" href="#glossary">${t("gl_open")}</a></div></div></div>
+    <h3 style="margin:22px 0 8px">${t("qz_review")}</h3>
+    <ol class="qz-rev">${QZ.qs.map((x,i)=>{const good=x.opts[QZ.ans[i]]===x.ok;return `<li class="${good?"ok":"bad"}">${qzQText(x)}<div>${good?"✔":"✘"} ${t("qz_your")}: <b>${esc(x.opts[QZ.ans[i]]??"—")}</b>${good?"":` · ${t("qz_correct")}: <b>${esc(x.ok)}</b>`}</div>${qzSrcHtml(x)}</li>`}).join("")}</ol>`;
+}
+setInterval(()=>{const c=$("qzClock");if(c&&QZ&&QZ.i<QZ.qs.length)c.textContent="⏱ "+qzTime(Date.now()-QZ.start)},1000);
+document.addEventListener("click",e=>{const g=s=>e.target.closest(s);let el;
+  if(g("#qzGo")){const tp=(document.querySelector('input[name="qzTopic"]:checked')||{}).value||"mix",n=+((document.querySelector('input[name="qzCount"]:checked')||{}).value||10);qzStart(tp,n);return}
+  if(el=g("[data-qzo]")){if(!QZ||QZ.ans[QZ.i]!=null)return;QZ.ans[QZ.i]=+el.dataset.qzo;renderQuiz();const nx=$("qzNext");if(nx)nx.focus({preventScroll:true});return}
+  if(g("#qzNext")){QZ.i++;if(QZ.i>=QZ.qs.length)QZ.end=Date.now();renderQuiz();$("qzMain").scrollIntoView({block:"start",behavior:"smooth"});return}
+  if(g("#qzQuit")){QZ=null;renderQuiz();return}
+  if(g("#qzAgain")){QZ=null;renderQuiz();return}
+});
 /* ================= routing & events ================= */
-const VIEWS=["home","news","catalog","norms","glossary","intl","experts","qa","upload","stats","admin","doc"];
+const VIEWS=["home","news","catalog","norms","glossary","quiz","intl","experts","qa","upload","stats","admin","doc"];
 function route(){
   const h=(location.hash||"#home").slice(1); const v=h.startsWith("doc-")?"doc":(VIEWS.includes(h)?h:"home");
   VIEWS.forEach(x=>$("v-"+x).classList.toggle("on",x===v));
   document.querySelectorAll("[data-nav]").forEach(a=>a.classList.toggle("on",a.dataset.nav===v||(v==="doc"&&a.dataset.nav==="catalog")||(v==="glossary"&&a.dataset.nav==="norms")));
-  ({home:renderHome,news:renderNews,catalog:renderCatalog,norms:renderNorms,glossary:renderGlossary,intl:renderIntl,experts:renderExperts,qa:renderQA,upload:renderUpload,stats:renderStats,admin:renderAdmin})[v]?.();
+  ({home:renderHome,news:renderNews,catalog:renderCatalog,norms:renderNorms,glossary:renderGlossary,quiz:renderQuiz,intl:renderIntl,experts:renderExperts,qa:renderQA,upload:renderUpload,stats:renderStats,admin:renderAdmin})[v]?.();
   if(v==="doc")renderDoc(h.slice(4));
   $("askFab").hidden=(v==="qa"||v==="admin");
 }
