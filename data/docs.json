@@ -1381,5 +1381,814 @@
   "createdAt": 1793481000012,
   "updatedAt": 1793481000012,
   "id": "u01"
+ },
+ {
+  "id": "a20261101-01",
+  "abs": "Milliy statistika qo‘mitasining SDMX formatidagi ko‘rsatkich pasporti: qattiq qoplamali avtomobil yo‘llari umumiy uzunligining ta’rifi, hisoblash usuli va ma’lumot manbalari. Ko‘rsatkich 2022-yilda e’lon qilingan, 2026-yil iyulda yangilangan.",
+  "authors": [
+   "O‘zbekiston Respublikasi Milliy statistika qo‘mitasi"
+  ],
+  "cat": "report",
+  "createdAt": 1793500048923,
+  "fileId": "",
+  "fileName": "",
+  "fileSize": 0,
+  "fileUrl": "",
+  "ftype": "PDF",
+  "ident": "YR-20261101-01",
+  "intl": false,
+  "kw": [
+   "ochiq ma’lumotlar",
+   "yo‘l tarmog‘i uzunligi",
+   "qattiq qoplama",
+   "statistika",
+   "протяженность дорог",
+   "road network length"
+  ],
+  "lang": "uz",
+  "link": "https://api.siat.stat.uz/media/uploads/sdmx/sdmx_data_668.pdf",
+  "org": "Milliy statistika qo‘mitasi (O‘zbekiston)",
+  "pages": 0,
+  "title": "Jami qattiq qoplamali avtomobil yo‘llarining uzunligi (yillik) — statistik ko‘rsatkich metama’lumotlari (SDMX, kod 1.06.01.0028)",
+  "tr": {},
+  "updatedAt": 1793500048923,
+  "year": 2026
+ },
+ {
+  "id": "a20261101-02",
+  "abs": "O‘zbekiston avtomobil yo‘llari tarmog‘ining uzunligi va holati tahlil qilinib, transport koridorlarini modernizatsiya qilish hamda pullik yo‘l uchastkalarini joriy etish maqsadga muvofiqligi ko‘rib chiqilgan. Maqola BNTUning IV xalqaro ilmiy-texnik konferensiyasi materiallarida (Minsk, 2024, 392–399-betlar) chop etilgan; repozitoriy sahifasida PDF mavjud.",
+  "authors": [
+   "Баходиров Х. З. угли",
+   "Шишко Н. И."
+  ],
+  "cat": "article",
+  "createdAt": 1793500048924,
+  "fileId": "",
+  "fileName": "",
+  "fileSize": 0,
+  "fileUrl": "",
+  "ftype": "WEB",
+  "ident": "YR-20261101-02",
+  "intl": false,
+  "kw": [
+   "yo‘l tarmog‘i",
+   "transport koridorlari",
+   "pullik yo‘llar",
+   "развитие сети автомобильных дорог",
+   "toll roads",
+   "Uzbekistan road network"
+  ],
+  "lang": "ru",
+  "link": "https://rep.bntu.by/handle/data/150453",
+  "org": "BNTU (Belarus) — O‘zbek muallif",
+  "pages": 0,
+  "title": "Анализ путей сообщения и направлений развития сети автомобильных дорог в Республике Узбекистан",
+  "tr": {},
+  "updatedAt": 1793500048924,
+  "year": 2024
+ },
+ {
+  "id": "a20261101-03",
+  "abs": "O‘zbekiston hududini agroiqlim sharoitlariga ko‘ra avtomobil yo‘llarini ko‘kalamzorlashtirish bo‘yicha zonalarga ajratish taklif etilgan va o‘simliklar hududlarga moslik bo‘yicha tasniflangan. Maqola I. I. Leonovich xotirasiga bag‘ishlangan xalqaro konferensiya to‘plamida (Minsk, BNTU, 2019, 193–205-betlar) chop etilgan.",
+  "authors": [
+   "Садиков И. С.",
+   "Уроков А. Х."
+  ],
+  "cat": "article",
+  "createdAt": 1793500048925,
+  "fileId": "",
+  "fileName": "",
+  "fileSize": 0,
+  "fileUrl": "",
+  "ftype": "WEB",
+  "ident": "YR-20261101-03",
+  "intl": false,
+  "kw": [
+   "yo‘llarni ko‘kalamzorlashtirish",
+   "yo‘l rayonlashtirish",
+   "agroiqlim",
+   "озеленение автомобильных дорог",
+   "roadside landscaping",
+   "road zoning"
+  ],
+  "lang": "ru",
+  "link": "https://rep.bntu.by/handle/data/62975",
+  "org": "BNTU (Belarus) — O‘zbek muallif",
+  "pages": 0,
+  "title": "Дорожное районирование по озеленению автомобильных дорог территории Республики Узбекистан",
+  "tr": {},
+  "updatedAt": 1793500048925,
+  "year": 2019
+ },
+ {
+  "id": "a20261101-04",
+  "abs": "Muallif xorijiy davlatlarning qoplama notekisligi me’yorlarini ko‘rib chiqib, ko‘p yillik IRI dala o‘lchovlari asosida O‘zbekiston avtomobil yo‘llari uchun notekislik me’yorlarini taklif qiladi. E3S Web of Conferences, 401-jild, 02046 (2023).",
+  "authors": [
+   "Ablakulov A."
+  ],
+  "cat": "article",
+  "createdAt": 1793500048926,
+  "fileId": "",
+  "fileName": "",
+  "fileSize": 0,
+  "fileUrl": "",
+  "ftype": "WEB",
+  "ident": "YR-20261101-04",
+  "intl": false,
+  "kw": [
+   "yo‘l qoplamasi tekisligi",
+   "IRI",
+   "xalqaro notekislik indeksi",
+   "me’yorlar",
+   "ровность покрытия",
+   "pavement roughness"
+  ],
+  "lang": "en",
+  "link": "https://www.e3s-conferences.org/10.1051/e3sconf/202340102046",
+  "org": "TDTrU (O‘zbekiston)",
+  "pages": 0,
+  "title": "Norms according to international roughness index of road pavements in Republic of Uzbekistan",
+  "tr": {},
+  "updatedAt": 1793500048926,
+  "year": 2023
+ },
+ {
+  "id": "a20261101-05",
+  "abs": "O‘zbekiston magistral yo‘llarida qoplama va asoslar uchun zichlangan sement-betondan foydalanish texnologiyasi ko‘rib chiqilgan; og‘ir yuk harakati sharoitida xizmat muddatini uzaytirish va qurilish vaqtini qisqartirish imkoniyatlari baholangan. E3S Web of Conferences, 458-jild, 07018 (2023).",
+  "authors": [
+   "Miralimov M.",
+   "Abirov R. A."
+  ],
+  "cat": "article",
+  "createdAt": 1793500048927,
+  "fileId": "",
+  "fileName": "",
+  "fileSize": 0,
+  "fileUrl": "",
+  "ftype": "WEB",
+  "ident": "YR-20261101-05",
+  "intl": false,
+  "kw": [
+   "sement-beton qoplama",
+   "zichlangan beton",
+   "magistral yo‘llar",
+   "цементобетонное покрытие",
+   "roller compacted concrete",
+   "concrete pavement"
+  ],
+  "lang": "en",
+  "link": "https://www.e3s-conferences.org/10.1051/e3sconf/202345807018",
+  "org": "Mexanika va inshootlar seysmik mustahkamligi instituti (O‘zbekiston)",
+  "pages": 0,
+  "title": "Cement concrete pavements technology at construction of main roads in Uzbekistan conditions",
+  "tr": {},
+  "updatedAt": 1793500048927,
+  "year": 2023
+ },
+ {
+  "id": "a20261101-06",
+  "abs": "Toshkent shahar ko‘chalarida qoplama notekisligi (IRI) va transport vositalari tezligi o‘rtasidagi bog‘liqlik o‘rganilgan: notekislik oshgani sari tezlik pasayishi aniqlangan va bu yo‘l harakati xavfsizligi nuqtai nazaridan baholangan. Acta of Turin Polytechnic University in Tashkent, 13-jild, 1-son (2023).",
+  "authors": [
+   "Beketov A.",
+   "Yunusov A."
+  ],
+  "cat": "article",
+  "createdAt": 1793500048928,
+  "fileId": "",
+  "fileName": "",
+  "fileSize": 0,
+  "fileUrl": "",
+  "ftype": "WEB",
+  "ident": "YR-20261101-06",
+  "intl": false,
+  "kw": [
+   "qoplama notekisligi",
+   "harakat tezligi",
+   "shahar ko‘chalari",
+   "IRI",
+   "ровность и скорость движения",
+   "traffic speed"
+  ],
+  "lang": "en",
+  "link": "https://acta.polito.uz/index.php/journal/article/view/166",
+  "org": "TDTrU (O‘zbekiston)",
+  "pages": 0,
+  "title": "Assessment of the Effect of Pavement Roughness on Traffic Speed",
+  "tr": {},
+  "updatedAt": 1793500048928,
+  "year": 2023
+ },
+ {
+  "id": "a20261101-07",
+  "abs": "Toshkent avtomobil yo‘llarini loyihalash, qurish va ulardan foydalanish institutida 5A340801 «Avtomobil yo‘llari va aerodromlar» mutaxassisligi bo‘yicha himoya qilingan magistrlik dissertatsiyasi. Asfaltbeton qoplamalarda yoriqlar paydo bo‘lish sabablari, O‘zbekistondagi diagnostika me’yorlari va yoriqlarni bartaraf etish usullari, materiallari tahlil qilinib, tavsiyalar berilgan.",
+  "authors": [
+   "Акбаров Э. Х. угли"
+  ],
+  "cat": "thesis",
+  "createdAt": 1793500048929,
+  "fileId": "",
+  "fileName": "",
+  "fileSize": 0,
+  "fileUrl": "",
+  "ftype": "PDF",
+  "ident": "YR-20261101-07",
+  "intl": false,
+  "kw": [
+   "asfaltbeton qoplama",
+   "yoriqlar",
+   "yo‘l ta’miri",
+   "magistrlik dissertatsiyasi",
+   "трещины асфальтобетона",
+   "crack sealing"
+  ],
+  "lang": "ru",
+  "link": "https://api.ziyonet.uz/uploads/books/456901/5c432bdc46212.pdf",
+  "org": "TAYI (O‘zbekiston)",
+  "pages": 0,
+  "title": "Совершенствование методов и способов предупреждения, предотвращения и ликвидации трещин на асфальтобетонных покрытиях (магистерская диссертация)",
+  "tr": {},
+  "updatedAt": 1793500048929,
+  "year": 2018
+ },
+ {
+  "id": "a20261101-08",
+  "abs": "O‘zbekistonning issiq iqlimida asfaltbeton qoplamalarda g‘ildirak izi (koleya) deformatsiyasining paydo bo‘lishiga harorat va quyosh radiatsiyasi ta’siri ko‘rib chiqilgan; rezina kukunli «Unirem» modifikatoridan foydalanish taklif etilgan. Universum: texnicheskie nauki, 5(86), 2021.",
+  "authors": [
+   "To‘raxonov M. I.",
+   "Abduraxmonov J.",
+   "Yadgarov S. N."
+  ],
+  "cat": "article",
+  "createdAt": 1793500048930,
+  "fileId": "",
+  "fileName": "",
+  "fileSize": 0,
+  "fileUrl": "",
+  "ftype": "WEB",
+  "ident": "YR-20261101-08",
+  "intl": false,
+  "kw": [
+   "iz chuqurligi",
+   "asfaltbeton",
+   "issiq iqlim",
+   "rezina kukuni modifikatori",
+   "колейность",
+   "rutting"
+  ],
+  "lang": "en",
+  "link": "https://7universum.com/ru/tech/archive/item/11811",
+  "org": "TDTU Termiz filiali / TDTrU (O‘zbekiston)",
+  "pages": 0,
+  "title": "The impact of climatic conditions on the occurrence of wheel track deformation on asphalt pavement roads",
+  "tr": {},
+  "updatedAt": 1793500048930,
+  "year": 2021
+ },
+ {
+  "id": "a20261101-09",
+  "abs": "O‘zbekistonda qo‘llanayotgan mayda donali zich asfaltbeton va shcheben-mastikali asfaltbetonning fizik-mexanik xossalari taqqoslangan; 60 °C da koleya chuqurligi me’yordan ancha yuqori ekani ko‘rsatilgan. Toshkent viloyatidagi sinov uchastkalari natijalari idoraviy standartlarga kiritilgan. «Mexanika. Issledovaniya i innovatsii», 17-son, Gomel, 2024.",
+  "authors": [
+   "Курбонов С. З."
+  ],
+  "cat": "article",
+  "createdAt": 1793500048931,
+  "fileId": "",
+  "fileName": "",
+  "fileSize": 0,
+  "fileUrl": "",
+  "ftype": "PDF",
+  "ident": "YR-20261101-09",
+  "intl": false,
+  "kw": [
+   "shcheben-mastikali asfaltbeton",
+   "SMA",
+   "yo‘l-iqlim zonalari",
+   "koleya",
+   "ЩМА",
+   "stone mastic asphalt"
+  ],
+  "lang": "ru",
+  "link": "https://bsut.by/images/MainMenuFiles/NauchnyeIssledovaniya/Nauchnye_izdaniya/mehanica/17/11.pdf",
+  "org": "Avtomobil yo‘llari ilmiy-tadqiqot instituti (O‘zbekiston)",
+  "pages": 0,
+  "title": "Применение щебеночно-мастичного асфальтобетона в условиях дорожно-климатических зон Узбекистана",
+  "tr": {},
+  "updatedAt": 1793500048931,
+  "year": 2024
+ },
+ {
+  "id": "a20261101-10",
+  "abs": "Sovet davrida O‘zbekistonda avtomobil yo‘llari qurilishi, yo‘l tarmog‘ining holati, avtotransport va avtobus qatnovining rivojlanishi tarixiy jihatdan tahlil qilingan. Maqola «Youth, Science, Education» konferensiya to‘plamida (Praga, 2022) chop etilgan, DOI 10.5281/zenodo.7318094.",
+  "authors": [
+   "Сайдусманов Б. А."
+  ],
+  "cat": "history",
+  "createdAt": 1793500048932,
+  "fileId": "",
+  "fileName": "",
+  "fileSize": 0,
+  "fileUrl": "",
+  "ftype": "PDF",
+  "ident": "YR-20261101-10",
+  "intl": false,
+  "kw": [
+   "yo‘l qurilishi tarixi",
+   "sovet davri",
+   "Toshkent–Termiz yo‘li",
+   "история дорожного строительства",
+   "road history",
+   "Uzbekistan"
+  ],
+  "lang": "ru",
+  "link": "https://cspu.uz/storage/files/aPGYgwbKK8vecnudB0lV4NUMnqUo8tYikwQIaxuZ.pdf",
+  "org": "Chirchiq davlat pedagogika universiteti (O‘zbekiston)",
+  "pages": 0,
+  "title": "Развитие автомобильного и дорожного строительства в транспортной системе Узбекистана",
+  "tr": {},
+  "updatedAt": 1793500048932,
+  "year": 2022
+ },
+ {
+  "id": "a20261101-11",
+  "abs": "ADB 54105-001 texnik yordam loyihasi doirasida tayyorlangan, avtomobil yo‘llari uchun modifikatsiyalangan bitumga texnik talablarni belgilovchi O‘zbekiston davlat standarti loyihasi (o‘zbek tilida). Konsultantlar hisoboti sifatida 2023-yil yanvarda e’lon qilingan.",
+  "authors": [
+   "Asian Development Bank (ADB)"
+  ],
+  "cat": "norm",
+  "createdAt": 1793500048933,
+  "fileId": "",
+  "fileName": "",
+  "fileSize": 0,
+  "fileUrl": "",
+  "ftype": "PDF",
+  "ident": "YR-20261101-11",
+  "intl": true,
+  "kw": [
+   "modifikatsiyalangan bitum",
+   "davlat standarti",
+   "O‘zDSt",
+   "модифицированный битум",
+   "modified bitumen",
+   "specifications"
+  ],
+  "lang": "uz",
+  "link": "https://www.adb.org/sites/default/files/project-documents/54105/54105-001-tacr-uz_1.pdf",
+  "org": "ADB (xalqaro, O‘zbekiston uchun)",
+  "pages": 0,
+  "title": "Road Subsector Development Strategy and Action Plan: Road Modified Bitumen Specifications – State Standard of the Republic of Uzbekistan (Uzbek)",
+  "tr": {
+   "uz": {
+    "ab": "ADB 54105-001 texnik yordam loyihasi doirasida tayyorlangan, avtomobil yo‘llari uchun modifikatsiyalangan bitumga texnik talablarni belgilovchi O‘zbekiston davlat standarti loyihasi (o‘zbek tilida). Konsultantlar hisoboti sifatida 2023-yil yanvarda e’lon qilingan.",
+    "t": "Yo‘l uchun modifikatsiyalangan bitum: texnik shartlar — O‘zbekiston davlat standarti"
+   }
+  },
+  "updatedAt": 1793500048933,
+  "year": 2023
+ },
+ {
+  "id": "a20261101-12",
+  "abs": "Avtomobil yo‘llari va aerodromlar uchun shcheben-mastikali polimer asfaltbeton qorishmalariga texnik shartlarni belgilovchi O‘zbekiston davlat standarti loyihasi (o‘zbek tilida). ADB 54105-001 loyihasi doirasida 2022-yil aprelda e’lon qilingan.",
+  "authors": [
+   "Asian Development Bank (ADB)"
+  ],
+  "cat": "norm",
+  "createdAt": 1793500048934,
+  "fileId": "",
+  "fileName": "",
+  "fileSize": 0,
+  "fileUrl": "",
+  "ftype": "PDF",
+  "ident": "YR-20261101-12",
+  "intl": true,
+  "kw": [
+   "shcheben-mastikali polimer asfaltbeton",
+   "SMA",
+   "aerodrom",
+   "davlat standarti",
+   "ЩМПА",
+   "stone mastic polymer asphalt"
+  ],
+  "lang": "uz",
+  "link": "https://www.adb.org/sites/default/files/project-documents/54105/54105-001-tacr-uz_0.pdf",
+  "org": "ADB (xalqaro, O‘zbekiston uchun)",
+  "pages": 0,
+  "title": "Road Subsector Development Strategy and Action Plan: Crushed-Stone-Mastic-Polymer-Asphalt-Concrete Mixture and Crushed-Stone-Mastic-Polymer-Asphalt-Concrete for Road and Airfield Specifications – State Standard of the Republic of Uzbekistan (Uzbek)",
+  "tr": {
+   "uz": {
+    "ab": "Avtomobil yo‘llari va aerodromlar uchun shcheben-mastikali polimer asfaltbeton qorishmalariga texnik shartlarni belgilovchi O‘zbekiston davlat standarti loyihasi (o‘zbek tilida). ADB 54105-001 loyihasi doirasida 2022-yil aprelda e’lon qilingan.",
+    "t": "Shcheben-mastikali polimer asfaltbeton qorishmasi (yo‘llar va aerodromlar uchun): texnik shartlar — O‘zbekiston davlat standarti"
+   }
+  },
+  "updatedAt": 1793500048934,
+  "year": 2022
+ },
+ {
+  "id": "a20261101-13",
+  "abs": "Maxsus tolalar bilan dispers armaturalangan asfaltbeton qorishmalariga talablarni belgilovchi O‘zbekiston davlat standarti loyihasi (o‘zbek tilida). ADB 54105-001 loyihasi doirasida 2022-yil aprelda e’lon qilingan.",
+  "authors": [
+   "Asian Development Bank (ADB)"
+  ],
+  "cat": "norm",
+  "createdAt": 1793500048935,
+  "fileId": "",
+  "fileName": "",
+  "fileSize": 0,
+  "fileUrl": "",
+  "ftype": "PDF",
+  "ident": "YR-20261101-13",
+  "intl": true,
+  "kw": [
+   "dispers armaturalangan asfaltbeton",
+   "tolalar",
+   "fibra",
+   "davlat standarti",
+   "дисперсно-армированный асфальтобетон",
+   "fiber reinforced asphalt"
+  ],
+  "lang": "uz",
+  "link": "https://www.adb.org/sites/default/files/project-documents/54105/54105-001-tacr-uz.pdf",
+  "org": "ADB (xalqaro, O‘zbekiston uchun)",
+  "pages": 0,
+  "title": "Road Subsector Development Strategy and Action Plan: Dispersed-Reinforced Asphalt Concrete Mixtures and Dispersed-Reinforced Asphalt Concrete Using Special Fibers – State Standard of the Republic of Uzbekistan (Uzbek)",
+  "tr": {
+   "uz": {
+    "ab": "Maxsus tolalar bilan dispers armaturalangan asfaltbeton qorishmalariga talablarni belgilovchi O‘zbekiston davlat standarti loyihasi (o‘zbek tilida). ADB 54105-001 loyihasi doirasida 2022-yil aprelda e’lon qilingan.",
+    "t": "Maxsus tolalar bilan dispers armaturalangan asfaltbeton qorishmalari — O‘zbekiston davlat standarti"
+   }
+  },
+  "updatedAt": 1793500048935,
+  "year": 2022
+ },
+ {
+  "id": "a20261101-14",
+  "abs": "Asfaltbeton qoplamali avtomobil yo‘llarini qurish, ta’mirlash va saqlash bo‘yicha amaliy qo‘llanma (rus tilida). ADB KSTA 9987-UZB texnik yordam loyihasi doirasida O‘zbekiston uchun 2022-yil sentyabrda tayyorlangan.",
+  "authors": [
+   "Asian Development Bank (ADB)"
+  ],
+  "cat": "guide",
+  "createdAt": 1793500048936,
+  "fileId": "",
+  "fileName": "",
+  "fileSize": 0,
+  "fileUrl": "",
+  "ftype": "PDF",
+  "ident": "YR-20261101-14",
+  "intl": true,
+  "kw": [
+   "asfaltbeton yo‘llar qurilishi",
+   "ta’mirlash",
+   "saqlash",
+   "qo‘llanma",
+   "содержание автомобильных дорог",
+   "asphalt road maintenance"
+  ],
+  "lang": "ru",
+  "link": "https://www.adb.org/sites/default/files/project-documents/54105/54105-001-tacr-ru_2.pdf",
+  "org": "ADB (xalqaro, O‘zbekiston uchun)",
+  "pages": 0,
+  "title": "Стратегия развития дорожного сектора и план действий: Пособие по строительству, ремонту и содержанию автомобильных дорог с асфальтобетонным покрытием",
+  "tr": {
+   "uz": {
+    "ab": "Asfaltbeton qoplamali avtomobil yo‘llarini qurish, ta’mirlash va saqlash bo‘yicha amaliy qo‘llanma (rus tilida). ADB KSTA 9987-UZB texnik yordam loyihasi doirasida O‘zbekiston uchun 2022-yil sentyabrda tayyorlangan.",
+    "t": "Yo‘l sektorini rivojlantirish strategiyasi: asfaltbeton qoplamali yo‘llarni qurish, ta’mirlash va saqlash qo‘llanmasi"
+   }
+  },
+  "updatedAt": 1793500048936,
+  "year": 2022
+ },
+ {
+  "id": "a20261101-15",
+  "abs": "Zamonaviy yupqa eskirish qatlamlarini qurish texnologiyalari bo‘yicha qo‘llanma (rus tilida). ADB KSTA 9987-UZB loyihasi doirasida Koreya va XXR fondlari grantlari hisobidan 2022-yilda tayyorlangan.",
+  "authors": [
+   "Asian Development Bank (ADB)"
+  ],
+  "cat": "guide",
+  "createdAt": 1793500048937,
+  "fileId": "",
+  "fileName": "",
+  "fileSize": 0,
+  "fileUrl": "",
+  "ftype": "PDF",
+  "ident": "YR-20261101-15",
+  "intl": true,
+  "kw": [
+   "yupqa eskirish qatlamlari",
+   "yuza ishlov",
+   "qoplama ta’miri",
+   "тонкие слои износа",
+   "thin wearing courses",
+   "surface treatment"
+  ],
+  "lang": "ru",
+  "link": "https://www.adb.org/sites/default/files/project-documents/54105/54105-001-tacr-ru_3.pdf",
+  "org": "ADB (xalqaro, O‘zbekiston uchun)",
+  "pages": 0,
+  "title": "Стратегия развития дорожного сектора и план действий: Пособие по устройству современных тонких слоев износа",
+  "tr": {
+   "uz": {
+    "ab": "Zamonaviy yupqa eskirish qatlamlarini qurish texnologiyalari bo‘yicha qo‘llanma (rus tilida). ADB KSTA 9987-UZB loyihasi doirasida Koreya va XXR fondlari grantlari hisobidan 2022-yilda tayyorlangan.",
+    "t": "Yo‘l sektorini rivojlantirish strategiyasi: zamonaviy yupqa eskirish qatlamlarini qurish qo‘llanmasi"
+   }
+  },
+  "updatedAt": 1793500048937,
+  "year": 2022
+ },
+ {
+  "id": "a20261101-16",
+  "abs": "Sement-beton qoplamalarni saqlash, ta’mirlash va qayta tiklash bo‘yicha qo‘llanmalar to‘plami (rus tilida). ADB 54105-001 loyihasi doirasida O‘zbekiston yo‘l sohasi uchun 2021-yil iyulda e’lon qilingan.",
+  "authors": [
+   "Asian Development Bank (ADB)"
+  ],
+  "cat": "guide",
+  "createdAt": 1793500048938,
+  "fileId": "",
+  "fileName": "",
+  "fileSize": 0,
+  "fileUrl": "",
+  "ftype": "PDF",
+  "ident": "YR-20261101-16",
+  "intl": true,
+  "kw": [
+   "sement-beton qoplama",
+   "ta’mirlash",
+   "reabilitatsiya",
+   "saqlash",
+   "цементобетонные покрытия",
+   "concrete pavement maintenance"
+  ],
+  "lang": "ru",
+  "link": "https://www.adb.org/sites/default/files/project-documents/54105/54105-001-tacr-ru_5.pdf",
+  "org": "ADB (xalqaro, O‘zbekiston uchun)",
+  "pages": 0,
+  "title": "Road Subsector Development Strategy and Action Plan: Handbooks for Maintenance, Repair and Rehabilitation of Cement Concrete Pavements (Russian)",
+  "tr": {
+   "uz": {
+    "ab": "Sement-beton qoplamalarni saqlash, ta’mirlash va qayta tiklash bo‘yicha qo‘llanmalar to‘plami (rus tilida). ADB 54105-001 loyihasi doirasida O‘zbekiston yo‘l sohasi uchun 2021-yil iyulda e’lon qilingan.",
+    "t": "Sement-beton qoplamalarni saqlash, ta’mirlash va reabilitatsiya qilish qo‘llanmalari"
+   }
+  },
+  "updatedAt": 1793500048938,
+  "year": 2021
+ },
+ {
+  "id": "a20261101-17",
+  "abs": "Ko‘priklar, tirgak devorlar va suv o‘tkazuvchi quvurlarni loyihalash va saqlash bo‘yicha qo‘llanma (rus tilida). ADB 54105-001 texnik yordam loyihasi doirasida 2021-yilda tayyorlangan.",
+  "authors": [
+   "Asian Development Bank (ADB)"
+  ],
+  "cat": "guide",
+  "createdAt": 1793500048939,
+  "fileId": "",
+  "fileName": "",
+  "fileSize": 0,
+  "fileUrl": "",
+  "ftype": "PDF",
+  "ident": "YR-20261101-17",
+  "intl": true,
+  "kw": [
+   "ko‘priklar",
+   "tirgak devorlar",
+   "quvurlar",
+   "sun’iy inshootlar",
+   "мосты и трубы",
+   "bridges culverts"
+  ],
+  "lang": "ru",
+  "link": "https://www.adb.org/sites/default/files/project-documents/54105/54105-001-tacr-ru_0.pdf",
+  "org": "ADB (xalqaro, O‘zbekiston uchun)",
+  "pages": 0,
+  "title": "Road Subsector Development Strategy and Action Plan: Handbook for Bridges, Retaining Walls and Culverts (Russian)",
+  "tr": {
+   "uz": {
+    "ab": "Ko‘priklar, tirgak devorlar va suv o‘tkazuvchi quvurlarni loyihalash va saqlash bo‘yicha qo‘llanma (rus tilida). ADB 54105-001 texnik yordam loyihasi doirasida 2021-yilda tayyorlangan.",
+    "t": "Ko‘priklar, tirgak devorlar va quvurlar bo‘yicha qo‘llanma"
+   }
+  },
+  "updatedAt": 1793500048939,
+  "year": 2021
+ },
+ {
+  "id": "a20261101-18",
+  "abs": "Rivojlanayotgan mamlakatlar uchun beton qoplamalar texnologiyasi bo‘yicha ADB amaliy qo‘llanmasining ruscha tarjimasi. O‘zbekiston yo‘l sohasi uchun 54105-001 loyihasi doirasida 2021-yil iyulda e’lon qilingan.",
+  "authors": [
+   "Asian Development Bank (ADB)"
+  ],
+  "cat": "guide",
+  "createdAt": 1793500048940,
+  "fileId": "",
+  "fileName": "",
+  "fileSize": 0,
+  "fileUrl": "",
+  "ftype": "PDF",
+  "ident": "YR-20261101-18",
+  "intl": true,
+  "kw": [
+   "beton qoplama texnologiyasi",
+   "rivojlanayotgan mamlakatlar",
+   "qo‘llanma",
+   "технология бетонных покрытий",
+   "concrete pavement technology"
+  ],
+  "lang": "ru",
+  "link": "https://www.adb.org/sites/default/files/project-documents/54105/54105-001-tacr-ru_1.pdf",
+  "org": "ADB (xalqaro, O‘zbekiston uchun)",
+  "pages": 0,
+  "title": "Road Subsector Development Strategy and Action Plan: A Practical Guide to Concrete Pavement Technology for Developing Countries (Russian)",
+  "tr": {
+   "uz": {
+    "ab": "Rivojlanayotgan mamlakatlar uchun beton qoplamalar texnologiyasi bo‘yicha ADB amaliy qo‘llanmasining ruscha tarjimasi. O‘zbekiston yo‘l sohasi uchun 54105-001 loyihasi doirasida 2021-yil iyulda e’lon qilingan.",
+    "t": "Rivojlanayotgan mamlakatlar uchun beton qoplama texnologiyasi bo‘yicha amaliy qo‘llanma"
+   }
+  },
+  "updatedAt": 1793500048940,
+  "year": 2021
+ },
+ {
+  "id": "a20261101-19",
+  "abs": "Avtomobil yo‘llari qo‘mitasi tomonidan ADB ko‘magida tayyorlangan 2035-yilgacha qishloq yo‘llari strategiyasi: qishloq aholisining sog‘liqni saqlash, ta’lim, ish va bozorlarga yil davomida yo‘l orqali chiqishini ta’minlash choralari.",
+  "authors": [
+   "Asian Development Bank (ADB)"
+  ],
+  "cat": "report",
+  "createdAt": 1793500048941,
+  "fileId": "",
+  "fileName": "",
+  "fileSize": 0,
+  "fileUrl": "",
+  "ftype": "PDF",
+  "ident": "YR-20261101-19",
+  "intl": true,
+  "kw": [
+   "qishloq yo‘llari",
+   "strategiya 2035",
+   "yil davomida o‘tish",
+   "сельские дороги",
+   "rural roads",
+   "road strategy"
+  ],
+  "lang": "en",
+  "link": "https://www.adb.org/sites/default/files/project-documents/54105/54105-001-tacr-en_0.pdf",
+  "org": "ADB (xalqaro, O‘zbekiston uchun)",
+  "pages": 0,
+  "title": "Road Subsector Development Strategy and Action Plan: Rural Road Strategy 2035",
+  "tr": {
+   "uz": {
+    "ab": "Avtomobil yo‘llari qo‘mitasi tomonidan ADB ko‘magida tayyorlangan 2035-yilgacha qishloq yo‘llari strategiyasi: qishloq aholisining sog‘liqni saqlash, ta’lim, ish va bozorlarga yil davomida yo‘l orqali chiqishini ta’minlash choralari.",
+    "t": "Qishloq yo‘llari strategiyasi — 2035"
+   }
+  },
+  "updatedAt": 1793500048941,
+  "year": 2023
+ },
+ {
+  "id": "a20261101-20",
+  "abs": "Avtomobil yo‘llari qo‘mitasi va uning davlat korxonalari uchun yo‘l boshqaruvida salohiyatni oshirish va institutsional mustahkamlash dasturi bo‘yicha ADB konsultantlar hisoboti (2022).",
+  "authors": [
+   "Asian Development Bank (ADB)"
+  ],
+  "cat": "report",
+  "createdAt": 1793500048942,
+  "fileId": "",
+  "fileName": "",
+  "fileSize": 0,
+  "fileUrl": "",
+  "ftype": "PDF",
+  "ident": "YR-20261101-20",
+  "intl": true,
+  "kw": [
+   "salohiyatni oshirish",
+   "yo‘l boshqaruvi",
+   "davlat korxonalari",
+   "институциональное развитие",
+   "capacity building",
+   "road management"
+  ],
+  "lang": "en",
+  "link": "https://www.adb.org/sites/default/files/project-documents/54105/54105-001-tacr-en_2.pdf",
+  "org": "ADB (xalqaro, O‘zbekiston uchun)",
+  "pages": 0,
+  "title": "Road Subsector Development Strategy and Action Plan: Capacity Building Program and Institutional Strengthening of State-Owned-Enterprises in Road Management",
+  "tr": {
+   "uz": {
+    "ab": "Avtomobil yo‘llari qo‘mitasi va uning davlat korxonalari uchun yo‘l boshqaruvida salohiyatni oshirish va institutsional mustahkamlash dasturi bo‘yicha ADB konsultantlar hisoboti (2022).",
+    "t": "Yo‘l boshqaruvidagi davlat korxonalarining salohiyatini oshirish va institutsional mustahkamlash dasturi"
+   }
+  },
+  "updatedAt": 1793500048942,
+  "year": 2022
+ },
+ {
+  "id": "a20261101-21",
+  "abs": "Markaziy Osiyoda transport infratuzilmasiga ta’sir qiluvchi iqlim omillari va moslashish choralari ko‘rib chiqilgan, O‘zbekistonga alohida bo‘lim bag‘ishlangan. Muhandislar va siyosatchilar uchun bardoshli loyihalash bo‘yicha ADB qo‘llanmasi (2023).",
+  "authors": [
+   "Asian Development Bank (ADB)"
+  ],
+  "cat": "guide",
+  "createdAt": 1793500048943,
+  "fileId": "",
+  "fileName": "",
+  "fileSize": 0,
+  "fileUrl": "",
+  "ftype": "PDF",
+  "ident": "YR-20261101-21",
+  "intl": true,
+  "kw": [
+   "iqlim o‘zgarishiga moslashish",
+   "transport infratuzilmasi",
+   "Markaziy Osiyo",
+   "barqaror yo‘llar",
+   "адаптация к изменению климата",
+   "climate resilience"
+  ],
+  "lang": "en",
+  "link": "https://www.adb.org/sites/default/files/publication/935306/climate-change-adaptation-transport-central-asia.pdf",
+  "org": "ADB (xalqaro, O‘zbekiston uchun)",
+  "pages": 0,
+  "title": "Manual for Climate Change Adaptation Measures for Transport Infrastructure in Central Asia with a Focus on Uzbekistan",
+  "tr": {
+   "uz": {
+    "ab": "Markaziy Osiyoda transport infratuzilmasiga ta’sir qiluvchi iqlim omillari va moslashish choralari ko‘rib chiqilgan, O‘zbekistonga alohida bo‘lim bag‘ishlangan. Muhandislar va siyosatchilar uchun bardoshli loyihalash bo‘yicha ADB qo‘llanmasi (2023).",
+    "t": "Markaziy Osiyo transport infratuzilmasi uchun iqlim o‘zgarishiga moslashish choralari qo‘llanmasi (O‘zbekiston misolida)"
+   }
+  },
+  "updatedAt": 1793500048943,
+  "year": 2023
+ },
+ {
+  "id": "trbidea-203",
+  "abs": "Repairing roadside crash cushions after impacts exposes maintenance crews to live traffic. This project developed a self-restoring cushion that absorbs energy through a rotating drum, nylon strap and band brakes, then resets itself with a motorised winch, controller and sensors that also report crashes. Bench and bogie tests at 10–30 mph confirmed the concept, with higher brake pressure markedly increasing energy absorption; full MASH crash testing is still required.",
+  "authors": [
+   "Dean L. Sicking",
+   "Kevin D. Schrum",
+   "Kenneth C. Walls",
+   "University of Alabama at Birmingham"
+  ],
+  "cat": "report",
+  "createdAt": 1793504565772,
+  "fileId": "",
+  "fileName": "",
+  "fileSize": 0,
+  "fileUrl": "",
+  "ftype": "PDF",
+  "ident": "TRB-IDEA-203",
+  "intl": true,
+  "kw": [
+   "to‘siq yostig‘i",
+   "yo‘l xavfsizligi",
+   "zarbani yutish",
+   "avtomatik tiklanish",
+   "yo‘l chetidagi qurilmalar"
+  ],
+  "lang": "en",
+  "link": "https://onlinepubs.trb.org/onlinepubs/IDEA/FinalReports/Highway/NCHRP203.pdf",
+  "org": "TRB / NCHRP IDEA (AQSh)",
+  "pages": 0,
+  "title": "Safer Cushions",
+  "tr": {
+   "uz": {
+    "ab": "Loyihada aylanuvchi baraban, neylon tasma va lentali tormozlar orqali zarba energiyasini yutadigan, so‘ng lebyodka va boshqaruv tizimi yordamida o‘zini avtomatik tiklaydigan yo‘l chetidagi to‘siq yostig‘i yaratildi. 10–30 mil/soat tezlikdagi sinovlar g‘oyani tasdiqladi, ammo to‘liq MASH sinovlari hali o‘tkazilishi kerak. O‘zbekistonda avariya ko‘p bo‘ladigan joylarda ta'mirlash brigadalarining harakat oqimida qolish xavfini kamaytirish uchun qiziqarli yechim.",
+    "t": "Xavfsizroq zarba yutuvchi yostiqlar (o‘zini tiklaydigan to‘siq yostig‘i)"
+   }
+  },
+  "updatedAt": 1793504565772,
+  "year": 2021
+ },
+ {
+  "id": "trbidea-243",
+  "abs": "Early hairline cracks in new bridge decks are often missed by visual inspection, letting water and chlorides reach the reinforcement before preservation is scheduled. The project combined air-launched ground-penetrating radar (dielectric/moisture readings) with high-speed imaging and AI crack mapping into a single vulnerability index with colour-coded risk maps. Data from 23 bridges in four US states were collected and results for six bridges are reported, showing that high crack density largely coincides with higher moisture readings.",
+  "authors": [
+   "Amir Rezvani",
+   "Infratek Solutions, Inc."
+  ],
+  "cat": "report",
+  "createdAt": 1793504565772,
+  "fileId": "",
+  "fileName": "",
+  "fileSize": 0,
+  "fileUrl": "",
+  "ftype": "PDF",
+  "ident": "TRB-IDEA-243",
+  "intl": true,
+  "kw": [
+   "ko‘prik qoplamasi",
+   "buzilmaydigan nazorat",
+   "georadar (GPR)",
+   "yoriqlar",
+   "korroziya",
+   "sun'iy intellekt"
+  ],
+  "lang": "en",
+  "link": "https://onlinepubs.trb.org/onlinepubs/IDEA/FinalReports/Highway/NCHRP243.pdf",
+  "org": "TRB / NCHRP IDEA (AQSh)",
+  "pages": 0,
+  "title": "Establishing NDE Protocols for Use in Early Age Bridge Deck Preservation Strategies",
+  "tr": {
+   "uz": {
+    "ab": "Loyiha havodan yo‘naltirilgan georadar (namlik ko‘rsatkichlari) va yuqori tezlikda suratga olish bilan sun'iy intellekt asosida yoriqlarni xaritalashni birlashtirib, ko‘prik qoplamasining zaiflik indeksini va rangli xavf xaritalarini yaratdi. 23 ta ko‘prikda ma'lumot yig‘ildi, olti ko‘prik natijalari yoriqlar zich joylar namlik yuqori bo‘lgan joylarga to‘g‘ri kelishini ko‘rsatdi. O‘zbekiston yo‘llarida ko‘priklarni harakatni to‘xtatmasdan tezkor tekshirish va muhofaza ishlarini o‘z vaqtida rejalashtirish uchun foydali yondashuv.",
+    "t": "Yangi ko‘prik qoplamalarini erta muhofaza qilish strategiyalari uchun buzilmaydigan nazorat (NDE) protokollarini ishlab chiqish"
+   }
+  },
+  "updatedAt": 1793504565772,
+  "year": 2024
  }
 ]
