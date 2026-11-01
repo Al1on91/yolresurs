@@ -86,7 +86,7 @@ main.wrap{padding-top:32px;padding-bottom:80px}
 .quick button{background:none;border:0;color:#fff;text-decoration:underline;text-underline-offset:3px;cursor:pointer;padding:0;font-size:14px}
 .quick span{opacity:.75}
 
-.kpis{display:grid;grid-template-columns:repeat(4,1fr);background:var(--surface);border:1px solid var(--line);border-radius:12px;margin-top:20px}
+.kpis{display:grid;grid-template-columns:repeat(5,1fr);background:var(--surface);border:1px solid var(--line);border-radius:12px;margin-top:20px}
 .kpi{padding:18px 22px;border:0;border-left:1px solid var(--line);background:none;text-align:left;font:inherit;color:inherit;cursor:pointer;transition:background .15s}
 .kpi:hover{background:var(--surface-2,#f3f6fb)}.kpi:hover b{color:var(--accent,#0b5d3b)}.kpi:focus-visible{outline:2px solid var(--accent,#0b5d3b);outline-offset:-2px}
 .kpis .kpi:first-child{border-radius:12px 0 0 12px}.kpis .kpi:last-child{border-radius:0 12px 12px 0}
@@ -462,6 +462,8 @@ footer .copy{border-top:1px solid rgba(255,255,255,.12);margin-top:26px;padding-
   .kpis{grid-template-columns:1fr 1fr}
   .kpi:nth-child(3){border-left:0}
   .kpi:nth-child(n+3){border-top:1px solid var(--line)}
+  .kpi:nth-child(5){grid-column:1/-1;border-left:0;border-radius:0 0 12px 12px}
+  .kpis .kpi:first-child,.kpis .kpi:nth-child(4){border-radius:0}
   .cats{grid-template-columns:1fr}
   .row{grid-template-columns:46px 1fr;padding:14px}
   .row .nums{grid-column:2;text-align:left}
@@ -1046,7 +1048,7 @@ function newsArt(cat,scope){
 let news=[], nScope="all", nCat="";
 const FTYPES=["PDF","DOCX","DWG","JPG","WEB"];
 const LNAME={uz:{uz:"o‘zbek",ru:"rus",en:"ingliz"},ru:{uz:"узбекский",ru:"русский",en:"английский"},en:{uz:"Uzbek",ru:"Russian",en:"English"}};
-T.uz.k_intl="xalqaro manba";T.ru.k_intl="международных источников";T.en.k_intl="international sources";T.uz.k_orgs="tashkilot";T.uz.kpi_go="Bosing — tegishli bo‘limga o‘tasiz";T.ru.kpi_go="Нажмите, чтобы перейти в раздел";T.en.kpi_go="Click to open the section";T.uz.f_org="Tashkilot";T.ru.f_org="Организация";T.en.f_org="Organization";T.uz.org_all="Barcha tashkilotlar";T.ru.org_all="Все организации";T.en.org_all="All organizations";T.ru.k_orgs="организаций";T.en.k_orgs="organizations";T.uz.intl_home_h="Xalqaro manbalardan";T.ru.intl_home_h="Из международных источников";T.en.intl_home_h="From international sources";
+T.uz.k_intl="xalqaro manba";T.ru.k_intl="международных источников";T.en.k_intl="international sources";T.uz.k_orgs="tashkilot";T.uz.k_norms="me’yoriy hujjat";T.ru.k_norms="нормативных документов";T.en.k_norms="normative documents";T.uz.kpi_go="Bosing — tegishli bo‘limga o‘tasiz";T.ru.kpi_go="Нажмите, чтобы перейти в раздел";T.en.kpi_go="Click to open the section";T.uz.f_org="Tashkilot";T.ru.f_org="Организация";T.en.f_org="Organization";T.uz.org_all="Barcha tashkilotlar";T.ru.org_all="Все организации";T.en.org_all="All organizations";T.ru.k_orgs="организаций";T.en.k_orgs="organizations";T.uz.intl_home_h="Xalqaro manbalardan";T.ru.intl_home_h="Из международных источников";T.en.intl_home_h="From international sources";
 const QUICK=["asfaltbeton","ko‘prik","harakat xavfsizligi","monitoring","bitum"];
 const SVG=d=>`<svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round">${d}</svg>`;
 const CICON={norm:SVG('<path d="M12 3v18M5 7h14M7 7l-3 7a3 3 0 0 0 6 0zM17 7l-3 7a3 3 0 0 0 6 0zM8 21h8"/>'),article:SVG('<path d="M14 3H7a2 2 0 0 0-2 2v14a2 2 0 0 0 2 2h10a2 2 0 0 0 2-2V8z"/><path d="M14 3v5h5M9 13h6M9 17h6"/>'),report:SVG('<path d="M4 20V10M10 20V4M16 20v-7M22 20H2"/>'),thesis:SVG('<path d="M22 9 12 4 2 9l10 5z"/><path d="M6 11v5c3 2.5 9 2.5 12 0v-5"/>'),project:SVG('<path d="M3 21h18M5 21V8l7-5 7 5v13M9 21v-6h6v6"/>'),guide:SVG('<path d="M4 19.5A2.5 2.5 0 0 1 6.5 17H20V3H6.5A2.5 2.5 0 0 0 4 5.5z"/><path d="M4 19.5A2.5 2.5 0 0 0 6.5 22H20v-5"/>'),gallery:SVG('<rect x="3" y="4" width="18" height="16" rx="2"/><path d="m3 17 5-5 4 4 3-3 6 6"/><circle cx="16" cy="9" r="1.5"/>'),history:SVG('<path d="M21 8v13H3V8M1 3h22v5H1zM10 12h4"/>')};
@@ -1142,7 +1144,7 @@ function row(d,q){
 function renderHome(){
   const hn=newsSorted().slice(0,3); $("homeNews").innerHTML=hn.length?hn.map(newsCard).join(""):`<div class="empty" style="grid-column:1/-1">${t("no_news")}</div>`;
   const all=allDocs(), authors=new Set(all.flatMap(d=>d.a)), tv=all.reduce((s,d)=>s+d.V,0), td=all.reduce((s,d)=>s+d.DL,0);
-  $("kpis").innerHTML=[[all.length,"t_docs"],[authors.size,"t_authors"],[all.filter(d=>d.intl).length,"k_intl"],[new Set(all.map(d=>d.org)).size,"k_orgs"]].map(([n,k])=>`<button type="button" class="kpi" data-kpi="${k}" title="${esc(t("kpi_go"))}"><b>${fmt(n)}</b><span>${t(k)}</span></button>`).join("");
+  $("kpis").innerHTML=[[all.length,"t_docs"],[authors.size,"t_authors"],[all.filter(d=>d.intl).length,"k_intl"],[new Set(all.map(d=>d.org)).size,"k_orgs"],[norms.length,"k_norms"]].map(([n,k])=>`<button type="button" class="kpi" data-kpi="${k}" title="${esc(t("kpi_go"))}"><b>${fmt(n)}</b><span>${t(k)}</span></button>`).join("");
   $("homeCats").innerHTML=Object.keys(CATS).map(c=>`<button class="cat" data-cat="${c}"><span class="ci">${CICON[c]}</span><span><b>${esc(catName(c))}</b><span>${all.filter(d=>d.cat===c).length} ${t("t_docs")}</span></span></button>`).join("");
   const rec=[...all].filter(d=>d.src!=="coll").sort((a,b)=>(b.src==="own")-(a.src==="own")||b.added-a.added).slice(0,5);
   $("homeRecent").innerHTML=rec.length?rec.map(d=>row(d,"")).join(""):`<div class="empty">${t("none")}</div>`;
@@ -1917,7 +1919,7 @@ document.addEventListener("click",e=>{
   if(el=g("[data-nscope]")){nScope=el.dataset.nscope;renderNews();return}
   if(el=g("[data-ncat]")){nCat=el.dataset.ncat;renderNews();return}
   if(el=g("[data-org]")){const o=el.dataset.org;const on=el.classList.contains("on");document.querySelectorAll("#iOrgs input").forEach(i=>i.checked=!on&&i.value===o);renderIntl();return}
-  if(el=g("[data-kpi]")){const k=el.dataset.kpi;if(k==="k_intl"){go("intl");return}resetFilters();go("catalog");if(k==="t_authors"||k==="k_orgs")setTimeout(()=>{const f=$(k==="k_orgs"?"fOrg":"fAuthor");f.scrollIntoView({block:"center"});f.focus();if(k==="k_orgs"&&f.showPicker)try{f.showPicker()}catch(e){}},80);return}
+  if(el=g("[data-kpi]")){const k=el.dataset.kpi;if(k==="k_intl"){go("intl");return}if(k==="k_norms"){go("norms");return}resetFilters();go("catalog");if(k==="t_authors"||k==="k_orgs")setTimeout(()=>{const f=$(k==="k_orgs"?"fOrg":"fAuthor");f.scrollIntoView({block:"center"});f.focus();if(k==="k_orgs"&&f.showPicker)try{f.showPicker()}catch(e){}},80);return}
   if(el=g("[data-cat]")){resetFilters();document.querySelector(`#fCats input[value="${el.dataset.cat}"]`).checked=true;go("catalog");return}
   if(el=g("[data-kw]")){resetFilters();$("q").value=el.dataset.kw;go("catalog");return}
   if(el=g("[data-lang]")){lang=el.dataset.lang;store("yr_lang",lang);applyI18n();route();return}
