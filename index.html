@@ -344,6 +344,21 @@ table.tbl td.act .btn{margin-left:4px}
 .nm-rel{font-size:13px;margin-top:6px;color:var(--muted)}
 .nm-rel b{color:var(--ink)}
 .nm-note{font-size:13px;color:var(--muted);margin-top:4px}
+.gl-link{margin-top:12px;display:inline-flex;gap:6px;align-items:center;text-decoration:none}
+.gl-letters{display:flex;flex-wrap:wrap;gap:4px;margin-top:14px}
+.gl-letters button{border:1px solid var(--line);background:var(--surface);border-radius:8px;min-width:34px;height:32px;padding:0 8px;font:600 13px/1 inherit;color:inherit;cursor:pointer}
+.gl-letters button.on{background:var(--brand);border-color:var(--brand);color:var(--on-brand)}
+.gl-list{display:grid;gap:12px}
+.gl-item{background:var(--surface);border:1px solid var(--line);border-radius:12px;padding:16px 20px;scroll-margin-top:90px}
+.gl-item.flash{box-shadow:0 0 0 3px var(--accent)}
+.gl-item h3{margin:0 0 4px;font-size:18px}
+.gl-eq{display:flex;flex-wrap:wrap;gap:6px 16px;color:var(--muted);font-size:14px}
+.gl-eq i{font-style:normal;font-size:11px;font-weight:700;border:1px solid var(--line);border-radius:4px;padding:0 4px;margin-right:4px}
+.gl-def{border-top:1px dashed var(--line);margin-top:10px;padding-top:10px}
+.gl-def p{margin:0 0 6px;line-height:1.55}
+.gl-src{font-size:13px;color:var(--muted)}
+.gl-ans{background:var(--surface);border:1px solid var(--line);border-left:4px solid var(--accent);border-radius:10px;padding:12px 16px;margin-bottom:12px;line-height:1.55}
+.gl-badge{display:inline-block;background:var(--accent);color:#fff;border-radius:99px;padding:1px 10px;font-size:12px;font-weight:700;margin-right:8px}
 .nm-src{font-size:13px;white-space:nowrap}
 .nm-src .note{display:block;font-size:12px}
 .nm-src .nm-pdf{font-weight:600}
@@ -620,8 +635,18 @@ nav.main a.adm-entry:hover{background:#0c6a5d}
 </section>
 
 <!-- NORMS REGISTRY -->
+<section class="view" id="v-glossary">
+  <div class="page-h"><div class="crumbs"><a href="#home" data-i="nav_home"></a> / <a href="#norms" data-i="nav_norms"></a> / <span data-i="gl_h"></span></div><h1 data-i="gl_h"></h1><p data-i="gl_p"></p></div>
+  <div class="nm-bar">
+    <div class="searchrow" style="margin:0;flex:1;min-width:240px"><label for="glQ" class="sr" data-i="gl_search"></label><input id="glQ" type="search" autocomplete="off"></div>
+    <select id="glArea" aria-label="area"></select>
+  </div>
+  <div class="gl-letters" id="glLetter" data-v=""></div>
+  <div class="count" id="glCount" style="margin:10px 0"></div>
+  <div class="gl-list" id="glList"></div>
+</section>
 <section class="view" id="v-norms">
-  <div class="page-h"><div class="crumbs"><a href="#home" data-i="nav_home"></a> / <span data-i="nav_norms"></span></div><h1 data-i="nm_h"></h1><p data-i="nm_p"></p></div>
+  <div class="page-h"><div class="crumbs"><a href="#home" data-i="nav_home"></a> / <span data-i="nav_norms"></span></div><h1 data-i="nm_h"></h1><p data-i="nm_p"></p><a class="btn sec sm gl-link" href="#glossary"><span aria-hidden="true">📖</span> <span data-i="gl_open"></span> →</a></div>
   <div class="nm-tiles" id="nmTiles"></div>
   <details class="nm-legend"><summary data-i="nm_legend_h"></summary><div id="nmLegend"></div></details>
   <div class="nm-bar">
@@ -1048,7 +1073,7 @@ function newsArt(cat,scope){
 let news=[], nScope="all", nCat="";
 const FTYPES=["PDF","DOCX","DWG","JPG","WEB"];
 const LNAME={uz:{uz:"o‘zbek",ru:"rus",en:"ingliz"},ru:{uz:"узбекский",ru:"русский",en:"английский"},en:{uz:"Uzbek",ru:"Russian",en:"English"}};
-T.uz.k_intl="xalqaro manba";T.ru.k_intl="международных источников";T.en.k_intl="international sources";T.uz.k_orgs="tashkilot";T.uz.k_norms="me’yoriy hujjat";T.ru.k_norms="нормативных документов";T.en.k_norms="normative documents";T.uz.kpi_go="Bosing — tegishli bo‘limga o‘tasiz";T.ru.kpi_go="Нажмите, чтобы перейти в раздел";T.en.kpi_go="Click to open the section";T.uz.f_org="Tashkilot";T.ru.f_org="Организация";T.en.f_org="Organization";T.uz.org_all="Barcha tashkilotlar";T.ru.org_all="Все организации";T.en.org_all="All organizations";T.ru.k_orgs="организаций";T.en.k_orgs="organizations";T.uz.intl_home_h="Xalqaro manbalardan";T.ru.intl_home_h="Из международных источников";T.en.intl_home_h="From international sources";
+T.uz.k_intl="xalqaro manba";T.ru.k_intl="международных источников";T.en.k_intl="international sources";T.uz.k_orgs="tashkilot";T.uz.nav_gl="Atamalar lug‘ati";T.ru.nav_gl="Словарь терминов";T.en.nav_gl="Glossary";T.uz.gl_h="Atamalar lug‘ati";T.ru.gl_h="Словарь терминов";T.en.gl_h="Glossary of road terms";T.uz.gl_p="Yo‘l sohasi atamalari va ularning rasmiy ta’riflari. Har bir ta’rif amaldagi me’yoriy hujjat yoki qonun matnidan aynan olingan, manbasi havola bilan ko‘rsatilgan. Ruscha va inglizcha muqobillar ma’lumot uchun berilgan.";T.ru.gl_p="Термины дорожной отрасли и их официальные определения. Каждое определение дословно взято из действующего нормативного документа или закона, источник указан ссылкой. Русские и английские эквиваленты приведены для справки.";T.en.gl_p="Road-sector terms with their official definitions. Each definition is quoted verbatim from a normative document or law in force, with a link to the source. Russian and English equivalents are given for reference.";T.uz.gl_search="Atama yoki so‘z: vıraj, yo‘l to‘shamasi, эстакада, runway…".replace("ı","i");T.ru.gl_search="Термин или слово: вираж, дорожная одежда, runway…";T.en.gl_search="Term or word: runway, pavement, viraj…";T.uz.gl_src="Manba";T.ru.gl_src="Источник";T.en.gl_src="Source";T.uz.gl_reg="Reyestrda ko‘rish";T.ru.gl_reg="Открыть в реестре";T.en.gl_reg="View in registry";T.uz.gl_all="Barchasi";T.ru.gl_all="Все";T.en.gl_all="All";T.uz.gl_found="ta atama";T.ru.gl_found="терминов";T.en.gl_found="terms";T.uz.gl_ru_orig="Qonunning rasmiy ruscha matni";T.ru.gl_ru_orig="официальный текст закона";T.en.gl_ru_orig="official Russian text of the law";T.uz.gl_def_h="Rasmiy ta’rif";T.ru.gl_def_h="Официальное определение";T.en.gl_def_h="Official definition";T.uz.gl_open="Atamalar lug‘ati";T.ru.gl_open="Словарь терминов";T.en.gl_open="Glossary";T.uz.k_norms="me’yoriy hujjat";T.ru.k_norms="нормативных документов";T.en.k_norms="normative documents";T.uz.kpi_go="Bosing — tegishli bo‘limga o‘tasiz";T.ru.kpi_go="Нажмите, чтобы перейти в раздел";T.en.kpi_go="Click to open the section";T.uz.f_org="Tashkilot";T.ru.f_org="Организация";T.en.f_org="Organization";T.uz.org_all="Barcha tashkilotlar";T.ru.org_all="Все организации";T.en.org_all="All organizations";T.ru.k_orgs="организаций";T.en.k_orgs="organizations";T.uz.intl_home_h="Xalqaro manbalardan";T.ru.intl_home_h="Из международных источников";T.en.intl_home_h="From international sources";
 const QUICK=["asfaltbeton","ko‘prik","harakat xavfsizligi","monitoring","bitum"];
 const SVG=d=>`<svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round">${d}</svg>`;
 const CICON={norm:SVG('<path d="M12 3v18M5 7h14M7 7l-3 7a3 3 0 0 0 6 0zM17 7l-3 7a3 3 0 0 0 6 0zM8 21h8"/>'),article:SVG('<path d="M14 3H7a2 2 0 0 0-2 2v14a2 2 0 0 0 2 2h10a2 2 0 0 0 2-2V8z"/><path d="M14 3v5h5M9 13h6M9 17h6"/>'),report:SVG('<path d="M4 20V10M10 20V4M16 20v-7M22 20H2"/>'),thesis:SVG('<path d="M22 9 12 4 2 9l10 5z"/><path d="M6 11v5c3 2.5 9 2.5 12 0v-5"/>'),project:SVG('<path d="M3 21h18M5 21V8l7-5 7 5v13M9 21v-6h6v6"/>'),guide:SVG('<path d="M4 19.5A2.5 2.5 0 0 1 6.5 17H20V3H6.5A2.5 2.5 0 0 0 4 5.5z"/><path d="M4 19.5A2.5 2.5 0 0 0 6.5 22H20v-5"/>'),gallery:SVG('<rect x="3" y="4" width="18" height="16" rx="2"/><path d="m3 17 5-5 4 4 3-3 6 6"/><circle cx="16" cy="9" r="1.5"/>'),history:SVG('<path d="M21 8v13H3V8M1 3h22v5H1zM10 12h4"/>')};
@@ -1703,7 +1728,8 @@ function qaSearch(q){
   const nws=news.map(n=>Object.assign({n},qaScore([[norm(n.title),3],[norm(n.summary),1.5]],terms))).filter(x=>x.sc>=6).sort((a,b)=>b.sc-a.sc).slice(0,4);
   const exps=experts.map(x=>Object.assign({x},qaScore([[norm(x.areas.map(a=>Object.values(XAREAS[a]||{}).join(" ")).join(" ")),3],[norm(x.bio+" "+x.works.join(" ")+" "+x.position),1.5]],terms))).filter(x=>x.sc>=4).sort((a,b)=>b.sc-a.sc).slice(0,3);
   const nms=norms.map(n=>Object.assign({n},qaScore([[norm(nmCode(n)+" "+n.title+" "+uzLat(n.title)),3],[norm(n.note+" "+n.replaces+" "+n.replacedBy),1.5]],terms))).filter(x=>x.sc>=6).sort((a,b)=>b.sc-a.sc||NM_ORDER[a.n.status]-NM_ORDER[b.n.status]).slice(0,6);
-  return{terms,docs,nws,exps,nms};
+  const gls=glSearch(terms);
+  return{terms,docs,nws,exps,nms,gls};
 }
 function qaHitDoc(h,i,terms){
   const d=h.d, uz=(d.tr&&d.tr.uz)||{}, loc=(d.tr&&d.tr[lang])||{};
@@ -1743,11 +1769,11 @@ function qaRun(q){
   qaLast={q}; const R=qaSearch(q);
   $("qaOut").hidden=false; const au=$("qaAuto"); au.hidden=true;
   if(R.docs.length<2){au.hidden=false;au.innerHTML=`<span class="note">${esc(DB&&USERID?t("qa_auto_saved"):t("qa_auto_anon"))}</span>`;qaAutoSave(q)}
-  const n=R.docs.length+R.nws.length+R.exps.length+R.nms.length;
+  const n=R.docs.length+R.nws.length+R.exps.length+R.nms.length+R.gls.length;
   if(!n){$("qaSum").innerHTML=esc(t("qa_sum_none"));$("qaRes").innerHTML="";return}
-  const top=R.docs[0]?`<a href="#doc-${esc(R.docs[0].d.id)}">${esc(trTitle(R.docs[0].d)||R.docs[0].d.t)}</a>`:R.nws[0]?esc(R.nws[0].n.title):esc(R.exps[0].x.name);
-  $("qaSum").innerHTML=qaShort(R)+`<p style="margin:14px 0 0">${t("qa_sum_found").replace("{n}",n).replace("{top}",top)}</p>`;
-  $("qaRes").innerHTML=(R.docs.length?`<div class="qa-grp">${t("qa_g_docs")} (${R.docs.length})</div>`+R.docs.map((h,i)=>qaHitDoc(h,i,R.terms)).join(""):"")
+  const top=R.docs[0]?`<a href="#doc-${esc(R.docs[0].d.id)}">${esc(trTitle(R.docs[0].d)||R.docs[0].d.t)}</a>`:R.gls[0]?esc(glTerm(R.gls[0].e)):R.nws[0]?esc(R.nws[0].n.title):R.nms[0]?esc(nmCode(R.nms[0].n)):esc(R.exps[0].x.name);
+  $("qaSum").innerHTML=(R.gls.length?`<div class="gl-ans"><span class="gl-badge">${t("gl_def_h")}</span><b>${esc(glTerm(R.gls[0].e))}</b> — ${esc(glDef(R.gls[0].e.d[0]))}${glSrcHtml(R.gls[0].e.d[0].s)}</div>`:"")+(R.docs.length?qaShort(R):"")+`<p style="margin:14px 0 0">${t("qa_sum_found").replace("{n}",n).replace("{top}",top)}</p>`;
+  $("qaRes").innerHTML=(R.gls.length?`<div class="qa-grp">${t("gl_h")} (${R.gls.length})</div>`+R.gls.map(h=>`<div class="qa-hit"><h3><a href="#glossary" data-glid="${h.e.id}">${qaMark(glTerm(h.e),R.terms)}</a></h3><div class="gl-eq" style="margin:2px 0 6px"><span><i>RU</i> ${esc(h.e.ru)}</span><span><i>EN</i> ${esc(h.e.en)}</span></div><blockquote style="margin-left:0">${qaMark(glDef(h.e.d[0]),R.terms)}</blockquote>${glSrcHtml(h.e.d[0].s)}</div>`).join(""):"")+(R.docs.length?`<div class="qa-grp">${t("qa_g_docs")} (${R.docs.length})</div>`+R.docs.map((h,i)=>qaHitDoc(h,i,R.terms)).join(""):"")
     +(R.nms.length?`<div class="qa-grp">${t("g_norms")} (${R.nms.length})</div>`+R.nms.map(h=>`<div class="qa-hit"><h3><a href="#norms" data-nmq="${esc(h.n.number||h.n.title.slice(0,30))}">${esc(nmCode(h.n))}</a>&nbsp;${nst(h.n.status)}</h3><div class="sub-t" style="margin-left:0">${qaMark(nmTitle(h.n),R.terms)}</div>${h.n.replacedBy?`<div class="nm-rel">${t("nm_replacedBy")}: <b>${esc(h.n.replacedBy)}</b></div>`:""}<div class="lnk" style="margin-left:0">${h.n.source.u?`<a href="${esc(h.n.source.u)}" target="_blank" rel="noopener noreferrer">${esc(h.n.source.t)} ${EXT}</a>`:""}${h.n.link&&h.n.link!==h.n.source.u?` · <a href="${esc(h.n.link)}" target="_blank" rel="noopener noreferrer">${t("nm_ayn")} ${EXT}</a>`:""}${h.n.pdf?` · <a href="${esc(h.n.pdf)}" target="_blank" rel="noopener noreferrer">⬇ ${t("nm_pdf")}</a>`:""}</div></div>`).join(""):"")
     +(R.nws.length?`<div class="qa-grp">${t("qa_g_news")} (${R.nws.length})</div>`+R.nws.map(h=>qaHitNews(h,R.terms)).join(""):"")
     +(R.exps.length?`<div class="qa-grp">${t("qa_g_exp")}</div>`+R.exps.map(h=>qaHitExp(h,R.terms)).join(""):"");
@@ -1869,6 +1895,7 @@ function renderNorms(){
 $("nmQ").addEventListener("input",()=>{nmLimit=100;renderNorms()});
 $("nmType").addEventListener("change",()=>{nmLimit=100;renderNorms()});
 $("nmArea").addEventListener("change",()=>{nmLimit=100;renderNorms()});
+$("glQ").addEventListener("input",()=>{$("glLetter").dataset.v="";renderGlossary()});$("glArea").addEventListener("change",()=>{$("glLetter").dataset.v="";renderGlossary()});
 $("nmMore").onclick=()=>{nmLimit+=200;renderNorms()};
 /* admin */
 function nmAdminHtml(warn){
@@ -1900,13 +1927,42 @@ function wireNmAdmin(){
     try{await DB.collection("norms").doc(nmEdit._id||newId("nm")).set(rec);nmEdit=null;toast(t("nm_saved"));renderAdmin()}catch(err){er.textContent=(err&&err.message)||"Error"}};
 }
 
+
+/* ================= glossary (Atamalar lug‘ati) ================= */
+let GL={src:{},terms:[]};
+const glCap=s=>s?s.charAt(0).toUpperCase()+s.slice(1):s;const glTerm=e=>glCap(lang==="uz"?uzLat(e.uz):e.uz);
+const glDef=d=>d.l==="uz"&&lang==="uz"?uzLat(d.x):d.x;
+const glNorm=e=>norm(e.uz+" "+uzLat(e.uz)+" "+e.ru+" "+e.en);
+function glSrcHtml(sid){const s=GL.src[sid];if(!s)return"";const nm=norms.find(n=>n._id===s.nm);
+  return `<div class="gl-src">${t("gl_src")}: <b>${esc(s.t)}</b>, ${esc(s.p)} · <a href="${esc(s.u)}" target="_blank" rel="noopener noreferrer">lex.uz ${EXT}</a>${nm?` · <a href="#norms" data-nmq="${esc(nm.number)}">${t("gl_reg")}</a>`:""}${nm&&nm.pdf?` · <a href="${esc(nm.pdf)}" target="_blank" rel="noopener noreferrer">⬇ ${t("nm_pdf")}</a>`:""}</div>`}
+function glCard(e,q){const mk=x=>q?qaMark(x,q):esc(x);
+  return `<article class="gl-item" id="gl-${e.id}"><h3>${mk(glTerm(e))}</h3>
+    <div class="gl-eq"><span><i>RU</i> ${mk(e.ru)}</span><span><i>EN</i> ${mk(e.en)}</span>${lang!=="uz"&&/[ўқғҳ]/i.test(e.uz)?`<span><i>UZ</i> ${mk(uzLat(e.uz))}</span>`:""}</div>
+    ${e.d.map(d=>`<div class="gl-def"><p>${mk(glDef(d))}${d.l==="ru"&&lang==="uz"?` <span class="note">(${t("gl_ru_orig")})</span>`:""}</p>${glSrcHtml(d.s)}</div>`).join("")}</article>`}
+function renderGlossary(){
+  const ar=$("glArea");
+  if(ar.dataset.lang!==lang||ar.dataset.n!=String(GL.terms.length)){const v=ar.value;ar.innerHTML=`<option value="">${t("nm_all_areas")}</option>`+NM_AREAS.filter(a=>GL.terms.some(e=>e.a===a)).map(a=>`<option value="${a}">${esc(t("ar_"+a))} (${GL.terms.filter(e=>e.a===a).length})</option>`).join("");ar.value=v;ar.dataset.lang=lang;ar.dataset.n=GL.terms.length}
+  $("glQ").placeholder=t("gl_search");
+  const q=norm($("glQ").value.trim()), a=ar.value, L=$("glLetter").dataset.v||"";
+  let r=GL.terms.filter(e=>(!a||e.a===a)&&(!q||glNorm(e).includes(q)||e.d.some(d=>norm(d.x+" "+uzLat(d.x)).includes(q))));
+  const first=e=>{const s=glTerm(e).replace(/^[«"(]/,"");return s.charAt(0).toUpperCase()};
+  const letters=[...new Set(r.map(first))].sort((x,y)=>x.localeCompare(y,lang));
+  $("glLetter").innerHTML=`<button type="button" class="${L?"":"on"}" data-gll="">${t("gl_all")}</button>`+letters.map(c=>`<button type="button" class="${L===c?"on":""}" data-gll="${esc(c)}">${esc(c)}</button>`).join("");
+  if(L)r=r.filter(e=>first(e)===L);
+  r.sort((x,y)=>glTerm(x).localeCompare(glTerm(y),lang));
+  $("glCount").textContent=`${r.length} ${t("gl_found")}`;
+  const qt=q?[q]:null;
+  $("glList").innerHTML=r.length?r.map(e=>glCard(e,qt)).join(""):`<div class="empty">${t("none")}</div>`;
+}
+function glSearch(terms){if(!GL.terms.length)return[];
+  return GL.terms.map(e=>Object.assign({e},qaScore([[glNorm(e),5],[norm(e.d.map(d=>d.x+" "+uzLat(d.x)).join(" ")),1]],terms))).filter(x=>x.sc>=5).sort((a,b)=>b.sc-a.sc||glTerm(a.e).length-glTerm(b.e).length).slice(0,3)}
 /* ================= routing & events ================= */
-const VIEWS=["home","news","catalog","norms","intl","experts","qa","upload","stats","admin","doc"];
+const VIEWS=["home","news","catalog","norms","glossary","intl","experts","qa","upload","stats","admin","doc"];
 function route(){
   const h=(location.hash||"#home").slice(1); const v=h.startsWith("doc-")?"doc":(VIEWS.includes(h)?h:"home");
   VIEWS.forEach(x=>$("v-"+x).classList.toggle("on",x===v));
-  document.querySelectorAll("[data-nav]").forEach(a=>a.classList.toggle("on",a.dataset.nav===v||(v==="doc"&&a.dataset.nav==="catalog")));
-  ({home:renderHome,news:renderNews,catalog:renderCatalog,norms:renderNorms,intl:renderIntl,experts:renderExperts,qa:renderQA,upload:renderUpload,stats:renderStats,admin:renderAdmin})[v]?.();
+  document.querySelectorAll("[data-nav]").forEach(a=>a.classList.toggle("on",a.dataset.nav===v||(v==="doc"&&a.dataset.nav==="catalog")||(v==="glossary"&&a.dataset.nav==="norms")));
+  ({home:renderHome,news:renderNews,catalog:renderCatalog,norms:renderNorms,glossary:renderGlossary,intl:renderIntl,experts:renderExperts,qa:renderQA,upload:renderUpload,stats:renderStats,admin:renderAdmin})[v]?.();
   if(v==="doc")renderDoc(h.slice(4));
   $("askFab").hidden=(v==="qa"||v==="admin");
 }
@@ -1937,6 +1993,8 @@ document.addEventListener("click",e=>{
   if(el=g("[data-approve]")){approve(el.dataset.approve);return}
   if(el=g("[data-reject]")){reject(el.dataset.reject);return}
   if(el=g("[data-ledit]")){linkEdit=Object.assign({},links.find(l=>l._id===el.dataset.ledit));armDel=null;renderAdmin();return}
+  if(el=g("[data-gll]")){$("glLetter").dataset.v=el.dataset.gll;renderGlossary();return}
+  if(el=g("[data-glid]")){e.preventDefault();$("glQ").value="";$("glArea").value="";$("glLetter").dataset.v="";go("glossary");setTimeout(()=>{const c=$("gl-"+el.dataset.glid);if(c){c.scrollIntoView({block:"start"});c.classList.add("flash")}},60);return}
   if(el=g("[data-nmq]")){e.preventDefault();$("nmQ").value=el.dataset.nmq;nmStatus="";go("norms");return}
   if(el=g("[data-nmst]")){nmStatus=el.dataset.nmst;nmLimit=100;renderNorms();return}
   if(g("[data-nmnew]")){nmEdit={status:"active",area:"general",source:{t:"",u:""}};renderAdmin();window.scrollTo(0,0);return}
@@ -2026,6 +2084,7 @@ const rerender=()=>{buildFilterChecks();paintLinks();paintAnnounce();
     if(isAdmin){db.collection("specreq").onSnapshot(s=>{xreqRaw=s.docs.map(d=>mapExpert(d.id,d.data()||{})).filter(x=>x.name);calcXreqs();rerender()},()=>{});
       db.collection("specstat").onSnapshot(s=>{xstat={};s.docs.forEach(d=>{const x=d.data()||{};xstat[d.id]={status:String(x.status||""),at:+x.at||0}});calcXreqs();rerender()},()=>{})}
     {const mine=LS.get("yr_myspec",null);if(mine&&mine.id){myReq=mapExpert(mine.id,mine.rec||{});watchMySpec()}}
+    fetch("data/glossary.json",{cache:"no-cache"}).then(r=>r.ok?r.json():null).then(j=>{if(j&&Array.isArray(j.terms)){GL={src:j.src||{},terms:j.terms};rerender()}}).catch(()=>{});
     db.collection("norms").onSnapshot(s=>{ok();norms=s.docs.map(d=>mapNorm(d.id,d.data()||{})).filter(n=>n.title);rerender()},()=>{});
     db.collection("qa").onSnapshot(s=>{qaAnswers=s.docs.map(d=>mapQaAns(d.id,d.data()||{})).filter(a=>a.q);rerender()},()=>{});
     if(isAdmin)db.collection("qareq").onSnapshot(s=>{qaReqAll=s.docs.map(d=>{const x=d.data()||{};return{items:Array.isArray(x.items)?x.items:[Object.assign({id:d.id},x)]}});rerender()},()=>{});
