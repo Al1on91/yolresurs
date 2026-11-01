@@ -448,8 +448,13 @@ footer .copy{border-top:1px solid rgba(255,255,255,.12);margin-top:26px;padding-
   .bar{grid-template-columns:minmax(0,1fr) 70px 44px}
 }
 @media (prefers-reduced-motion:reduce){*{transition:none!important}}
-.adm-entry{text-decoration:none;display:inline-flex;align-items:center;gap:6px}
+nav.main a.adm-entry{display:inline-flex;align-items:center;gap:7px;background:#0f7a6c;color:#fff!important;border-radius:9px;padding:9px 16px!important;margin-left:8px;font-weight:700;text-decoration:none}
+nav.main a.adm-entry::after{display:none!important}
+nav.main a.adm-entry:hover{background:#0c6a5d}
+.adm-entry[hidden]{display:none!important}
+.login .lnk{background:none;border:0;padding:0;color:var(--link);font-weight:600;cursor:pointer;text-decoration:underline;font-size:14px;align-self:flex-start}
 .login{display:flex;flex-direction:column;gap:14px;width:min(380px,100%);margin:22px auto 0;text-align:left}
+.login[hidden]{display:none}
 </style>
 </head>
 <body>
@@ -457,7 +462,7 @@ footer .copy{border-top:1px solid rgba(255,255,255,.12);margin-top:26px;padding-
   <span data-i="inst"></span>
   <div class="tools">
     <span id="adminPill" class="admin-pill" hidden data-i="admin_badge"></span>
-    <a class="tb-btn adm-entry" id="admEntry" href="#admin"><svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><rect x="4" y="10" width="16" height="11" rx="2"/><path d="M8 10V7a4 4 0 0 1 8 0v3"/></svg><span data-i="lg_link"></span></a><button class="tb-btn" id="themeBtn" type="button"></button>
+    <button class="tb-btn" id="themeBtn" type="button"></button>
     <div class="langs" role="group" aria-label="Til / Язык / Language"><button data-lang="uz">O‘zb</button><button data-lang="ru">Рус</button><button data-lang="en">Eng</button></div>
   </div>
 </div></div>
@@ -474,7 +479,7 @@ footer .copy{border-top:1px solid rgba(255,255,255,.12);margin-top:26px;padding-
     <a href="#experts" data-nav="experts" data-i="nav_exp"></a>
     <a href="#qa" data-nav="qa" data-i="nav_qa"></a>
     <a href="#upload" data-nav="upload" data-i="nav_upload"></a>
-    <a href="#admin" data-nav="admin" data-i="nav_admin" id="navAdmin" hidden></a>
+    <a href="#admin" data-nav="admin" data-i="nav_admin" id="navAdmin" hidden></a><a class="adm-entry" id="admEntry" href="#admin"><svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M12 3l8 3v6c0 4.5-3.4 8.3-8 9-4.6-.7-8-4.5-8-9V6z"/></svg><span>Admin</span></a>
   </nav>
 </div></header>
 <div class="flagline" aria-hidden="true"></div>
@@ -692,8 +697,16 @@ footer .copy{border-top:1px solid rgba(255,255,255,.12);margin-top:26px;padding-
     <h1 data-i="gate_h"></h1><p data-i="gate_p"></p>
     <form id="loginForm" class="login" novalidate>
       <div class="field"><label for="lgEmail" data-i="lg_email"></label><input id="lgEmail" type="email" autocomplete="username"></div>
+      <div class="field"><label for="lgPass" data-i="lg_pass"></label><input id="lgPass" type="password" autocomplete="current-password"></div>
       <div style="display:flex;gap:10px;align-items:center;flex-wrap:wrap"><button class="btn" type="submit" data-i="lg_btn"></button><a class="btn sec" href="#home" data-i="nav_home"></a></div>
+      <button type="button" class="lnk" id="lgReset" data-i="lg_reset"></button>
       <span class="err" id="lgErr" role="alert"></span>
+    </form>
+    <form id="pwForm" class="login" novalidate hidden>
+      <div class="field"><label for="pw1" data-i="pw_new"></label><input id="pw1" type="password" autocomplete="new-password"></div>
+      <div class="field"><label for="pw2" data-i="pw_rep"></label><input id="pw2" type="password" autocomplete="new-password"></div>
+      <button class="btn" type="submit" data-i="pw_save"></button>
+      <span class="err" id="pwErr" role="alert"></span>
     </form>
   </div>
   <div id="admBody" hidden>
@@ -1045,7 +1058,7 @@ function paintLinks(){
   $("homeLinks").innerHTML=ls.length?ls.map(l=>`<li><a href="${esc(safeUrl(l.url))}" target="_blank" rel="noopener noreferrer"><span>${esc(l.title)}</span>${EXT}</a>${l.desc?`<small>${esc(l.desc)}</small>`:""}</li>`).join(""):`<li class="note">${t("no_links")}</li>`;
   $("footLinks").innerHTML=ls.slice(0,6).map(l=>`<li><a href="${esc(safeUrl(l.url))}" target="_blank" rel="noopener noreferrer">${esc(l.title)}</a></li>`).join("");
 }
-function paintAdminChrome(){$("navAdmin").hidden=!isAdmin;$("adminPill").hidden=!isAdmin}
+function paintAdminChrome(){$("navAdmin").hidden=!isAdmin;if($("admEntry"))$("admEntry").hidden=isAdmin;$("adminPill").hidden=!isAdmin}
 
 /* ================= search ================= */
 function score(d,q){
@@ -1305,8 +1318,9 @@ function renderStats(){
 
 /* ================= admin ================= */
 function renderAdmin(){
+  if(window.YR_AUTH&&YR_AUTH.needPassword){$("admGate").hidden=false;$("admBody").hidden=true;$("loginForm").hidden=true;$("pwForm").hidden=false;const h=$("admGate").querySelector("h1");if(h)h.textContent=t("pw_h");return}
   $("admGate").hidden=isAdmin; $("admBody").hidden=!isAdmin; if(!isAdmin)return;
-  if($("admEntry"))$("admEntry").hidden=false;if($("admWho"))$("admWho").textContent=(window.YR_AUTH&&YR_AUTH.email)||"";
+  if($("admEntry"))$("admEntry").hidden=true;if($("admWho"))$("admWho").textContent=(window.YR_AUTH&&YR_AUTH.email)||"";
   const pend=subs.filter(s=>s.status==="pending").length;
   const tabs=[["dash",t("a_dash"),""],["docs",t("a_docs"),allDocs().length],["mod",t("a_mod"),pend],["news",t("a_news"),news.length],["exp",t("a_exp"),xreqs.filter(r=>r.status==="pending").length],["qa",t("a_qa"),qaPending().length],["links",t("a_links"),links.length],["set",t("a_set"),""]];
   $("admNav").innerHTML=tabs.map(([k,l,n])=>`<button data-tab="${k}" class="${admTab===k?"on":""}"><span>${l}</span>${n!==""?`<span class="cnt ${(k==="mod"&&pend)||(k==="exp"&&n)||(k==="qa"&&n)?"hot":""}">${n}</span>`:""}</button>`).join("");
@@ -1794,15 +1808,20 @@ $("upForm").addEventListener("submit",async e=>{
 let tt; function toast(m){const el=$("toast");el.textContent=m;el.classList.add("on");clearTimeout(tt);tt=setTimeout(()=>el.classList.remove("on"),2800)}
 
 /* ================= standalone additions ================= */
-Object.assign(T.uz,{gate_h:"Administrator kirishi",gate_p:"Admin panelga faqat administrator kiradi. Pochtangizni yozing — unga bir martalik kirish havolasi yuboriladi.",lg_sent:"Kirish havolasi pochtangizga yuborildi. Xatni oching va havolani shu brauzerda bosing.",lg_notadm:"Bu pochta administratorlar ro‘yxatida yo‘q.",lg_email:"Elektron pochta",lg_pass:"Parol",lg_btn:"Kirish havolasini yuborish",lg_out:"Chiqish",lg_link:"Administrator",lg_bad:"Pochta yoki parol noto‘g‘ri.",lg_nocfg:"Ma’lumotlar bazasi hali ulanmagan (config.js).",gt_btn:"Google Tarjimonda o‘zbekchada ochish",gt_note:"Asl hujjat sahifasi Google Tarjimon orqali tarjima qilinib ochiladi.",x_my_local:"Arizangiz yuborilgan. Administrator tasdiqlagach, profil shu sahifada chiqadi.",x_my_pending:"Arizangiz yuborildi va administrator tomonidan ko‘rib chiqilmoqda.",x_my_approved:"Profilingiz e’lon qilingan.",db_off:"Ma’lumotlar bazasi hozircha ulanmagan."});
-Object.assign(T.ru,{gate_h:"Вход администратора",gate_p:"Админ-панель доступна только администратору. Введите почту — на неё придёт одноразовая ссылка для входа.",lg_sent:"Ссылка для входа отправлена на почту. Откройте письмо и нажмите ссылку в этом браузере.",lg_notadm:"Этой почты нет в списке администраторов.",lg_email:"Электронная почта",lg_pass:"Пароль",lg_btn:"Отправить ссылку для входа",lg_out:"Выйти",lg_link:"Администратор",lg_bad:"Неверная почта или пароль.",lg_nocfg:"База данных ещё не подключена (config.js).",gt_btn:"Открыть на узбекском в Google Переводчике",gt_note:"Страница первоисточника откроется в переводе Google.",x_my_local:"Заявка отправлена. После подтверждения профиль появится на этой странице.",x_my_pending:"Заявка отправлена и рассматривается администратором.",x_my_approved:"Ваш профиль опубликован.",db_off:"База данных пока не подключена."});
-Object.assign(T.en,{gate_h:"Administrator sign-in",gate_p:"Only the administrator can open the admin panel. Enter your email and a one-time sign-in link will be sent to it.",lg_sent:"A sign-in link was sent to your email. Open it and click the link in this browser.",lg_notadm:"This email is not on the administrator list.",lg_email:"Email",lg_pass:"Password",lg_btn:"Send sign-in link",lg_out:"Sign out",lg_link:"Administrator",lg_bad:"Wrong email or password.",lg_nocfg:"The database is not connected yet (config.js).",gt_btn:"Open in Uzbek with Google Translate",gt_note:"The original page opens translated by Google.",x_my_local:"Application sent. Once approved, the profile will appear on this page.",x_my_pending:"Your application was sent and is being reviewed by the administrator.",x_my_approved:"Your profile is published.",db_off:"The database is not connected yet."});
+Object.assign(T.uz,{gate_h:"Administrator kirishi",gate_p:"Admin panelga faqat administrator kiradi. Pochta va parolingizni kiriting.",lg_reset:"Parolni o‘rnatish yoki tiklash (pochtaga havola keladi)",lg_reset_sent:"Pochtangizga parol o‘rnatish havolasi yuborildi. Xatni oching va havolani bosing.",lg_need_email:"Avval pochtangizni yozing.",pw_h:"Yangi parol o‘rnating",pw_new:"Yangi parol (kamida 8 belgi)",pw_rep:"Parolni takrorlang",pw_save:"Parolni saqlash va kirish",pw_short:"Parol kamida 8 belgidan iborat bo‘lsin.",pw_diff:"Parollar bir xil emas.",lg_sent:"Kirish havolasi pochtangizga yuborildi. Xatni oching va havolani shu brauzerda bosing.",lg_notadm:"Bu pochta administratorlar ro‘yxatida yo‘q.",lg_email:"Elektron pochta",lg_pass:"Parol",lg_btn:"Kirish",lg_out:"Chiqish",lg_link:"Administrator",lg_bad:"Pochta yoki parol noto‘g‘ri.",lg_nocfg:"Ma’lumotlar bazasi hali ulanmagan (config.js).",gt_btn:"Google Tarjimonda o‘zbekchada ochish",gt_note:"Asl hujjat sahifasi Google Tarjimon orqali tarjima qilinib ochiladi.",x_my_local:"Arizangiz yuborilgan. Administrator tasdiqlagach, profil shu sahifada chiqadi.",x_my_pending:"Arizangiz yuborildi va administrator tomonidan ko‘rib chiqilmoqda.",x_my_approved:"Profilingiz e’lon qilingan.",db_off:"Ma’lumotlar bazasi hozircha ulanmagan."});
+Object.assign(T.ru,{gate_h:"Вход администратора",gate_p:"Админ-панель доступна только администратору. Введите почту и пароль.",lg_reset:"Установить или восстановить пароль (ссылка придёт на почту)",lg_reset_sent:"На почту отправлена ссылка для установки пароля. Откройте письмо и нажмите ссылку.",lg_need_email:"Сначала введите почту.",pw_h:"Установите новый пароль",pw_new:"Новый пароль (не менее 8 символов)",pw_rep:"Повторите пароль",pw_save:"Сохранить пароль и войти",pw_short:"Пароль должен быть не короче 8 символов.",pw_diff:"Пароли не совпадают.",lg_sent:"Ссылка для входа отправлена на почту. Откройте письмо и нажмите ссылку в этом браузере.",lg_notadm:"Этой почты нет в списке администраторов.",lg_email:"Электронная почта",lg_pass:"Пароль",lg_btn:"Войти",lg_out:"Выйти",lg_link:"Администратор",lg_bad:"Неверная почта или пароль.",lg_nocfg:"База данных ещё не подключена (config.js).",gt_btn:"Открыть на узбекском в Google Переводчике",gt_note:"Страница первоисточника откроется в переводе Google.",x_my_local:"Заявка отправлена. После подтверждения профиль появится на этой странице.",x_my_pending:"Заявка отправлена и рассматривается администратором.",x_my_approved:"Ваш профиль опубликован.",db_off:"База данных пока не подключена."});
+Object.assign(T.en,{gate_h:"Administrator sign-in",gate_p:"Only the administrator can open the admin panel. Enter your email and password.",lg_reset:"Set or reset password (a link will be emailed)",lg_reset_sent:"A link to set your password was emailed. Open it and click the link.",lg_need_email:"Enter your email first.",pw_h:"Set a new password",pw_new:"New password (at least 8 characters)",pw_rep:"Repeat password",pw_save:"Save password and sign in",pw_short:"Use at least 8 characters.",pw_diff:"Passwords do not match.",lg_sent:"A sign-in link was sent to your email. Open it and click the link in this browser.",lg_notadm:"This email is not on the administrator list.",lg_email:"Email",lg_pass:"Password",lg_btn:"Sign in",lg_out:"Sign out",lg_link:"Administrator",lg_bad:"Wrong email or password.",lg_nocfg:"The database is not connected yet (config.js).",gt_btn:"Open in Uzbek with Google Translate",gt_note:"The original page opens translated by Google.",x_my_local:"Application sent. Once approved, the profile will appear on this page.",x_my_pending:"Your application was sent and is being reviewed by the administrator.",x_my_approved:"Your profile is published.",db_off:"The database is not connected yet."});
 const LS={get:(k,d)=>{try{const v=localStorage.getItem(k);return v?JSON.parse(v):d}catch(e){return d}},set:(k,v)=>{try{localStorage.setItem(k,JSON.stringify(v))}catch(e){}}};
 $("loginForm").addEventListener("submit",async e=>{e.preventDefault();const er=$("lgErr");er.textContent="";
   if(!window.YR_AUTH||!YR_AUTH.enabled){er.textContent=t("lg_nocfg");return}
   const btn=e.target.querySelector("button[type=submit]");btn.disabled=true;
-  const em=$("lgEmail").value.trim();if(!/^[^\s@]+@[^\s@]+\.[^\s@]+$/.test(em)){er.textContent=t("lg_bad");btn.disabled=false;return}
-  try{await YR_AUTH.sendLink(em);er.style.color="var(--accent)";er.textContent=t("lg_sent")}catch(err){er.textContent=(err&&err.message)||t("lg_bad");btn.disabled=false}});
+  const em=$("lgEmail").value.trim(), pw=$("lgPass").value;
+  try{const ok=await YR_AUTH.signIn(em,pw);if(ok){location.hash="admin";location.reload()}else{er.textContent=t("lg_notadm");btn.disabled=false}}catch(err){er.textContent=t("lg_bad");btn.disabled=false}});
+$("lgReset").onclick=async()=>{const er=$("lgErr");er.style.color="";const em=$("lgEmail").value.trim();if(!em){er.textContent=t("lg_need_email");$("lgEmail").focus();return}
+  try{await YR_AUTH.sendReset(em);er.style.color="var(--accent)";er.textContent=t("lg_reset_sent")}catch(err){er.textContent=(err&&err.message)||"Error"}};
+$("pwForm").addEventListener("submit",async e=>{e.preventDefault();const er=$("pwErr");er.textContent="";const a=$("pw1").value,b=$("pw2").value;
+  if(a.length<8){er.textContent=t("pw_short");return} if(a!==b){er.textContent=t("pw_diff");return}
+  try{await YR_AUTH.setPassword(a);location.hash="admin";location.reload()}catch(err){er.textContent=(err&&err.message)||"Error"}});
 if(window.YR_AUTH&&YR_AUTH.signedInNotAdmin){setTimeout(()=>{if($("lgErr"))$("lgErr").textContent=t("lg_notadm")},500)}
 $("logoutBtn").onclick=async()=>{await YR_AUTH.signOut();location.hash="home";location.reload()};
 

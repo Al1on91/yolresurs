@@ -4,6 +4,7 @@
 (function(){
   const CFG=window.YR_CONFIG||{};
   const HAS_SB=!!(CFG.supabaseUrl&&CFG.supabaseAnonKey&&window.supabase&&window.supabase.createClient);
+  let NEED_PW=false; try{const h=location.hash||"";NEED_PW=/type=(recovery|invite|signup)/.test(h)}catch(e){}
   const sb=HAS_SB?window.supabase.createClient(CFG.supabaseUrl,CFG.supabaseAnonKey,{auth:{persistSession:true,autoRefreshToken:true}}):null;
   window.YR_SB=sb;
   const PUBLIC=["docs","news","links","collections","site","specialists","qa","specstat"];
@@ -83,6 +84,7 @@
   const ready=(async()=>{
     if(sb){try{const {data}=await sb.auth.getSession();session=data.session;
       if(session){const r=await sb.rpc("is_admin");isAdmin=r&&r.data===true}
+      if(session&&NEED_PW){history.replaceState(null,"",location.pathname+"#admin")}
       if(session&&localStorage.getItem("yr_go_admin")){localStorage.removeItem("yr_go_admin");history.replaceState(null,"",location.pathname+"#admin")}
     }catch(e){}}
     return true;
@@ -91,6 +93,10 @@
     get enabled(){return !!sb},
     get isAdmin(){return isAdmin},
     get email(){return session&&session.user&&session.user.email||""},
+    get needPassword(){return NEED_PW&&!!session},
+    async signIn(email,password){if(!sb)throw new Error("config");const {data,error}=await sb.auth.signInWithPassword({email,password});if(error)throw error;session=data.session;const r=await sb.rpc("is_admin");isAdmin=r&&r.data===true;return isAdmin},
+    async sendReset(email){if(!sb)throw new Error("config");localStorage.setItem("yr_go_admin","1");const {error}=await sb.auth.resetPasswordForEmail(email,{redirectTo:location.origin+location.pathname});if(error)throw error;return true},
+    async setPassword(pw){if(!sb)throw new Error("config");const {error}=await sb.auth.updateUser({password:pw});if(error)throw error;NEED_PW=false;return true},
     async sendLink(email){if(!sb)throw new Error("config");localStorage.setItem("yr_go_admin","1");
       const {error}=await sb.auth.signInWithOtp({email,options:{shouldCreateUser:false,emailRedirectTo:location.origin+location.pathname}});if(error)throw error;return true},
     get signedInNotAdmin(){return !!session&&!isAdmin},
