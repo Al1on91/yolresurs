@@ -202,5 +202,53 @@
   "summary": "NCHRP IDEA 243-loyihasi yakuniy hisobotida georadar namlik ma'lumotlari va sun'iy intellekt asosidagi yoriq xaritalarini birlashtirgan ko‘prik qoplamasi zaiflik indeksi tavsiflangan. Usul 23 ta ko‘prikda sinab ko‘rildi va muhofaza ishlari zarur bo‘lgan joylarni erta aniqlashga yordam beradi.",
   "title": "AQShda ko‘prik qoplamalaridagi erta yoriqlarni georadar va sun'iy intellekt bilan aniqlash usuli taklif qilindi",
   "url": "https://onlinepubs.trb.org/onlinepubs/IDEA/FinalReports/Highway/NCHRP243.pdf"
+ },
+ {
+  "id": "d20261109-01",
+  "scope": "local",
+  "cat": "bridges",
+  "country": "O‘zbekiston",
+  "date": "2026-11-05",
+  "title": "Olot chegara postida yangi ko‘prik uchun 25 mlrd so‘m ajratildi",
+  "summary": "Prezident Buxoro viloyatini rivojlantirishga bag‘ishlangan yig‘ilishda Turkmaniston chegarasidagi Olot tumanida yangi ko‘prik va yo‘l infratuzilmasi uchun o‘z zaxirasidan 25 mlrd so‘m ajratishni topshirdi. Transport vazirligiga ko‘ra, Yomonjar kanali ustidagi 1978-yilda qurilgan ko‘prik eskirgan, yangisi har yo‘nalishda kamida ikki qatorli bo‘ladi. 2026-yilning yanvar–oktabr oylarida postdan 243 mingdan ortiq transport vositasi o‘tgan.",
+  "source": "Gazeta.uz",
+  "url": "https://www.gazeta.uz/oz/2026/11/05/olot-bridge/",
+  "createdAt": 1794189650914
+ },
+ {
+  "id": "d20261109-02",
+  "scope": "local",
+  "cat": "projects",
+  "country": "O‘zbekiston",
+  "date": "2026-11-04",
+  "title": "Samarqand–Buxoro oralig‘ida sement-betonli pulli yo‘l qurish rejalashtirilmoqda",
+  "summary": "Samarqand va Buxoro o‘rtasida sement-beton qoplamali pulli avtomagistral qurilishi rejalashtirilmoqda, bu yo‘l vaqtini taxminan 5 soatdan 1,5 soatga qisqartiradi; yonida tezyurar temir yo‘l ham ko‘zda tutilgan. Bundan tashqari, 2027-yildan M-37 yo‘lining 69 km qismi 200 mln dollarga rekonstruksiya qilinib, Buxoro atrofida 4,5 km aylanma yo‘l quriladi. A-380 yo‘lini rekonstruksiya qilish 2026-yilda yakunlanishi kerak.",
+  "source": "Gazeta.uz",
+  "url": "https://www.gazeta.uz/ru/2026/11/04/toll-road-samarkand-bukhara/",
+  "createdAt": 1794189650914
+ },
+ {
+  "id": "d20261109-03",
+  "scope": "foreign",
+  "cat": "bridges",
+  "country": "AQSh",
+  "date": "2026-11-02",
+  "title": "Kaliforniyada Santa-Mariya daryosi ustidagi yangi ko‘prik to‘sinlari o‘rnatildi",
+  "summary": "Santa-Barbara va San-Luis-Obispo okruglarini bog‘lovchi 1-shossedagi Santa-Mariya daryosi ko‘prigini almashtirish loyihasi qiymati 33 mln dollar. Mart oyida boshlangan ishlarda to‘sinlar o‘rnatib bo‘lindi, endi drenaj tizimlari qurilmoqda. Eski ko‘prik zamonaviy talablarga javob bermaydi; yangi ko‘prik 2030-yil bahorida ishga tushib, eskisi buziladi.",
+  "source": "KCLU",
+  "url": "https://www.kclu.org/2026-11-02/new-bridge-connecting-santa-barbara-and-san-luis-obispo-counties-reaches-construction-milestone",
+  "createdAt": 1794189650914
+ },
+ {
+  "id": "d20261109-04",
+  "scope": "foreign",
+  "cat": "bridges",
+  "country": "AQSh",
+  "date": "2026-11-06",
+  "title": "Vermontda I-89 avtomagistrali ustidan piyoda-velosiped ko‘prigi qurilmoqda",
+  "summary": "Janubiy Berlingtonda Interstate 89 yo‘lining 14-chiqishi ustidan piyodalar va velosipedchilar uchun ko‘prik qurilishi iyul oxirida boshlangan. Joriy bosqich Uilliston-Roud va University Mall hududini bog‘laydi. Ko‘prik 2028-yilda tugashi, shahar uni yil bo‘yi saqlashi va tunda yoritishi kutilmoqda.",
+  "source": "VTDigger",
+  "url": "https://vtdigger.org/2026/11/06/construction-of-the-south-burlington-walk-bike-bridge-advances-at-exit-14/",
+  "createdAt": 1794189650914
  }
 ]
