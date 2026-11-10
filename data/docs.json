@@ -2190,5 +2190,527 @@
   },
   "updatedAt": 1793504565772,
   "year": 2024
+ },
+ {
+  "id": "trbidea-224",
+  "ident": "TRB-IDEA-224",
+  "title": "Development of an Automated and Rapid Conditioning and Testing Device for Cracking and Rutting",
+  "authors": [
+   "Fujie Zhou",
+   "Jorge Roa",
+   "Texas A&M Transportation Institute"
+  ],
+  "org": "TRB / NCHRP IDEA (AQSh)",
+  "cat": "report",
+  "year": 2023,
+  "lang": "en",
+  "ftype": "PDF",
+  "pages": 0,
+  "kw": [
+   "asfalt aralashmasi",
+   "yoriqbardoshlik",
+   "iz hosil bo‘lishi",
+   "laboratoriya sinovi",
+   "avtomatlashtirish",
+   "sifat nazorati"
+  ],
+  "abs": "The project built AMAZE, a robot-based system that automates air-void measurement, temperature conditioning and IDEAL cracking and rutting tests of asphalt specimens for quality control. Its results were reported to be very close to those obtained by a lab technician.",
+  "link": "https://onlinepubs.trb.org/onlinepubs/IDEA/FinalReports/Highway/NCHRP224.pdf",
+  "intl": true,
+  "tr": {
+   "uz": {
+    "t": "Yorilish va iz hosil bo‘lishini sinash uchun avtomatik tezkor tayyorlash va sinash qurilmasi",
+    "ab": "Loyihada asfalt namunalarining g‘ovakligini o‘lchash, haroratda tayyorlash va IDEAL yoriq/iz sinovlarini robot yordamida avtomatik bajaruvchi AMAZE tizimi yaratildi. Natijalar laborant bajargan sinovlarga juda yaqin chiqdi. O‘zbekiston yo‘l laboratoriyalarida sifat nazorati sinovlarini tezlashtirish va inson xatosini kamaytirish uchun foydali."
+   }
+  },
+  "fileId": "",
+  "fileUrl": "",
+  "fileName": "",
+  "fileSize": 0,
+  "createdAt": 1794296525576,
+  "updatedAt": 1794296525576
+ },
+ {
+  "id": "trbidea-225",
+  "ident": "TRB-IDEA-225",
+  "title": "An Automated System for Larger-Scale Intersection Marking Data Collection and Condition Assessment",
+  "authors": [
+   "Kun Xie",
+   "Hong Yang",
+   "Old Dominion University",
+   "Cleveland State University"
+  ],
+  "org": "TRB / NCHRP IDEA (AQSh)",
+  "cat": "report",
+  "year": 2022,
+  "lang": "en",
+  "ftype": "PDF",
+  "pages": 0,
+  "kw": [
+   "yo‘l chiziqlari",
+   "chorrahalar",
+   "aerofotosurat",
+   "chuqur o‘qitish",
+   "holatni baholash"
+  ],
+  "abs": "A web-based tool locates intersections from GIS data, retrieves aerial imagery and uses deep learning to detect lane-use arrows and crosswalks and rate their condition. Detection precision was roughly 85-89% and condition rating accuracy 83-91%.",
+  "link": "https://onlinepubs.trb.org/onlinepubs/IDEA/FinalReports/Highway/NCHRP225.pdf",
+  "intl": true,
+  "tr": {
+   "uz": {
+    "t": "Chorrahalar yo‘l chiziqlari ma’lumotlarini keng miqyosda avtomatik yig‘ish va baholash tizimi",
+    "ab": "Veb-tizim GIS ma’lumotlari asosida chorrahalarni topib, aerofotosuratlardan chuqur o‘qitish yordamida yo‘nalish strelkalari va piyoda o‘tish joylarini aniqlaydi va ularning holatini baholaydi. Aniqlash aniqligi taxminan 85–89% bo‘ldi. O‘zbekistonda shahar yo‘l chiziqlarini joyga chiqmasdan inventarizatsiya qilish va ta’mirni rejalashtirishga yordam beradi."
+   }
+  },
+  "fileId": "",
+  "fileUrl": "",
+  "fileName": "",
+  "fileSize": 0,
+  "createdAt": 1794296525576,
+  "updatedAt": 1794296525576
+ },
+ {
+  "id": "trbidea-226",
+  "ident": "TRB-IDEA-226",
+  "title": "A Smart IOT Proximity Alert System for Highway Work Zone Safety",
+  "authors": [
+   "Yong K. Cho",
+   "Georgia Institute of Technology"
+  ],
+  "org": "TRB / NCHRP IDEA (AQSh)",
+  "cat": "report",
+  "year": 2024,
+  "lang": "en",
+  "ftype": "PDF",
+  "pages": 0,
+  "kw": [
+   "ish zonasi xavfsizligi",
+   "IoT",
+   "Bluetooth",
+   "yo‘l ishchilari",
+   "ogohlantirish tizimi"
+  ],
+  "abs": "A wearable Bluetooth proximity alarm for road workers, paired with beacons on equipment and cloud logging, was developed and field tested. It gave about 2.2 seconds of reaction time, though the worker's body could block the signal, so several devices per vest were suggested.",
+  "link": "https://onlinepubs.trb.org/onlinepubs/IDEA/FinalReports/Highway/NCHRP226.pdf",
+  "intl": true,
+  "tr": {
+   "uz": {
+    "t": "Yo‘l ish zonalari xavfsizligi uchun aqlli IoT yaqinlashish ogohlantirish tizimi",
+    "ab": "Yo‘l ishchilari uchun kiyiladigan Bluetooth yaqinlashish signal qurilmasi va texnikaga o‘rnatiladigan mayoqchalar ishlab chiqilib, dalada sinaldi. Tizim taxminan 2,2 soniya reaksiya vaqti berdi, ammo ishchi tanasi signalni to‘sib qo‘yishi mumkinligi aniqlandi. O‘zbekistonda yo‘l ta’mirlash joylarida ishchilarni texnika va transportdan himoya qilish uchun dolzarb."
+   }
+  },
+  "fileId": "",
+  "fileUrl": "",
+  "fileName": "",
+  "fileSize": 0,
+  "createdAt": 1794296525576,
+  "updatedAt": 1794296525576
+ },
+ {
+  "id": "trbidea-228",
+  "ident": "TRB-IDEA-228",
+  "title": "A Retroreflective Road Lane Marking Tape 1,000X Brighter than Existing Technology",
+  "authors": [
+   "Mark J. O'Neill",
+   "Mark O'Neill, LLC"
+  ],
+  "org": "TRB / NCHRP IDEA (AQSh)",
+  "cat": "report",
+  "year": 2022,
+  "lang": "en",
+  "ftype": "PDF",
+  "pages": 0,
+  "kw": [
+   "yo‘l chiziqlari",
+   "nur qaytaruvchanlik",
+   "lenta",
+   "tungi ko‘rinish",
+   "yo‘l harakati xavfsizligi"
+  ],
+  "abs": "Prototype marking stripes combining a light-turning prismatic film with cube-corner sheeting were made, lab-certified and installed in two test sections in North Carolina and Texas. The best prototype reached about 29,000 mcd/m²/lx versus roughly 800 for a common commercial tape.",
+  "link": "https://onlinepubs.trb.org/onlinepubs/IDEA/FinalReports/Highway/NCHRP228.pdf",
+  "intl": true,
+  "tr": {
+   "uz": {
+    "t": "Mavjud texnologiyadan 1000 marta yorqinroq nur qaytaruvchi yo‘l chizig‘i lentasi",
+    "ab": "Prizmatik plyonka va burchak-kubli qatlamdan iborat yangi yo‘l chizig‘i lentasi prototiplari tayyorlanib, AQShning ikki shtatida sinov uchastkalariga yotqizildi. Eng yaxshi namuna oddiy tijorat lentasidan o‘nlab marta yuqori nur qaytaruvchanlik ko‘rsatdi. O‘zbekiston yo‘llarida tungi ko‘rinishni yaxshilash va YTHni kamaytirish uchun qiziqarli yechim."
+   }
+  },
+  "fileId": "",
+  "fileUrl": "",
+  "fileName": "",
+  "fileSize": 0,
+  "createdAt": 1794296525576,
+  "updatedAt": 1794296525576
+ },
+ {
+  "id": "trbidea-229",
+  "ident": "TRB-IDEA-229",
+  "title": "Laboratory Dielectric Measurement System (LDMS) for Asphalt Mixture Bulk Specific Gravity Determination",
+  "authors": [
+   "Jo E. Sias",
+   "Eshan V. Dave",
+   "University of New Hampshire"
+  ],
+  "org": "TRB / NCHRP IDEA (AQSh)",
+  "cat": "report",
+  "year": 2023,
+  "lang": "en",
+  "ftype": "PDF",
+  "pages": 0,
+  "kw": [
+   "asfalt aralashmasi",
+   "zichlik",
+   "dielektrik o‘lchov",
+   "georadar",
+   "laboratoriya usuli"
+  ],
+  "abs": "A standard lab procedure was developed to estimate the bulk specific gravity of compacted asphalt specimens from dielectric (GPR-type) readings. Three readings at 120-degree orientations proved repeatable, and the Hashin-Shtrikman model predicted density best, leading to a draft test specification.",
+  "link": "https://onlinepubs.trb.org/onlinepubs/IDEA/FinalReports/Highway/NCHRP229.pdf",
+  "intl": true,
+  "tr": {
+   "uz": {
+    "t": "Asfalt aralashmasining hajmiy zichligini aniqlash uchun laboratoriya dielektrik o‘lchov tizimi",
+    "ab": "Zichlangan asfalt namunalarining hajmiy zichligini dielektrik (georadar turidagi) o‘lchovlar orqali aniqlash bo‘yicha laboratoriya usuli ishlab chiqildi. 120 gradusli uch o‘lchov takrorlanuvchan natija berdi va sinov standarti loyihasi tayyorlandi. O‘zbekistonda asfalt qatlamlarini zichlash sifatini buzmasdan tez nazorat qilishga xizmat qiladi."
+   }
+  },
+  "fileId": "",
+  "fileUrl": "",
+  "fileName": "",
+  "fileSize": 0,
+  "createdAt": 1794296525576,
+  "updatedAt": 1794296525576
+ },
+ {
+  "id": "trbidea-230",
+  "ident": "TRB-IDEA-230",
+  "title": "Automated Data and Feature Extraction from Bridge Plans",
+  "authors": [
+   "Behrouz Shafei",
+   "Iowa State University"
+  ],
+  "org": "TRB / NCHRP IDEA (AQSh)",
+  "cat": "report",
+  "year": 2024,
+  "lang": "en",
+  "ftype": "PDF",
+  "pages": 0,
+  "kw": [
+   "ko‘priklar",
+   "chizmalar",
+   "raqamli boshqaruv",
+   "chuqur o‘qitish",
+   "ma'lumotlar bazasi"
+  ],
+  "abs": "A deep-learning platform was built to pull dimensions, tables and text from bridge plan sets into spreadsheets, and it was tested on plans from Iowa and California DOTs. Most validation queries were extracted correctly when compared with manual extraction.",
+  "link": "https://onlinepubs.trb.org/onlinepubs/IDEA/FinalReports/Highway/NCHRP230.pdf",
+  "intl": true,
+  "tr": {
+   "uz": {
+    "t": "Ko‘prik chizmalaridan ma’lumot va belgilarni avtomatik ajratib olish",
+    "ab": "Chuqur o‘qitishga asoslangan platforma ko‘prik chizmalaridan o‘lchamlar, jadvallar va matnlarni avtomatik ravishda jadvalga ko‘chiradi; u Ayova va Kaliforniya chizmalarida sinaldi. Tekshiruvda so‘rovlarning aksariyati to‘g‘ri ajratib olindi. O‘zbekistonda eski ko‘prik hujjatlarini raqamlashtirish va ko‘priklar bazasini yuritish uchun foydali."
+   }
+  },
+  "fileId": "",
+  "fileUrl": "",
+  "fileName": "",
+  "fileSize": 0,
+  "createdAt": 1794296525576,
+  "updatedAt": 1794296525576
+ },
+ {
+  "id": "trbidea-231",
+  "ident": "TRB-IDEA-231",
+  "title": "AI Analyzer for Revealing Insights of Traffic Crashes",
+  "authors": [
+   "Jee Woong Park",
+   "Cristian Arteaga",
+   "University of Nevada, Las Vegas"
+  ],
+  "org": "TRB / NCHRP IDEA (AQSh)",
+  "cat": "report",
+  "year": 2023,
+  "lang": "en",
+  "ftype": "PDF",
+  "pages": 0,
+  "kw": [
+   "YTH tahlili",
+   "sun'iy intellekt",
+   "yo‘l harakati xavfsizligi",
+   "matn tahlili"
+  ],
+  "abs": "An open-source tool applies a text classifier and an explainable-AI method to police crash narratives to find phrase groups linked to crash severity. It was demonstrated on MassDOT crash records, and the authors note the results are exploratory.",
+  "link": "https://onlinepubs.trb.org/onlinepubs/IDEA/FinalReports/Highway/NCHRP231.pdf",
+  "intl": true,
+  "tr": {
+   "uz": {
+    "t": "YTH qonuniyatlarini ochib beruvchi AI analizator",
+    "ab": "Ochiq kodli vosita YTH bayonnomalaridagi matnlarni sun'iy intellekt yordamida tahlil qilib, og‘ir oqibatli hodisalar bilan bog‘liq iboralar guruhlarini aniqlaydi. U Massachusets ma’lumotlarida sinaldi, natijalar izlanish xarakterida ekani qayd etilgan. O‘zbekistonda YTH ma’lumotlaridan xavfli omillarni tezroq aniqlashga yordam berishi mumkin."
+   }
+  },
+  "fileId": "",
+  "fileUrl": "",
+  "fileName": "",
+  "fileSize": 0,
+  "createdAt": 1794296525576,
+  "updatedAt": 1794296525576
+ },
+ {
+  "id": "trbidea-232",
+  "ident": "TRB-IDEA-232",
+  "title": "Measuring Concrete Permeability with the CHIP",
+  "authors": [
+   "M. Tyler Ley",
+   "Oklahoma State University"
+  ],
+  "org": "TRB / NCHRP IDEA (AQSh)",
+  "cat": "report",
+  "year": 2023,
+  "lang": "en",
+  "ftype": "PDF",
+  "pages": 0,
+  "kw": [
+   "beton",
+   "o‘tkazuvchanlik",
+   "rentgen",
+   "silan himoyasi",
+   "chidamlilik"
+  ],
+  "abs": "The X-ray based CHIP device was improved and used in three case studies to measure how fluids penetrate concrete, plus an accelerated version of the test was developed. Effects of delayed curing and silane sealers were measurable, and test time dropped from 28 days to about six hours.",
+  "link": "https://onlinepubs.trb.org/onlinepubs/IDEA/FinalReports/Highway/NCHRP232.pdf",
+  "intl": true,
+  "tr": {
+   "uz": {
+    "t": "CHIP yordamida beton o‘tkazuvchanligini o‘lchash",
+    "ab": "Rentgen asosidagi CHIP qurilmasi takomillashtirilib, betonga suyuqlik singishini o‘lchash uchun uch amaliy holatda qo‘llandi va tezlashtirilgan sinov ishlab chiqildi. Silan qoplama ta’siri aniq o‘lchandi, sinov muddati 28 kundan taxminan 6 soatga qisqardi. O‘zbekistonda ko‘prik betonining chidamliligini tez baholash uchun ahamiyatli."
+   }
+  },
+  "fileId": "",
+  "fileUrl": "",
+  "fileName": "",
+  "fileSize": 0,
+  "createdAt": 1794296525576,
+  "updatedAt": 1794296525576
+ },
+ {
+  "id": "trbidea-233",
+  "ident": "TRB-IDEA-233",
+  "title": "Development of an Innovative Bio-Mediated Self-Healing Concrete Technology",
+  "authors": [
+   "Xiong (Bill) Yu",
+   "Case Western Reserve University"
+  ],
+  "org": "TRB / NCHRP IDEA (AQSh)",
+  "cat": "report",
+  "year": 2023,
+  "lang": "en",
+  "ftype": "PDF",
+  "pages": 0,
+  "kw": [
+   "beton",
+   "o‘zini tiklash",
+   "yoriqlar",
+   "biotexnologiya",
+   "chidamlilik"
+  ],
+  "abs": "Microcapsules containing fungi were added to mortar as a self-healing agent and evaluated in a proof-of-concept study. Cracks wider than 1 mm healed in the specimens, and the healed surface became strongly water-repellent.",
+  "link": "https://onlinepubs.trb.org/onlinepubs/IDEA/FinalReports/Highway/NCHRP233.pdf",
+  "intl": true,
+  "tr": {
+   "uz": {
+    "t": "Biologik vositali o‘zini tiklovchi beton texnologiyasi",
+    "ab": "Zamburug‘ saqlovchi mikrokapsulalar qorishmaga o‘zini tiklovchi vosita sifatida qo‘shilib, dastlabki sinovdan o‘tkazildi. Namunalarda 1 mm dan keng yoriqlar bitdi va yuzasi suv o‘tkazmaydigan bo‘ldi. O‘zbekistonda beton inshootlarning xizmat muddatini uzaytirish va ta’mir xarajatini kamaytirish nuqtai nazaridan istiqbolli."
+   }
+  },
+  "fileId": "",
+  "fileUrl": "",
+  "fileName": "",
+  "fileSize": 0,
+  "createdAt": 1794296525576,
+  "updatedAt": 1794296525576
+ },
+ {
+  "id": "trbidea-234",
+  "ident": "TRB-IDEA-234",
+  "title": "Field Test and Evaluation of a Solar Snow Fence",
+  "authors": [
+   "Tibor Hegedus",
+   "Longboard Power LLC"
+  ],
+  "org": "TRB / NCHRP IDEA (AQSh)",
+  "cat": "report",
+  "year": 2023,
+  "lang": "en",
+  "ftype": "PDF",
+  "pages": 0,
+  "kw": [
+   "qor to‘sig‘i",
+   "quyosh energiyasi",
+   "qishki saqlash",
+   "qor uyumlari"
+  ],
+  "abs": "A 25-foot sun-tracking solar snow fence that turns into a snow-fence position in strong winds was tested for 15 months beside I-80 in Wyoming. It produced 7.5-15 kWh per day and trapped drifting snow about as well as a nearby wooden fence without needing repairs.",
+  "link": "https://onlinepubs.trb.org/onlinepubs/IDEA/FinalReports/Highway/NCHRP234.pdf",
+  "intl": true,
+  "tr": {
+   "uz": {
+    "t": "Quyosh panelli qordan himoya to‘sig‘ini dalada sinash va baholash",
+    "ab": "Quyoshni kuzatuvchi va kuchli shamolda qor to‘sig‘i holatiga o‘tuvchi 7,6 metrli quyosh panelli to‘siq Vayomingdagi I-80 yo‘li yonida 15 oy sinaldi. U kuniga 7,5–15 kVt·soat energiya berdi va qorni yog‘och to‘siq kabi samarali ushlab qoldi. O‘zbekistonning tog‘li dovonlarida qor uyumlariga qarshi kurash va energiya olishni birlashtirish uchun qiziqarli."
+   }
+  },
+  "fileId": "",
+  "fileUrl": "",
+  "fileName": "",
+  "fileSize": 0,
+  "createdAt": 1794296525576,
+  "updatedAt": 1794296525576
+ },
+ {
+  "id": "trbidea-235",
+  "ident": "TRB-IDEA-235",
+  "title": "High Bond Steel Fibers for Ultra High-Performance Concrete (UHPC)",
+  "authors": [
+   "Sherif El-Tawil",
+   "HiPer Fiber, LLC"
+  ],
+  "org": "TRB / NCHRP IDEA (AQSh)",
+  "cat": "report",
+  "year": 2022,
+  "lang": "en",
+  "ftype": "PDF",
+  "pages": 0,
+  "kw": [
+   "UHPC",
+   "po‘lat tola",
+   "beton",
+   "ko‘prik qoplamasi"
+  ],
+  "abs": "A striated steel fiber for UHPC was developed and demonstrated in a bridge deck cast with an open-recipe UHPC mixed in a ready-mix truck. It increased pullout resistance by about 130% over smooth fiber, and a 1% dosage performed about as well as smooth fiber at 2%.",
+  "link": "https://onlinepubs.trb.org/onlinepubs/IDEA/FinalReports/Highway/NCHRP235.pdf",
+  "intl": true,
+  "tr": {
+   "uz": {
+    "t": "O‘ta yuqori mustahkam beton (UHPC) uchun yuqori yopishqoqlikli po‘lat tolalar",
+    "ab": "UHPC uchun yuzasi qirrali po‘lat tola ishlab chiqilib, oddiy beton mikserida tayyorlangan ochiq retseptli UHPC bilan ko‘prik qoplamasida sinaldi. Tola sug‘urib olishga qarshilikni silliq tolaga nisbatan taxminan 130% oshirdi va kamroq miqdorda ham shunday samara berdi. O‘zbekistonda UHPC ni arzonroq qo‘llash imkonini beradi."
+   }
+  },
+  "fileId": "",
+  "fileUrl": "",
+  "fileName": "",
+  "fileSize": 0,
+  "createdAt": 1794296525576,
+  "updatedAt": 1794296525576
+ },
+ {
+  "id": "trbidea-236",
+  "ident": "TRB-IDEA-236",
+  "title": "A Practical Method to Determine Reclaimed Asphalt Pavement (RAP) Binder Availability",
+  "authors": [
+   "Cassie Castorena",
+   "North Carolina State University",
+   "Trimat Materials Testing"
+  ],
+  "org": "TRB / NCHRP IDEA (AQSh)",
+  "cat": "report",
+  "year": 2024,
+  "lang": "en",
+  "ftype": "PDF",
+  "pages": 0,
+  "kw": [
+   "RAP",
+   "qayta ishlangan asfalt",
+   "bitum",
+   "aralashma loyihasi",
+   "yoriqbardoshlik"
+  ],
+  "abs": "A washed sieve-analysis method was developed to estimate how much of the old binder in RAP actually becomes active, and it was tested on nine RAP sources from four states. Most sources had about 60% availability, and adjusting mix design for it generally improved cracking resistance without hurting rutting performance.",
+  "link": "https://onlinepubs.trb.org/onlinepubs/IDEA/FinalReports/Highway/NCHRP236.pdf",
+  "intl": true,
+  "tr": {
+   "uz": {
+    "t": "Qayta ishlangan asfalt (RAP) bog‘lovchisining faol ulushini aniqlashning amaliy usuli",
+    "ab": "RAP tarkibidagi eski bitumning qancha qismi yangi aralashmada faol ishlashini aniqlash uchun yuvib elash usuli ishlab chiqildi va to‘rt shtatdagi to‘qqiz RAP manbasida sinaldi. Ko‘p manbalarda faol ulush taxminan 60% bo‘ldi, buni hisobga olgan loyiha yoriqbardoshlikni yaxshiladi. O‘zbekistonda eski asfaltni qayta ishlatishni ko‘paytirish va bitum tejash uchun bevosita foydali."
+   }
+  },
+  "fileId": "",
+  "fileUrl": "",
+  "fileName": "",
+  "fileSize": 0,
+  "createdAt": 1794296525576,
+  "updatedAt": 1794296525576
+ },
+ {
+  "id": "trbidea-240",
+  "ident": "TRB-IDEA-240",
+  "title": "Stainless Steel Coated Rebar for Chloride Resistant Concrete Highways and Bridges",
+  "authors": [
+   "Samuel McAlpine",
+   "Allium Engineering"
+  ],
+  "org": "TRB / NCHRP IDEA (AQSh)",
+  "cat": "report",
+  "year": 2023,
+  "lang": "en",
+  "ftype": "PDF",
+  "pages": 0,
+  "kw": [
+   "armatura",
+   "zanglamaydigan po‘lat",
+   "korroziya",
+   "xloridlar",
+   "ko‘priklar"
+  ],
+  "abs": "Stainless-steel-clad rebar was developed, first by cold spraying and then by cladding a billet before hot rolling, and a 1,500 lb pilot batch was produced. Annealing was needed for the coating to bend, and the report claims roughly four times the corrosion resistance of standard rebar, with some coating breaches to be addressed.",
+  "link": "https://onlinepubs.trb.org/onlinepubs/IDEA/FinalReports/Highway/NCHRP240.pdf",
+  "intl": true,
+  "tr": {
+   "uz": {
+    "t": "Xloridga chidamli beton yo‘l va ko‘priklar uchun zanglamaydigan po‘lat qoplamali armatura",
+    "ab": "Zanglamaydigan po‘lat bilan qoplangan armatura avval sovuq purkash, so‘ngra issiq prokatdan oldin zagotovkani qoplash usulida ishlab chiqildi va tajriba partiyasi tayyorlandi. Hisobotga ko‘ra korroziyaga chidamliligi oddiy armaturadan taxminan to‘rt barobar yuqori. O‘zbekistonda tuz va sho‘r tuproq ta’siridagi ko‘priklar uchun dolzarb."
+   }
+  },
+  "fileId": "",
+  "fileUrl": "",
+  "fileName": "",
+  "fileSize": 0,
+  "createdAt": 1794296525576,
+  "updatedAt": 1794296525576
+ },
+ {
+  "id": "trbidea-244",
+  "ident": "TRB-IDEA-244",
+  "title": "Development of a Compaction Quality Control Standard for the Small Diameter Pressuremeter",
+  "authors": [
+   "Paul J. Cosentino",
+   "Florida Institute of Technology"
+  ],
+  "org": "TRB / NCHRP IDEA (AQSh)",
+  "cat": "report",
+  "year": 2024,
+  "lang": "en",
+  "ftype": "PDF",
+  "pages": 0,
+  "kw": [
+   "gruntni zichlash",
+   "pressiometr",
+   "sifat nazorati",
+   "yer to‘shamasi",
+   "geotexnika"
+  ],
+  "abs": "A fully automated control unit for the small-diameter SSMini pressuremeter and a draft compaction quality-control standard based on modulus and limit pressure were developed, backed by over 230 tests in Florida sands and Virginia clays. A Proctor-based acceptance chart combining moisture, density, saturation and modulus was proposed.",
+  "link": "https://onlinepubs.trb.org/onlinepubs/IDEA/FinalReports/Highway/NCHRP244.pdf",
+  "intl": true,
+  "tr": {
+   "uz": {
+    "t": "Kichik diametrli pressiometr yordamida grunt zichlash sifatini nazorat qilish standartini ishlab chiqish",
+    "ab": "Kichik diametrli SSMini pressiometr uchun to‘liq avtomatik boshqaruv bloki va elastiklik moduli hamda chegaraviy bosimga asoslangan zichlash sifati standarti loyihasi ishlab chiqildi; 230 dan ortiq sinov qum va loy gruntlarda o‘tkazildi. Namlik, zichlik va modulni birlashtirgan qabul diagrammasi taklif qilindi. O‘zbekistonda yo‘l to‘shamasi gruntini zichlashni tezkor nazorat qilish uchun amaliy ahamiyatga ega."
+   }
+  },
+  "fileId": "",
+  "fileUrl": "",
+  "fileName": "",
+  "fileSize": 0,
+  "createdAt": 1794296525576,
+  "updatedAt": 1794296525576
  }
 ]
