@@ -2712,5 +2712,500 @@
   "fileSize": 0,
   "createdAt": 1794296525576,
   "updatedAt": 1794296525576
+ },
+ {
+  "id": "a20261111-01",
+  "ident": "YR-20261111-01",
+  "title": "Safe and Inclusive Road Designs in Central Asia — Resource Package",
+  "authors": [
+   "International Road Federation (IRF)",
+   "iRAP",
+   "EASST",
+   "UNESCAP"
+  ],
+  "org": "IRF / iRAP / EASST / UNESCAP (xalqaro)",
+  "cat": "guide",
+  "year": 2025,
+  "lang": "en",
+  "ftype": "WEB",
+  "pages": 0,
+  "kw": [
+   "yo‘l xavfsizligi",
+   "loyihalash me’yorlari",
+   "ko‘ndalang kesim",
+   "piyodalar",
+   "Markaziy Osiyo",
+   "road safety design",
+   "безопасность дорожного движения"
+  ],
+  "abs": "Resource package for road designers in Kyrgyzstan, Tajikistan and Uzbekistan, prepared by IRF, iRAP, EASST and UNESCAP with United Nations Road Safety Fund support and launched at a Tashkent workshop in June 2025. It supplements, rather than replaces, national standards: it reviews the existing GOST/SNiP-based design standards of each country, sets out safety-led design solutions such as lower speeds and forgiving infrastructure, and includes an iRAP star rating assessment of standard cross sections. English and Russian versions are available.",
+  "link": "https://www.gtkp.com/safe-and-inclusive-road-designs-in-central-asia/",
+  "intl": true,
+  "tr": {
+   "uz": {
+    "t": "Markaziy Osiyoda xavfsiz va inklyuziv yo‘l loyihalari — resurslar to‘plami",
+    "ab": "Qirg‘iziston, Tojikiston va O‘zbekiston yo‘l loyihachilari uchun IRF, iRAP, EASST va UNESCAP tayyorlagan to‘plam; BMT Yo‘l xavfsizligi jamg‘armasi ko‘magida, 2025-yil iyunda Toshkentdagi yakuniy seminarda taqdim etilgan. To‘plam milliy me’yorlarni almashtirmaydi, to‘ldiradi: har bir davlatning GOST/SNiP asosidagi loyihalash me’yorlari tahlil qilinadi, tezlikni pasaytirish va «kechirimli» infratuzilma kabi yechimlar beriladi, tipik ko‘ndalang kesimlar iRAP yulduzli bahosi bilan baholanadi. Ingliz va rus tillarida. O‘zbekiston yo‘llarini loyihalashda bevosita qo‘llanadi."
+   }
+  },
+  "fileId": "",
+  "fileUrl": "",
+  "fileName": "",
+  "fileSize": 0,
+  "createdAt": 1794343816557,
+  "updatedAt": 1794343816557
+ },
+ {
+  "id": "a20261111-02",
+  "ident": "YR-20261111-02",
+  "title": "Uzbekistan — Road Safety Design Guidance for Road Infrastructure Designers in Central Asia (English)",
+  "authors": [
+   "International Road Federation (IRF)",
+   "iRAP",
+   "EASST",
+   "UNESCAP"
+  ],
+  "org": "IRF / gTKP (xalqaro)",
+  "cat": "guide",
+  "year": 2025,
+  "lang": "en",
+  "ftype": "WEB",
+  "pages": 0,
+  "kw": [
+   "O‘zbekiston",
+   "yo‘l xavfsizligi",
+   "loyihalash qo‘llanmasi",
+   "piyoda o‘tish joyi",
+   "tezlik rejimi",
+   "road safety design guidance"
+  ],
+  "abs": "Country guidance for Uzbekistan from the Central Asia safe and inclusive road design project. It is written for road infrastructure designers and sets out how evidence-based safety measures can be built into design decisions alongside the national standards in force.",
+  "link": "https://www.gtkp.com/knowledge/uzbekistan-road-safety-design-guidance-for-road-infrastructure-designers-in-central-asia-english/",
+  "intl": true,
+  "tr": {
+   "uz": {
+    "t": "O‘zbekiston — yo‘l infratuzilmasi loyihachilari uchun yo‘l xavfsizligi bo‘yicha qo‘llanma (ingliz tilida)",
+    "ab": "Markaziy Osiyo loyihasi doirasida aynan O‘zbekiston uchun tayyorlangan qo‘llanma. Yo‘l infratuzilmasi loyihachilariga mo‘ljallangan: amaldagi milliy me’yorlar bilan birga xalqaro tajribaga asoslangan xavfsizlik choralarini loyiha qarorlariga qanday kiritish ko‘rsatilgan."
+   }
+  },
+  "fileId": "",
+  "fileUrl": "",
+  "fileName": "",
+  "fileSize": 0,
+  "createdAt": 1794343816558,
+  "updatedAt": 1794343816558
+ },
+ {
+  "id": "a20261111-03",
+  "ident": "YR-20261111-03",
+  "title": "Uzbekistan — Road Safety Design Guidance for Road Infrastructure Designers in Central Asia (Russian)",
+  "authors": [
+   "International Road Federation (IRF)",
+   "iRAP",
+   "EASST",
+   "UNESCAP"
+  ],
+  "org": "IRF / gTKP (xalqaro)",
+  "cat": "guide",
+  "year": 2025,
+  "lang": "ru",
+  "ftype": "WEB",
+  "pages": 0,
+  "kw": [
+   "O‘zbekiston",
+   "yo‘l xavfsizligi",
+   "loyihalash qo‘llanmasi",
+   "rus tilida",
+   "безопасность дорожного движения",
+   "проектирование дорог"
+  ],
+  "abs": "Ruscha nashri: Markaziy Osiyoda xavfsiz va inklyuziv yo‘l loyihalash bo‘yicha O‘zbekiston uchun qo‘llanma. Mamlakatimiz mutaxassislari uchun ishchi til sifatida qulay.",
+  "link": "https://www.gtkp.com/knowledge/uzbekistan-road-safety-design-guidance-for-road-infrastructure-designers-in-central-asia-russian/",
+  "intl": false,
+  "tr": {},
+  "fileId": "",
+  "fileUrl": "",
+  "fileName": "",
+  "fileSize": 0,
+  "createdAt": 1794343816559,
+  "updatedAt": 1794343816559
+ },
+ {
+  "id": "a20261111-04",
+  "ident": "YR-20261111-04",
+  "title": "Policies to Extend the Life of Road Assets",
+  "authors": [
+   "International Transport Forum (ITF)",
+   "Loes Aarts (rais)"
+  ],
+  "org": "ITF / OECD (xalqaro)",
+  "cat": "report",
+  "year": 2018,
+  "lang": "en",
+  "ftype": "PDF",
+  "pages": 0,
+  "kw": [
+   "yo‘l aktivlarini boshqarish",
+   "xizmat muddati",
+   "ta’mir siyosati",
+   "ma’lumotga asoslangan boshqaruv",
+   "asset management",
+   "срок службы дорог"
+  ],
+  "abs": "ITF Research Report prepared by a working group chaired by Rijkswaterstaat (Netherlands) with expert input from 17 countries. It examines what road administrations can do, in policy and in practice, to extend the service life of road assets, and treats road data itself as an asset in provision decisions.",
+  "link": "https://www.itf-oecd.org/sites/default/files/docs/policies-extend-life-road-assets.pdf",
+  "intl": true,
+  "tr": {
+   "uz": {
+    "t": "Yo‘l aktivlari xizmat muddatini uzaytirish siyosati",
+    "ab": "ITF ning 17 davlat mutaxassislari ishtirokidagi ishchi guruhi hisoboti (rais — Niderlandiya Rijkswaterstaat tashkiloti). Yo‘l tashkilotlari aktivlarning xizmat muddatini uzaytirish uchun qanday siyosiy va amaliy qarorlar qabul qilishi tahlil qilingan; yo‘l haqidagi ma’lumotlarning o‘zi ham aktiv sifatida ko‘riladi. O‘zbekistonda cheklangan ta’mir mablag‘ini taqsimlashda foydali."
+   }
+  },
+  "fileId": "",
+  "fileUrl": "",
+  "fileName": "",
+  "fileSize": 0,
+  "createdAt": 1794343816560,
+  "updatedAt": 1794343816560
+ },
+ {
+  "id": "a20261111-05",
+  "ident": "YR-20261111-05",
+  "title": "Asset Management for the Roads Sector",
+  "authors": [
+   "OECD Asset Management Working Group"
+  ],
+  "org": "OECD (xalqaro)",
+  "cat": "report",
+  "year": 2001,
+  "lang": "en",
+  "ftype": "PDF",
+  "pages": 0,
+  "kw": [
+   "aktivlarni boshqarish",
+   "yo‘l tarmog‘i",
+   "ma’lumot yig‘ish",
+   "boshqaruv tizimi",
+   "asset management",
+   "управление дорожными активами"
+  ],
+  "abs": "Report of the OECD Road Transport and Intermodal Linkage research programme working group on asset management. It defines asset management for road administrations, documents how far member countries had implemented it, and sets out the data collection and management such systems require.",
+  "link": "https://www.itf-oecd.org/sites/default/files/docs/01assete.pdf",
+  "intl": true,
+  "tr": {
+   "uz": {
+    "t": "Yo‘l sohasida aktivlarni boshqarish",
+    "ab": "OECD ning yo‘l transporti tadqiqot dasturi ishchi guruhi hisoboti. Yo‘l tashkilotlari uchun aktivlarni boshqarish tushunchasi aniqlanadi, a’zo davlatlarda uning joriy etilish darajasi yoritiladi hamda bunday tizim uchun qanday ma’lumot yig‘ilishi va qanday boshqarilishi kerakligi ko‘rsatiladi. Yo‘l tarmog‘i reyestrini yuritishda uslubiy asos bo‘ladi."
+   }
+  },
+  "fileId": "",
+  "fileUrl": "",
+  "fileName": "",
+  "fileSize": 0,
+  "createdAt": 1794343816561,
+  "updatedAt": 1794343816561
+ },
+ {
+  "id": "a20261111-06",
+  "ident": "YR-20261111-06",
+  "title": "CERCOM — Circular Economy in Road Construction and Maintenance: Case studies I & II, protocol and results",
+  "authors": [
+   "Danish Technological Institute",
+   "Research Driven Solutions",
+   "CEDR"
+  ],
+  "org": "CEDR (Yevropa)",
+  "cat": "report",
+  "year": 2023,
+  "lang": "en",
+  "ftype": "PDF",
+  "pages": 0,
+  "kw": [
+   "sirkulyar iqtisodiyot",
+   "qayta ishlash",
+   "yo‘l qurilishi",
+   "hayotiy sikl tahlili",
+   "ta’mir",
+   "circular economy",
+   "переработка"
+  ],
+  "abs": "Deliverable of the CERCOM project under the CEDR Transnational Road Research Programme. It sets out the protocol for selecting case studies of circular practice in road construction and maintenance and reports the results, including the method used for economic life-cycle assessment of pavement maintenance.",
+  "link": "https://www.cedr.eu/docs/view/6440f09c382ab-en",
+  "intl": true,
+  "tr": {
+   "uz": {
+    "t": "CERCOM — yo‘l qurilishi va saqlashda sirkulyar iqtisodiyot: amaliy misollar protokoli va natijalari",
+    "ab": "CEDR xalqaro yo‘l tadqiqotlari dasturi doirasidagi CERCOM loyihasi hisoboti. Yo‘l qurilishi va saqlashda materialni qayta ishlatish bo‘yicha amaliy misollarni tanlash tartibi va natijalari, shu jumladan qoplama ta’mirining iqtisodiy hayotiy sikl tahlili usuli keltirilgan. Materiallarni qayta ishlatish bo‘yicha bizdagi tajribalar uchun uslubiy namuna."
+   }
+  },
+  "fileId": "",
+  "fileUrl": "",
+  "fileName": "",
+  "fileSize": 0,
+  "createdAt": 1794343816562,
+  "updatedAt": 1794343816562
+ },
+ {
+  "id": "a20261111-07",
+  "ident": "YR-20261111-07",
+  "title": "CERCOM — Analysis of case studies: best practice approach",
+  "authors": [
+   "Delft University of Technology",
+   "Research Driven Solutions",
+   "CEDR"
+  ],
+  "org": "CEDR (Yevropa)",
+  "cat": "report",
+  "year": 2023,
+  "lang": "en",
+  "ftype": "PDF",
+  "pages": 0,
+  "kw": [
+   "sirkulyar iqtisodiyot",
+   "ilg‘or tajriba",
+   "qoplama",
+   "KPI",
+   "xarid",
+   "circular economy",
+   "best practice"
+  ],
+  "abs": "Companion CERCOM deliverable analysing the collected case studies. It reviews the technical, social and risk indicators European national road authorities use across the pavement life cycle, the data they collect, and how a risk-based assessment framework can be applied in procurement.",
+  "link": "https://www.cedr.eu/docs/view/64e8d56f7025e-en",
+  "intl": true,
+  "tr": {
+   "uz": {
+    "t": "CERCOM — amaliy misollar tahlili: ilg‘or tajriba yondashuvi",
+    "ab": "CERCOM loyihasining ikkinchi hisoboti. Yevropa milliy yo‘l tashkilotlari qoplamaning butun hayotiy sikli davomida qanday texnik, ijtimoiy va risk ko‘rsatkichlaridan foydalanishi, qanday ma’lumot yig‘ishi va xaridda riskka asoslangan baholash tizimi qanday qo‘llanishi tahlil qilingan."
+   }
+  },
+  "fileId": "",
+  "fileUrl": "",
+  "fileName": "",
+  "fileSize": 0,
+  "createdAt": 1794343816563,
+  "updatedAt": 1794343816563
+ },
+ {
+  "id": "a20261111-08",
+  "ident": "YR-20261111-08",
+  "title": "ERTRAC Roadmap: Circular Economy and Competitiveness of the European Road Transport",
+  "authors": [
+   "ERTRAC"
+  ],
+  "org": "ERTRAC (Yevropa Ittifoqi)",
+  "cat": "guide",
+  "year": 2025,
+  "lang": "en",
+  "ftype": "PDF",
+  "pages": 0,
+  "kw": [
+   "sirkulyar iqtisodiyot",
+   "resurs samaradorligi",
+   "yo‘l transporti",
+   "tadqiqot yo‘l xaritasi",
+   "circular economy",
+   "roadmap"
+  ],
+  "abs": "ERTRAC roadmap setting out the research and innovation priorities that the European road transport sector sees for circularity and competitiveness.",
+  "link": "https://www.ertrac.org/wp-content/uploads/2025/07/ERTRAC_CircularityCompetitiveness_Roadmap_2025_Final.pdf",
+  "intl": true,
+  "tr": {
+   "uz": {
+    "t": "ERTRAC yo‘l xaritasi: sirkulyar iqtisodiyot va Yevropa yo‘l transportining raqobatbardoshligi",
+    "ab": "Yevropa yo‘l transporti texnologiya platformasi ERTRAC ning yo‘l xaritasi: resurslarni qayta ishlatish va raqobatbardoshlik bo‘yicha ilmiy-tadqiqot ustuvorliklari belgilangan. Tadqiqot yo‘nalishlarini rejalashtirishda qiyosiy manba."
+   }
+  },
+  "fileId": "",
+  "fileUrl": "",
+  "fileName": "",
+  "fileSize": 0,
+  "createdAt": 1794343816564,
+  "updatedAt": 1794343816564
+ },
+ {
+  "id": "a20261111-09",
+  "ident": "YR-20261111-09",
+  "title": "ERTRAC Safe Road Transport Research Roadmap",
+  "authors": [
+   "ERTRAC"
+  ],
+  "org": "ERTRAC (Yevropa Ittifoqi)",
+  "cat": "guide",
+  "year": 2021,
+  "lang": "en",
+  "ftype": "PDF",
+  "pages": 0,
+  "kw": [
+   "yo‘l xavfsizligi",
+   "Vision Zero",
+   "tadqiqot ustuvorliklari",
+   "infratuzilma",
+   "road safety roadmap"
+  ],
+  "abs": "ERTRAC roadmap on road safety research, identifying the research needs European stakeholders set for reaching the EU's casualty reduction goals.",
+  "link": "https://www.ertrac.org/wp-content/uploads/2022/07/ERTRAC-Safety-Roadmap-2021.pdf",
+  "intl": true,
+  "tr": {
+   "uz": {
+    "t": "ERTRAC xavfsiz yo‘l transporti bo‘yicha tadqiqot yo‘l xaritasi",
+    "ab": "ERTRAC ning yo‘l xavfsizligi tadqiqotlari bo‘yicha yo‘l xaritasi: Yevropa Ittifoqining qurbonlarni kamaytirish maqsadlariga erishish uchun qanday ilmiy tadqiqotlar zarurligi belgilangan."
+   }
+  },
+  "fileId": "",
+  "fileUrl": "",
+  "fileName": "",
+  "fileSize": 0,
+  "createdAt": 1794343816565,
+  "updatedAt": 1794343816565
+ },
+ {
+  "id": "a20261111-10",
+  "ident": "YR-20261111-10",
+  "title": "ERTRAC Safety Paper 2023",
+  "authors": [
+   "ERTRAC"
+  ],
+  "org": "ERTRAC (Yevropa Ittifoqi)",
+  "cat": "report",
+  "year": 2023,
+  "lang": "en",
+  "ftype": "PDF",
+  "pages": 0,
+  "kw": [
+   "yo‘l xavfsizligi",
+   "tahliliy hujjat",
+   "infratuzilma",
+   "transport siyosati",
+   "road safety"
+  ],
+  "abs": "ERTRAC position paper on road transport safety research, updating the platform's view of priorities after its 2021 safety roadmap.",
+  "link": "https://www.ertrac.org/wp-content/uploads/2023/12/ERTRAC-Safety-Paper-2023.pdf",
+  "intl": true,
+  "tr": {
+   "uz": {
+    "t": "ERTRAC 2023-yilgi xavfsizlik hujjati",
+    "ab": "ERTRAC ning yo‘l transporti xavfsizligi tadqiqotlari bo‘yicha pozitsion hujjati: 2021-yilgi yo‘l xaritasidan keyingi yangilangan ustuvorliklar."
+   }
+  },
+  "fileId": "",
+  "fileUrl": "",
+  "fileName": "",
+  "fileSize": 0,
+  "createdAt": 1794343816566,
+  "updatedAt": 1794343816566
+ },
+ {
+  "id": "a20261111-11",
+  "ident": "YR-20261111-11",
+  "title": "Paving the way for Infrastructure and Long Distance Freight Transport cooperation",
+  "authors": [
+   "ERTRAC"
+  ],
+  "org": "ERTRAC (Yevropa Ittifoqi)",
+  "cat": "report",
+  "year": 2024,
+  "lang": "en",
+  "ftype": "PDF",
+  "pages": 0,
+  "kw": [
+   "yo‘l infratuzilmasi",
+   "yuk tashish",
+   "uzoq masofa",
+   "hamkorlik",
+   "freight transport",
+   "infrastructure"
+  ],
+  "abs": "ERTRAC deep-dive paper on how road infrastructure work and long-distance freight transport research can be brought closer together in Europe.",
+  "link": "https://www.ertrac.org/wp-content/uploads/2024/06/ERTRAC_LDFT_WG_DeepDiveB_v20240624.pdf",
+  "intl": true,
+  "tr": {
+   "uz": {
+    "t": "Infratuzilma va uzoq masofali yuk tashish hamkorligiga yo‘l ochish",
+    "ab": "ERTRAC ning chuqurlashtirilgan tahlili: Yevropada yo‘l infratuzilmasi va uzoq masofali yuk tashish tadqiqotlarini qanday birlashtirish mumkinligi ko‘rib chiqilgan. Transport yo‘laklari rivojlanayotgan O‘zbekiston uchun ham dolzarb."
+   }
+  },
+  "fileId": "",
+  "fileUrl": "",
+  "fileName": "",
+  "fileSize": 0,
+  "createdAt": 1794343816567,
+  "updatedAt": 1794343816567
+ },
+ {
+  "id": "a20261111-12",
+  "ident": "YR-20261111-12",
+  "title": "Transport Infrastructure Innovation Roadmap",
+  "authors": [
+   "Joint ETP Task Force (ERTRAC, ERRAC, WATERBORNE, ACARE, ECTP)"
+  ],
+  "org": "ERTRAC / Yevropa texnologiya platformalari",
+  "cat": "guide",
+  "year": 2013,
+  "lang": "en",
+  "ftype": "PDF",
+  "pages": 0,
+  "kw": [
+   "transport infratuzilmasi",
+   "innovatsiya",
+   "tadqiqot yo‘l xaritasi",
+   "qurilish texnologiyalari",
+   "infrastructure innovation"
+  ],
+  "abs": "Joint European technology platform roadmap on innovation in transport infrastructure, covering construction, maintenance and the research agenda shared across transport modes.",
+  "link": "https://www.ertrac.org/wp-content/uploads/2022/07/joint-etp-task-force-roadmap_84.pdf",
+  "intl": true,
+  "tr": {
+   "uz": {
+    "t": "Transport infratuzilmasi innovatsiyalari yo‘l xaritasi",
+    "ab": "Yevropa texnologiya platformalarining birgalikdagi yo‘l xaritasi: transport infratuzilmasidagi innovatsiyalar, qurilish va saqlash texnologiyalari hamda umumiy tadqiqot kun tartibi."
+   }
+  },
+  "fileId": "",
+  "fileUrl": "",
+  "fileName": "",
+  "fileSize": 0,
+  "createdAt": 1794343816568,
+  "updatedAt": 1794343816568
+ },
+ {
+  "id": "a20261111-13",
+  "ident": "YR-20261111-13",
+  "title": "RESKILLING — Reskilling the mobility workforce for Connected, Cooperative and Automated Mobility",
+  "authors": [
+   "FEHRL",
+   "CERTH/HIT",
+   "VTI",
+   "ECTRI",
+   "Polis",
+   "UITP"
+  ],
+  "org": "FEHRL / Horizon Europe (Yevropa)",
+  "cat": "project",
+  "year": 2025,
+  "lang": "en",
+  "ftype": "WEB",
+  "pages": 0,
+  "kw": [
+   "kadrlar tayyorlash",
+   "avtomatlashtirilgan harakat",
+   "malaka oshirish",
+   "CCAM",
+   "loyiha",
+   "workforce skills"
+  ],
+  "abs": "Horizon Europe project (GA 101147328, 2025–2027) led with FEHRL participation. It analyses how connected, cooperative and automated mobility changes road-sector professions and what skills the workforce will need, using a social innovation approach.",
+  "link": "https://www.fehrl.org/projects/detail/340",
+  "intl": true,
+  "tr": {
+   "uz": {
+    "t": "RESKILLING — bog‘langan va avtomatlashtirilgan harakat uchun kadrlarni qayta tayyorlash",
+    "ab": "FEHRL ishtirokidagi Horizon Europe loyihasi (2025–2027). Bog‘langan, kooperativ va avtomatlashtirilgan harakat yo‘l sohasidagi kasblarni qanday o‘zgartirayotgani va mutaxassislarga qanday yangi malakalar kerakligi o‘rganilmoqda. Kadrlar tayyorlash dasturlarini yangilashda foydali."
+   }
+  },
+  "fileId": "",
+  "fileUrl": "",
+  "fileName": "",
+  "fileSize": 0,
+  "createdAt": 1794343816569,
+  "updatedAt": 1794343816569
  }
 ]

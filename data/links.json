@@ -40,5 +40,75 @@
   "order": 6,
   "title": "PIARC — Jahon yo‘l assotsiatsiyasi",
   "url": "https://www.piarc.org"
+ },
+ {
+  "id": "l-piarc-tr",
+  "title": "PIARC texnik hisobotlari katalogi",
+  "url": "https://www.piarc.org/en/activities/PIARC-Directory-Technical-Reports",
+  "desc": "Yo‘l bo‘yicha yuzlab hisobot, bepul PDF",
+  "order": 7
+ },
+ {
+  "id": "l-piarc-dic",
+  "title": "PIARC yo‘l atamalari lug‘ati",
+  "url": "https://www.piarc.org/en/activities/Road-Dictionary-Terminology-Road-Transport",
+  "desc": "Ko‘p tilli onlayn terminologiya lug‘ati",
+  "order": 8
+ },
+ {
+  "id": "l-cedr",
+  "title": "CEDR — Yevropa yo‘l direktorlari konferensiyasi",
+  "url": "https://www.cedr.eu/research-and-innovation",
+  "desc": "Xalqaro yo‘l tadqiqotlari dasturi va hisobotlari",
+  "order": 9
+ },
+ {
+  "id": "l-ertrac",
+  "title": "ERTRAC — Yevropa yo‘l transporti texnologiya platformasi",
+  "url": "https://www.ertrac.org/documents/",
+  "desc": "Tadqiqot yo‘l xaritalari va tahliliy hujjatlar",
+  "order": 10
+ },
+ {
+  "id": "l-itf",
+  "title": "ITF — Xalqaro transport forumi (OECD)",
+  "url": "https://www.itf-oecd.org",
+  "desc": "Transport siyosati bo‘yicha bepul hisobotlar",
+  "order": 11
+ },
+ {
+  "id": "l-gtkp",
+  "title": "gTKP — global Transport Knowledge Practice",
+  "url": "https://www.gtkp.com",
+  "desc": "IRF kutubxonasi; Markaziy Osiyo bo‘yicha materiallar",
+  "order": 12
+ },
+ {
+  "id": "l-fehrl",
+  "title": "FEHRL — Yevropa yo‘l laboratoriyalari forumi",
+  "url": "https://www.fehrl.org",
+  "desc": "Yo‘l ilmiy-tadqiqot institutlari tarmog‘i va loyihalari",
+  "order": 13
+ },
+ {
+  "id": "l-trr",
+  "title": "Transportation Research Record (TRR)",
+  "url": "https://journals.sagepub.com/home/trr",
+  "desc": "TRB jurnali; qisman pullik, annotatsiyalar ochiq",
+  "order": 14
+ },
+ {
+  "id": "l-sciencedirect",
+  "title": "ScienceDirect (Elsevier)",
+  "url": "https://www.sciencedirect.com",
+  "desc": "Ilmiy maqolalar bazasi; ochiq kirishli maqolalar bor",
+  "order": 15
+ },
+ {
+  "id": "l-tandf",
+  "title": "Taylor & Francis Online",
+  "url": "https://www.tandfonline.com",
+  "desc": "Yo‘l va transport jurnallari; qisman pullik",
+  "order": 16
  }
 ]
