@@ -250,5 +250,41 @@
   "source": "VTDigger",
   "url": "https://vtdigger.org/2026/11/06/construction-of-the-south-burlington-walk-bike-bridge-advances-at-exit-14/",
   "createdAt": 1794189650914
+ },
+ {
+  "id": "trb-20240819-01",
+  "scope": "foreign",
+  "cat": "projects",
+  "country": "AQSh",
+  "date": "2024-08-19",
+  "title": "AQShda kichik pressiometr bilan grunt zichlash sifatini nazorat qilish standarti loyihasi tayyorlandi",
+  "summary": "NCHRP IDEA 244-loyihasi yakuniy hisobotida avtomatlashtirilgan SSMini pressiometr va uning asosidagi grunt zichlash sifat nazorati standarti loyihasi tavsiflangan. Usul qum va loy gruntlarda 230 dan ortiq sinov bilan tekshirildi.",
+  "source": "TRB NCHRP IDEA",
+  "url": "https://onlinepubs.trb.org/onlinepubs/IDEA/FinalReports/Highway/NCHRP244.pdf",
+  "createdAt": 1794296525576
+ },
+ {
+  "id": "trb-20240101-01",
+  "scope": "foreign",
+  "cat": "materials",
+  "country": "AQSh",
+  "date": "2024-01-01",
+  "title": "Qayta ishlangan asfaltdagi eski bitumning faol ulushini aniqlash uchun oddiy usul taklif qilindi",
+  "summary": "NCHRP IDEA 236-loyihasida RAP tarkibidagi bitumning qancha qismi ishlashini yuvib elash orqali baholash usuli ishlab chiqildi. To‘qqiz RAP manbasida faol ulush odatda 60% atrofida bo‘ldi, buni hisobga olgan aralashmalar yoriqqa chidamliroq chiqdi.",
+  "source": "TRB NCHRP IDEA",
+  "url": "https://onlinepubs.trb.org/onlinepubs/IDEA/FinalReports/Highway/NCHRP236.pdf",
+  "createdAt": 1794296525576
+ },
+ {
+  "id": "trb-20230501-01",
+  "scope": "foreign",
+  "cat": "winter",
+  "country": "AQSh",
+  "date": "2023-05-01",
+  "title": "Vayomingda quyosh panelli qor to‘sig‘i 15 oylik dala sinovidan o‘tdi",
+  "summary": "NCHRP IDEA 234-loyihasida quyoshni kuzatuvchi panellar kuchli shamolda qor to‘sig‘iga aylanadigan qurilma sinaldi. U kuniga 7,5–15 kVt·soat energiya berdi va qorni yog‘och to‘siq kabi ushlab qoldi.",
+  "source": "TRB NCHRP IDEA",
+  "url": "https://onlinepubs.trb.org/onlinepubs/IDEA/FinalReports/Highway/NCHRP234.pdf",
+  "createdAt": 1794296525576
  }
 ]
