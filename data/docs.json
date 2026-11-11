@@ -3207,5 +3207,399 @@
   "fileSize": 0,
   "createdAt": 1794343816569,
   "updatedAt": 1794343816569
+ },
+ {
+  "id": "trbidea-204",
+  "ident": "TRB-IDEA-204",
+  "title": "Biomimetic Antifreeze Molecules: A Novel Solution to Deicing Salts and Air-Entraining Admixtures",
+  "authors": [
+   "Wil V. Srubar III",
+   "University of Colorado Boulder"
+  ],
+  "org": "TRB / NCHRP IDEA (AQSh)",
+  "cat": "report",
+  "year": 2019,
+  "lang": "en",
+  "ftype": "PDF",
+  "pages": 43,
+  "kw": [
+   "muzlashga qarshi qo‘shimcha",
+   "beton",
+   "sovuqqa chidamlilik",
+   "qishki saqlash",
+   "biomimetika",
+   "antifreeze",
+   "морозостойкость"
+  ],
+  "abs": "IDEA Project 204 synthesized and tested low-cost, non-toxic, biodegradable antifreeze biopolymers that mimic the natural antifreeze proteins of fish, plants and insects. At very low concentrations the molecules inhibited ice recrystallization, and freeze-thaw testing showed BAM-modified cement paste and concrete stayed freeze-thaw resistant with minimal entrained air; the molecules did not, however, melt ice already formed on surfaces.",
+  "link": "https://onlinepubs.trb.org/onlinepubs/IDEA/FinalReports/HIghway/NCHRP204.pdf",
+  "intl": true,
+  "tr": {
+   "uz": {
+    "t": "Biomimetik antifriz molekulalari: tuzlar va havo tortuvchi qo‘shimchalarga yangicha yechim",
+    "ab": "Baliq va o‘simliklarning tabiiy antifriz oqsillariga taqlid qiluvchi arzon, zaharsiz biopolimerlar sintez qilinib sinovdan o‘tkazilgan. Juda past konsentratsiyada ular muz qayta kristallanishini to‘xtatadi; bunday qo‘shimchali beton havo tortuvchi qo‘shimchasiz ham muzlash-erishga chidamli bo‘lib chiqqan. O‘zbekiston sharoitida qishda tuz sepishni kamaytirish va beton chidamliligini oshirish yo‘nalishidagi izlanishlar uchun qiziqarli manba."
+   }
+  },
+  "fileId": "",
+  "fileUrl": "",
+  "fileName": "",
+  "fileSize": 0,
+  "createdAt": 1794424379536,
+  "updatedAt": 1794424379536
+ },
+ {
+  "id": "trbidea-207",
+  "ident": "TRB-IDEA-207",
+  "title": "MILDGLASS: GFRP Strand for Resilient Mild Pre-Stressed Concrete",
+  "authors": [
+   "Marco Rossini",
+   "Antonio Nanni",
+   "University of Miami"
+  ],
+  "org": "TRB / NCHRP IDEA (AQSh)",
+  "cat": "report",
+  "year": 2020,
+  "lang": "en",
+  "ftype": "WEB",
+  "pages": 39,
+  "kw": [
+   "GFRP",
+   "oldindan zo‘riqtirilgan beton",
+   "korroziya",
+   "armatura",
+   "ko‘prik",
+   "стеклопластиковая арматура",
+   "prestressed concrete"
+  ],
+  "abs": "IDEA Project 207 developed and tested a glass-FRP strand for mild prestressing of concrete as a corrosion-resistant, lower-cost alternative where steel corrodes — coastal substructures, sheet piles and structures exposed to de-icing salts. The vinyl-ester GFRP strand was characterized for pull strength under instantaneous and sustained load, pseudo-creep and anchor-setting losses, and was applied in the field on a Florida bridge.",
+  "link": "https://trb.org/Main/Blurbs/180729.aspx",
+  "intl": true,
+  "tr": {
+   "uz": {
+    "t": "MILDGLASS: oldindan zo‘riqtirilgan beton uchun korroziyabardosh shishatolali (GFRP) kanat",
+    "ab": "Po‘lat korroziyasi muammosiga qarshi shishatolali kompozit kanat ishlab chiqilib, uzilish kuchi, sudralish va ankerdagi yo‘qotishlar bo‘yicha sinalgan, Florida shtatidagi ko‘prikda amalda qo‘llangan. Tuz sepiladigan va namlik yuqori sharoitlarda ko‘prik elementlarining xizmat muddatini uzaytirish bo‘yicha bizning soha uchun ham dolzarb yo‘nalish."
+   }
+  },
+  "fileId": "",
+  "fileUrl": "",
+  "fileName": "",
+  "fileSize": 0,
+  "createdAt": 1794424379537,
+  "updatedAt": 1794424379537
+ },
+ {
+  "id": "trbidea-211",
+  "ident": "TRB-IDEA-211",
+  "title": "Reducing Stormwater Runoff with Biochar Addition to Roadway Soils",
+  "authors": [
+   "Paul T. Imhoff",
+   "University of Delaware"
+  ],
+  "org": "TRB / NCHRP IDEA (AQSh)",
+  "cat": "report",
+  "year": 2021,
+  "lang": "en",
+  "ftype": "PDF",
+  "pages": 52,
+  "kw": [
+   "bioko‘mir",
+   "yomg‘ir oqimi",
+   "yo‘l gruntlari",
+   "drenaj",
+   "ekologiya",
+   "biochar",
+   "ливневый сток"
+  ],
+  "abs": "IDEA Project 211 (Type II) tested whether amending roadway soils with wood-based biochar cuts stormwater runoff by improving water retention and infiltration, so existing green verges work as stormwater treatment without new infrastructure. Twelve roadway soils from four state DOTs were studied over time; in field tests biochar's infiltration benefit was more than double that measured in the laboratory, though soils that already drained well saw little gain.",
+  "link": "https://onlinepubs.trb.org/onlinepubs/IDEA/FinalReports/Highway/NCHRP211.pdf",
+  "intl": true,
+  "tr": {
+   "uz": {
+    "t": "Yo‘l gruntiga bioko‘mir qo‘shib yomg‘ir oqimini kamaytirish",
+    "ab": "Yo‘l yoqasidagi gruntga yog‘och bioko‘miri qo‘shilsa, suv shimilishi yaxshilanib, yomg‘ir oqimi sezilarli kamayishi 4 shtatdan olingan 12 xil gruntda sinab ko‘rilgan. Dala sinovlarida samara laboratoriyadagidan ikki baravar yuqori chiqqan. Yangi inshoot qurmasdan drenaj muammosini yumshatish — arzon va ekologik yechim sifatida e’tiborga molik."
+   }
+  },
+  "fileId": "",
+  "fileUrl": "",
+  "fileName": "",
+  "fileSize": 0,
+  "createdAt": 1794424379538,
+  "updatedAt": 1794424379538
+ },
+ {
+  "id": "trbidea-218",
+  "ident": "TRB-IDEA-218",
+  "title": "Development of Three Point Bending Cylinder (3PBC) Asphalt Mixture Fatigue Test System",
+  "authors": [
+   "Aksel Seitllari",
+   "M. Emin Kutay",
+   "Michigan State University"
+  ],
+  "org": "TRB / NCHRP IDEA (AQSh)",
+  "cat": "report",
+  "year": 2022,
+  "lang": "en",
+  "ftype": "WEB",
+  "pages": 48,
+  "kw": [
+   "asfalt",
+   "charchash sinovi",
+   "3PBC",
+   "laboratoriya",
+   "ASTM D8458",
+   "усталость асфальтобетона",
+   "fatigue test"
+  ],
+  "abs": "IDEA Project 218 refined the three-point bending cylinder (3PBC) fatigue test for asphalt mixtures, developed because standard fatigue tests are long, costly and material-hungry. The 3PBC rig is inexpensive, uses ordinary cylindrical specimens and shortens preparation and testing time; the project improved the fixture's robustness and analysis methodology, and the method has since been standardized as ASTM D8458-22.",
+  "link": "https://trb.org/Main/Blurbs/182769.aspx",
+  "intl": true,
+  "tr": {
+   "uz": {
+    "t": "Asfalt aralashmasi charchashini sinash uchun uch nuqtali egiluvchi silindr (3PBC) tizimi",
+    "ab": "An’anaviy charchash sinovlari uzoq va qimmat bo‘lgani uchun oddiy silindrik namunada ishlaydigan arzon 3PBC uskunasi yaratilgan: tayyorlash va sinash vaqti ancha qisqa. Usul keyinchalik ASTM D8458-22 standarti sifatida qabul qilingan. Institut laboratoriyasida asfaltbeton charchashini baholashni yo‘lga qo‘yish uchun qulay boshlang‘ich nuqta."
+   }
+  },
+  "fileId": "",
+  "fileUrl": "",
+  "fileName": "",
+  "fileSize": 0,
+  "createdAt": 1794424379539,
+  "updatedAt": 1794424379539
+ },
+ {
+  "id": "trbidea-219",
+  "ident": "TRB-IDEA-219",
+  "title": "A Novel Durable, Healable, and Conveniently Removable Pavement Marking Material",
+  "authors": [
+   "Long Jiang",
+   "Mijia Yang",
+   "Zhibin Lin",
+   "North Dakota State University"
+  ],
+  "org": "TRB / NCHRP IDEA (AQSh)",
+  "cat": "report",
+  "year": 2022,
+  "lang": "en",
+  "ftype": "PDF",
+  "pages": 51,
+  "kw": [
+   "yo‘l chiziqlari",
+   "vitrimer",
+   "epoksid",
+   "o‘z-o‘zini tiklash",
+   "vaqtinchalik belgilar",
+   "дорожная разметка",
+   "pavement marking"
+  ],
+  "abs": "IDEA Project 219 developed a vitrimer-based two-part epoxy pavement marking that self-heals micro-cuts at elevated temperature and can be removed selectively with a mild acidic solution, so one material serves both permanent and temporary (work-zone) marking without damaging the surface at removal. Field sections were placed on the NDSU campus and at MnROAD, and the formulation priced out cheaper than commercial temporary marking products in its dual role.",
+  "link": "https://onlinepubs.trb.org/onlinepubs/IDEA/FinalReports/Highway/NCHRP219.pdf",
+  "intl": true,
+  "tr": {
+   "uz": {
+    "t": "Mustahkam, o‘z-o‘zini tiklaydigan va oson ko‘chiriladigan yo‘l chizig‘i materiali",
+    "ab": "Vitrimer asosidagi ikki komponentli epoksid chiziq materiali mikro-yoriqlarini qizdirilganda o‘zi «davolaydi», kuchsiz kislotali eritma bilan esa qoplamani buzmasdan ko‘chiriladi — doimiy va vaqtinchalik (ta’mir zonasi) belgilar uchun bitta material. MnROAD poligonida dala sinovidan o‘tgan. Ta’mir ko‘p bo‘ladigan yo‘llarimizda vaqtinchalik chiziqlar muammosiga qiziqarli yechim."
+   }
+  },
+  "fileId": "",
+  "fileUrl": "",
+  "fileName": "",
+  "fileSize": 0,
+  "createdAt": 1794424379540,
+  "updatedAt": 1794424379540
+ },
+ {
+  "id": "trbidea-245",
+  "ident": "TRB-IDEA-245",
+  "title": "Simple and Rapid Tests for Assessing Quality and Consistency of Reclaimed Asphalt Pavement (RAP) for Recycled Asphalt Mixture Applications",
+  "authors": [
+   "Ilker Boz (VTRC)",
+   "Fan Yin (NCAT)"
+  ],
+  "org": "TRB / NCHRP IDEA (AQSh)",
+  "cat": "report",
+  "year": 2025,
+  "lang": "en",
+  "ftype": "WEB",
+  "pages": 54,
+  "kw": [
+   "RAP",
+   "qayta ishlangan asfalt",
+   "bog‘lovchi PG",
+   "IDEAL-CT",
+   "sifat nazorati",
+   "переработанный асфальтобетон",
+   "recycled asphalt"
+  ],
+  "abs": "IDEA Project 245 developed simple performance-based tests to estimate the performance grade (PG) of the binder in reclaimed asphalt pavement and to track RAP stockpile variability without solvent extraction and recovery, avoiding hazardous solvents such as trichloroethylene. Candidate tests including IDEAL-CT, HT-IDT, the Dongre workability test and impact resonance were evaluated on artificial and field RAP, and the framework offers an alternative to traditional extraction for quality control as RAP contents rise.",
+  "link": "https://trb.org/Main/Blurbs/183336.aspx",
+  "intl": true,
+  "tr": {
+   "uz": {
+    "t": "Qayta ishlangan asfalt (RAP) sifati va bir xilligini baholash uchun sodda va tezkor sinovlar",
+    "ab": "RAP tarkibidagi bitumning PG markasini zaharli erituvchilarsiz (ekstraksiyasiz) baholash va uyum bir xilligini nazorat qilish uchun IDEAL-CT, HT-IDT kabi tezkor sinovlarga asoslangan usul taklif etilgan. RAP ulushi oshgani sari sifat nazorati uchun bu yondashuv laboratoriyamizga bevosita tatbiq etsa bo‘ladigan amaliy natija."
+   }
+  },
+  "fileId": "",
+  "fileUrl": "",
+  "fileName": "",
+  "fileSize": 0,
+  "createdAt": 1794424379541,
+  "updatedAt": 1794424379541
+ },
+ {
+  "id": "trbidea-246",
+  "ident": "TRB-IDEA-246",
+  "title": "Develop a Method for Selecting Low-Energy Mixing and Compaction Temperatures for Asphalt Mixtures Considering Asphalt Lubrication and Aggregate Characteristics",
+  "authors": [
+   "Runhua Zhang",
+   "Hussain Bahia",
+   "University of Wisconsin-Madison"
+  ],
+  "org": "TRB / NCHRP IDEA (AQSh)",
+  "cat": "report",
+  "year": 2025,
+  "lang": "en",
+  "ftype": "WEB",
+  "pages": 54,
+  "kw": [
+   "aralashtirish harorati",
+   "zichlash",
+   "tribologiya",
+   "energiya tejash",
+   "asfalt",
+   "температура уплотнения",
+   "warm mix"
+  ],
+  "abs": "IDEA Project 246 brought tribology into asphalt practice: it built a tribological test rig and protocol for the lubricating ability of asphalt binders, linked lubrication to mixture workability, and proposed a method for setting mixing and compaction temperatures that accounts for aggregate characteristics rather than binder viscosity alone. The aim is lower production temperatures and energy use while improving density and pavement performance over methods such as ASTM D2493.",
+  "link": "https://trb.org/Main/Blurbs/183317.aspx",
+  "intl": true,
+  "tr": {
+   "uz": {
+    "t": "Asfalt moylash xossasi va tosh materiali xususiyatlarini hisobga olib kam energiyali aralashtirish va zichlash haroratini tanlash usuli",
+    "ab": "Bitumning «moylash» qobiliyatini o‘lchaydigan tribologik sinov yaratilib, aralashma ishlovchanligi shu orqali tushuntirilgan; aralashtirish-zichlash haroratini faqat qovushqoqlik bo‘yicha emas, tosh materiali xususiyatlarini ham hisobga olib tanlash usuli taklif etilgan. Bu asfalt zavodlarida haroratni pasaytirib energiya va bitum qarishini tejashga yo‘l ochadi."
+   }
+  },
+  "fileId": "",
+  "fileUrl": "",
+  "fileName": "",
+  "fileSize": 0,
+  "createdAt": 1794424379542,
+  "updatedAt": 1794424379542
+ },
+ {
+  "id": "trbidea-248",
+  "ident": "TRB-IDEA-248",
+  "title": "Enhanced Network-level Curve Safety Assessment and Monitoring Using Low-cost Mobile Devices — Refinement and Field Evaluation",
+  "authors": [
+   "Yi-Chang (James) Tsai",
+   "Georgia Institute of Technology"
+  ],
+  "org": "TRB / NCHRP IDEA (AQSh)",
+  "cat": "report",
+  "year": 2025,
+  "lang": "en",
+  "ftype": "PDF",
+  "pages": 58,
+  "kw": [
+   "egri uchastka",
+   "xavfsizlik",
+   "tavsiya tezligi",
+   "smartfon",
+   "IMU",
+   "кривые в плане",
+   "curve safety"
+  ],
+  "abs": "IDEA Project 248 refined a smartphone-based framework that uses built-in GPS and IMU sensors to assess horizontal-curve advisory speeds at network level, as a low-cost alternative to ball-bank indicator runs. Horizontal curves are about five percent of highway miles but account for nearly a quarter of fatal crashes; edge computing on the phone delivers advisory-speed results immediately on exiting each curve, and field evaluation covered accuracy and repeatability across vehicles and drivers.",
+  "link": "https://www.nationalacademies.org/osdocs/NCHRPIDEA248.pdf",
+  "intl": true,
+  "tr": {
+   "uz": {
+    "t": "Arzon mobil qurilmalar yordamida egri uchastkalar xavfsizligini tarmoq miqyosida baholash va kuzatish",
+    "ab": "Oddiy smartfonning GPS va IMU sensorlari orqali gorizontal egri uchastkalarda tavsiya etiladigan tezlikni avtomatik aniqlaydigan tizim takomillashtirilib, dalada turli avtomobil va haydovchilar bilan sinalgan. Egri uchastkalar yo‘lning ~5 foizini tashkil etsa-da, halokatli YTHlarning chorak qismi shu yerda sodir bo‘ladi. Qimmat asbob-uskunasiz butun tarmoqni tekshirish imkonini beradi — respublika yo‘llari uchun juda amaliy yechim."
+   }
+  },
+  "fileId": "",
+  "fileUrl": "",
+  "fileName": "",
+  "fileSize": 0,
+  "createdAt": 1794424379543,
+  "updatedAt": 1794424379543
+ },
+ {
+  "id": "trbidea-260",
+  "ident": "TRB-IDEA-260",
+  "title": "Bridges to the Future: Training Inspectors with Simulation-Based Interactive Storytelling",
+  "authors": [
+   "Hala Nassereddine",
+   "Amin Khoshkenar",
+   "University of Kentucky",
+   "Collins Engineers"
+  ],
+  "org": "TRB / NCHRP IDEA (AQSh)",
+  "cat": "report",
+  "year": 2026,
+  "lang": "en",
+  "ftype": "PDF",
+  "pages": 43,
+  "kw": [
+   "ko‘prik nazorati",
+   "inspektor tayyorlash",
+   "simulyatsiya",
+   "AR",
+   "kadrlar",
+   "обучение инспекторов",
+   "bridge inspection"
+  ],
+  "abs": "IDEA Project 260 addressed the retirement-driven gap in bridge construction inspection workforces: it built a simulation-based interactive-storytelling training platform whose branching scenarios encode the tacit knowledge of senior Kentucky Transportation Cabinet inspectors, delivered including on an AR headset. In a controlled trial with 59 students the simulation group scored significantly higher than classroom-trained peers and rated the training more positively on most survey items.",
+  "link": "https://www.nationalacademies.org/osdocs/NCHRP-IDEA-260-Final-Report.pdf",
+  "intl": true,
+  "tr": {
+   "uz": {
+    "t": "Kelajak ko‘priklari: inspektorlarni simulyatsiyaga asoslangan interaktiv hikoyalar bilan o‘qitish",
+    "ab": "Tajribali ko‘prik inspektorlarining bilimi tarmoqlanuvchi stsenariylarga aylantirilib, simulyatsiya-trenajyor yaratilgan; nazorat guruhli tajribada simulyatsiyada o‘qiganlar an’anaviy darsda o‘qiganlardan yuqori natija ko‘rsatgan. Tajribali kadrlar yetishmovchiligi sharoitida yosh mutaxassislarni tezroq tayyorlash usuli sifatida institut uchun ham ibratli."
+   }
+  },
+  "fileId": "",
+  "fileUrl": "",
+  "fileName": "",
+  "fileSize": 0,
+  "createdAt": 1794424379544,
+  "updatedAt": 1794424379544
+ },
+ {
+  "id": "trbidea-AR2024",
+  "ident": "TRB-IDEA-AR2024",
+  "title": "New IDEAs for Highway Systems: Highway IDEA Program Annual Report 2024",
+  "authors": [
+   "Transportation Research Board"
+  ],
+  "org": "TRB / NCHRP IDEA (AQSh)",
+  "cat": "report",
+  "year": 2024,
+  "lang": "en",
+  "ftype": "PDF",
+  "pages": 304,
+  "kw": [
+   "IDEA dasturi",
+   "yillik hisobot",
+   "innovatsiyalar",
+   "tadqiqot loyihalari",
+   "annual report"
+  ],
+  "abs": "Annual progress report of the NCHRP Highway IDEA program (December 2024), summarizing the active and completed exploratory innovation projects of the program year across pavements, structures, safety, maintenance and monitoring. A single volume for scanning what is being piloted before full reports appear.",
+  "link": "https://www.nationalacademies.org/osdocs/TRB-NCHRP-IDEA-2024.pdf",
+  "intl": true,
+  "tr": {
+   "uz": {
+    "t": "Avtomobil yo‘llari uchun yangi G‘OYAlar: Highway IDEA dasturining 2024-yilgi hisoboti",
+    "ab": "NCHRP IDEA dasturining 2024-yil dekabrdagi yillik hisoboti: qoplamalar, inshootlar, xavfsizlik va saqlash bo‘yicha barcha faol va yakunlangan tajriba loyihalarining qisqacha bayoni bitta jildda. Qaysi texnologiyalar hali sinov bosqichida ekanini kuzatib borish uchun qulay manba."
+   }
+  },
+  "fileId": "",
+  "fileUrl": "",
+  "fileName": "",
+  "fileSize": 0,
+  "createdAt": 1794424379545,
+  "updatedAt": 1794424379545
  }
 ]
