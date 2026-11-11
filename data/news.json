@@ -286,5 +286,53 @@
   "source": "TRB NCHRP IDEA",
   "url": "https://onlinepubs.trb.org/onlinepubs/IDEA/FinalReports/Highway/NCHRP234.pdf",
   "createdAt": 1794296525576
+ },
+ {
+  "id": "d20261111-01",
+  "scope": "local",
+  "cat": "projects",
+  "country": "O‘zbekiston",
+  "date": "2026-11-04",
+  "title": "Qoraqalpog‘istonda A380 yo‘lining Nukus–Urganch qismi to‘rt qatorga kengaytirilmoqda",
+  "summary": "A380 avtomagistralining Nukus va Urganch oralig‘idagi 25 km qismi ikki qatordan to‘rt qatorga kengaytirilmoqda, ish taxminan 90 foizga bajarilgan va 2026-yil oxirigacha yakunlanishi kutilmoqda. Loyiha qiymati 48,7 mln dollar bo‘lib, Osiyo taraqqiyot banki dasturiga kiradi; kunlik transport oqimi 6–7 mingdan 14–15 ming avtomobilgacha oshishi taxmin qilinmoqda. Dasturning umumiy byudjeti 383,4 mln dollar (274,2 mln dollari ATB krediti).",
+  "source": "Euronews",
+  "url": "https://www.euronews.com/2026/11/04/key-central-asian-highway-expands-on-trade-route-from-china-towards-europe",
+  "createdAt": 1794424860355
+ },
+ {
+  "id": "d20261111-02",
+  "scope": "local",
+  "cat": "safety",
+  "country": "O‘zbekiston",
+  "date": "2026-11-03",
+  "title": "Toshkentda Ko‘kcha darvoza ko‘chasida “Yashil to‘lqin” tizimi ishga tushirildi",
+  "summary": "Toshkentda Ko‘kcha darvoza ko‘chasining 7 km uchastkasidagi 16 ta svetofor yagona tizimga ulandi, shu sababli ruxsat etilgan tezlikda harakatlangan haydovchi ketma-ket yashil chiroqqa duch keladi. Tizim soat 07:00–17:00 da shahar markaziga, 17:00–24:00 da markazdan chiqish tomonga ishlaydi. Harakat markazi ma’lumotiga ko‘ra, yo‘l vaqti o‘rtacha 40 foizga (taxminan 8 daqiqaga) qisqargan, biroq bu ko‘rsatkich yuklama kam vaqtlarga tegishli.",
+  "source": "Spot.uz",
+  "url": "https://www.spot.uz/oz/2026/11/03/green-light",
+  "createdAt": 1794424860355
+ },
+ {
+  "id": "d20261111-03",
+  "scope": "foreign",
+  "cat": "bridges",
+  "country": "AQSh",
+  "date": "2026-11-05",
+  "title": "Janubiy Dakotada Sisseton yaqinidagi 127-shossedagi ko‘prik almashtirilib, harakat tiklandi",
+  "summary": "Janubiy Dakota transport departamenti xabariga ko‘ra, Sisseton yaqinida Kichik Minnesota daryosi ustidagi 127-shossedagi ko‘prik almashtirilib, 6-noyabrda harakatga ochildi. Ishlar davomida yangi quti shaklidagi suv o‘tkazgichlar o‘rnatilib, eski ko‘prik almashtirildi. Loyiha qiymati 7,7 mln dollar, pudratchi Young Gun Construction.",
+  "source": "SDDOT",
+  "url": "https://dot.sd.gov/inside-sddot/media/press-releases/sd-highway-127-reopens-to-traffic-following-bridge-replacement-project-near-sisseton/",
+  "createdAt": 1794424860355
+ },
+ {
+  "id": "d20261111-04",
+  "scope": "foreign",
+  "cat": "bridges",
+  "country": "Kanada",
+  "date": "2026-11-10",
+  "title": "Kalgari yaqinidagi 8-shossedagi Stu Hart ko‘prigida sharqiy yo‘nalish ochildi",
+  "summary": "Kanadaning Alberta provinsiyasida Kalgaridan g‘arbda joylashgan 8-shossedagi Stu Hart yodgorlik ko‘prigining sharqqa qaragan qatnov qismi 10-noyabr kuni haydovchilar uchun ochildi. Maqola matni to‘liq olinmagani sababli loyiha qiymati va muddatlari haqida ma’lumot keltirilmadi.",
+  "source": "CTV News",
+  "url": "https://www.ctvnews.ca/calgary/article/stu-hart-memorial-bridge-opens-on-highway-8-west-of-calgary/",
+  "createdAt": 1794424860355
  }
 ]
