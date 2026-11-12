@@ -334,5 +334,65 @@
   "source": "CTV News",
   "url": "https://www.ctvnews.ca/calgary/article/stu-hart-memorial-bridge-opens-on-highway-8-west-of-calgary/",
   "createdAt": 1794424860355
+ },
+ {
+  "id": "d20261110-03",
+  "scope": "local",
+  "cat": "projects",
+  "country": "O‘zbekiston",
+  "date": "2026-11-05",
+  "title": "A-380 trassasining Nukus–Urganch oralig‘idagi 25 km qismi to‘rt tasmaga kengaytirilmoqda",
+  "summary": "Qoraqalpog‘istonda A-380 avtomagistralining 25 km qismini ikki tasmadan to‘rt tasmaga kengaytirish loyihasi qariyb 90 foiz bajarilgan va 2026-yil oxirigacha yakunlanishi rejalashtirilgan. Loyiha qiymati taxminan 48,7 mln dollar; taxminan 3 km beton qoplama va bitta yo‘l o‘tkazgich qolgan, qayrilish uchun maxsus estakadalar ham ko‘zda tutilgan. Yo‘l CAREC dasturining 2-yo‘lagi tarkibiga kiradi.",
+  "source": "inBusiness.kz (Euronews)",
+  "url": "https://inbusiness.kz/ru/last/uzbekistan-rasshiryaet-trassu-v-evropu",
+  "createdAt": 1794276144253
+ },
+ {
+  "id": "d20261110-04",
+  "scope": "foreign",
+  "cat": "materials",
+  "country": "Qozog‘iston",
+  "date": "2026-11-02",
+  "title": "Qozog‘iston yo‘l qurilishida bitum sifatini oshirish va polimer-modifikatsiyalangan bitumga o‘tishni rejalashtirmoqda",
+  "summary": "Transport vaziri Nurlan Sauranbayevning ma’lum qilishicha, vazirliklar va «QazMunayGaz» bitumni tashish va saqlash tizimini xatlovdan o‘tkazib, polimer-modifikatsiyalangan bitumdan kengroq foydalanishni taklif qildi. CASPI BITUM va Pavlodar neft-kimyo zavodlari 50/70, 70/100 markali va modifikatsiyalangan bitum ishlab chiqarishga tayyor. Shuningdek, tor fraksiyali chaqiq tosh, buzmaydigan sinov usullari va iqlimni hisobga oluvchi yangilangan standartlar taklif etildi.",
+  "source": "Trend",
+  "url": "https://www.trend.az/casia/kazakhstan/4241828.html",
+  "createdAt": 1794276144253
+ },
+ {
+  "id": "d20261110-05",
+  "scope": "foreign",
+  "cat": "projects",
+  "country": "Qozog‘iston",
+  "date": "2026-11-04",
+  "title": "Orol–Kaspiy avtomagistrali 2028-yil oxirigacha qurib bitkaziladi",
+  "summary": "Qozog‘iston Bosh vazirining birinchi o‘rinbosari Nurlibek Nalibayev avgustda boshlangan Orol–Kaspiy magistrali qurilishi 2028-yil oxirida yakunlanishini ma’lum qildi; yo‘l yuk yetkazish muddatini uch kungacha qisqartiradi. Ko‘kshetov–Petropavl qismini kengaytirish 2027-yilning birinchi yarmida boshlanadi. Endi mamlakatdagi barcha yo‘llar Transport vazirligi tasarrufiga o‘tdi.",
+  "source": "Trend",
+  "url": "https://www.trend.az/casia/kazakhstan/4242673.html",
+  "createdAt": 1794276144253
+ },
+ {
+  "id": "d20261110-06",
+  "scope": "foreign",
+  "cat": "bridges",
+  "country": "AQSh",
+  "date": "2026-11-04",
+  "title": "Missisipi daryosi ustidagi yangi Lansing ko‘prigi muddatidan oldin ochildi",
+  "summary": "Ayova shtatidagi Lansing shahrini Viskonsin bilan bog‘lovchi, uzunligi 1 700 futdan (520 m dan) ortiq yangi ko‘prik 6-noyabrda harakat uchun ochilishi e’lon qilindi — dastlab bu 2027-yil bahoriga rejalashtirilgan edi. Ko‘prik eski Black Hawk ko‘prigi o‘rnini egallaydi, kengroq tasmalar va 8 futlik yelkalarga ega. Daryo kema yo‘lagi kengligi 650 futdan 750 futgacha oshdi.",
+  "source": "The Waterways Journal",
+  "url": "https://www.waterwaysjournal.net/2026/11/04/new-lansing-mississippi-river-bridge-opening-set/",
+  "createdAt": 1794276144253
+ },
+ {
+  "id": "d20261110-07",
+  "scope": "foreign",
+  "cat": "bridges",
+  "country": "AQSh",
+  "date": "2026-11-09",
+  "title": "Alabamada 87 yillik Gilbert’s Ferry ko‘prigini almashtirish uchun 22,1 mln dollarlik shartnoma imzolandi",
+  "summary": "Alabama transport departamenti Kusa daryosi ustidagi Highway 77 ko‘prigini almashtirish shartnomasini to‘rt ishtirokchi orasida eng arzon taklif bergan Scott Bridge Company’ga topshirdi. Yangi ko‘prik 910 fut uzunlikda va 36 fut kenglikda bo‘lib, ikki 12 futlik tasma va 6 futlik yelkalarga ega bo‘ladi. Qurilish 2027-yil boshida boshlanib, 2029-yil oxirida yakunlanishi kutilmoqda.",
+  "source": "WEIS Radio",
+  "url": "https://weisradio.com/2026/11/09/gilberts-ferry-bridge-replacement-contract/",
+  "createdAt": 1794276144253
  }
 ]
