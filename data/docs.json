@@ -2192,1414 +2192,898 @@
   "year": 2024
  },
  {
-  "id": "trbidea-224",
-  "ident": "TRB-IDEA-224",
-  "title": "Development of an Automated and Rapid Conditioning and Testing Device for Cracking and Rutting",
+  "id": "a20261110-01",
+  "ident": "YR-20261110-01",
+  "title": "Beton Karışım Oranları Tayin Rehberi",
   "authors": [
-   "Fujie Zhou",
-   "Jorge Roa",
-   "Texas A&M Transportation Institute"
+   "Karayolları Genel Müdürlüğü (KGM)"
   ],
-  "org": "TRB / NCHRP IDEA (AQSh)",
-  "cat": "report",
-  "year": 2023,
+  "org": "KGM (Turkiya)",
+  "cat": "guide",
+  "year": 2025,
   "lang": "en",
   "ftype": "PDF",
   "pages": 0,
   "kw": [
-   "asfalt aralashmasi",
-   "yoriqbardoshlik",
-   "iz hosil bo‘lishi",
-   "laboratoriya sinovi",
-   "avtomatlashtirish",
-   "sifat nazorati"
+   "beton tarkibi",
+   "yo‘l betoni",
+   "sement",
+   "Turkiya",
+   "состав бетона",
+   "concrete mix design"
   ],
-  "abs": "The project built AMAZE, a robot-based system that automates air-void measurement, temperature conditioning and IDEAL cracking and rutting tests of asphalt specimens for quality control. Its results were reported to be very close to those obtained by a lab technician.",
-  "link": "https://onlinepubs.trb.org/onlinepubs/IDEA/FinalReports/Highway/NCHRP224.pdf",
+  "abs": "Guide by KGM's R&D Department (Materials Laboratories Branch) on selecting concrete mix proportions for road and structural works. It covers exposure classes, choice of cement and aggregates, water–cement ratio, air content, consistency and per-cubic-metre quantity calculations. Original in Turkish.",
+  "link": "https://www.kgm.gov.tr/SiteCollectionDocuments/KGMdocuments/Baskanliklar/BaskanliklarTeknikArastirma/Yay%C4%B1mlar/Beton%20Kar%C4%B1%C5%9F%C4%B1m%20Oranlar%C4%B1%20Tayin%20Rehberi%202025.pdf",
   "intl": true,
   "tr": {
    "uz": {
-    "t": "Yorilish va iz hosil bo‘lishini sinash uchun avtomatik tezkor tayyorlash va sinash qurilmasi",
-    "ab": "Loyihada asfalt namunalarining g‘ovakligini o‘lchash, haroratda tayyorlash va IDEAL yoriq/iz sinovlarini robot yordamida avtomatik bajaruvchi AMAZE tizimi yaratildi. Natijalar laborant bajargan sinovlarga juda yaqin chiqdi. O‘zbekiston yo‘l laboratoriyalarida sifat nazorati sinovlarini tezlashtirish va inson xatosini kamaytirish uchun foydali."
+    "t": "Turkiya: beton aralashmasi tarkibini aniqlash qo‘llanmasi (2025)",
+    "ab": "KGM tomonidan yo‘l va sun’iy inshootlar uchun beton tarkibini tanlash bo‘yicha qo‘llanma. Ta’sir sinflari, sement va to‘ldiruvchi tanlash, suv-sement nisbati, havo miqdori va 1 m³ ga material sarfini hisoblash yoritilgan. Asl matni turk tilida."
    }
   },
   "fileId": "",
   "fileUrl": "",
   "fileName": "",
   "fileSize": 0,
-  "createdAt": 1794296525576,
-  "updatedAt": 1794296525576
+  "createdAt": 1794277796110,
+  "updatedAt": 1794277796110
  },
  {
-  "id": "trbidea-225",
-  "ident": "TRB-IDEA-225",
-  "title": "An Automated System for Larger-Scale Intersection Marking Data Collection and Condition Assessment",
+  "id": "a20261110-02",
+  "ident": "YR-20261110-02",
+  "title": "Bitümlü Kaplamalar Koruyucu Bakım ve Onarım Rehberi",
   "authors": [
-   "Kun Xie",
-   "Hong Yang",
-   "Old Dominion University",
-   "Cleveland State University"
+   "Karayolları Genel Müdürlüğü (KGM)"
   ],
-  "org": "TRB / NCHRP IDEA (AQSh)",
-  "cat": "report",
-  "year": 2022,
-  "lang": "en",
-  "ftype": "PDF",
-  "pages": 0,
-  "kw": [
-   "yo‘l chiziqlari",
-   "chorrahalar",
-   "aerofotosurat",
-   "chuqur o‘qitish",
-   "holatni baholash"
-  ],
-  "abs": "A web-based tool locates intersections from GIS data, retrieves aerial imagery and uses deep learning to detect lane-use arrows and crosswalks and rate their condition. Detection precision was roughly 85-89% and condition rating accuracy 83-91%.",
-  "link": "https://onlinepubs.trb.org/onlinepubs/IDEA/FinalReports/Highway/NCHRP225.pdf",
-  "intl": true,
-  "tr": {
-   "uz": {
-    "t": "Chorrahalar yo‘l chiziqlari ma’lumotlarini keng miqyosda avtomatik yig‘ish va baholash tizimi",
-    "ab": "Veb-tizim GIS ma’lumotlari asosida chorrahalarni topib, aerofotosuratlardan chuqur o‘qitish yordamida yo‘nalish strelkalari va piyoda o‘tish joylarini aniqlaydi va ularning holatini baholaydi. Aniqlash aniqligi taxminan 85–89% bo‘ldi. O‘zbekistonda shahar yo‘l chiziqlarini joyga chiqmasdan inventarizatsiya qilish va ta’mirni rejalashtirishga yordam beradi."
-   }
-  },
-  "fileId": "",
-  "fileUrl": "",
-  "fileName": "",
-  "fileSize": 0,
-  "createdAt": 1794296525576,
-  "updatedAt": 1794296525576
- },
- {
-  "id": "trbidea-226",
-  "ident": "TRB-IDEA-226",
-  "title": "A Smart IOT Proximity Alert System for Highway Work Zone Safety",
-  "authors": [
-   "Yong K. Cho",
-   "Georgia Institute of Technology"
-  ],
-  "org": "TRB / NCHRP IDEA (AQSh)",
-  "cat": "report",
+  "org": "KGM (Turkiya)",
+  "cat": "guide",
   "year": 2024,
   "lang": "en",
   "ftype": "PDF",
   "pages": 0,
   "kw": [
-   "ish zonasi xavfsizligi",
-   "IoT",
-   "Bluetooth",
-   "yo‘l ishchilari",
-   "ogohlantirish tizimi"
+   "asfalt qoplama",
+   "profilaktik ta’mirlash",
+   "yoriqlarni berkitish",
+   "Turkiya",
+   "содержание покрытий",
+   "pavement preservation"
   ],
-  "abs": "A wearable Bluetooth proximity alarm for road workers, paired with beacons on equipment and cloud logging, was developed and field tested. It gave about 2.2 seconds of reaction time, though the worker's body could block the signal, so several devices per vest were suggested.",
-  "link": "https://onlinepubs.trb.org/onlinepubs/IDEA/FinalReports/Highway/NCHRP226.pdf",
+  "abs": "KGM guide to preventive maintenance and repair of asphalt pavements within a pavement management framework. It describes condition assessment, typical distresses (cracking, rutting, ravelling) and their causes, and treatments such as crack sealing, chip seal, slurry seal, micro-surfacing and patching. Original in Turkish.",
+  "link": "https://www.kgm.gov.tr/SiteCollectionDocuments/KGMdocuments/Baskanliklar/BaskanliklarTeknikArastirma/Yay%C4%B1mlar/bitumlukaplama2024.pdf",
   "intl": true,
   "tr": {
    "uz": {
-    "t": "Yo‘l ish zonalari xavfsizligi uchun aqlli IoT yaqinlashish ogohlantirish tizimi",
-    "ab": "Yo‘l ishchilari uchun kiyiladigan Bluetooth yaqinlashish signal qurilmasi va texnikaga o‘rnatiladigan mayoqchalar ishlab chiqilib, dalada sinaldi. Tizim taxminan 2,2 soniya reaksiya vaqti berdi, ammo ishchi tanasi signalni to‘sib qo‘yishi mumkinligi aniqlandi. O‘zbekistonda yo‘l ta’mirlash joylarida ishchilarni texnika va transportdan himoya qilish uchun dolzarb."
+    "t": "Turkiya: bitumli qoplamalarni profilaktik saqlash va ta’mirlash qo‘llanmasi (2024)",
+    "ab": "Asfalt qoplamalarning holatini baholash, asosiy nuqsonlar (yoriq, iz, to‘kilish) va ularning sabablari hamda yoriqlarni berkitish, sirtqi ishlov, mikroqoplama va yamoq kabi ta’mirlash usullari bayon etilgan. KGM nashri, turk tilida."
    }
   },
   "fileId": "",
   "fileUrl": "",
   "fileName": "",
   "fileSize": 0,
-  "createdAt": 1794296525576,
-  "updatedAt": 1794296525576
+  "createdAt": 1794277796111,
+  "updatedAt": 1794277796111
  },
  {
-  "id": "trbidea-228",
-  "ident": "TRB-IDEA-228",
-  "title": "A Retroreflective Road Lane Marking Tape 1,000X Brighter than Existing Technology",
+  "id": "a20261110-03",
+  "ident": "YR-20261110-03",
+  "title": "Üstyapı Yönetim Sistemi (ÜYS) Rehberi",
   "authors": [
-   "Mark J. O'Neill",
-   "Mark O'Neill, LLC"
+   "Karayolları Genel Müdürlüğü (KGM)"
   ],
-  "org": "TRB / NCHRP IDEA (AQSh)",
-  "cat": "report",
-  "year": 2022,
-  "lang": "en",
-  "ftype": "PDF",
-  "pages": 0,
-  "kw": [
-   "yo‘l chiziqlari",
-   "nur qaytaruvchanlik",
-   "lenta",
-   "tungi ko‘rinish",
-   "yo‘l harakati xavfsizligi"
-  ],
-  "abs": "Prototype marking stripes combining a light-turning prismatic film with cube-corner sheeting were made, lab-certified and installed in two test sections in North Carolina and Texas. The best prototype reached about 29,000 mcd/m²/lx versus roughly 800 for a common commercial tape.",
-  "link": "https://onlinepubs.trb.org/onlinepubs/IDEA/FinalReports/Highway/NCHRP228.pdf",
-  "intl": true,
-  "tr": {
-   "uz": {
-    "t": "Mavjud texnologiyadan 1000 marta yorqinroq nur qaytaruvchi yo‘l chizig‘i lentasi",
-    "ab": "Prizmatik plyonka va burchak-kubli qatlamdan iborat yangi yo‘l chizig‘i lentasi prototiplari tayyorlanib, AQShning ikki shtatida sinov uchastkalariga yotqizildi. Eng yaxshi namuna oddiy tijorat lentasidan o‘nlab marta yuqori nur qaytaruvchanlik ko‘rsatdi. O‘zbekiston yo‘llarida tungi ko‘rinishni yaxshilash va YTHni kamaytirish uchun qiziqarli yechim."
-   }
-  },
-  "fileId": "",
-  "fileUrl": "",
-  "fileName": "",
-  "fileSize": 0,
-  "createdAt": 1794296525576,
-  "updatedAt": 1794296525576
- },
- {
-  "id": "trbidea-229",
-  "ident": "TRB-IDEA-229",
-  "title": "Laboratory Dielectric Measurement System (LDMS) for Asphalt Mixture Bulk Specific Gravity Determination",
-  "authors": [
-   "Jo E. Sias",
-   "Eshan V. Dave",
-   "University of New Hampshire"
-  ],
-  "org": "TRB / NCHRP IDEA (AQSh)",
-  "cat": "report",
-  "year": 2023,
-  "lang": "en",
-  "ftype": "PDF",
-  "pages": 0,
-  "kw": [
-   "asfalt aralashmasi",
-   "zichlik",
-   "dielektrik o‘lchov",
-   "georadar",
-   "laboratoriya usuli"
-  ],
-  "abs": "A standard lab procedure was developed to estimate the bulk specific gravity of compacted asphalt specimens from dielectric (GPR-type) readings. Three readings at 120-degree orientations proved repeatable, and the Hashin-Shtrikman model predicted density best, leading to a draft test specification.",
-  "link": "https://onlinepubs.trb.org/onlinepubs/IDEA/FinalReports/Highway/NCHRP229.pdf",
-  "intl": true,
-  "tr": {
-   "uz": {
-    "t": "Asfalt aralashmasining hajmiy zichligini aniqlash uchun laboratoriya dielektrik o‘lchov tizimi",
-    "ab": "Zichlangan asfalt namunalarining hajmiy zichligini dielektrik (georadar turidagi) o‘lchovlar orqali aniqlash bo‘yicha laboratoriya usuli ishlab chiqildi. 120 gradusli uch o‘lchov takrorlanuvchan natija berdi va sinov standarti loyihasi tayyorlandi. O‘zbekistonda asfalt qatlamlarini zichlash sifatini buzmasdan tez nazorat qilishga xizmat qiladi."
-   }
-  },
-  "fileId": "",
-  "fileUrl": "",
-  "fileName": "",
-  "fileSize": 0,
-  "createdAt": 1794296525576,
-  "updatedAt": 1794296525576
- },
- {
-  "id": "trbidea-230",
-  "ident": "TRB-IDEA-230",
-  "title": "Automated Data and Feature Extraction from Bridge Plans",
-  "authors": [
-   "Behrouz Shafei",
-   "Iowa State University"
-  ],
-  "org": "TRB / NCHRP IDEA (AQSh)",
-  "cat": "report",
+  "org": "KGM (Turkiya)",
+  "cat": "guide",
   "year": 2024,
   "lang": "en",
   "ftype": "PDF",
   "pages": 0,
   "kw": [
-   "ko‘priklar",
-   "chizmalar",
-   "raqamli boshqaruv",
-   "chuqur o‘qitish",
-   "ma'lumotlar bazasi"
+   "yo‘l to‘shamasini boshqarish tizimi",
+   "HDM-4",
+   "notekislik",
+   "Turkiya",
+   "система управления покрытиями",
+   "pavement management system"
   ],
-  "abs": "A deep-learning platform was built to pull dimensions, tables and text from bridge plan sets into spreadsheets, and it was tested on plans from Iowa and California DOTs. Most validation queries were extracted correctly when compared with manual extraction.",
-  "link": "https://onlinepubs.trb.org/onlinepubs/IDEA/FinalReports/Highway/NCHRP230.pdf",
+  "abs": "Describes Türkiye's national Pavement Management System: inventory, condition surveys (roughness, rutting, skid resistance, noise, FWD), deterioration modelling with HDM-4, life-cycle cost analysis and the KGM-ÜYS web software. It shows how a delay-cost ratio is used to prioritise sections. Original in Turkish.",
+  "link": "https://www.kgm.gov.tr/SiteCollectionDocuments/KGMdocuments/Baskanliklar/BaskanliklarTeknikArastirma/Yay%C4%B1mlar/UstyapiYonetim.pdf",
   "intl": true,
   "tr": {
    "uz": {
-    "t": "Ko‘prik chizmalaridan ma’lumot va belgilarni avtomatik ajratib olish",
-    "ab": "Chuqur o‘qitishga asoslangan platforma ko‘prik chizmalaridan o‘lchamlar, jadvallar va matnlarni avtomatik ravishda jadvalga ko‘chiradi; u Ayova va Kaliforniya chizmalarida sinaldi. Tekshiruvda so‘rovlarning aksariyati to‘g‘ri ajratib olindi. O‘zbekistonda eski ko‘prik hujjatlarini raqamlashtirish va ko‘priklar bazasini yuritish uchun foydali."
+    "t": "Turkiya: yo‘l to‘shamalarini boshqarish tizimi (ÜYS) qo‘llanmasi (2024)",
+    "ab": "Turkiyaning milliy yo‘l to‘shamalarini boshqarish tizimi: inventarizatsiya, holat o‘lchovlari (IRI, iz, ilashish, FWD), HDM-4 orqali yemirilishni prognozlash va hayotiy tsikl xarajatlari tahlili. Ta’mirlash navbatini belgilash usuli ham ko‘rsatilgan."
    }
   },
   "fileId": "",
   "fileUrl": "",
   "fileName": "",
   "fileSize": 0,
-  "createdAt": 1794296525576,
-  "updatedAt": 1794296525576
+  "createdAt": 1794277796112,
+  "updatedAt": 1794277796112
  },
  {
-  "id": "trbidea-231",
-  "ident": "TRB-IDEA-231",
-  "title": "AI Analyzer for Revealing Insights of Traffic Crashes",
+  "id": "a20261110-04",
+  "ident": "YR-20261110-04",
+  "title": "Karayolları Esnek Üstyapılar Rehabilitasyon Tasarım Rehberi",
   "authors": [
-   "Jee Woong Park",
-   "Cristian Arteaga",
-   "University of Nevada, Las Vegas"
+   "Karayolları Genel Müdürlüğü (KGM)"
   ],
-  "org": "TRB / NCHRP IDEA (AQSh)",
-  "cat": "report",
+  "org": "KGM (Turkiya)",
+  "cat": "guide",
   "year": 2023,
   "lang": "en",
   "ftype": "PDF",
   "pages": 0,
   "kw": [
-   "YTH tahlili",
-   "sun'iy intellekt",
-   "yo‘l harakati xavfsizligi",
-   "matn tahlili"
+   "egiluvchan to‘shama",
+   "reabilitatsiya",
+   "qoplama qalinligi",
+   "Turkiya",
+   "реабилитация нежестких одежд",
+   "pavement rehabilitation design"
   ],
-  "abs": "An open-source tool applies a text classifier and an explainable-AI method to police crash narratives to find phrase groups linked to crash severity. It was demonstrated on MassDOT crash records, and the authors note the results are exploratory.",
-  "link": "https://onlinepubs.trb.org/onlinepubs/IDEA/FinalReports/Highway/NCHRP231.pdf",
+  "abs": "Framework for rehabilitating flexible pavements on Turkish highways: distress surveys, coring and test pits, cause analysis, strategy selection, structural condition scoring, milling decisions and overlay thickness design. It distinguishes maintenance, repair, surface treatment, overlay and reconstruction. Original in Turkish.",
+  "link": "https://www.kgm.gov.tr/SiteCollectionDocuments/KGMdocuments/Baskanliklar/BaskanliklarTeknikArastirma/Yay%C4%B1mlar/EsnekUstyapilar2023.pdf",
   "intl": true,
   "tr": {
    "uz": {
-    "t": "YTH qonuniyatlarini ochib beruvchi AI analizator",
-    "ab": "Ochiq kodli vosita YTH bayonnomalaridagi matnlarni sun'iy intellekt yordamida tahlil qilib, og‘ir oqibatli hodisalar bilan bog‘liq iboralar guruhlarini aniqlaydi. U Massachusets ma’lumotlarida sinaldi, natijalar izlanish xarakterida ekani qayd etilgan. O‘zbekistonda YTH ma’lumotlaridan xavfli omillarni tezroq aniqlashga yordam berishi mumkin."
+    "t": "Turkiya: egiluvchan yo‘l to‘shamalarini reabilitatsiya qilishni loyihalash qo‘llanmasi (2023)",
+    "ab": "Nuqsonlarni o‘rganish, kern olish, sabablarni tahlil qilish, strategiya tanlash, frezalash va qoplama qalinligini hisoblash bo‘yicha yo‘riqnoma. Saqlash, ta’mirlash va qayta qurish o‘rtasidagi farqlar aniq belgilangan."
    }
   },
   "fileId": "",
   "fileUrl": "",
   "fileName": "",
   "fileSize": 0,
-  "createdAt": 1794296525576,
-  "updatedAt": 1794296525576
+  "createdAt": 1794277796113,
+  "updatedAt": 1794277796113
  },
  {
-  "id": "trbidea-232",
-  "ident": "TRB-IDEA-232",
-  "title": "Measuring Concrete Permeability with the CHIP",
+  "id": "a20261110-05",
+  "ident": "YR-20261110-05",
+  "title": "Asfalt Geri Dönüşüm Yöntemleri ve Uygulama Rehberi",
   "authors": [
-   "M. Tyler Ley",
-   "Oklahoma State University"
+   "Karayolları Genel Müdürlüğü (KGM)"
   ],
-  "org": "TRB / NCHRP IDEA (AQSh)",
-  "cat": "report",
+  "org": "KGM (Turkiya)",
+  "cat": "guide",
   "year": 2023,
   "lang": "en",
   "ftype": "PDF",
   "pages": 0,
   "kw": [
-   "beton",
-   "o‘tkazuvchanlik",
-   "rentgen",
-   "silan himoyasi",
-   "chidamlilik"
-  ],
-  "abs": "The X-ray based CHIP device was improved and used in three case studies to measure how fluids penetrate concrete, plus an accelerated version of the test was developed. Effects of delayed curing and silane sealers were measurable, and test time dropped from 28 days to about six hours.",
-  "link": "https://onlinepubs.trb.org/onlinepubs/IDEA/FinalReports/Highway/NCHRP232.pdf",
-  "intl": true,
-  "tr": {
-   "uz": {
-    "t": "CHIP yordamida beton o‘tkazuvchanligini o‘lchash",
-    "ab": "Rentgen asosidagi CHIP qurilmasi takomillashtirilib, betonga suyuqlik singishini o‘lchash uchun uch amaliy holatda qo‘llandi va tezlashtirilgan sinov ishlab chiqildi. Silan qoplama ta’siri aniq o‘lchandi, sinov muddati 28 kundan taxminan 6 soatga qisqardi. O‘zbekistonda ko‘prik betonining chidamliligini tez baholash uchun ahamiyatli."
-   }
-  },
-  "fileId": "",
-  "fileUrl": "",
-  "fileName": "",
-  "fileSize": 0,
-  "createdAt": 1794296525576,
-  "updatedAt": 1794296525576
- },
- {
-  "id": "trbidea-233",
-  "ident": "TRB-IDEA-233",
-  "title": "Development of an Innovative Bio-Mediated Self-Healing Concrete Technology",
-  "authors": [
-   "Xiong (Bill) Yu",
-   "Case Western Reserve University"
-  ],
-  "org": "TRB / NCHRP IDEA (AQSh)",
-  "cat": "report",
-  "year": 2023,
-  "lang": "en",
-  "ftype": "PDF",
-  "pages": 0,
-  "kw": [
-   "beton",
-   "o‘zini tiklash",
-   "yoriqlar",
-   "biotexnologiya",
-   "chidamlilik"
-  ],
-  "abs": "Microcapsules containing fungi were added to mortar as a self-healing agent and evaluated in a proof-of-concept study. Cracks wider than 1 mm healed in the specimens, and the healed surface became strongly water-repellent.",
-  "link": "https://onlinepubs.trb.org/onlinepubs/IDEA/FinalReports/Highway/NCHRP233.pdf",
-  "intl": true,
-  "tr": {
-   "uz": {
-    "t": "Biologik vositali o‘zini tiklovchi beton texnologiyasi",
-    "ab": "Zamburug‘ saqlovchi mikrokapsulalar qorishmaga o‘zini tiklovchi vosita sifatida qo‘shilib, dastlabki sinovdan o‘tkazildi. Namunalarda 1 mm dan keng yoriqlar bitdi va yuzasi suv o‘tkazmaydigan bo‘ldi. O‘zbekistonda beton inshootlarning xizmat muddatini uzaytirish va ta’mir xarajatini kamaytirish nuqtai nazaridan istiqbolli."
-   }
-  },
-  "fileId": "",
-  "fileUrl": "",
-  "fileName": "",
-  "fileSize": 0,
-  "createdAt": 1794296525576,
-  "updatedAt": 1794296525576
- },
- {
-  "id": "trbidea-234",
-  "ident": "TRB-IDEA-234",
-  "title": "Field Test and Evaluation of a Solar Snow Fence",
-  "authors": [
-   "Tibor Hegedus",
-   "Longboard Power LLC"
-  ],
-  "org": "TRB / NCHRP IDEA (AQSh)",
-  "cat": "report",
-  "year": 2023,
-  "lang": "en",
-  "ftype": "PDF",
-  "pages": 0,
-  "kw": [
-   "qor to‘sig‘i",
-   "quyosh energiyasi",
-   "qishki saqlash",
-   "qor uyumlari"
-  ],
-  "abs": "A 25-foot sun-tracking solar snow fence that turns into a snow-fence position in strong winds was tested for 15 months beside I-80 in Wyoming. It produced 7.5-15 kWh per day and trapped drifting snow about as well as a nearby wooden fence without needing repairs.",
-  "link": "https://onlinepubs.trb.org/onlinepubs/IDEA/FinalReports/Highway/NCHRP234.pdf",
-  "intl": true,
-  "tr": {
-   "uz": {
-    "t": "Quyosh panelli qordan himoya to‘sig‘ini dalada sinash va baholash",
-    "ab": "Quyoshni kuzatuvchi va kuchli shamolda qor to‘sig‘i holatiga o‘tuvchi 7,6 metrli quyosh panelli to‘siq Vayomingdagi I-80 yo‘li yonida 15 oy sinaldi. U kuniga 7,5–15 kVt·soat energiya berdi va qorni yog‘och to‘siq kabi samarali ushlab qoldi. O‘zbekistonning tog‘li dovonlarida qor uyumlariga qarshi kurash va energiya olishni birlashtirish uchun qiziqarli."
-   }
-  },
-  "fileId": "",
-  "fileUrl": "",
-  "fileName": "",
-  "fileSize": 0,
-  "createdAt": 1794296525576,
-  "updatedAt": 1794296525576
- },
- {
-  "id": "trbidea-235",
-  "ident": "TRB-IDEA-235",
-  "title": "High Bond Steel Fibers for Ultra High-Performance Concrete (UHPC)",
-  "authors": [
-   "Sherif El-Tawil",
-   "HiPer Fiber, LLC"
-  ],
-  "org": "TRB / NCHRP IDEA (AQSh)",
-  "cat": "report",
-  "year": 2022,
-  "lang": "en",
-  "ftype": "PDF",
-  "pages": 0,
-  "kw": [
-   "UHPC",
-   "po‘lat tola",
-   "beton",
-   "ko‘prik qoplamasi"
-  ],
-  "abs": "A striated steel fiber for UHPC was developed and demonstrated in a bridge deck cast with an open-recipe UHPC mixed in a ready-mix truck. It increased pullout resistance by about 130% over smooth fiber, and a 1% dosage performed about as well as smooth fiber at 2%.",
-  "link": "https://onlinepubs.trb.org/onlinepubs/IDEA/FinalReports/Highway/NCHRP235.pdf",
-  "intl": true,
-  "tr": {
-   "uz": {
-    "t": "O‘ta yuqori mustahkam beton (UHPC) uchun yuqori yopishqoqlikli po‘lat tolalar",
-    "ab": "UHPC uchun yuzasi qirrali po‘lat tola ishlab chiqilib, oddiy beton mikserida tayyorlangan ochiq retseptli UHPC bilan ko‘prik qoplamasida sinaldi. Tola sug‘urib olishga qarshilikni silliq tolaga nisbatan taxminan 130% oshirdi va kamroq miqdorda ham shunday samara berdi. O‘zbekistonda UHPC ni arzonroq qo‘llash imkonini beradi."
-   }
-  },
-  "fileId": "",
-  "fileUrl": "",
-  "fileName": "",
-  "fileSize": 0,
-  "createdAt": 1794296525576,
-  "updatedAt": 1794296525576
- },
- {
-  "id": "trbidea-236",
-  "ident": "TRB-IDEA-236",
-  "title": "A Practical Method to Determine Reclaimed Asphalt Pavement (RAP) Binder Availability",
-  "authors": [
-   "Cassie Castorena",
-   "North Carolina State University",
-   "Trimat Materials Testing"
-  ],
-  "org": "TRB / NCHRP IDEA (AQSh)",
-  "cat": "report",
-  "year": 2024,
-  "lang": "en",
-  "ftype": "PDF",
-  "pages": 0,
-  "kw": [
+   "asfaltni qayta ishlash",
    "RAP",
-   "qayta ishlangan asfalt",
+   "sovuq regeneratsiya",
+   "Turkiya",
+   "регенерация асфальтобетона",
+   "asphalt recycling"
+  ],
+  "abs": "KGM guide on asphalt recycling methods: cold planing, hot and hot in-place recycling, cold recycling (in-place and plant) and full-depth reclamation, with equipment and benefits. It explains method selection by distress type and gives mix design and construction guidance for hot mixes with reclaimed asphalt. Original in Turkish.",
+  "link": "https://www.kgm.gov.tr/SiteCollectionDocuments/KGMdocuments/Baskanliklar/BaskanliklarTeknikArastirma/AsfaltGeriDonusumRehberi.pdf",
+  "intl": true,
+  "tr": {
+   "uz": {
+    "t": "Turkiya: asfaltni qayta ishlash usullari va qo‘llash qo‘llanmasi (2023)",
+    "ab": "Sovuq frezalash, issiq va joyida issiq regeneratsiya, sovuq regeneratsiya hamda to‘liq chuqurlikda tiklash usullari tavsiflangan. Nuqson turiga qarab usul tanlash va RAP qo‘shilgan aralashmalarni loyihalash bo‘yicha tavsiyalar berilgan."
+   }
+  },
+  "fileId": "",
+  "fileUrl": "",
+  "fileName": "",
+  "fileSize": 0,
+  "createdAt": 1794277796114,
+  "updatedAt": 1794277796114
+ },
+ {
+  "id": "a20261110-06",
+  "ident": "YR-20261110-06",
+  "title": "Bitümlü Sıcak Karışım Kaplamalar Çatlak Kapama Rehberi",
+  "authors": [
+   "Karayolları Genel Müdürlüğü (KGM)"
+  ],
+  "org": "KGM (Turkiya)",
+  "cat": "guide",
+  "year": 2021,
+  "lang": "en",
+  "ftype": "PDF",
+  "pages": 0,
+  "kw": [
+   "yoriqlarni berkitish",
+   "issiq asfalt",
+   "germetik",
+   "Turkiya",
+   "герметизация трещин",
+   "crack sealing"
+  ],
+  "abs": "Guide to selecting materials and methods for sealing cracks in hot-mix asphalt pavements, covering crack types, laboratory tests, equipment and application steps. It stresses that timely sealing keeps water out and extends service life at low cost. Original in Turkish.",
+  "link": "https://www.kgm.gov.tr/SiteCollectionDocuments/KGMdocuments/Baskanliklar/BaskanliklarTeknikArastirma/BitumluSicakKarisim2021.pdf",
+  "intl": true,
+  "tr": {
+   "uz": {
+    "t": "Turkiya: issiq asfaltbeton qoplamalardagi yoriqlarni berkitish qo‘llanmasi (2021)",
+    "ab": "Yoriq turlari, germetik materiallarni laboratoriyada sinash, uskunalar va bajarish tartibi bayon etilgan. O‘z vaqtida berkitish suvning kirishini to‘xtatib, qoplama xizmat muddatini arzon yo‘l bilan uzaytirishi ta’kidlanadi."
+   }
+  },
+  "fileId": "",
+  "fileUrl": "",
+  "fileName": "",
+  "fileSize": 0,
+  "createdAt": 1794277796115,
+  "updatedAt": 1794277796115
+ },
+ {
+  "id": "a20261110-07",
+  "ident": "YR-20261110-07",
+  "title": "Toprak ve Stabilizasyon Laboratuvar El Kitabı",
+  "authors": [
+   "Karayolları Genel Müdürlüğü (KGM)"
+  ],
+  "org": "KGM (Turkiya)",
+  "cat": "guide",
+  "year": 2021,
+  "lang": "en",
+  "ftype": "PDF",
+  "pages": 0,
+  "kw": [
+   "grunt",
+   "stabilizatsiya",
+   "zichlash",
+   "laboratoriya sinovlari",
+   "Turkiya",
+   "грунты",
+   "soil stabilization"
+  ],
+  "abs": "Laboratory handbook for road soils: classification, engineering properties, compaction, base and sub-base materials, sampling and test procedures. It brings national and international standards together for highway engineers and lab staff. Original in Turkish.",
+  "link": "https://www.kgm.gov.tr/SiteCollectionDocuments/KGMdocuments/Baskanliklar/BaskanliklarTeknikArastirma/ToprakveStabilizasyonLabElKitabi.pdf",
+  "intl": true,
+  "tr": {
+   "uz": {
+    "t": "Turkiya: grunt va stabilizatsiya laboratoriyasi qo‘llanmasi (2021)",
+    "ab": "Yo‘l gruntlarini tasniflash, xossalari, zichlash, asos va qatlam materiallari, namuna olish va sinov usullari bo‘yicha laboratoriya qo‘llanmasi. Milliy va xalqaro standartlar bir joyga jamlangan."
+   }
+  },
+  "fileId": "",
+  "fileUrl": "",
+  "fileName": "",
+  "fileSize": 0,
+  "createdAt": 1794277796116,
+  "updatedAt": 1794277796116
+ },
+ {
+  "id": "a20261110-08",
+  "ident": "YR-20261110-08",
+  "title": "Bitümlü Bağlayıcılar Laboratuvar El Kitabı",
+  "authors": [
+   "Karayolları Genel Müdürlüğü (KGM)"
+  ],
+  "org": "KGM (Turkiya)",
+  "cat": "guide",
+  "year": 2021,
+  "lang": "en",
+  "ftype": "PDF",
+  "pages": 0,
+  "kw": [
    "bitum",
-   "aralashma loyihasi",
-   "yoriqbardoshlik"
+   "emulsiya",
+   "modifikatsiyalangan bitum",
+   "Superpave",
+   "Turkiya",
+   "битумные вяжущие",
+   "bituminous binders"
   ],
-  "abs": "A washed sieve-analysis method was developed to estimate how much of the old binder in RAP actually becomes active, and it was tested on nine RAP sources from four states. Most sources had about 60% availability, and adjusting mix design for it generally improved cracking resistance without hurting rutting performance.",
-  "link": "https://onlinepubs.trb.org/onlinepubs/IDEA/FinalReports/Highway/NCHRP236.pdf",
+  "abs": "KGM handbook on bitumen and bituminous binders — natural and petroleum bitumen, emulsions, modified binders — and how their properties relate to pavement performance. It details lab test procedures for binders, emulsions and crack/joint sealants and gives Superpave PG selection guidance. Original in Turkish.",
+  "link": "https://www.kgm.gov.tr/SiteCollectionDocuments/KGMdocuments/Baskanliklar/BaskanliklarTeknikArastirma/BitumluBaglayicilarLaboratuvarElKitabi.pdf",
   "intl": true,
   "tr": {
    "uz": {
-    "t": "Qayta ishlangan asfalt (RAP) bog‘lovchisining faol ulushini aniqlashning amaliy usuli",
-    "ab": "RAP tarkibidagi eski bitumning qancha qismi yangi aralashmada faol ishlashini aniqlash uchun yuvib elash usuli ishlab chiqildi va to‘rt shtatdagi to‘qqiz RAP manbasida sinaldi. Ko‘p manbalarda faol ulush taxminan 60% bo‘ldi, buni hisobga olgan loyiha yoriqbardoshlikni yaxshiladi. O‘zbekistonda eski asfaltni qayta ishlatishni ko‘paytirish va bitum tejash uchun bevosita foydali."
+    "t": "Turkiya: bitumli bog‘lovchilar laboratoriyasi qo‘llanmasi (2021)",
+    "ab": "Bitum turlari, emulsiyalar va modifikatsiyalangan bog‘lovchilarning xossalari hamda ularni sinash usullari bayon etilgan. Superpave bo‘yicha bitum markasini tanlash tavsiyalari ham bor."
    }
   },
   "fileId": "",
   "fileUrl": "",
   "fileName": "",
   "fileSize": 0,
-  "createdAt": 1794296525576,
-  "updatedAt": 1794296525576
+  "createdAt": 1794277796117,
+  "updatedAt": 1794277796117
  },
  {
-  "id": "trbidea-240",
-  "ident": "TRB-IDEA-240",
-  "title": "Stainless Steel Coated Rebar for Chloride Resistant Concrete Highways and Bridges",
+  "id": "a20261110-09",
+  "ident": "YR-20261110-09",
+  "title": "Bitümlü Karışımlar Laboratuvar El Kitabı",
   "authors": [
-   "Samuel McAlpine",
-   "Allium Engineering"
+   "Karayolları Genel Müdürlüğü (KGM)"
   ],
-  "org": "TRB / NCHRP IDEA (AQSh)",
-  "cat": "report",
-  "year": 2023,
+  "org": "KGM (Turkiya)",
+  "cat": "guide",
+  "year": 2021,
   "lang": "en",
   "ftype": "PDF",
   "pages": 0,
   "kw": [
-   "armatura",
-   "zanglamaydigan po‘lat",
-   "korroziya",
-   "xloridlar",
-   "ko‘priklar"
+   "asfaltbeton aralashma",
+   "Marshall",
+   "Superpave",
+   "laboratoriya",
+   "Turkiya",
+   "асфальтобетонные смеси",
+   "asphalt mixtures"
   ],
-  "abs": "Stainless-steel-clad rebar was developed, first by cold spraying and then by cladding a billet before hot rolling, and a 1,500 lb pilot batch was produced. Annealing was needed for the coating to bend, and the report claims roughly four times the corrosion resistance of standard rebar, with some coating breaches to be addressed.",
-  "link": "https://onlinepubs.trb.org/onlinepubs/IDEA/FinalReports/Highway/NCHRP240.pdf",
+  "abs": "Handbook classifying bituminous surfacings and hot mixes by binder, production method and gradation. It covers materials, performance properties, Superpave, Hveem and Marshall mix design, and test procedures based on TS EN, ASTM, AASHTO and BS. Original in Turkish.",
+  "link": "https://www.kgm.gov.tr/SiteCollectionDocuments/KGMdocuments/Baskanliklar/BaskanliklarTeknikArastirma/BitumluKarisimlarLaboratuvarElKitabi.pdf",
   "intl": true,
   "tr": {
    "uz": {
-    "t": "Xloridga chidamli beton yo‘l va ko‘priklar uchun zanglamaydigan po‘lat qoplamali armatura",
-    "ab": "Zanglamaydigan po‘lat bilan qoplangan armatura avval sovuq purkash, so‘ngra issiq prokatdan oldin zagotovkani qoplash usulida ishlab chiqildi va tajriba partiyasi tayyorlandi. Hisobotga ko‘ra korroziyaga chidamliligi oddiy armaturadan taxminan to‘rt barobar yuqori. O‘zbekistonda tuz va sho‘r tuproq ta’siridagi ko‘priklar uchun dolzarb."
+    "t": "Turkiya: bitumli aralashmalar laboratoriyasi qo‘llanmasi (2021)",
+    "ab": "Asfalt aralashmalarining tasnifi, materiallari, Superpave, Hveem va Marshall usulida loyihalash hamda TS EN, ASTM, AASHTO standartlari asosidagi sinov usullari keltirilgan."
    }
   },
   "fileId": "",
   "fileUrl": "",
   "fileName": "",
   "fileSize": 0,
-  "createdAt": 1794296525576,
-  "updatedAt": 1794296525576
+  "createdAt": 1794277796118,
+  "updatedAt": 1794277796118
  },
  {
-  "id": "trbidea-244",
-  "ident": "TRB-IDEA-244",
-  "title": "Development of a Compaction Quality Control Standard for the Small Diameter Pressuremeter",
+  "id": "a20261110-10",
+  "ident": "YR-20261110-10",
+  "title": "Araştırma ve Geliştirme Projeleri (KGM-ARGE-K-21-01)",
   "authors": [
-   "Paul J. Cosentino",
-   "Florida Institute of Technology"
+   "Karayolları Genel Müdürlüğü (KGM)"
   ],
-  "org": "TRB / NCHRP IDEA (AQSh)",
+  "org": "KGM (Turkiya)",
   "cat": "report",
-  "year": 2024,
+  "year": 2021,
   "lang": "en",
   "ftype": "PDF",
   "pages": 0,
   "kw": [
-   "gruntni zichlash",
-   "pressiometr",
-   "sifat nazorati",
-   "yer to‘shamasi",
-   "geotexnika"
+   "ilmiy-tadqiqot loyihalari",
+   "yo‘l materiallari",
+   "innovatsiya",
+   "Turkiya",
+   "НИОКР",
+   "road R&D projects"
   ],
-  "abs": "A fully automated control unit for the small-diameter SSMini pressuremeter and a draft compaction quality-control standard based on modulus and limit pressure were developed, backed by over 230 tests in Florida sands and Virginia clays. A Proctor-based acceptance chart combining moisture, density, saturation and modulus was proposed.",
-  "link": "https://onlinepubs.trb.org/onlinepubs/IDEA/FinalReports/Highway/NCHRP244.pdf",
+  "abs": "Catalogue of KGM's 55 research and development projects as of January 2021 (48 completed, 7 ongoing), grouped by funding model and research area. Each entry gives aims and results, e.g. new materials, pavement management tools and specifications. Original in Turkish.",
+  "link": "https://www.kgm.gov.tr/SiteCollectionDocuments/KGMdocuments/Baskanliklar/BaskanliklarTeknikArastirma/Calismalar/Ar-Ge_Projeleri_Kitap_2021.pdf",
   "intl": true,
   "tr": {
    "uz": {
-    "t": "Kichik diametrli pressiometr yordamida grunt zichlash sifatini nazorat qilish standartini ishlab chiqish",
-    "ab": "Kichik diametrli SSMini pressiometr uchun to‘liq avtomatik boshqaruv bloki va elastiklik moduli hamda chegaraviy bosimga asoslangan zichlash sifati standarti loyihasi ishlab chiqildi; 230 dan ortiq sinov qum va loy gruntlarda o‘tkazildi. Namlik, zichlik va modulni birlashtirgan qabul diagrammasi taklif qilindi. O‘zbekistonda yo‘l to‘shamasi gruntini zichlashni tezkor nazorat qilish uchun amaliy ahamiyatga ega."
+    "t": "Turkiya: KGM ilmiy-tadqiqot loyihalari katalogi (2021)",
+    "ab": "KGMning 2021-yil yanvar holatidagi 55 ta ilmiy-tadqiqot loyihasi (48 tasi yakunlangan) maqsad va natijalari bilan keltirilgan. Yangi materiallar, to‘shamalarni boshqarish vositalari va texnik shartlar bo‘yicha ishlar qamrab olingan."
    }
   },
   "fileId": "",
   "fileUrl": "",
   "fileName": "",
   "fileSize": 0,
-  "createdAt": 1794296525576,
-  "updatedAt": 1794296525576
+  "createdAt": 1794277796119,
+  "updatedAt": 1794277796119
  },
  {
-  "id": "a20261111-01",
-  "ident": "YR-20261111-01",
-  "title": "Safe and Inclusive Road Designs in Central Asia — Resource Package",
+  "id": "a20261110-11",
+  "ident": "YR-20261110-11",
+  "title": "Sathi Kaplama Dizayn Rehberi",
   "authors": [
-   "International Road Federation (IRF)",
-   "iRAP",
-   "EASST",
-   "UNESCAP"
+   "Karayolları Genel Müdürlüğü (KGM)"
   ],
-  "org": "IRF / iRAP / EASST / UNESCAP (xalqaro)",
+  "org": "KGM (Turkiya)",
   "cat": "guide",
-  "year": 2025,
+  "year": 2020,
   "lang": "en",
-  "ftype": "WEB",
+  "ftype": "PDF",
   "pages": 0,
   "kw": [
-   "yo‘l xavfsizligi",
-   "loyihalash me’yorlari",
-   "ko‘ndalang kesim",
-   "piyodalar",
-   "Markaziy Osiyo",
-   "road safety design",
-   "безопасность дорожного движения"
+   "sirtqi ishlov",
+   "shag‘al-bitum qoplama",
+   "bitum sarfi",
+   "Turkiya",
+   "поверхностная обработка",
+   "surface dressing design"
   ],
-  "abs": "Resource package for road designers in Kyrgyzstan, Tajikistan and Uzbekistan, prepared by IRF, iRAP, EASST and UNESCAP with United Nations Road Safety Fund support and launched at a Tashkent workshop in June 2025. It supplements, rather than replaces, national standards: it reviews the existing GOST/SNiP-based design standards of each country, sets out safety-led design solutions such as lower speeds and forgiving infrastructure, and includes an iRAP star rating assessment of standard cross sections. English and Russian versions are available.",
-  "link": "https://www.gtkp.com/safe-and-inclusive-road-designs-in-central-asia/",
+  "abs": "Design method for single, double and protective surface dressings on Turkish roads, adapted from international practice to local climate and traffic. It shows how to compute binder and chip rates from aggregate size, flakiness, lane traffic and climate/texture corrections, with worked examples. Original in Turkish.",
+  "link": "https://www.kgm.gov.tr/SiteCollectionDocuments/KGMdocuments/Baskanliklar/BaskanliklarTeknikArastirma/SathiKaplamaDizaynRehberi-2020.pdf",
   "intl": true,
   "tr": {
    "uz": {
-    "t": "Markaziy Osiyoda xavfsiz va inklyuziv yo‘l loyihalari — resurslar to‘plami",
-    "ab": "Qirg‘iziston, Tojikiston va O‘zbekiston yo‘l loyihachilari uchun IRF, iRAP, EASST va UNESCAP tayyorlagan to‘plam; BMT Yo‘l xavfsizligi jamg‘armasi ko‘magida, 2025-yil iyunda Toshkentdagi yakuniy seminarda taqdim etilgan. To‘plam milliy me’yorlarni almashtirmaydi, to‘ldiradi: har bir davlatning GOST/SNiP asosidagi loyihalash me’yorlari tahlil qilinadi, tezlikni pasaytirish va «kechirimli» infratuzilma kabi yechimlar beriladi, tipik ko‘ndalang kesimlar iRAP yulduzli bahosi bilan baholanadi. Ingliz va rus tillarida. O‘zbekiston yo‘llarini loyihalashda bevosita qo‘llanadi."
+    "t": "Turkiya: sirtqi ishlov (yuza qoplama) loyihalash qo‘llanmasi (2020)",
+    "ab": "Bir va ikki qatlamli sirtqi ishlov uchun bitum va mayda tosh sarfini hisoblash usuli. Tosh o‘lchami, yassilik indeksi, harakat jadalligi va iqlim tuzatmalari hisobga olinadi, misollar keltirilgan."
    }
   },
   "fileId": "",
   "fileUrl": "",
   "fileName": "",
   "fileSize": 0,
-  "createdAt": 1794343816557,
-  "updatedAt": 1794343816557
+  "createdAt": 1794277796120,
+  "updatedAt": 1794277796120
  },
  {
-  "id": "a20261111-02",
-  "ident": "YR-20261111-02",
-  "title": "Uzbekistan — Road Safety Design Guidance for Road Infrastructure Designers in Central Asia (English)",
+  "id": "a20261110-12",
+  "ident": "YR-20261110-12",
+  "title": "Karayolları Beton Yol Üstyapılar Projelendirme Rehberi",
   "authors": [
-   "International Road Federation (IRF)",
-   "iRAP",
-   "EASST",
-   "UNESCAP"
+   "Karayolları Genel Müdürlüğü (KGM)"
   ],
-  "org": "IRF / gTKP (xalqaro)",
+  "org": "KGM (Turkiya)",
   "cat": "guide",
-  "year": 2025,
+  "year": 2019,
   "lang": "en",
-  "ftype": "WEB",
+  "ftype": "PDF",
   "pages": 0,
   "kw": [
-   "O‘zbekiston",
-   "yo‘l xavfsizligi",
-   "loyihalash qo‘llanmasi",
-   "piyoda o‘tish joyi",
-   "tezlik rejimi",
-   "road safety design guidance"
+   "bikr yo‘l to‘shamasi",
+   "sement-beton qoplama",
+   "AASHTO 93",
+   "Turkiya",
+   "жесткие дорожные одежды",
+   "concrete pavement design"
   ],
-  "abs": "Country guidance for Uzbekistan from the Central Asia safe and inclusive road design project. It is written for road infrastructure designers and sets out how evidence-based safety measures can be built into design decisions alongside the national standards in force.",
-  "link": "https://www.gtkp.com/knowledge/uzbekistan-road-safety-design-guidance-for-road-infrastructure-designers-in-central-asia-english/",
+  "abs": "Design criteria for concrete road pavements in Türkiye, based on AASHTO 93 adapted to local conditions. It covers traffic and reliability inputs, subgrade and frost, drainage, load transfer, reinforcement and slab thickness tables for JPCP, JRCP and CRCP. Original in Turkish.",
+  "link": "https://www.kgm.gov.tr/SiteCollectionDocuments/KGMdocuments/Baskanliklar/BaskanliklarTeknikArastirma/Yay%C4%B1mlar/Karayollar%C4%B1BetonYol%C3%9Cstyap%C4%B1larProjelendirmeRehberi.pdf",
   "intl": true,
   "tr": {
    "uz": {
-    "t": "O‘zbekiston — yo‘l infratuzilmasi loyihachilari uchun yo‘l xavfsizligi bo‘yicha qo‘llanma (ingliz tilida)",
-    "ab": "Markaziy Osiyo loyihasi doirasida aynan O‘zbekiston uchun tayyorlangan qo‘llanma. Yo‘l infratuzilmasi loyihachilariga mo‘ljallangan: amaldagi milliy me’yorlar bilan birga xalqaro tajribaga asoslangan xavfsizlik choralarini loyiha qarorlariga qanday kiritish ko‘rsatilgan."
+    "t": "Turkiya: beton yo‘l to‘shamalarini loyihalash qo‘llanmasi (2019)",
+    "ab": "AASHTO 93 usuli asosida mahalliy sharoitga moslangan beton to‘shamalarni loyihalash mezonlari. Harakat yuklamasi, grunt, drenaj, yuk uzatish, armatura va plita qalinligi jadvallari berilgan."
    }
   },
   "fileId": "",
   "fileUrl": "",
   "fileName": "",
   "fileSize": 0,
-  "createdAt": 1794343816558,
-  "updatedAt": 1794343816558
+  "createdAt": 1794277796121,
+  "updatedAt": 1794277796121
  },
  {
-  "id": "a20261111-03",
-  "ident": "YR-20261111-03",
-  "title": "Uzbekistan — Road Safety Design Guidance for Road Infrastructure Designers in Central Asia (Russian)",
+  "id": "a20261110-13",
+  "ident": "YR-20261110-13",
+  "title": "Beton Yol Kaplamaları Teknik Şartnamesi (KGM-ARGE-17-02)",
   "authors": [
-   "International Road Federation (IRF)",
-   "iRAP",
-   "EASST",
-   "UNESCAP"
+   "Karayolları Genel Müdürlüğü (KGM)"
   ],
-  "org": "IRF / gTKP (xalqaro)",
+  "org": "KGM (Turkiya)",
+  "cat": "norm",
+  "year": 2016,
+  "lang": "en",
+  "ftype": "PDF",
+  "pages": 0,
+  "kw": [
+   "beton qoplama",
+   "texnik shartlar",
+   "muzlash-erishga chidamlilik",
+   "Turkiya",
+   "цементобетонные покрытия",
+   "concrete pavement specification"
+  ],
+  "abs": "KGM technical specification (December 2016) for rigid concrete pavements. It sets requirements for cement, aggregates, water, admixtures and fibres, mix design, freeze–thaw and de-icing salt durability, dowels and tie bars, construction, curing, quality control and penalties. Original in Turkish.",
+  "link": "https://www.kgm.gov.tr/SiteCollectionDocuments/KGMdocuments/Baskanliklar/BaskanliklarTeknikArastirma/BetonYol%20Kaplamalar%C4%B1TeknikSartnamesi2016.pdf",
+  "intl": true,
+  "tr": {
+   "uz": {
+    "t": "Turkiya: beton yo‘l qoplamalari texnik shartnomasi (2016)",
+    "ab": "Bikr beton qoplamalar uchun materiallar, tarkib, chidamlilik, shtir va ankerlar, qurilish, parvarish va sifat nazorati talablari. Talabga javob bermagan ishlar uchun jarimalar ham belgilangan."
+   }
+  },
+  "fileId": "",
+  "fileUrl": "",
+  "fileName": "",
+  "fileSize": 0,
+  "createdAt": 1794277796122,
+  "updatedAt": 1794277796122
+ },
+ {
+  "id": "a20261110-14",
+  "ident": "YR-20261110-14",
+  "title": "Heyelan Tanımlama ve Veri Oluşturma Kılavuzu",
+  "authors": [
+   "Karayolları Genel Müdürlüğü (KGM)"
+  ],
+  "org": "KGM (Turkiya)",
   "cat": "guide",
-  "year": 2025,
+  "year": 2015,
+  "lang": "en",
+  "ftype": "PDF",
+  "pages": 0,
+  "kw": [
+   "surilma",
+   "ko‘chki",
+   "geologiya",
+   "xavf xaritasi",
+   "Turkiya",
+   "оползни",
+   "landslide inventory"
+  ],
+  "abs": "Standard framework (May 2015) for identifying and recording landslides along the highway network, based on Varnes (1978) classification. It covers landslide types, geometry, activity, causes and field investigation, with data forms and report templates for inventory and black-spot analysis. Original in Turkish.",
+  "link": "https://www.kgm.gov.tr/SiteCollectionDocuments/KGMdocuments/Baskanliklar/BaskanliklarTeknikArastirma/Yay%C4%B1mlar/HeyelanTan%C4%B1mlamaK%C4%B1lavuzu.pdf",
+  "intl": true,
+  "tr": {
+   "uz": {
+    "t": "Turkiya: yo‘llardagi surilmalarni aniqlash va ma’lumot yaratish yo‘riqnomasi (2015)",
+    "ab": "Avtomobil yo‘llari bo‘ylab surilmalarni Varnes tasnifi asosida aniqlash, o‘lchash va qayd etish tartibi. Dala tekshiruvi dasturi, ma’lumot shakllari va hisobot namunalari berilgan."
+   }
+  },
+  "fileId": "",
+  "fileUrl": "",
+  "fileName": "",
+  "fileSize": 0,
+  "createdAt": 1794277796123,
+  "updatedAt": 1794277796123
+ },
+ {
+  "id": "a20261110-15",
+  "ident": "YR-20261110-15",
+  "title": "Karayolu Yolboyu Mühendislik Yapıları İçin Afet Yönetmeliği",
+  "authors": [
+   "Bayındırlık ve İskan Bakanlığı"
+  ],
+  "org": "Bayındırlık ve İskan Bakanlığı (Turkiya)",
+  "cat": "norm",
+  "year": 2006,
+  "lang": "en",
+  "ftype": "PDF",
+  "pages": 0,
+  "kw": [
+   "tabiiy ofat",
+   "seysmik bardoshlilik",
+   "ko‘prik",
+   "tunnel",
+   "Turkiya",
+   "защита от стихийных бедствий",
+   "disaster regulation"
+  ],
+  "abs": "Turkish regulation (Official Gazette 07.12.2006, No. 26369) on designing and building roadside engineering structures — bridges, tunnels, retaining walls, slopes — to withstand disasters, and on strengthening existing ones. Its annex addresses flood, earthquake, landslide, liquefaction, fire and avalanche protection. Linked from the Ministry of Transport and Infrastructure site; original in Turkish.",
+  "link": "https://uab.gov.tr/uploads/legislations/karayolu-yolboyu-muhendislik-yapilari-icin-afet-yo/karayolu-yolboyu-muhendislik-yapilari-icin-afet-yonetmeligi.pdf",
+  "intl": true,
+  "tr": {
+   "uz": {
+    "t": "Turkiya: avtomobil yo‘li bo‘yidagi muhandislik inshootlari uchun tabiiy ofat reglamenti (2006)",
+    "ab": "Ko‘priklar, tunnellar, tirgak devorlar va qiyaliklarni toshqin, zilzila, surilma, yong‘in va qor ko‘chkisiga bardoshli loyihalash hamda mavjudlarini kuchaytirish qoidalari. 2006-yil 7-dekabrdagi Rasmiy gazetada e’lon qilingan."
+   }
+  },
+  "fileId": "",
+  "fileUrl": "",
+  "fileName": "",
+  "fileSize": 0,
+  "createdAt": 1794277796124,
+  "updatedAt": 1794277796124
+ },
+ {
+  "id": "a20261110-16",
+  "ident": "YR-20261110-16",
+  "title": "СН РК 3.03-01-2013 «Автомобильные дороги»",
+  "authors": [
+   "Комитет по делам строительства и ЖКХ РК"
+  ],
+  "org": "Qozog‘iston Respublikasi",
+  "cat": "norm",
+  "year": 2013,
   "lang": "ru",
   "ftype": "WEB",
   "pages": 0,
   "kw": [
-   "O‘zbekiston",
-   "yo‘l xavfsizligi",
-   "loyihalash qo‘llanmasi",
-   "rus tilida",
-   "безопасность дорожного движения",
-   "проектирование дорог"
+   "SN RK",
+   "avtomobil yo‘llari",
+   "loyihalash",
+   "Qozog‘iston",
+   "строительные нормы",
+   "road design norms"
   ],
-  "abs": "Ruscha nashri: Markaziy Osiyoda xavfsiz va inklyuziv yo‘l loyihalash bo‘yicha O‘zbekiston uchun qo‘llanma. Mamlakatimiz mutaxassislari uchun ishchi til sifatida qulay.",
-  "link": "https://www.gtkp.com/knowledge/uzbekistan-road-safety-design-guidance-for-road-infrastructure-designers-in-central-asia-russian/",
-  "intl": false,
-  "tr": {},
-  "fileId": "",
-  "fileUrl": "",
-  "fileName": "",
-  "fileSize": 0,
-  "createdAt": 1794343816559,
-  "updatedAt": 1794343816559
- },
- {
-  "id": "a20261111-04",
-  "ident": "YR-20261111-04",
-  "title": "Policies to Extend the Life of Road Assets",
-  "authors": [
-   "International Transport Forum (ITF)",
-   "Loes Aarts (rais)"
-  ],
-  "org": "ITF / OECD (xalqaro)",
-  "cat": "report",
-  "year": 2018,
-  "lang": "en",
-  "ftype": "PDF",
-  "pages": 0,
-  "kw": [
-   "yo‘l aktivlarini boshqarish",
-   "xizmat muddati",
-   "ta’mir siyosati",
-   "ma’lumotga asoslangan boshqaruv",
-   "asset management",
-   "срок службы дорог"
-  ],
-  "abs": "ITF Research Report prepared by a working group chaired by Rijkswaterstaat (Netherlands) with expert input from 17 countries. It examines what road administrations can do, in policy and in practice, to extend the service life of road assets, and treats road data itself as an asset in provision decisions.",
-  "link": "https://www.itf-oecd.org/sites/default/files/docs/policies-extend-life-road-assets.pdf",
+  "abs": "Qozog‘istonning umumiy foydalanishdagi avtomobil yo‘llarini loyihalashga oid majburiy qurilish normalari: yo‘l tasnifi, elementlar, to‘shama, yo‘l bo‘yi jihozlari, inshootlar va atrof-muhit talablari. 2015-yil 1-iyuldan amalda, keyingi o‘zgarishlar bilan. Havola «Paragraf» huquqiy tizimidagi yozuvga olib boradi; to‘liq matn ro‘yxatdan o‘tishni talab qiladi.",
+  "link": "https://prg.kz/document/?doc_id=36922044",
   "intl": true,
   "tr": {
    "uz": {
-    "t": "Yo‘l aktivlari xizmat muddatini uzaytirish siyosati",
-    "ab": "ITF ning 17 davlat mutaxassislari ishtirokidagi ishchi guruhi hisoboti (rais — Niderlandiya Rijkswaterstaat tashkiloti). Yo‘l tashkilotlari aktivlarning xizmat muddatini uzaytirish uchun qanday siyosiy va amaliy qarorlar qabul qilishi tahlil qilingan; yo‘l haqidagi ma’lumotlarning o‘zi ham aktiv sifatida ko‘riladi. O‘zbekistonda cheklangan ta’mir mablag‘ini taqsimlashda foydali."
+    "t": "Qozog‘iston: SN RK 3.03-01-2013 “Avtomobil yo‘llari”",
+    "ab": "Qozog‘istonning umumiy foydalanishdagi avtomobil yo‘llarini loyihalashga oid majburiy qurilish normalari: yo‘l tasnifi, elementlar, to‘shama, yo‘l bo‘yi jihozlari, inshootlar va atrof-muhit talablari. 2015-yil 1-iyuldan amalda, keyingi o‘zgarishlar bilan. Havola «Paragraf» huquqiy tizimidagi yozuvga olib boradi; to‘liq matn ro‘yxatdan o‘tishni talab qiladi."
    }
   },
   "fileId": "",
   "fileUrl": "",
   "fileName": "",
   "fileSize": 0,
-  "createdAt": 1794343816560,
-  "updatedAt": 1794343816560
+  "createdAt": 1794277796125,
+  "updatedAt": 1794277796125
  },
  {
-  "id": "a20261111-05",
-  "ident": "YR-20261111-05",
-  "title": "Asset Management for the Roads Sector",
+  "id": "a20261110-17",
+  "ident": "YR-20261110-17",
+  "title": "СП РК 3.03-112-2013 «Мосты и трубы»",
   "authors": [
-   "OECD Asset Management Working Group"
+   "Комитет по делам строительства и ЖКХ РК"
   ],
-  "org": "OECD (xalqaro)",
-  "cat": "report",
-  "year": 2001,
-  "lang": "en",
-  "ftype": "PDF",
-  "pages": 0,
-  "kw": [
-   "aktivlarni boshqarish",
-   "yo‘l tarmog‘i",
-   "ma’lumot yig‘ish",
-   "boshqaruv tizimi",
-   "asset management",
-   "управление дорожными активами"
-  ],
-  "abs": "Report of the OECD Road Transport and Intermodal Linkage research programme working group on asset management. It defines asset management for road administrations, documents how far member countries had implemented it, and sets out the data collection and management such systems require.",
-  "link": "https://www.itf-oecd.org/sites/default/files/docs/01assete.pdf",
-  "intl": true,
-  "tr": {
-   "uz": {
-    "t": "Yo‘l sohasida aktivlarni boshqarish",
-    "ab": "OECD ning yo‘l transporti tadqiqot dasturi ishchi guruhi hisoboti. Yo‘l tashkilotlari uchun aktivlarni boshqarish tushunchasi aniqlanadi, a’zo davlatlarda uning joriy etilish darajasi yoritiladi hamda bunday tizim uchun qanday ma’lumot yig‘ilishi va qanday boshqarilishi kerakligi ko‘rsatiladi. Yo‘l tarmog‘i reyestrini yuritishda uslubiy asos bo‘ladi."
-   }
-  },
-  "fileId": "",
-  "fileUrl": "",
-  "fileName": "",
-  "fileSize": 0,
-  "createdAt": 1794343816561,
-  "updatedAt": 1794343816561
- },
- {
-  "id": "a20261111-06",
-  "ident": "YR-20261111-06",
-  "title": "CERCOM — Circular Economy in Road Construction and Maintenance: Case studies I & II, protocol and results",
-  "authors": [
-   "Danish Technological Institute",
-   "Research Driven Solutions",
-   "CEDR"
-  ],
-  "org": "CEDR (Yevropa)",
-  "cat": "report",
-  "year": 2023,
-  "lang": "en",
-  "ftype": "PDF",
-  "pages": 0,
-  "kw": [
-   "sirkulyar iqtisodiyot",
-   "qayta ishlash",
-   "yo‘l qurilishi",
-   "hayotiy sikl tahlili",
-   "ta’mir",
-   "circular economy",
-   "переработка"
-  ],
-  "abs": "Deliverable of the CERCOM project under the CEDR Transnational Road Research Programme. It sets out the protocol for selecting case studies of circular practice in road construction and maintenance and reports the results, including the method used for economic life-cycle assessment of pavement maintenance.",
-  "link": "https://www.cedr.eu/docs/view/6440f09c382ab-en",
-  "intl": true,
-  "tr": {
-   "uz": {
-    "t": "CERCOM — yo‘l qurilishi va saqlashda sirkulyar iqtisodiyot: amaliy misollar protokoli va natijalari",
-    "ab": "CEDR xalqaro yo‘l tadqiqotlari dasturi doirasidagi CERCOM loyihasi hisoboti. Yo‘l qurilishi va saqlashda materialni qayta ishlatish bo‘yicha amaliy misollarni tanlash tartibi va natijalari, shu jumladan qoplama ta’mirining iqtisodiy hayotiy sikl tahlili usuli keltirilgan. Materiallarni qayta ishlatish bo‘yicha bizdagi tajribalar uchun uslubiy namuna."
-   }
-  },
-  "fileId": "",
-  "fileUrl": "",
-  "fileName": "",
-  "fileSize": 0,
-  "createdAt": 1794343816562,
-  "updatedAt": 1794343816562
- },
- {
-  "id": "a20261111-07",
-  "ident": "YR-20261111-07",
-  "title": "CERCOM — Analysis of case studies: best practice approach",
-  "authors": [
-   "Delft University of Technology",
-   "Research Driven Solutions",
-   "CEDR"
-  ],
-  "org": "CEDR (Yevropa)",
-  "cat": "report",
-  "year": 2023,
-  "lang": "en",
-  "ftype": "PDF",
-  "pages": 0,
-  "kw": [
-   "sirkulyar iqtisodiyot",
-   "ilg‘or tajriba",
-   "qoplama",
-   "KPI",
-   "xarid",
-   "circular economy",
-   "best practice"
-  ],
-  "abs": "Companion CERCOM deliverable analysing the collected case studies. It reviews the technical, social and risk indicators European national road authorities use across the pavement life cycle, the data they collect, and how a risk-based assessment framework can be applied in procurement.",
-  "link": "https://www.cedr.eu/docs/view/64e8d56f7025e-en",
-  "intl": true,
-  "tr": {
-   "uz": {
-    "t": "CERCOM — amaliy misollar tahlili: ilg‘or tajriba yondashuvi",
-    "ab": "CERCOM loyihasining ikkinchi hisoboti. Yevropa milliy yo‘l tashkilotlari qoplamaning butun hayotiy sikli davomida qanday texnik, ijtimoiy va risk ko‘rsatkichlaridan foydalanishi, qanday ma’lumot yig‘ishi va xaridda riskka asoslangan baholash tizimi qanday qo‘llanishi tahlil qilingan."
-   }
-  },
-  "fileId": "",
-  "fileUrl": "",
-  "fileName": "",
-  "fileSize": 0,
-  "createdAt": 1794343816563,
-  "updatedAt": 1794343816563
- },
- {
-  "id": "a20261111-08",
-  "ident": "YR-20261111-08",
-  "title": "ERTRAC Roadmap: Circular Economy and Competitiveness of the European Road Transport",
-  "authors": [
-   "ERTRAC"
-  ],
-  "org": "ERTRAC (Yevropa Ittifoqi)",
-  "cat": "guide",
-  "year": 2025,
-  "lang": "en",
-  "ftype": "PDF",
-  "pages": 0,
-  "kw": [
-   "sirkulyar iqtisodiyot",
-   "resurs samaradorligi",
-   "yo‘l transporti",
-   "tadqiqot yo‘l xaritasi",
-   "circular economy",
-   "roadmap"
-  ],
-  "abs": "ERTRAC roadmap setting out the research and innovation priorities that the European road transport sector sees for circularity and competitiveness.",
-  "link": "https://www.ertrac.org/wp-content/uploads/2025/07/ERTRAC_CircularityCompetitiveness_Roadmap_2025_Final.pdf",
-  "intl": true,
-  "tr": {
-   "uz": {
-    "t": "ERTRAC yo‘l xaritasi: sirkulyar iqtisodiyot va Yevropa yo‘l transportining raqobatbardoshligi",
-    "ab": "Yevropa yo‘l transporti texnologiya platformasi ERTRAC ning yo‘l xaritasi: resurslarni qayta ishlatish va raqobatbardoshlik bo‘yicha ilmiy-tadqiqot ustuvorliklari belgilangan. Tadqiqot yo‘nalishlarini rejalashtirishda qiyosiy manba."
-   }
-  },
-  "fileId": "",
-  "fileUrl": "",
-  "fileName": "",
-  "fileSize": 0,
-  "createdAt": 1794343816564,
-  "updatedAt": 1794343816564
- },
- {
-  "id": "a20261111-09",
-  "ident": "YR-20261111-09",
-  "title": "ERTRAC Safe Road Transport Research Roadmap",
-  "authors": [
-   "ERTRAC"
-  ],
-  "org": "ERTRAC (Yevropa Ittifoqi)",
-  "cat": "guide",
-  "year": 2021,
-  "lang": "en",
-  "ftype": "PDF",
-  "pages": 0,
-  "kw": [
-   "yo‘l xavfsizligi",
-   "Vision Zero",
-   "tadqiqot ustuvorliklari",
-   "infratuzilma",
-   "road safety roadmap"
-  ],
-  "abs": "ERTRAC roadmap on road safety research, identifying the research needs European stakeholders set for reaching the EU's casualty reduction goals.",
-  "link": "https://www.ertrac.org/wp-content/uploads/2022/07/ERTRAC-Safety-Roadmap-2021.pdf",
-  "intl": true,
-  "tr": {
-   "uz": {
-    "t": "ERTRAC xavfsiz yo‘l transporti bo‘yicha tadqiqot yo‘l xaritasi",
-    "ab": "ERTRAC ning yo‘l xavfsizligi tadqiqotlari bo‘yicha yo‘l xaritasi: Yevropa Ittifoqining qurbonlarni kamaytirish maqsadlariga erishish uchun qanday ilmiy tadqiqotlar zarurligi belgilangan."
-   }
-  },
-  "fileId": "",
-  "fileUrl": "",
-  "fileName": "",
-  "fileSize": 0,
-  "createdAt": 1794343816565,
-  "updatedAt": 1794343816565
- },
- {
-  "id": "a20261111-10",
-  "ident": "YR-20261111-10",
-  "title": "ERTRAC Safety Paper 2023",
-  "authors": [
-   "ERTRAC"
-  ],
-  "org": "ERTRAC (Yevropa Ittifoqi)",
-  "cat": "report",
-  "year": 2023,
-  "lang": "en",
-  "ftype": "PDF",
-  "pages": 0,
-  "kw": [
-   "yo‘l xavfsizligi",
-   "tahliliy hujjat",
-   "infratuzilma",
-   "transport siyosati",
-   "road safety"
-  ],
-  "abs": "ERTRAC position paper on road transport safety research, updating the platform's view of priorities after its 2021 safety roadmap.",
-  "link": "https://www.ertrac.org/wp-content/uploads/2023/12/ERTRAC-Safety-Paper-2023.pdf",
-  "intl": true,
-  "tr": {
-   "uz": {
-    "t": "ERTRAC 2023-yilgi xavfsizlik hujjati",
-    "ab": "ERTRAC ning yo‘l transporti xavfsizligi tadqiqotlari bo‘yicha pozitsion hujjati: 2021-yilgi yo‘l xaritasidan keyingi yangilangan ustuvorliklar."
-   }
-  },
-  "fileId": "",
-  "fileUrl": "",
-  "fileName": "",
-  "fileSize": 0,
-  "createdAt": 1794343816566,
-  "updatedAt": 1794343816566
- },
- {
-  "id": "a20261111-11",
-  "ident": "YR-20261111-11",
-  "title": "Paving the way for Infrastructure and Long Distance Freight Transport cooperation",
-  "authors": [
-   "ERTRAC"
-  ],
-  "org": "ERTRAC (Yevropa Ittifoqi)",
-  "cat": "report",
-  "year": 2024,
-  "lang": "en",
-  "ftype": "PDF",
-  "pages": 0,
-  "kw": [
-   "yo‘l infratuzilmasi",
-   "yuk tashish",
-   "uzoq masofa",
-   "hamkorlik",
-   "freight transport",
-   "infrastructure"
-  ],
-  "abs": "ERTRAC deep-dive paper on how road infrastructure work and long-distance freight transport research can be brought closer together in Europe.",
-  "link": "https://www.ertrac.org/wp-content/uploads/2024/06/ERTRAC_LDFT_WG_DeepDiveB_v20240624.pdf",
-  "intl": true,
-  "tr": {
-   "uz": {
-    "t": "Infratuzilma va uzoq masofali yuk tashish hamkorligiga yo‘l ochish",
-    "ab": "ERTRAC ning chuqurlashtirilgan tahlili: Yevropada yo‘l infratuzilmasi va uzoq masofali yuk tashish tadqiqotlarini qanday birlashtirish mumkinligi ko‘rib chiqilgan. Transport yo‘laklari rivojlanayotgan O‘zbekiston uchun ham dolzarb."
-   }
-  },
-  "fileId": "",
-  "fileUrl": "",
-  "fileName": "",
-  "fileSize": 0,
-  "createdAt": 1794343816567,
-  "updatedAt": 1794343816567
- },
- {
-  "id": "a20261111-12",
-  "ident": "YR-20261111-12",
-  "title": "Transport Infrastructure Innovation Roadmap",
-  "authors": [
-   "Joint ETP Task Force (ERTRAC, ERRAC, WATERBORNE, ACARE, ECTP)"
-  ],
-  "org": "ERTRAC / Yevropa texnologiya platformalari",
-  "cat": "guide",
+  "org": "Qozog‘iston Respublikasi",
+  "cat": "norm",
   "year": 2013,
-  "lang": "en",
-  "ftype": "PDF",
-  "pages": 0,
-  "kw": [
-   "transport infratuzilmasi",
-   "innovatsiya",
-   "tadqiqot yo‘l xaritasi",
-   "qurilish texnologiyalari",
-   "infrastructure innovation"
-  ],
-  "abs": "Joint European technology platform roadmap on innovation in transport infrastructure, covering construction, maintenance and the research agenda shared across transport modes.",
-  "link": "https://www.ertrac.org/wp-content/uploads/2022/07/joint-etp-task-force-roadmap_84.pdf",
-  "intl": true,
-  "tr": {
-   "uz": {
-    "t": "Transport infratuzilmasi innovatsiyalari yo‘l xaritasi",
-    "ab": "Yevropa texnologiya platformalarining birgalikdagi yo‘l xaritasi: transport infratuzilmasidagi innovatsiyalar, qurilish va saqlash texnologiyalari hamda umumiy tadqiqot kun tartibi."
-   }
-  },
-  "fileId": "",
-  "fileUrl": "",
-  "fileName": "",
-  "fileSize": 0,
-  "createdAt": 1794343816568,
-  "updatedAt": 1794343816568
- },
- {
-  "id": "a20261111-13",
-  "ident": "YR-20261111-13",
-  "title": "RESKILLING — Reskilling the mobility workforce for Connected, Cooperative and Automated Mobility",
-  "authors": [
-   "FEHRL",
-   "CERTH/HIT",
-   "VTI",
-   "ECTRI",
-   "Polis",
-   "UITP"
-  ],
-  "org": "FEHRL / Horizon Europe (Yevropa)",
-  "cat": "project",
-  "year": 2025,
-  "lang": "en",
+  "lang": "ru",
   "ftype": "WEB",
   "pages": 0,
   "kw": [
-   "kadrlar tayyorlash",
-   "avtomatlashtirilgan harakat",
-   "malaka oshirish",
-   "CCAM",
-   "loyiha",
-   "workforce skills"
+   "ko‘priklar",
+   "quvurlar",
+   "yuklamalar",
+   "temirbeton",
+   "Qozog‘iston",
+   "мосты и трубы",
+   "bridges and culverts"
   ],
-  "abs": "Horizon Europe project (GA 101147328, 2025–2027) led with FEHRL participation. It analyses how connected, cooperative and automated mobility changes road-sector professions and what skills the workforce will need, using a social innovation approach.",
-  "link": "https://www.fehrl.org/projects/detail/340",
+  "abs": "Ko‘priklar va suv o‘tkazuvchi quvurlarni loyihalash bo‘yicha qoidalar to‘plami: umumiy talablar, yuklamalar va ta’sirlar, temirbeton va po‘lat konstruksiyalarni hisoblash. 2015-yil 1-iyuldan amalda. «Paragraf» tizimidagi yozuv; to‘liq matn ro‘yxatdan o‘tishni talab qiladi.",
+  "link": "https://prg.kz/Document/?doc_id=33307481",
   "intl": true,
   "tr": {
    "uz": {
-    "t": "RESKILLING — bog‘langan va avtomatlashtirilgan harakat uchun kadrlarni qayta tayyorlash",
-    "ab": "FEHRL ishtirokidagi Horizon Europe loyihasi (2025–2027). Bog‘langan, kooperativ va avtomatlashtirilgan harakat yo‘l sohasidagi kasblarni qanday o‘zgartirayotgani va mutaxassislarga qanday yangi malakalar kerakligi o‘rganilmoqda. Kadrlar tayyorlash dasturlarini yangilashda foydali."
+    "t": "Qozog‘iston: SP RK 3.03-112-2013 “Ko‘priklar va quvurlar”",
+    "ab": "Ko‘priklar va suv o‘tkazuvchi quvurlarni loyihalash bo‘yicha qoidalar to‘plami: umumiy talablar, yuklamalar va ta’sirlar, temirbeton va po‘lat konstruksiyalarni hisoblash. 2015-yil 1-iyuldan amalda. «Paragraf» tizimidagi yozuv; to‘liq matn ro‘yxatdan o‘tishni talab qiladi."
    }
   },
   "fileId": "",
   "fileUrl": "",
   "fileName": "",
   "fileSize": 0,
-  "createdAt": 1794343816569,
-  "updatedAt": 1794343816569
+  "createdAt": 1794277796126,
+  "updatedAt": 1794277796126
  },
  {
-  "id": "trbidea-204",
-  "ident": "TRB-IDEA-204",
-  "title": "Biomimetic Antifreeze Molecules: A Novel Solution to Deicing Salts and Air-Entraining Admixtures",
+  "id": "a20261110-18",
+  "ident": "YR-20261110-18",
+  "title": "СН РК 3.03-12-2013 «Мосты и трубы»",
   "authors": [
-   "Wil V. Srubar III",
-   "University of Colorado Boulder"
+   "Комитет по делам строительства и ЖКХ РК"
   ],
-  "org": "TRB / NCHRP IDEA (AQSh)",
-  "cat": "report",
+  "org": "Qozog‘iston Respublikasi",
+  "cat": "norm",
+  "year": 2013,
+  "lang": "ru",
+  "ftype": "WEB",
+  "pages": 0,
+  "kw": [
+   "ko‘priklar",
+   "quvurlar",
+   "qurilish normalari",
+   "Qozog‘iston",
+   "мосты",
+   "bridge design norms"
+  ],
+  "abs": "Avtomobil, temir yo‘l, metro va tramvay yo‘llaridagi yangi, rekonstruksiya qilinadigan va ta’mirlanadigan ko‘priklar hamda quvurlarni loyihalash bo‘yicha majburiy normalar; piyodalar ko‘priklari va tunnellarini ham qamraydi. 2015-yil 1-iyuldan amalda. «Paragraf» tizimidagi yozuv.",
+  "link": "https://prg.kz/Document/?doc_id=34572847",
+  "intl": true,
+  "tr": {
+   "uz": {
+    "t": "Qozog‘iston: SN RK 3.03-12-2013 “Ko‘priklar va quvurlar”",
+    "ab": "Avtomobil, temir yo‘l, metro va tramvay yo‘llaridagi yangi, rekonstruksiya qilinadigan va ta’mirlanadigan ko‘priklar hamda quvurlarni loyihalash bo‘yicha majburiy normalar; piyodalar ko‘priklari va tunnellarini ham qamraydi. 2015-yil 1-iyuldan amalda. «Paragraf» tizimidagi yozuv."
+   }
+  },
+  "fileId": "",
+  "fileUrl": "",
+  "fileName": "",
+  "fileSize": 0,
+  "createdAt": 1794277796127,
+  "updatedAt": 1794277796127
+ },
+ {
+  "id": "a20261110-19",
+  "ident": "YR-20261110-19",
+  "title": "СП РК 3.03-113-2014 «Мосты и трубы. Правила обследований и испытаний»",
+  "authors": [
+   "Комитет по делам строительства и ЖКХ РК"
+  ],
+  "org": "Qozog‘iston Respublikasi",
+  "cat": "norm",
+  "year": 2014,
+  "lang": "ru",
+  "ftype": "WEB",
+  "pages": 0,
+  "kw": [
+   "ko‘priklarni tekshirish",
+   "statik sinov",
+   "dinamik sinov",
+   "Qozog‘iston",
+   "обследование мостов",
+   "bridge inspection and testing"
+  ],
+  "abs": "Ko‘priklar va quvurlarni tekshirish hamda statik, dinamik sinovdan o‘tkazish qoidalari; qurilish yoki kapital ta’mirdan keyin foydalanishga topshiriladigan inshootlarga taalluqli. 2015-yil 1-iyuldan amalda. «Paragraf» tizimidagi yozuv.",
+  "link": "https://prg.kz/Document/?doc_id=39108584",
+  "intl": true,
+  "tr": {
+   "uz": {
+    "t": "Qozog‘iston: SP RK 3.03-113-2014 “Ko‘priklar va quvurlar. Tekshirish va sinash qoidalari”",
+    "ab": "Ko‘priklar va quvurlarni tekshirish hamda statik, dinamik sinovdan o‘tkazish qoidalari; qurilish yoki kapital ta’mirdan keyin foydalanishga topshiriladigan inshootlarga taalluqli. 2015-yil 1-iyuldan amalda. «Paragraf» tizimidagi yozuv."
+   }
+  },
+  "fileId": "",
+  "fileUrl": "",
+  "fileName": "",
+  "fileSize": 0,
+  "createdAt": 1794277796128,
+  "updatedAt": 1794277796128
+ },
+ {
+  "id": "a20261110-20",
+  "ident": "YR-20261110-20",
+  "title": "СП РК 3.03-103-2014 «Проектирование жестких дорожных одежд» (с изменениями от 14.06.2019 г.)",
+  "authors": [
+   "Комитет по делам строительства и ЖКХ РК"
+  ],
+  "org": "Qozog‘iston Respublikasi",
+  "cat": "norm",
+  "year": 2014,
+  "lang": "ru",
+  "ftype": "WEB",
+  "pages": 0,
+  "kw": [
+   "bikr yo‘l to‘shamasi",
+   "sement-beton",
+   "choklar",
+   "Qozog‘iston",
+   "жесткие дорожные одежды",
+   "rigid pavement design"
+  ],
+  "abs": "Sement-beton (bikr) yo‘l to‘shamalarini loyihalash bo‘yicha tavsiyaviy qoidalar to‘plami: konstruksiya, yuklama hisoblari, choklar, sovuqqa chidamlilik va drenajni tekshirish. 2019-yil 14-iyundagi o‘zgarishlar bilan. «Paragraf» tizimidagi yozuv.",
+  "link": "https://prg.kz/m/amp/document/32456615",
+  "intl": true,
+  "tr": {
+   "uz": {
+    "t": "Qozog‘iston: SP RK 3.03-103-2014 “Bikr yo‘l to‘shamalarini loyihalash”",
+    "ab": "Sement-beton (bikr) yo‘l to‘shamalarini loyihalash bo‘yicha tavsiyaviy qoidalar to‘plami: konstruksiya, yuklama hisoblari, choklar, sovuqqa chidamlilik va drenajni tekshirish. 2019-yil 14-iyundagi o‘zgarishlar bilan. «Paragraf» tizimidagi yozuv."
+   }
+  },
+  "fileId": "",
+  "fileUrl": "",
+  "fileName": "",
+  "fileSize": 0,
+  "createdAt": 1794277796129,
+  "updatedAt": 1794277796129
+ },
+ {
+  "id": "a20261110-21",
+  "ident": "YR-20261110-21",
+  "title": "СП РК 3.03-104-2014 «Проектирование дорожных одежд нежесткого типа»",
+  "authors": [
+   "Комитет по делам строительства и ЖКХ РК"
+  ],
+  "org": "Qozog‘iston Respublikasi",
+  "cat": "norm",
+  "year": 2014,
+  "lang": "ru",
+  "ftype": "WEB",
+  "pages": 0,
+  "kw": [
+   "egiluvchan to‘shama",
+   "mustahkamlik hisobi",
+   "hisobiy yuklama",
+   "Qozog‘iston",
+   "нежесткие дорожные одежды",
+   "flexible pavement design"
+  ],
+  "abs": "Yangi, rekonstruksiya qilinadigan va kapital ta’mirlanadigan yo‘llar uchun egiluvchan to‘shamalarni loyihalash qoidalari: mustahkamlik hisobi, hisobiy yuklamalar, sovuqqa chidamlilik va armaturalash; hisob misoli ilova qilingan. 2024-yil 13-fevral holatidagi tahrir. «Paragraf» tizimidagi yozuv.",
+  "link": "https://prg.kz/m/amp/document/33665106",
+  "intl": true,
+  "tr": {
+   "uz": {
+    "t": "Qozog‘iston: SP RK 3.03-104-2014 “Egiluvchan yo‘l to‘shamalarini loyihalash”",
+    "ab": "Yangi, rekonstruksiya qilinadigan va kapital ta’mirlanadigan yo‘llar uchun egiluvchan to‘shamalarni loyihalash qoidalari: mustahkamlik hisobi, hisobiy yuklamalar, sovuqqa chidamlilik va armaturalash; hisob misoli ilova qilingan. 2024-yil 13-fevral holatidagi tahrir. «Paragraf» tizimidagi yozuv."
+   }
+  },
+  "fileId": "",
+  "fileUrl": "",
+  "fileName": "",
+  "fileSize": 0,
+  "createdAt": 1794277796130,
+  "updatedAt": 1794277796130
+ },
+ {
+  "id": "a20261110-22",
+  "ident": "YR-20261110-22",
+  "title": "СТ РК 2373-2019 «Смеси щебеночно-мастичные полимерасфальтобетонные дорожные, аэродромные и щебеночно-мастичный полимерасфальтобетон. Технические условия»",
+  "authors": [
+   "Казахстанский институт стандартизации и метрологии"
+  ],
+  "org": "Qozog‘iston Respublikasi",
+  "cat": "norm",
   "year": 2019,
-  "lang": "en",
-  "ftype": "PDF",
-  "pages": 43,
-  "kw": [
-   "muzlashga qarshi qo‘shimcha",
-   "beton",
-   "sovuqqa chidamlilik",
-   "qishki saqlash",
-   "biomimetika",
-   "antifreeze",
-   "морозостойкость"
-  ],
-  "abs": "IDEA Project 204 synthesized and tested low-cost, non-toxic, biodegradable antifreeze biopolymers that mimic the natural antifreeze proteins of fish, plants and insects. At very low concentrations the molecules inhibited ice recrystallization, and freeze-thaw testing showed BAM-modified cement paste and concrete stayed freeze-thaw resistant with minimal entrained air; the molecules did not, however, melt ice already formed on surfaces.",
-  "link": "https://onlinepubs.trb.org/onlinepubs/IDEA/FinalReports/HIghway/NCHRP204.pdf",
-  "intl": true,
-  "tr": {
-   "uz": {
-    "t": "Biomimetik antifriz molekulalari: tuzlar va havo tortuvchi qo‘shimchalarga yangicha yechim",
-    "ab": "Baliq va o‘simliklarning tabiiy antifriz oqsillariga taqlid qiluvchi arzon, zaharsiz biopolimerlar sintez qilinib sinovdan o‘tkazilgan. Juda past konsentratsiyada ular muz qayta kristallanishini to‘xtatadi; bunday qo‘shimchali beton havo tortuvchi qo‘shimchasiz ham muzlash-erishga chidamli bo‘lib chiqqan. O‘zbekiston sharoitida qishda tuz sepishni kamaytirish va beton chidamliligini oshirish yo‘nalishidagi izlanishlar uchun qiziqarli manba."
-   }
-  },
-  "fileId": "",
-  "fileUrl": "",
-  "fileName": "",
-  "fileSize": 0,
-  "createdAt": 1794424379536,
-  "updatedAt": 1794424379536
- },
- {
-  "id": "trbidea-207",
-  "ident": "TRB-IDEA-207",
-  "title": "MILDGLASS: GFRP Strand for Resilient Mild Pre-Stressed Concrete",
-  "authors": [
-   "Marco Rossini",
-   "Antonio Nanni",
-   "University of Miami"
-  ],
-  "org": "TRB / NCHRP IDEA (AQSh)",
-  "cat": "report",
-  "year": 2020,
-  "lang": "en",
+  "lang": "ru",
   "ftype": "WEB",
-  "pages": 39,
+  "pages": 0,
   "kw": [
-   "GFRP",
-   "oldindan zo‘riqtirilgan beton",
-   "korroziya",
-   "armatura",
-   "ko‘prik",
-   "стеклопластиковая арматура",
-   "prestressed concrete"
+   "ShMA",
+   "polimer-asfaltbeton",
+   "texnik shartlar",
+   "Qozog‘iston",
+   "ЩМА",
+   "stone mastic asphalt"
   ],
-  "abs": "IDEA Project 207 developed and tested a glass-FRP strand for mild prestressing of concrete as a corrosion-resistant, lower-cost alternative where steel corrodes — coastal substructures, sheet piles and structures exposed to de-icing salts. The vinyl-ester GFRP strand was characterized for pull strength under instantaneous and sustained load, pseudo-creep and anchor-setting losses, and was applied in the field on a Florida bridge.",
-  "link": "https://trb.org/Main/Blurbs/180729.aspx",
+  "abs": "Yo‘l, aerodrom va shahar ko‘chalari qoplamalarining yuqori va pastki qatlamlari uchun issiq shag‘al-mastikali polimer-asfaltbeton aralashmalariga texnik talablar va sinov usullari (1-o‘zgartirish bilan). «Paragraf» tizimidagi yozuv; to‘liq matn ro‘yxatdan o‘tishni talab qiladi.",
+  "link": "https://prg.kz/m/amp/document/35138024",
   "intl": true,
   "tr": {
    "uz": {
-    "t": "MILDGLASS: oldindan zo‘riqtirilgan beton uchun korroziyabardosh shishatolali (GFRP) kanat",
-    "ab": "Po‘lat korroziyasi muammosiga qarshi shishatolali kompozit kanat ishlab chiqilib, uzilish kuchi, sudralish va ankerdagi yo‘qotishlar bo‘yicha sinalgan, Florida shtatidagi ko‘prikda amalda qo‘llangan. Tuz sepiladigan va namlik yuqori sharoitlarda ko‘prik elementlarining xizmat muddatini uzaytirish bo‘yicha bizning soha uchun ham dolzarb yo‘nalish."
+    "t": "Qozog‘iston: ST RK 2373-2019 shag‘al-mastikali polimer-asfaltbeton aralashmalari",
+    "ab": "Yo‘l, aerodrom va shahar ko‘chalari qoplamalarining yuqori va pastki qatlamlari uchun issiq shag‘al-mastikali polimer-asfaltbeton aralashmalariga texnik talablar va sinov usullari (1-o‘zgartirish bilan). «Paragraf» tizimidagi yozuv; to‘liq matn ro‘yxatdan o‘tishni talab qiladi."
    }
   },
   "fileId": "",
   "fileUrl": "",
   "fileName": "",
   "fileSize": 0,
-  "createdAt": 1794424379537,
-  "updatedAt": 1794424379537
+  "createdAt": 1794277796131,
+  "updatedAt": 1794277796131
  },
  {
-  "id": "trbidea-211",
-  "ident": "TRB-IDEA-211",
-  "title": "Reducing Stormwater Runoff with Biochar Addition to Roadway Soils",
+  "id": "a20261110-23",
+  "ident": "YR-20261110-23",
+  "title": "СТ РК 2516-2014 «Смеси асфальтобетонные и асфальтобетон щебеночно-мастичные на МАК-битуме. Технические условия»",
   "authors": [
-   "Paul T. Imhoff",
-   "University of Delaware"
+   "Казахстанский институт стандартизации и метрологии"
   ],
-  "org": "TRB / NCHRP IDEA (AQSh)",
-  "cat": "report",
-  "year": 2021,
-  "lang": "en",
-  "ftype": "PDF",
-  "pages": 52,
-  "kw": [
-   "bioko‘mir",
-   "yomg‘ir oqimi",
-   "yo‘l gruntlari",
-   "drenaj",
-   "ekologiya",
-   "biochar",
-   "ливневый сток"
-  ],
-  "abs": "IDEA Project 211 (Type II) tested whether amending roadway soils with wood-based biochar cuts stormwater runoff by improving water retention and infiltration, so existing green verges work as stormwater treatment without new infrastructure. Twelve roadway soils from four state DOTs were studied over time; in field tests biochar's infiltration benefit was more than double that measured in the laboratory, though soils that already drained well saw little gain.",
-  "link": "https://onlinepubs.trb.org/onlinepubs/IDEA/FinalReports/Highway/NCHRP211.pdf",
-  "intl": true,
-  "tr": {
-   "uz": {
-    "t": "Yo‘l gruntiga bioko‘mir qo‘shib yomg‘ir oqimini kamaytirish",
-    "ab": "Yo‘l yoqasidagi gruntga yog‘och bioko‘miri qo‘shilsa, suv shimilishi yaxshilanib, yomg‘ir oqimi sezilarli kamayishi 4 shtatdan olingan 12 xil gruntda sinab ko‘rilgan. Dala sinovlarida samara laboratoriyadagidan ikki baravar yuqori chiqqan. Yangi inshoot qurmasdan drenaj muammosini yumshatish — arzon va ekologik yechim sifatida e’tiborga molik."
-   }
-  },
-  "fileId": "",
-  "fileUrl": "",
-  "fileName": "",
-  "fileSize": 0,
-  "createdAt": 1794424379538,
-  "updatedAt": 1794424379538
- },
- {
-  "id": "trbidea-218",
-  "ident": "TRB-IDEA-218",
-  "title": "Development of Three Point Bending Cylinder (3PBC) Asphalt Mixture Fatigue Test System",
-  "authors": [
-   "Aksel Seitllari",
-   "M. Emin Kutay",
-   "Michigan State University"
-  ],
-  "org": "TRB / NCHRP IDEA (AQSh)",
-  "cat": "report",
-  "year": 2022,
-  "lang": "en",
+  "org": "Qozog‘iston Respublikasi",
+  "cat": "norm",
+  "year": 2014,
+  "lang": "ru",
   "ftype": "WEB",
-  "pages": 48,
+  "pages": 0,
   "kw": [
-   "asfalt",
-   "charchash sinovi",
-   "3PBC",
-   "laboratoriya",
-   "ASTM D8458",
-   "усталость асфальтобетона",
-   "fatigue test"
+   "MAK-bitum",
+   "ShMA",
+   "asfaltbeton",
+   "Qozog‘iston",
+   "щебеночно-мастичный асфальтобетон",
+   "SMA specification"
   ],
-  "abs": "IDEA Project 218 refined the three-point bending cylinder (3PBC) fatigue test for asphalt mixtures, developed because standard fatigue tests are long, costly and material-hungry. The 3PBC rig is inexpensive, uses ordinary cylindrical specimens and shortens preparation and testing time; the project improved the fixture's robustness and analysis methodology, and the method has since been standardized as ASTM D8458-22.",
-  "link": "https://trb.org/Main/Blurbs/182769.aspx",
+  "abs": "III–V yo‘l-iqlim zonalarida yo‘l, aerodrom va shahar ko‘chalari qoplamalari uchun MAK-bitumdagi issiq shag‘al-mastikali asfaltbeton aralashmalariga texnik shartlar. «Paragraf» tizimidagi yozuv; to‘liq matn ro‘yxatdan o‘tishni talab qiladi.",
+  "link": "https://prg.kz/m/amp/document/38851227",
   "intl": true,
   "tr": {
    "uz": {
-    "t": "Asfalt aralashmasi charchashini sinash uchun uch nuqtali egiluvchi silindr (3PBC) tizimi",
-    "ab": "An’anaviy charchash sinovlari uzoq va qimmat bo‘lgani uchun oddiy silindrik namunada ishlaydigan arzon 3PBC uskunasi yaratilgan: tayyorlash va sinash vaqti ancha qisqa. Usul keyinchalik ASTM D8458-22 standarti sifatida qabul qilingan. Institut laboratoriyasida asfaltbeton charchashini baholashni yo‘lga qo‘yish uchun qulay boshlang‘ich nuqta."
+    "t": "Qozog‘iston: ST RK 2516-2014 MAK-bitumdagi shag‘al-mastikali asfaltbeton",
+    "ab": "III–V yo‘l-iqlim zonalarida yo‘l, aerodrom va shahar ko‘chalari qoplamalari uchun MAK-bitumdagi issiq shag‘al-mastikali asfaltbeton aralashmalariga texnik shartlar. «Paragraf» tizimidagi yozuv; to‘liq matn ro‘yxatdan o‘tishni talab qiladi."
    }
   },
   "fileId": "",
   "fileUrl": "",
   "fileName": "",
   "fileSize": 0,
-  "createdAt": 1794424379539,
-  "updatedAt": 1794424379539
+  "createdAt": 1794277796132,
+  "updatedAt": 1794277796132
  },
  {
-  "id": "trbidea-219",
-  "ident": "TRB-IDEA-219",
-  "title": "A Novel Durable, Healable, and Conveniently Removable Pavement Marking Material",
+  "id": "a20261110-24",
+  "ident": "YR-20261110-24",
+  "title": "Закон Республики Казахстан от 17 июля 2001 года № 245 «Об автомобильных дорогах»",
   "authors": [
-   "Long Jiang",
-   "Mijia Yang",
-   "Zhibin Lin",
-   "North Dakota State University"
+   "Парламент Республики Казахстан"
   ],
-  "org": "TRB / NCHRP IDEA (AQSh)",
-  "cat": "report",
-  "year": 2022,
-  "lang": "en",
-  "ftype": "PDF",
-  "pages": 51,
-  "kw": [
-   "yo‘l chiziqlari",
-   "vitrimer",
-   "epoksid",
-   "o‘z-o‘zini tiklash",
-   "vaqtinchalik belgilar",
-   "дорожная разметка",
-   "pavement marking"
-  ],
-  "abs": "IDEA Project 219 developed a vitrimer-based two-part epoxy pavement marking that self-heals micro-cuts at elevated temperature and can be removed selectively with a mild acidic solution, so one material serves both permanent and temporary (work-zone) marking without damaging the surface at removal. Field sections were placed on the NDSU campus and at MnROAD, and the formulation priced out cheaper than commercial temporary marking products in its dual role.",
-  "link": "https://onlinepubs.trb.org/onlinepubs/IDEA/FinalReports/Highway/NCHRP219.pdf",
-  "intl": true,
-  "tr": {
-   "uz": {
-    "t": "Mustahkam, o‘z-o‘zini tiklaydigan va oson ko‘chiriladigan yo‘l chizig‘i materiali",
-    "ab": "Vitrimer asosidagi ikki komponentli epoksid chiziq materiali mikro-yoriqlarini qizdirilganda o‘zi «davolaydi», kuchsiz kislotali eritma bilan esa qoplamani buzmasdan ko‘chiriladi — doimiy va vaqtinchalik (ta’mir zonasi) belgilar uchun bitta material. MnROAD poligonida dala sinovidan o‘tgan. Ta’mir ko‘p bo‘ladigan yo‘llarimizda vaqtinchalik chiziqlar muammosiga qiziqarli yechim."
-   }
-  },
-  "fileId": "",
-  "fileUrl": "",
-  "fileName": "",
-  "fileSize": 0,
-  "createdAt": 1794424379540,
-  "updatedAt": 1794424379540
- },
- {
-  "id": "trbidea-245",
-  "ident": "TRB-IDEA-245",
-  "title": "Simple and Rapid Tests for Assessing Quality and Consistency of Reclaimed Asphalt Pavement (RAP) for Recycled Asphalt Mixture Applications",
-  "authors": [
-   "Ilker Boz (VTRC)",
-   "Fan Yin (NCAT)"
-  ],
-  "org": "TRB / NCHRP IDEA (AQSh)",
-  "cat": "report",
-  "year": 2025,
-  "lang": "en",
+  "org": "Qozog‘iston Respublikasi",
+  "cat": "norm",
+  "year": 2001,
+  "lang": "ru",
   "ftype": "WEB",
-  "pages": 54,
+  "pages": 0,
   "kw": [
-   "RAP",
-   "qayta ishlangan asfalt",
-   "bog‘lovchi PG",
-   "IDEAL-CT",
-   "sifat nazorati",
-   "переработанный асфальтобетон",
-   "recycled asphalt"
+   "qonun",
+   "avtomobil yo‘llari",
+   "pullik yo‘llar",
+   "yo‘l faoliyati",
+   "Qozog‘iston",
+   "закон об автомобильных дорогах",
+   "road law"
   ],
-  "abs": "IDEA Project 245 developed simple performance-based tests to estimate the performance grade (PG) of the binder in reclaimed asphalt pavement and to track RAP stockpile variability without solvent extraction and recovery, avoiding hazardous solvents such as trichloroethylene. Candidate tests including IDEAL-CT, HT-IDT, the Dongre workability test and impact resonance were evaluated on artificial and field RAP, and the framework offers an alternative to traditional extraction for quality control as RAP contents rise.",
-  "link": "https://trb.org/Main/Blurbs/183336.aspx",
+  "abs": "Qozog‘istonda avtomobil yo‘llarini boshqarish, qurish, saqlash va rivojlantirishning huquqiy, tashkiliy va iqtisodiy asoslarini belgilovchi qonun (amaldagi tahriri o‘zgartirishlar bilan): yo‘llar tasnifi, yo‘l bo‘yi yerlari, pullik yo‘llar va yo‘l organlari vakolatlari. Havola rasmiy Adilet bazasidagi matnning nusxasini beruvchi zakon.uchet.kz sahifasiga olib boradi.",
+  "link": "https://zakon.uchet.kz/rus/docs/Z010000245_",
   "intl": true,
   "tr": {
    "uz": {
-    "t": "Qayta ishlangan asfalt (RAP) sifati va bir xilligini baholash uchun sodda va tezkor sinovlar",
-    "ab": "RAP tarkibidagi bitumning PG markasini zaharli erituvchilarsiz (ekstraksiyasiz) baholash va uyum bir xilligini nazorat qilish uchun IDEAL-CT, HT-IDT kabi tezkor sinovlarga asoslangan usul taklif etilgan. RAP ulushi oshgani sari sifat nazorati uchun bu yondashuv laboratoriyamizga bevosita tatbiq etsa bo‘ladigan amaliy natija."
+    "t": "Qozog‘iston: “Avtomobil yo‘llari to‘g‘risida”gi qonun (2001, № 245)",
+    "ab": "Qozog‘istonda avtomobil yo‘llarini boshqarish, qurish, saqlash va rivojlantirishning huquqiy, tashkiliy va iqtisodiy asoslarini belgilovchi qonun (amaldagi tahriri o‘zgartirishlar bilan): yo‘llar tasnifi, yo‘l bo‘yi yerlari, pullik yo‘llar va yo‘l organlari vakolatlari. Havola rasmiy Adilet bazasidagi matnning nusxasini beruvchi zakon.uchet.kz sahifasiga olib boradi."
    }
   },
   "fileId": "",
   "fileUrl": "",
   "fileName": "",
   "fileSize": 0,
-  "createdAt": 1794424379541,
-  "updatedAt": 1794424379541
- },
- {
-  "id": "trbidea-246",
-  "ident": "TRB-IDEA-246",
-  "title": "Develop a Method for Selecting Low-Energy Mixing and Compaction Temperatures for Asphalt Mixtures Considering Asphalt Lubrication and Aggregate Characteristics",
-  "authors": [
-   "Runhua Zhang",
-   "Hussain Bahia",
-   "University of Wisconsin-Madison"
-  ],
-  "org": "TRB / NCHRP IDEA (AQSh)",
-  "cat": "report",
-  "year": 2025,
-  "lang": "en",
-  "ftype": "WEB",
-  "pages": 54,
-  "kw": [
-   "aralashtirish harorati",
-   "zichlash",
-   "tribologiya",
-   "energiya tejash",
-   "asfalt",
-   "температура уплотнения",
-   "warm mix"
-  ],
-  "abs": "IDEA Project 246 brought tribology into asphalt practice: it built a tribological test rig and protocol for the lubricating ability of asphalt binders, linked lubrication to mixture workability, and proposed a method for setting mixing and compaction temperatures that accounts for aggregate characteristics rather than binder viscosity alone. The aim is lower production temperatures and energy use while improving density and pavement performance over methods such as ASTM D2493.",
-  "link": "https://trb.org/Main/Blurbs/183317.aspx",
-  "intl": true,
-  "tr": {
-   "uz": {
-    "t": "Asfalt moylash xossasi va tosh materiali xususiyatlarini hisobga olib kam energiyali aralashtirish va zichlash haroratini tanlash usuli",
-    "ab": "Bitumning «moylash» qobiliyatini o‘lchaydigan tribologik sinov yaratilib, aralashma ishlovchanligi shu orqali tushuntirilgan; aralashtirish-zichlash haroratini faqat qovushqoqlik bo‘yicha emas, tosh materiali xususiyatlarini ham hisobga olib tanlash usuli taklif etilgan. Bu asfalt zavodlarida haroratni pasaytirib energiya va bitum qarishini tejashga yo‘l ochadi."
-   }
-  },
-  "fileId": "",
-  "fileUrl": "",
-  "fileName": "",
-  "fileSize": 0,
-  "createdAt": 1794424379542,
-  "updatedAt": 1794424379542
- },
- {
-  "id": "trbidea-248",
-  "ident": "TRB-IDEA-248",
-  "title": "Enhanced Network-level Curve Safety Assessment and Monitoring Using Low-cost Mobile Devices — Refinement and Field Evaluation",
-  "authors": [
-   "Yi-Chang (James) Tsai",
-   "Georgia Institute of Technology"
-  ],
-  "org": "TRB / NCHRP IDEA (AQSh)",
-  "cat": "report",
-  "year": 2025,
-  "lang": "en",
-  "ftype": "PDF",
-  "pages": 58,
-  "kw": [
-   "egri uchastka",
-   "xavfsizlik",
-   "tavsiya tezligi",
-   "smartfon",
-   "IMU",
-   "кривые в плане",
-   "curve safety"
-  ],
-  "abs": "IDEA Project 248 refined a smartphone-based framework that uses built-in GPS and IMU sensors to assess horizontal-curve advisory speeds at network level, as a low-cost alternative to ball-bank indicator runs. Horizontal curves are about five percent of highway miles but account for nearly a quarter of fatal crashes; edge computing on the phone delivers advisory-speed results immediately on exiting each curve, and field evaluation covered accuracy and repeatability across vehicles and drivers.",
-  "link": "https://www.nationalacademies.org/osdocs/NCHRPIDEA248.pdf",
-  "intl": true,
-  "tr": {
-   "uz": {
-    "t": "Arzon mobil qurilmalar yordamida egri uchastkalar xavfsizligini tarmoq miqyosida baholash va kuzatish",
-    "ab": "Oddiy smartfonning GPS va IMU sensorlari orqali gorizontal egri uchastkalarda tavsiya etiladigan tezlikni avtomatik aniqlaydigan tizim takomillashtirilib, dalada turli avtomobil va haydovchilar bilan sinalgan. Egri uchastkalar yo‘lning ~5 foizini tashkil etsa-da, halokatli YTHlarning chorak qismi shu yerda sodir bo‘ladi. Qimmat asbob-uskunasiz butun tarmoqni tekshirish imkonini beradi — respublika yo‘llari uchun juda amaliy yechim."
-   }
-  },
-  "fileId": "",
-  "fileUrl": "",
-  "fileName": "",
-  "fileSize": 0,
-  "createdAt": 1794424379543,
-  "updatedAt": 1794424379543
- },
- {
-  "id": "trbidea-260",
-  "ident": "TRB-IDEA-260",
-  "title": "Bridges to the Future: Training Inspectors with Simulation-Based Interactive Storytelling",
-  "authors": [
-   "Hala Nassereddine",
-   "Amin Khoshkenar",
-   "University of Kentucky",
-   "Collins Engineers"
-  ],
-  "org": "TRB / NCHRP IDEA (AQSh)",
-  "cat": "report",
-  "year": 2026,
-  "lang": "en",
-  "ftype": "PDF",
-  "pages": 43,
-  "kw": [
-   "ko‘prik nazorati",
-   "inspektor tayyorlash",
-   "simulyatsiya",
-   "AR",
-   "kadrlar",
-   "обучение инспекторов",
-   "bridge inspection"
-  ],
-  "abs": "IDEA Project 260 addressed the retirement-driven gap in bridge construction inspection workforces: it built a simulation-based interactive-storytelling training platform whose branching scenarios encode the tacit knowledge of senior Kentucky Transportation Cabinet inspectors, delivered including on an AR headset. In a controlled trial with 59 students the simulation group scored significantly higher than classroom-trained peers and rated the training more positively on most survey items.",
-  "link": "https://www.nationalacademies.org/osdocs/NCHRP-IDEA-260-Final-Report.pdf",
-  "intl": true,
-  "tr": {
-   "uz": {
-    "t": "Kelajak ko‘priklari: inspektorlarni simulyatsiyaga asoslangan interaktiv hikoyalar bilan o‘qitish",
-    "ab": "Tajribali ko‘prik inspektorlarining bilimi tarmoqlanuvchi stsenariylarga aylantirilib, simulyatsiya-trenajyor yaratilgan; nazorat guruhli tajribada simulyatsiyada o‘qiganlar an’anaviy darsda o‘qiganlardan yuqori natija ko‘rsatgan. Tajribali kadrlar yetishmovchiligi sharoitida yosh mutaxassislarni tezroq tayyorlash usuli sifatida institut uchun ham ibratli."
-   }
-  },
-  "fileId": "",
-  "fileUrl": "",
-  "fileName": "",
-  "fileSize": 0,
-  "createdAt": 1794424379544,
-  "updatedAt": 1794424379544
- },
- {
-  "id": "trbidea-AR2024",
-  "ident": "TRB-IDEA-AR2024",
-  "title": "New IDEAs for Highway Systems: Highway IDEA Program Annual Report 2024",
-  "authors": [
-   "Transportation Research Board"
-  ],
-  "org": "TRB / NCHRP IDEA (AQSh)",
-  "cat": "report",
-  "year": 2024,
-  "lang": "en",
-  "ftype": "PDF",
-  "pages": 304,
-  "kw": [
-   "IDEA dasturi",
-   "yillik hisobot",
-   "innovatsiyalar",
-   "tadqiqot loyihalari",
-   "annual report"
-  ],
-  "abs": "Annual progress report of the NCHRP Highway IDEA program (December 2024), summarizing the active and completed exploratory innovation projects of the program year across pavements, structures, safety, maintenance and monitoring. A single volume for scanning what is being piloted before full reports appear.",
-  "link": "https://www.nationalacademies.org/osdocs/TRB-NCHRP-IDEA-2024.pdf",
-  "intl": true,
-  "tr": {
-   "uz": {
-    "t": "Avtomobil yo‘llari uchun yangi G‘OYAlar: Highway IDEA dasturining 2024-yilgi hisoboti",
-    "ab": "NCHRP IDEA dasturining 2024-yil dekabrdagi yillik hisoboti: qoplamalar, inshootlar, xavfsizlik va saqlash bo‘yicha barcha faol va yakunlangan tajriba loyihalarining qisqacha bayoni bitta jildda. Qaysi texnologiyalar hali sinov bosqichida ekanini kuzatib borish uchun qulay manba."
-   }
-  },
-  "fileId": "",
-  "fileUrl": "",
-  "fileName": "",
-  "fileSize": 0,
-  "createdAt": 1794424379545,
-  "updatedAt": 1794424379545
+  "createdAt": 1794277796133,
+  "updatedAt": 1794277796133
  }
 ]
