@@ -2105,7 +2105,12 @@ function qzGlossQs(){
     if(stem.some(st=>dl.includes(st)))return;
     const same=uzT.filter(x=>x!==e&&x.a===e.a), other=uzT.filter(x=>x!==e&&x.a!==e.a);
     let dis=qzPick(same,3,[]); if(dis.length<3)dis=dis.concat(qzPick(other,3-dis.length,dis));
-    out.push({k:"def",q:{e,d},ok:glTerm(e),opts:qzShuffle([glTerm(e),...dis.map(glTerm)]),src:d.s});
+    out.push({k:"def",q:{e,d},ok:glTerm(e),opts:qzShuffle([glTerm(e),...dis.map(glTerm)]),src:d.s,lvl:"s",top:QZ_AREA[e.a]||""});
+  });
+  const srcIds=Object.keys(GL.src).filter(k=>GL.src[k]&&GL.src[k].t);
+  if(srcIds.length>=4)uzT.forEach(e=>{const d=e.d.find(x=>x.l==="uz");if(!d.s||!GL.src[d.s])return;
+    const okT=GL.src[d.s].t,dis=qzPick(srcIds.filter(k=>GL.src[k].t!==okT),3,[]).map(k=>GL.src[k].t);if(dis.length<3)return;
+    out.push({k:"src",q:{e,d},ok:okT,opts:qzShuffle([okT,...dis]),src:d.s,lvl:"s",top:QZ_AREA[e.a]||""});
   });
   return out;
 }
@@ -2115,20 +2120,36 @@ function qzNormQs(){
   const uniq={};pool.forEach(n=>{const k=nmTitle(n);if(!uniq[k])uniq[k]=n});
   const P=Object.values(uniq);
   P.forEach(n=>{const same=P.filter(x=>x!==n&&x.type===n.type);if(same.length<3)return;
-    const dis=qzPick(same,3,[]);out.push({k:"code",q:{n},ok:nmCode(n),opts:qzShuffle([nmCode(n),...dis.map(nmCode)]),nm:n});
+    const dis=qzPick(same,3,[]);out.push({k:"code",q:{n},ok:nmCode(n),opts:qzShuffle([nmCode(n),...dis.map(nmCode)]),nm:n,lvl:"s",top:QZ_AREA[n.area]||""});
   });
   norms.filter(n=>n.replacedBy&&n.number).forEach(n=>{const codes=[...new Set(norms.filter(x=>x.type===n.type&&x!==n&&x.number).map(nmCode))];const okc=n.replacedBy;
-    const dis=qzPick(codes.filter(c=>c!==okc&&c!==nmCode(n)),3,[]);if(dis.length<3)return;out.push({k:"rep",q:{n},ok:okc,opts:qzShuffle([okc,...dis]),nm:n})});
+    const dis=qzPick(codes.filter(c=>c!==okc&&c!==nmCode(n)),3,[]);if(dis.length<3)return;out.push({k:"rep",q:{n},ok:okc,opts:qzShuffle([okc,...dis]),nm:n,lvl:"p",top:QZ_AREA[n.area]||""})});
   return out;
 }
+const QZ_AREA={general:"roads",design:"roads",economics:"roads",airfield:"roads",ecology:"roads",aggregates:"asphalt",bitumen:"asphalt",testing:"asphalt",bridges:"bridges",maintenance:"maint",safety:"maint"};
+function qzGenQs(lvl,top){return qzGlossQs().concat(qzNormQs()).filter(x=>(!lvl||x.lvl===lvl)&&(!top||x.top===top))}
+function qzTopCount(top){return qzBankQs("",top).length+qzGenQs("",top).length}
 const QZ_TOP={"7205692":"roads","6130301":"bridges",qr0603:"asphalt",qr0604:"bridges",b307:"bridges",tun:"tunnels",st1:"streets",st2:"streets",st3:"streets",geo:"geo",law:"maint"};
 function qzBankQs(lvl,top){return QB.filter(x=>(!lvl||x.lvl===lvl)&&(!top||QZ_TOP[x.src]===top)).map(x=>{const ord=qzShuffle([0,1,2,3]);return{k:"bank",q:x,ok:x.o[x.a],opts:ord.map(j=>x.o[j]),lvl:x.lvl}})}
 function qzStart(lvl,count,top){
+  // Manbalar: qo‘lda tuzilgan bank (quiz.json) + platformadan avtomatik yasaladigan savollar (lug‘at ta’riflari, atama→hujjat, reyestr: belgi va almashtirish)
+  const take=(arr,n)=>qzShuffle(arr).slice(0,Math.max(0,n));
+  const fill=(parts,n)=>{let out=[];parts.forEach(([arr,share])=>{out=out.concat(take(arr.filter(x=>!out.includes(x)),Math.round(n*share)))});return out};
   let pool;
-  if(top){const a=qzShuffle(qzBankQs(lvl==="mix"?"":lvl,top)),b=lvl==="mix"?[]:qzShuffle(qzBankQs(lvl==="s"?"p":"s",top));pool=a.concat(b).slice(0,count)}else
-    if(lvl==="s"){const b=qzShuffle(qzBankQs("s")),g=qzShuffle(qzGlossQs()),c=qzShuffle(qzNormQs());const nb=Math.min(b.length,Math.round(count*0.4)),nc=Math.min(c.length,Math.round(count*0.2));pool=b.slice(0,nb).concat(c.slice(0,nc),g.slice(0,count-nb-nc))}
-  else if(lvl==="p"){const b=qzShuffle(qzBankQs("p"));pool=b.slice(0,count);if(pool.length<count)pool=pool.concat(qzShuffle(qzBankQs("s")).slice(0,count-pool.length))}
-  else{const p=qzShuffle(qzBankQs("p")),s2=qzShuffle(qzBankQs("s")),g=qzShuffle(qzGlossQs()),c=qzShuffle(qzNormQs());const np=Math.min(p.length,Math.round(count*0.5)),ns=Math.min(s2.length,Math.round(count*0.2)),nc=Math.min(c.length,Math.round(count*0.1));pool=p.slice(0,np).concat(s2.slice(0,ns),c.slice(0,nc),g.slice(0,count-np-ns-nc))}
+  if(lvl==="s"){
+    const b=qzBankQs("s",top),g=qzGenQs("s",top);
+    pool=fill([[b,0.4],[g.filter(x=>x.k==="code"),0.2],[g.filter(x=>x.k!=="code"),0.4]],count);
+    if(pool.length<count)pool=pool.concat(take(b.concat(g).filter(x=>!pool.includes(x)),count-pool.length));
+  }else if(lvl==="p"){
+    const b=qzBankQs("p",top),g=qzGenQs("p",top);
+    pool=fill([[b,0.75],[g,0.25]],count);
+    if(pool.length<count)pool=pool.concat(take(b.concat(g).filter(x=>!pool.includes(x)),count-pool.length));
+    if(pool.length<count)pool=pool.concat(take(qzBankQs("s",top).concat(qzGenQs("s",top)),count-pool.length));
+  }else{
+    const bp=qzBankQs("p",top),bs=qzBankQs("s",top),g=qzGenQs("",top);
+    pool=fill([[bp,0.45],[bs,0.2],[g.filter(x=>x.k==="code"||x.k==="rep"),0.15],[g.filter(x=>x.k==="def"||x.k==="src"),0.2]],count);
+    if(pool.length<count)pool=pool.concat(take(bp.concat(bs,g).filter(x=>!pool.includes(x)),count-pool.length));
+  }
   const qs=qzShuffle(pool).slice(0,count);
   if(!qs.length){$("qzMsg").textContent=t("qz_wait");return}
   QZ={qs,i:0,ans:[],start:Date.now(),lvl,top,count:qs.length};renderQuiz();
@@ -2157,7 +2178,7 @@ function renderQuiz(){
     box.innerHTML=`<h2 class="qz-h"><span class="qz-ic" aria-hidden="true">🎯</span>${t("qz_setup_h")}</h2><p class="muted">${t("qz_setup_p")}</p>
     <div class="field"><span class="lab">${t("qz_level")}</span><div class="qz-lvls" role="radiogroup">
       ${[["mix","qz_lv_mix","qz_lv_mix_d"],["s","qz_lv_s","qz_lv_s_d"],["p","qz_lv_p","qz_lv_p_d"]].map(([v,k,d],i)=>`<label><input type="radio" name="qzLvl" value="${v}" ${i===0?"checked":""}><span><b>${t(k)}</b><small>${t(d)}</small></span></label>`).join("")}</div></div>
-    <div class="field"><label class="lab" for="qzTop">${t("qz_top")}</label><select id="qzTop"><option value="">${t("qz_top_all")}</option>${["roads","asphalt","bridges","tunnels","streets","geo","maint"].map(k=>`<option value="${k}">${t("qz_tp_"+k)} (${QB.filter(x=>QZ_TOP[x.src]===k).length})</option>`).join("")}</select></div>
+    <div class="field"><label class="lab" for="qzTop">${t("qz_top")}</label><select id="qzTop"><option value="">${t("qz_top_all")}</option>${["roads","asphalt","bridges","tunnels","streets","geo","maint"].map(k=>`<option value="${k}">${t("qz_tp_"+k)} (${qzTopCount(k)})</option>`).join("")}</select></div>
     <div class="field"><span class="lab">${t("qz_count")}</span><div class="qz-seg" role="radiogroup">
       ${[10,20,30].map((v,i)=>`<label><input type="radio" name="qzCount" value="${v}" ${i===0?"checked":""}><span>${v}</span></label>`).join("")}</div></div>
     ${t("qz_lang_note")?`<p class="note">${t("qz_lang_note")}</p>`:""}<button class="btn qz-go" type="button" id="qzGo" ${ready?"":"disabled"}>${t("qz_start")} →</button><div class="note" id="qzMsg" role="status">${ready?"":t("qz_wait")}</div>
