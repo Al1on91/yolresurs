@@ -94,11 +94,14 @@ main.wrap{padding-top:32px;padding-bottom:80px}
 .quick span{opacity:.75}
 
 .kpis{display:grid;grid-template-columns:repeat(5,1fr);background:var(--surface);border:1px solid var(--line);border-radius:12px;margin-top:20px}
-.kpi{padding:18px 22px;border:0;border-left:1px solid var(--line);background:none;text-align:left;font:inherit;color:inherit;cursor:pointer;transition:background .15s}
-.kpi:hover{background:var(--surface-2,#f3f6fb)}.kpi:hover b{color:var(--accent,#0b5d3b)}.kpi:focus-visible{outline:2px solid var(--accent,#0b5d3b);outline-offset:-2px}
+.kpi{padding:18px 22px;border:0;border-left:1px solid var(--line);background:none;text-align:left;font:inherit;color:inherit;cursor:pointer;transition:background .2s,transform .2s}
+.kpi::before{content:"";display:block;width:30px;height:4px;border-radius:2px;background:var(--ka,var(--brand-2));margin-bottom:10px;transition:width .25s}
+.kpi:hover::before{width:46px}
+.kpi:nth-child(1){--ka:#0d5aa7}.kpi:nth-child(2){--ka:#0e7a6e}.kpi:nth-child(3){--ka:#7a3fa0}.kpi:nth-child(4){--ka:#b5731a}.kpi:nth-child(5){--ka:#1a7f4e}
+.kpi:hover{background:color-mix(in srgb,var(--ka,var(--brand-2)) 6%,var(--surface))}.kpi:focus-visible{outline:2px solid var(--accent,#0b5d3b);outline-offset:-2px}
 .kpis .kpi:first-child{border-radius:12px 0 0 12px}.kpis .kpi:last-child{border-radius:0 12px 12px 0}
 .kpi:first-child{border-left:0}
-.kpi b{display:block;font:700 26px/1.1 var(--display);font-variant-numeric:tabular-nums}
+.kpi b{display:block;font:700 26px/1.1 var(--display);font-variant-numeric:tabular-nums;color:var(--ka,var(--ink))}
 .kpi span{color:var(--muted);font-size:14px}
 
 .sec-h{display:flex;justify-content:space-between;align-items:baseline;gap:12px;margin:44px 0 16px;padding-bottom:10px;border-bottom:2px solid var(--ink)}
@@ -167,6 +170,7 @@ main.wrap{padding-top:32px;padding-bottom:80px}
 .ft.DWG::before{background:#b45309}.ft.DWG{color:#b45309}
 .ft.JPG::before{background:var(--accent)}.ft.JPG{color:var(--accent)}
 .ft.PDF::before{background:#c0392b}.ft.PDF{color:#c0392b}
+.ft.WEB::before{background:#1266d6}.ft.WEB{color:#1266d6}
 :root[data-mode="dark"] .ft.PDF{color:#ff8a7a}
 .row h3{font-size:17px;line-height:1.35;font-weight:600}
 .meta{color:var(--muted);font-size:14px;display:flex;flex-wrap:wrap;gap:2px 14px;margin-top:4px}
@@ -224,7 +228,8 @@ mark{background:#ffe49a;color:#111;border-radius:2px;padding:0 1px}
 .page-h{margin:4px 0 22px}
 .crumbs{font-size:14px;color:var(--muted);margin-bottom:8px}
 .crumbs a{color:var(--muted)}
-.page-h h1{font-size:clamp(26px,3vw,34px)}
+.page-h h1{font-size:clamp(26px,3vw,34px);position:relative;padding-bottom:12px}
+.page-h h1::after{content:"";position:absolute;left:0;bottom:0;width:64px;height:4px;border-radius:2px;background:linear-gradient(90deg,var(--brand-2),var(--accent))}
 .page-h p{color:var(--muted);margin:8px 0 0;max-width:70ch}
 .cat-layout{display:grid;grid-template-columns:270px 1fr;gap:28px;align-items:start}
 .rail{display:flex;flex-direction:column;gap:18px}
@@ -305,9 +310,11 @@ table.tbl td.act .btn{margin-left:4px}
 .filechip{display:flex;gap:10px;align-items:center;background:var(--surface);border:1px solid var(--line);border-radius:8px;padding:10px 12px;font-size:14px}
 
 .intl-orgs{display:grid;grid-template-columns:repeat(auto-fill,minmax(180px,1fr));gap:12px}
-.org{background:var(--surface);border:1px solid var(--line);border-radius:10px;padding:14px 16px;text-align:left;cursor:pointer;color:var(--ink)}
-.org:hover{border-color:var(--brand-2)}
-.org b{display:block;font-size:15px}
+.org{background:var(--surface);border:1px solid var(--line);border-radius:12px;padding:14px 16px;text-align:left;cursor:pointer;color:var(--ink);display:flex;align-items:center;gap:12px;transition:transform .2s,box-shadow .2s,border-color .2s}
+.org:hover{transform:translateY(-3px);box-shadow:0 12px 26px rgba(15,40,80,.13);border-color:transparent}
+.oav{width:46px;height:46px;border-radius:12px;display:grid;place-items:center;font-weight:800;font-size:12.5px;text-shadow:0 1px 2px rgba(0,0,0,.35);letter-spacing:.4px;color:#fff;background:linear-gradient(135deg,var(--oc1,#0d5aa7),var(--oc2,#5fa8e8));flex:none;box-shadow:inset 0 -8px 14px rgba(0,0,0,.14)}
+.org.on{border-color:var(--brand-2);box-shadow:0 0 0 2px color-mix(in srgb,var(--brand-2) 25%,transparent)}
+.org .ot{min-width:0}.org b{display:block;font-size:14.5px;line-height:1.3}
 .org span{font-size:13px;color:var(--muted)}
 .org.on{border-color:var(--brand-2);box-shadow:inset 0 0 0 1px var(--brand-2)}
 .tag.intl{background:color-mix(in srgb,var(--brand-2) 12%,transparent);color:var(--link);border-color:transparent}
@@ -338,9 +345,12 @@ table.tbl td.act .btn{margin-left:4px}
 .chips2 button{border:1px solid var(--line);background:var(--surface);border-radius:99px;padding:5px 12px;font-size:13.5px;font-weight:600;cursor:pointer;color:var(--ink)}
 .chips2 button.on{border-color:var(--brand-2);color:var(--link);background:color-mix(in srgb,var(--brand-2) 10%,var(--surface))}
 .news-grid{display:grid;grid-template-columns:repeat(3,1fr);gap:20px}
-.ncard{background:var(--surface);border:1px solid var(--line);border-radius:12px;overflow:hidden;display:flex;flex-direction:column}
-.ncard .art{height:150px;position:relative;display:block}
-.ncard .art svg{width:100%;height:100%;display:block}
+.ncard{background:var(--surface);border:1px solid var(--line);border-radius:12px;overflow:hidden;display:flex;flex-direction:column;transition:transform .25s,box-shadow .25s,border-color .25s}
+.ncard:hover{transform:translateY(-4px);box-shadow:0 16px 34px rgba(15,40,80,.14);border-color:transparent}
+.ncard .art{height:150px;position:relative;display:block;overflow:hidden;background:linear-gradient(135deg,var(--na1,#0b3a6e),var(--na2,#3d86d6))}
+.art[data-c="bridges"]{--na1:#0d5aa7;--na2:#5fa8e8}.art[data-c="projects"]{--na1:#0b3a6e;--na2:#3d86d6}.art[data-c="law"]{--na1:#3b3f8f;--na2:#7b84d6}.art[data-c="materials"]{--na1:#5a4632;--na2:#b08a5c}.art[data-c="lab"]{--na1:#0e7a6e;--na2:#4cc3b0}.art[data-c="machinery"]{--na1:#8a5a00;--na2:#e0a52e}.art[data-c="lighting"]{--na1:#1d2b4f;--na2:#f2b705}.art[data-c="winter"]{--na1:#2c6e9b;--na2:#a9d8f2}.art[data-c="safety"]{--na1:#8f2d2d;--na2:#e57b5c}.art[data-c="stats"]{--na1:#2f5d3a;--na2:#6fbf73}
+.ncard .art svg{width:100%;height:100%;display:block;transition:transform .5s cubic-bezier(.2,.7,.3,1)}
+.ncard:hover .art svg{transform:scale(1.07)}
 .ncard .badge2{position:absolute;left:12px;top:12px;background:rgba(255,255,255,.92);color:#0f1c2d;font-size:12px;font-weight:700;padding:3px 10px;border-radius:99px}
 .ncard .cnt2{position:absolute;right:12px;top:12px;background:rgba(15,28,45,.75);color:#fff;font-size:12px;font-weight:700;padding:3px 10px;border-radius:99px}
 .ncard .nb{padding:16px 18px 18px;display:flex;flex-direction:column;gap:8px;flex:1}
@@ -369,10 +379,13 @@ table.tbl td.act .btn{margin-left:4px}
 @media (max-width:1000px){.askband{grid-template-columns:auto 1fr}.askband .ab-in{grid-column:1/-1}}
 @media (max-width:640px){.askfab span{display:none}.askfab{padding:13px}}
 .nm-tiles{display:grid;grid-template-columns:repeat(5,1fr);gap:12px;margin-bottom:16px}
-.nm-tile{background:var(--surface);border:1px solid var(--line);border-radius:10px;padding:14px 16px;cursor:pointer;text-align:left;font:inherit;color:inherit}
-.nm-tile b{display:block;font-size:24px;font-family:var(--serif,inherit)}
+.nm-tile{background:var(--surface);border:1px solid var(--line);border-radius:10px;padding:14px 16px;cursor:pointer;text-align:left;font:inherit;color:inherit;position:relative;overflow:hidden;transition:transform .2s,box-shadow .2s,background .2s}
+.nm-tile::before{content:"";position:absolute;left:0;right:0;top:0;height:4px;background:var(--ta,var(--brand-2))}
+.nm-tile[data-nmst=""]{--ta:#0d5aa7}.nm-tile[data-nmst="fund"]{--ta:#64748b}.nm-tile[data-nmst="ok"]{--ta:#1a7f4e}.nm-tile[data-nmst="upd"]{--ta:#b5731a}.nm-tile[data-nmst="old"]{--ta:#b23b3b}
+.nm-tile:hover{transform:translateY(-3px);box-shadow:0 10px 24px rgba(15,40,80,.12)}
+.nm-tile b{display:block;font-size:24px;font-family:var(--serif,inherit);color:var(--ta,var(--ink));font-variant-numeric:tabular-nums}
 .nm-tile span{font-size:13.5px;color:var(--muted)}
-.nm-tile.on{border-color:var(--brand-2);box-shadow:0 0 0 2px color-mix(in srgb,var(--brand-2) 25%,transparent)}
+.nm-tile.on{border-color:var(--ta);background:color-mix(in srgb,var(--ta) 8%,var(--surface));box-shadow:0 0 0 2px color-mix(in srgb,var(--ta) 25%,transparent)}
 .nm-legend{background:var(--surface);border:1px solid var(--line);border-radius:10px;padding:12px 16px;margin-bottom:16px}
 .nm-legend summary{cursor:pointer;font-weight:700}
 .nm-legend dl{display:grid;grid-template-columns:auto 1fr;gap:8px 14px;margin:12px 0 0;font-size:14px;align-items:start}
@@ -609,6 +622,22 @@ footer .copy{border-top:1px solid rgba(255,255,255,.12);margin-top:26px;padding-
   .bar{grid-template-columns:minmax(0,1fr) 70px 44px}
 }
 @media (prefers-reduced-motion:reduce){*{transition:none!important}}
+
+/* ===== kirish animatsiyalari ===== */
+@media (prefers-reduced-motion:no-preference){
+@keyframes fadeUp{from{opacity:0;transform:translateY(14px)}to{opacity:1;transform:none}}
+@keyframes vIn{from{opacity:0}to{opacity:1}}
+.view{animation:vIn .3s ease}
+:is(.kpis,.news-grid,.intl-orgs,.nm-tiles,.cats)>*{animation:fadeUp .5s cubic-bezier(.2,.7,.3,1) backwards}
+:is(.kpis,.news-grid,.intl-orgs,.nm-tiles,.cats)>*:nth-child(2){animation-delay:.05s}
+:is(.kpis,.news-grid,.intl-orgs,.nm-tiles,.cats)>*:nth-child(3){animation-delay:.1s}
+:is(.kpis,.news-grid,.intl-orgs,.nm-tiles,.cats)>*:nth-child(4){animation-delay:.15s}
+:is(.kpis,.news-grid,.intl-orgs,.nm-tiles,.cats)>*:nth-child(5){animation-delay:.2s}
+:is(.kpis,.news-grid,.intl-orgs,.nm-tiles,.cats)>*:nth-child(6){animation-delay:.25s}
+:is(.kpis,.news-grid,.intl-orgs,.nm-tiles,.cats)>*:nth-child(7){animation-delay:.3s}
+:is(.kpis,.news-grid,.intl-orgs,.nm-tiles,.cats)>*:nth-child(8){animation-delay:.34s}
+:is(.kpis,.news-grid,.intl-orgs,.nm-tiles,.cats)>*:nth-child(n+9){animation-delay:.38s}
+}
 nav.main a.adm-entry{display:inline-flex;align-items:center;gap:7px;background:#0f7a6c;color:#fff!important;border-radius:9px;padding:9px 16px!important;margin-left:8px;font-weight:700;text-decoration:none}
 nav.main a.adm-entry::after{display:none!important}
 nav.main a.adm-entry:hover{background:#0c6a5d}
@@ -1183,9 +1212,15 @@ Object.assign(T.ru,{nav_news:"Новости",news_h:"Новости дорож�
 Object.assign(T.en,{nav_news:"News",news_h:"Road sector news",news_p:"News from Uzbekistan and abroad on roads, bridges, materials, equipment and standards. Each item is briefly summarised; the full text is on the source site.",news_home:"Latest news",news_all:"All news →",sc_all:"All",sc_local:"Local",sc_foreign:"Foreign",nc_all:"All topics",read_src:"Read at source",src_l:"Source",no_news:"No news in this section yet.",a_news:"News",n_new_h:"Add news item",n_title:"Headline",n_sum:"Short summary (in your own words)",n_url:"Source link (URL)",n_src:"Source name",n_date:"Date",n_scope:"Type",n_cat:"Topic",n_country:"Country",n_add:"Add"});
 const NCATS={bridges:{uz:"Ko‘priklar",ru:"Мосты",en:"Bridges"},projects:{uz:"Loyihalar va qurilish",ru:"Проекты и строительство",en:"Projects & construction"},law:{uz:"Qonunchilik va me’yorlar",ru:"Законы и нормы",en:"Laws & standards"},materials:{uz:"Materiallar va qo‘shimchalar",ru:"Материалы и добавки",en:"Materials & additives"},lab:{uz:"Laboratoriyalar",ru:"Лаборатории",en:"Laboratories"},machinery:{uz:"Yo‘l texnikasi",ru:"Дорожная техника",en:"Machinery"},lighting:{uz:"Yoritish va belgilar",ru:"Освещение и знаки",en:"Lighting & signs"},winter:{uz:"Reagentlar va qishki saqlash",ru:"Реагенты и зимнее содержание",en:"De-icing & winter"},safety:{uz:"Yo‘l xavfsizligi",ru:"Безопасность движения",en:"Road safety"},stats:{uz:"Statistika va iqtisod",ru:"Статистика и экономика",en:"Statistics & economy"}};
 const ncName=c=>(NCATS[c]||NCATS.projects)[lang];
+function animNum(scope){
+  if(!scope||matchMedia("(prefers-reduced-motion: reduce)").matches)return;
+  scope.querySelectorAll("b[data-n]").forEach(b=>{const v=+b.dataset.n;if(!(v>1))return;
+    const t0=performance.now(),D=650+Math.min(550,v/2);
+    const f=tm=>{const k=Math.min(1,(tm-t0)/D),e=1-Math.pow(1-k,3);b.textContent=fmt(Math.round(v*e));if(k<1)requestAnimationFrame(f)};
+    requestAnimationFrame(f)});
+}
 function newsArt(cat,scope){
-  const P={bridges:["#0d5aa7","#5fa8e8"],projects:["#0b3a6e","#3d86d6"],law:["#3b3f8f","#7b84d6"],materials:["#5a4632","#b08a5c"],lab:["#0e7a6e","#4cc3b0"],machinery:["#8a5a00","#e0a52e"],lighting:["#1d2b4f","#f2b705"],winter:["#2c6e9b","#a9d8f2"],safety:["#8f2d2d","#e57b5c"],stats:["#2f5d3a","#6fbf73"]}[cat]||["#0b3a6e","#3d86d6"];
-  const g=`<defs><linearGradient id="g${cat}" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="${P[0]}"/><stop offset="1" stop-color="${P[1]}"/></linearGradient></defs><rect width="400" height="150" fill="url(#g${cat})"/>`;
+  const g="";
   const W='stroke="#fff" stroke-width="3" fill="none" stroke-linecap="round" stroke-linejoin="round"', Wf='fill="rgba(255,255,255,.16)"';
   const road=`<path d="M0 132 H400" stroke="rgba(255,255,255,.35)" stroke-width="2"/><path d="M20 141 H60 M100 141 H140 M180 141 H220 M260 141 H300 M340 141 H380" stroke="rgba(255,255,255,.5)" stroke-width="3"/>`;
   const art={
@@ -1304,7 +1339,9 @@ function row(d,q){
 function renderHome(){
   const hn=newsSorted().slice(0,3); $("homeNews").innerHTML=hn.length?hn.map(newsCard).join(""):`<div class="empty" style="grid-column:1/-1">${t("no_news")}</div>`;
   const all=allDocs(), authors=new Set(all.flatMap(d=>d.a)), tv=all.reduce((s,d)=>s+d.V,0), td=all.reduce((s,d)=>s+d.DL,0);
-  $("kpis").innerHTML=[[all.length,"t_docs"],[authors.size,"t_authors"],[all.filter(d=>d.intl).length,"k_intl"],[new Set(all.map(d=>d.org)).size,"k_orgs"],[norms.length,"k_norms"]].map(([n,k])=>`<button type="button" class="kpi" data-kpi="${k}" title="${esc(t("kpi_go"))}"><b>${fmt(n)}</b><span>${t(k)}</span></button>`).join("");
+  const kpiRows=[[all.length,"t_docs"],[authors.size,"t_authors"],[all.filter(d=>d.intl).length,"k_intl"],[new Set(all.map(d=>d.org)).size,"k_orgs"],[norms.length,"k_norms"]];
+  const kpiHtml=kpiRows.map(([n,k])=>`<button type="button" class="kpi" data-kpi="${k}" title="${esc(t("kpi_go"))}"><b data-n="${n}">${fmt(n)}</b><span>${t(k)}</span></button>`).join("");
+  if($("kpis").__h!==kpiHtml){$("kpis").innerHTML=kpiHtml;$("kpis").__h=kpiHtml;animNum($("kpis"))}
   $("homeCats").innerHTML=Object.keys(CATS).map(c=>`<button class="cat cc-${c}" data-cat="${c}"><span class="ci">${CICON[c]}</span><span class="ct"><b>${esc(catName(c))}</b><em class="cnt">${fmt(all.filter(d=>d.cat===c).length)} ${t("t_docs")}</em></span><span class="go" aria-hidden="true">→</span></button>`).join("");
   const rec=[...all].filter(d=>d.src!=="coll").sort((a,b)=>(b.src==="own")-(a.src==="own")||b.added-a.added).slice(0,5);
   $("homeRecent").innerHTML=rec.length?rec.map(d=>row(d,"")).join(""):`<div class="empty">${t("none")}</div>`;
@@ -1434,7 +1471,7 @@ async function runTranslate(d){
 }
 function newsCard(n){
   const u=safeUrl(n.url);
-  return `<article class="ncard"><span class="art">${newsArt(n.cat,n.scope)}<span class="badge2">${n.scope==="local"?t("sc_local"):t("sc_foreign")}</span>${n.country?`<span class="cnt2">${esc(n.country)}</span>`:""}</span>
+  return `<article class="ncard"><span class="art" data-c="${esc(n.cat||"")}">${newsArt(n.cat,n.scope)}<span class="badge2">${n.scope==="local"?t("sc_local"):t("sc_foreign")}</span>${n.country?`<span class="cnt2">${esc(n.country)}</span>`:""}</span>
     <div class="nb"><div class="nmeta"><span>${esc(ncName(n.cat))}</span>${n.date?`<span>${esc(fmtDate(n.date))}</span>`:""}</div>
     <h3>${esc(n.title)}</h3><p>${esc(n.summary)}</p>
     <div class="src"><span class="note">${t("src_l")}: ${esc(n.source||"—")}</span>${u?`<a href="${esc(u)}" target="_blank" rel="noopener noreferrer">${t("read_src")} ${EXT}</a>`:""}</div></div></article>`;
@@ -1453,7 +1490,9 @@ function renderIntl(){
   const orgs={}; all.forEach(d=>{orgs[d.org]=(orgs[d.org]||0)+1});
   const keepO=[...document.querySelectorAll("#iOrgs input:checked")].map(i=>i.value), keepC=[...document.querySelectorAll("#iCats input:checked")].map(i=>i.value);
   const okeys=Object.keys(orgs).sort((a,b)=>orgs[b]-orgs[a]);
-  $("intlOrgs").innerHTML=okeys.map(o=>`<button class="org ${keepO.length===1&&keepO[0]===o?"on":""}" data-org="${esc(o)}"><b>${esc(o)}</b><span>${orgs[o]} ${t("t_docs")}</span></button>`).join("");
+  const oAv=o=>{let h=0;for(const c of o)h=(h*31+c.charCodeAt(0))%360;const m=o.match(/[A-Z]{2,6}/);const ini=(m?m[0]:o.replace(/[^A-Za-z\u0400-\u04FF‘’]/g,"")).slice(0,4).toUpperCase()||"•";
+    return `<span class="oav" style="--oc1:hsl(${h} 55% 30%);--oc2:hsl(${(h+28)%360} 60% 44%)" aria-hidden="true">${esc(ini)}</span>`};
+  $("intlOrgs").innerHTML=okeys.map(o=>`<button class="org ${keepO.length===1&&keepO[0]===o?"on":""}" data-org="${esc(o)}">${oAv(o)}<span class="ot"><b>${esc(o)}</b><span>${orgs[o]} ${t("t_docs")}</span></span></button>`).join("");
   $("iOrgs").innerHTML=okeys.map(o=>`<label><input type="checkbox" value="${esc(o)}" ${keepO.includes(o)?"checked":""}> ${esc(o)}<small>${orgs[o]}</small></label>`).join("");
   const cks=Object.keys(CATS).filter(c=>all.some(d=>d.cat===c));
   $("iCats").innerHTML=cks.map(c=>`<label><input type="checkbox" value="${c}" ${keepC.includes(c)?"checked":""}> ${esc(catName(c))}<small>${all.filter(d=>d.cat===c).length}</small></label>`).join("");
@@ -2019,7 +2058,8 @@ function renderNorms(){
   nmBuildFilters();
   const c=k=>norms.filter(n=>k.includes(n.status)).length;
   const tiles=[["","nm_t_all",norms.length],["fund","nm_t_fund",c(["fund"])],["ok","nm_t_ok",c(["active","amended"])],["upd","nm_t_upd",c(["updating","draft"])],["old","nm_t_old",c(["replaced","cancelled"])]];
-  $("nmTiles").innerHTML=tiles.map(([k,l,v])=>`<button type="button" class="nm-tile ${nmStatus===k?"on":""}" data-nmst="${k}"><b>${fmt(v)}</b><span>${t(l)}</span></button>`).join("");
+  const tilesHtml=tiles.map(([k,l,v])=>`<button type="button" class="nm-tile ${nmStatus===k?"on":""}" data-nmst="${k}"><b data-n="${v}">${fmt(v)}</b><span>${t(l)}</span></button>`).join("");
+  if($("nmTiles").__h!==tilesHtml){const first=!$("nmTiles").__h;$("nmTiles").innerHTML=tilesHtml;$("nmTiles").__h=tilesHtml;if(first)animNum($("nmTiles"))}
   $("nmStatus").innerHTML="";
   $("nmLegend").innerHTML=`<dl>${NM_ST.map(s=>`<dt>${nst(s)}</dt><dd>${esc(t("lg_"+s))}</dd>`).join("")}</dl>`;
   const list=nmFiltered();
