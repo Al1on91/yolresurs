@@ -432,27 +432,51 @@
   "createdAt": 1794516377534
  },
  {
-  "id": "trb-20250507-01",
-  "scope": "foreign",
-  "cat": "lab",
-  "country": "AQSh",
-  "date": "2025-05-07",
-  "title": "AQShda asfalt dinamik modulini arzon uskunada sun’iy intellekt bilan aniqlash usuli yaratildi",
-  "summary": "TRB NCHRP IDEA dasturining 242-loyihasi yakuniy hisobotida arzon yuklash ramasida ishlaydigan IDEAL-E* sinovi taqdim etildi. Sun’iy intellekt asfaltbetonning dinamik modulini tez va arzon baholash imkonini beradi. Bu ko‘rsatkich qoplamani mexanik-empirik loyihalashda asosiy kirish ma’lumoti hisoblanadi.",
-  "source": "TRB NCHRP IDEA",
-  "url": "https://trb.org/Main/Blurbs/183321.aspx",
-  "createdAt": 1794541547223
+  "id": "d20261113-05",
+  "scope": "local",
+  "cat": "projects",
+  "country": "O‘zbekiston",
+  "date": "2026-11-12",
+  "title": "Yangi Buxoro aeroportiga 23,8 km yo‘l, 8 ko‘prik va 2 yo‘l o‘tkazgich quriladi",
+  "summary": "Yangi Buxoro xalqaro aeroportini DXSh asosida qurish tenderida Turkiyaning Limak İnşaat va Qatarning Hamad Bin Khalid Contracting kompaniyalari konsorsiumi g‘olib bo‘ldi. Loyiha doirasida aeroportgacha 23,8 km uzunlikdagi yo‘l quriladi, unda 2 ta yo‘l o‘tkazgich, 9 ta yer osti o‘tish joyi va 8 ta ko‘prik nazarda tutilgan. Konsessiya muddati qurilish bilan birga 23 yil.",
+  "source": "Spot.uz",
+  "url": "https://www.spot.uz/oz/2026/11/12/new-bukhara-airport",
+  "createdAt": 1794535395500
  },
  {
-  "id": "trb-20250218-01",
+  "id": "d20261113-06",
   "scope": "foreign",
-  "cat": "winter",
-  "country": "AQSh",
-  "date": "2025-02-18",
-  "title": "Ko‘prikdagi muzdan real vaqtda ogohlantiruvchi dielektrik datchik tizimi sinovdan o‘tdi",
-  "summary": "NCHRP IDEA 239-loyihasi doirasida ko‘prik qoplamasida muz hosil bo‘lishini sirtning dielektrik doimiysi orqali aniqlaydigan datchik va haydovchilarni ogohlantirish tizimi ishlab chiqildi. Yakuniy hisobot TRB saytida e’lon qilingan. Yechim qishki yo‘l saqlash va dovon yo‘llarida xavfsizlik uchun qiziqarli.",
-  "source": "TRB NCHRP IDEA",
-  "url": "https://trb.org/Main/Blurbs/183313.aspx",
-  "createdAt": 1794541547223
+  "cat": "stats",
+  "country": "Qirg‘iziston",
+  "date": "2026-11-12",
+  "title": "Qirg‘izistonda 2026-yilda 1 900 km yo‘l asfaltlandi — o‘tgan yildan 735 km ko‘p",
+  "summary": "Qirg‘iziston Transport vazirligi ma’lumotiga ko‘ra, yil boshidan 1 903 km yo‘l asfaltlangan, reja esa 1 500 km dan ortiq edi. Mavsumda 40 ming tonnadan ortiq bitum xarid qilingan, 13 mingdan ziyod yo‘l belgisi o‘rnatilgan. Bishkek–Kant yo‘lining 5 km qismida eski qoplamani qayta ishlash usuli sinab ko‘rilgan.",
+  "source": "Open.kg",
+  "url": "https://open.kg/en/news/exclusive/137616-s-nachala-2026-goda-zaasfaltirovano-19-tys-km-dorog-na-735-km-bolshe-proshlogo-goda-mintrans.html",
+  "createdAt": 1794535395501
+ },
+ {
+  "id": "d20261113-07",
+  "scope": "foreign",
+  "cat": "stats",
+  "country": "Rossiya",
+  "date": "2026-11-12",
+  "title": "Rossiyada 2026-yilda 19 ming km dan ortiq mintaqaviy va mahalliy yo‘l ta’mirlanmoqda",
+  "summary": "“Hayot uchun infratuzilma” milliy loyihasi doirasida 2026-yilda 19 ming km dan ortiq mintaqaviy va mahalliy yo‘llar qurilishi, rekonstruksiyasi yoki ta’mirlanishi rejalashtirilgan. To‘qqiz oyda 3 ming km dan ortiq yo‘l foydalanishga topshirilgan, mintaqaviy yo‘llarning 57,32 foizi me’yoriy holatga keltirilgan. Shuningdek, umumiy uzunligi 30 ming pogon metrdan ortiq 400 ga yaqin ko‘prik inshooti ustida ish olib borilmoqda.",
+  "source": "Rossiyskaya gazeta",
+  "url": "https://rg.ru/2026/11/12/sviazyvaia-sela.html",
+  "createdAt": 1794535395502
+ },
+ {
+  "id": "d20261113-08",
+  "scope": "foreign",
+  "cat": "projects",
+  "country": "Rossiya",
+  "date": "2026-11-12",
+  "title": "Rossiya federal yo‘llarida 2026-yilda 5 800 km qurilish va ta’mirlash ishlari",
+  "summary": "Rosavtodor va “Avtodor” GK 2026-yilda taxminan 5 800 km federal yo‘lni qurish, rekonstruksiya qilish va ta’mirlashni rejalashtirgan, shundan 183 km yangi qurilish. Yil oxirigacha 23 ta aylanma yo‘l bitkazilishi, 14 ming pogon metrdan ortiq sun’iy inshootlar foydalanishga topshirilishi kutilmoqda. 2030-yilga borib federal yo‘llarning kamida 85 foizini me’yoriy holatga keltirish maqsad qilingan.",
+  "source": "Rossiyskaya gazeta",
+  "url": "https://rg.ru/2026/11/12/na-polnoj-skorosti.html",
+  "createdAt": 1794535395503
  }
 ]
