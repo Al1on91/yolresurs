@@ -4205,5 +4205,256 @@
   "fileSize": 0,
   "createdAt": 1794450837394,
   "updatedAt": 1794450837394
+ },
+ {
+  "id": "trbidea-227",
+  "ident": "TRB-IDEA-227",
+  "title": "Adjustable Cross-frames for the Erection of Steel Girder Bridges",
+  "authors": [
+   "TRB NCHRP IDEA Program"
+  ],
+  "org": "TRB / NCHRP IDEA (AQSh)",
+  "cat": "report",
+  "year": 2025,
+  "lang": "en",
+  "ftype": "WEB",
+  "pages": 0,
+  "kw": [
+   "po‘lat to‘sinli ko‘prik",
+   "ko‘ndalang bog‘lamalar",
+   "ko‘prik montaji",
+   "qiyshiq ko‘priklar"
+  ],
+  "abs": "This IDEA project addressed the difficulty of fitting cross-frames in highly skewed and curved steel girder bridges, where girder twist and deflection during erection cause misfits. A low-cost, deployable adjustable tool was developed and evaluated through numerical modelling and physical testing to simplify cross-frame installation.",
+  "link": "https://trb.org/Main/Blurbs/183307.aspx",
+  "intl": true,
+  "tr": {
+   "uz": {
+    "t": "Po‘lat to‘sinli ko‘priklarni montaj qilishda ko‘ndalang bog‘lamalarni o‘rnatishni osonlashtiruvchi rostlanadigan arzon moslama",
+    "ab": "Keskin qiyshiq va egri po‘lat to‘sinli ko‘priklarda montaj paytida to‘sinlar buralib, ko‘ndalang bog‘lamalar joyiga tushmay qoladi. Loyiha bu ishni osonlashtiradigan arzon, ko‘chma rostlanadigan moslama ishlab chiqib, uni hisob-kitob va tajriba sinovlarida baholagan. Yo‘l o‘tkazgich va estakadalar qurilishi jadallashayotgan O‘zbekiston uchun montaj muddati va xatolarini kamaytirishda foydali tajriba."
+   }
+  },
+  "fileId": "",
+  "fileUrl": "",
+  "fileName": "",
+  "fileSize": 0,
+  "createdAt": 1794541547223,
+  "updatedAt": 1794541547223
+ },
+ {
+  "id": "trbidea-237",
+  "ident": "TRB-IDEA-237",
+  "title": "New Tool for Predicting the Retroreflectivity (RL) of Pavement Markings",
+  "authors": [
+   "TRB NCHRP IDEA Program"
+  ],
+  "org": "TRB / NCHRP IDEA (AQSh)",
+  "cat": "report",
+  "year": 2025,
+  "lang": "en",
+  "ftype": "WEB",
+  "pages": 0,
+  "kw": [
+   "yo‘l chiziqlari",
+   "nur qaytaruvchanlik",
+   "mashinaviy o‘qitish",
+   "tungi ko‘rinish",
+   "yo‘l belgilari"
+  ],
+  "abs": "This IDEA project produced a machine-learning-based decision tool that forecasts the retroreflectivity of pavement markings for up to three years. It needs only the initial measured retroreflectivity and readily available project data, helping agencies that seldom measure markings plan restriping more rationally.",
+  "link": "https://trb.org/Main/Blurbs/183315.aspx",
+  "intl": true,
+  "tr": {
+   "uz": {
+    "t": "Yo‘l chiziqlarining nur qaytaruvchanligini bashorat qiluvchi mashinaviy o‘qitishga asoslangan yangi vosita",
+    "ab": "Ko‘plab yo‘l tashkilotlari chiziqlarning nur qaytaruvchanligini kam o‘lchaydi va ularni ko‘z bilan yoki jadval asosida qayta chizadi. Loyihada boshlang‘ich o‘lchov va oddiy loyiha ma’lumotlari asosida chiziq holatini uch yilgacha oldindan aytadigan qaror qabul qilish vositasi yaratilgan. O‘zbekiston yo‘llarida tungi xavfsizlikni oshirish va bo‘yoq xarajatlarini rejalashtirishda qo‘llash mumkin."
+   }
+  },
+  "fileId": "",
+  "fileUrl": "",
+  "fileName": "",
+  "fileSize": 0,
+  "createdAt": 1794541547223,
+  "updatedAt": 1794541547223
+ },
+ {
+  "id": "trbidea-238",
+  "ident": "TRB-IDEA-238",
+  "title": "Low-Cost Sensing System for the Detection and Classification of Wide Base Tire Types and Distribution at the Network Level",
+  "authors": [
+   "TRB NCHRP IDEA Program"
+  ],
+  "org": "TRB / NCHRP IDEA (AQSh)",
+  "cat": "report",
+  "year": 2025,
+  "lang": "en",
+  "ftype": "WEB",
+  "pages": 0,
+  "kw": [
+   "keng profilli shinalar",
+   "transport monitoringi",
+   "datchiklar",
+   "g‘ildirak og‘ishi",
+   "yo‘l qoplamasi"
+  ],
+  "abs": "This IDEA project developed an inexpensive sensor system embedded in EPDM rubber strips that uses force transducers to measure tire width, vehicle class and lateral wheel wander at highway speeds. Deployed on busy corridors, it can track the share of wide-base tires and support assessment of their effect on pavement performance.",
+  "link": "https://trb.org/Main/Blurbs/183308.aspx",
+  "intl": true,
+  "tr": {
+   "uz": {
+    "t": "Tarmoq miqyosida keng profilli shinalarni aniqlash va tasniflash uchun arzon datchik tizimi",
+    "ab": "Rezina tasmaga joylashtirilgan kuch datchiklari yordamida yuqori tezlikda shina kengligi, transport toifasi va g‘ildirakning yon tomonga og‘ishini o‘lchovchi arzon tizim ishlab chiqilgan. U gavjum yo‘llarda keng profilli shinalar ulushini kuzatib, qoplamaga ta’sirini baholashga yordam beradi. Og‘ir yuk tashish ko‘p bo‘lgan O‘zbekiston magistrallarida qoplamaning izlanishi va yuklamalarni nazorat qilishda foydali."
+   }
+  },
+  "fileId": "",
+  "fileUrl": "",
+  "fileName": "",
+  "fileSize": 0,
+  "createdAt": 1794541547223,
+  "updatedAt": 1794541547223
+ },
+ {
+  "id": "trbidea-239",
+  "ident": "TRB-IDEA-239",
+  "title": "A Real-time Warning System Empowered by Dielectric Ice Sensors for Bridges",
+  "authors": [
+   "TRB NCHRP IDEA Program"
+  ],
+  "org": "TRB / NCHRP IDEA (AQSh)",
+  "cat": "report",
+  "year": 2025,
+  "lang": "en",
+  "ftype": "WEB",
+  "pages": 0,
+  "kw": [
+   "ko‘prikda muz",
+   "qishki saqlash",
+   "dielektrik datchik",
+   "ogohlantirish tizimi",
+   "yo‘l xavfsizligi"
+  ],
+  "abs": "This IDEA project built an active warning system that alerts drivers when ice forms on bridge decks. Its sensor identifies the pavement surface condition by measuring the dielectric constant of the surface material with time domain reflectometry.",
+  "link": "https://trb.org/Main/Blurbs/183313.aspx",
+  "intl": true,
+  "tr": {
+   "uz": {
+    "t": "Ko‘priklar uchun dielektrik muz datchiklariga asoslangan real vaqtli ogohlantirish tizimi",
+    "ab": "Ko‘prik qoplamasida muz paydo bo‘lganda haydovchilarni darhol ogohlantiradigan faol tizim yaratilgan. Datchik vaqt sohasidagi reflektometriya yordamida sirt materialining dielektrik doimiysini o‘lchab, qoplama holatini aniqlaydi. Qishda ko‘priklar yo‘lning boshqa qismlaridan oldin muzlaydigan O‘zbekiston tog‘ va dovon yo‘llarida avariyalarni kamaytirish uchun dolzarb."
+   }
+  },
+  "fileId": "",
+  "fileUrl": "",
+  "fileName": "",
+  "fileSize": 0,
+  "createdAt": 1794541547223,
+  "updatedAt": 1794541547223
+ },
+ {
+  "id": "trbidea-241",
+  "ident": "TRB-IDEA-241",
+  "title": "Producing DynaSignal: A Novel Aerodynamic Solution for Traffic Signal Lights",
+  "authors": [
+   "TRB NCHRP IDEA Program"
+  ],
+  "org": "TRB / NCHRP IDEA (AQSh)",
+  "cat": "report",
+  "year": 2025,
+  "lang": "en",
+  "ftype": "WEB",
+  "pages": 0,
+  "kw": [
+   "svetofor konstruksiyalari",
+   "shamol tebranishi",
+   "charchoq mustahkamligi",
+   "aerodinamika",
+   "dala monitoringi"
+  ],
+  "abs": "Slender cantilevered traffic signal structures are prone to wind-induced vibration that causes fatigue damage at the pole-to-mast-arm connection. Building on an earlier wind-tunnel and simulation study, this Type II project applied flat-plate aerodynamic modifications to a full-scale in-service signal structure and used long-term field monitoring to quantify the gain in fatigue life.",
+  "link": "https://trb.org/Main/Blurbs/183333.aspx",
+  "intl": true,
+  "tr": {
+   "uz": {
+    "t": "DynaSignal: svetoforlar uchun yangi aerodinamik yechim",
+    "ab": "Ingichka konsolli svetofor ustunlari shamoldan tebranib, ustun va konsol birikmasida charchoq yoriqlari paydo bo‘ladi. Loyihada svetoforga o‘rnatiladigan yassi plastinkali aerodinamik qo‘shimcha haqiqiy ishlayotgan konstruksiyada uzoq muddat kuzatilib, xizmat muddati qanchaga uzayishi baholangan. Kuchli shamollar bo‘ladigan O‘zbekiston hududlarida svetofor va belgilar ustunlarining ishonchliligini oshirishda qo‘llash mumkin."
+   }
+  },
+  "fileId": "",
+  "fileUrl": "",
+  "fileName": "",
+  "fileSize": 0,
+  "createdAt": 1794541547223,
+  "updatedAt": 1794541547223
+ },
+ {
+  "id": "trbidea-242",
+  "ident": "TRB-IDEA-242",
+  "title": "Development of an AI-Powered Dynamic Modulus Test with a Low-Cost Loading Frame",
+  "authors": [
+   "TRB NCHRP IDEA Program"
+  ],
+  "org": "TRB / NCHRP IDEA (AQSh)",
+  "cat": "report",
+  "year": 2025,
+  "lang": "en",
+  "ftype": "WEB",
+  "pages": 0,
+  "kw": [
+   "dinamik modul",
+   "asfaltbeton",
+   "sun’iy intellekt",
+   "laboratoriya sinovi",
+   "IDEAL-E*"
+  ],
+  "abs": "Dynamic modulus (E*) is a key input to mechanistic-empirical pavement design, yet its standard measurement is slow and requires expensive equipment. This IDEA project developed IDEAL-E*, an AI-driven test run on a low-cost loading frame, intended for routine use by agencies and the asphalt industry.",
+  "link": "https://trb.org/Main/Blurbs/183321.aspx",
+  "intl": true,
+  "tr": {
+   "uz": {
+    "t": "Arzon yuklash ramasida sun’iy intellektga asoslangan dinamik modul sinovini ishlab chiqish",
+    "ab": "Asfaltbetonning dinamik moduli (E*) qoplamani loyihalashda asosiy ko‘rsatkich, ammo uni an’anaviy usulda o‘lchash qimmat va uzoq. Loyihada arzon yuklash ramasida sun’iy intellekt yordamida E* ni tez aniqlaydigan IDEAL-E* sinovi yaratilgan. O‘zbekistondagi yo‘l laboratoriyalari qimmat uskunasiz asfalt qorishmalarini mexanik-empirik loyihalash uchun baholashi mumkin bo‘ladi."
+   }
+  },
+  "fileId": "",
+  "fileUrl": "",
+  "fileName": "",
+  "fileSize": 0,
+  "createdAt": 1794541547223,
+  "updatedAt": 1794541547223
+ },
+ {
+  "id": "trbidea-247",
+  "ident": "TRB-IDEA-247",
+  "title": "Augmenting the Hearing of Safety-Critical Sounds for Highway Workers Using Artificial Intelligence",
+  "authors": [
+   "TRB NCHRP IDEA Program"
+  ],
+  "org": "TRB / NCHRP IDEA (AQSh)",
+  "cat": "report",
+  "year": 2025,
+  "lang": "en",
+  "ftype": "WEB",
+  "pages": 0,
+  "kw": [
+   "yo‘l ishchilari xavfsizligi",
+   "eshitish himoyasi",
+   "sun’iy intellekt",
+   "ish zonasi",
+   "ogohlantiruvchi signallar"
+  ],
+  "abs": "Highway construction workers are exposed to loud equipment and traffic noise, and conventional hearing protection can mask warnings such as backup alarms. This IDEA project developed a wearable AI-augmented hearing protection device that filters sound in real time so workers stay protected while still hearing safety-critical signals.",
+  "link": "https://trb.org/Main/Blurbs/183332.aspx",
+  "intl": true,
+  "tr": {
+   "uz": {
+    "t": "Sun’iy intellekt yordamida yo‘l ishchilariga xavf signallarini eshitishda ko‘maklashish",
+    "ab": "Yo‘l qurilishida texnika va transport shovqini kuchli, oddiy quloqchinlar esa orqaga yurish signallari kabi ogohlantirishlarni ham bosib qo‘yadi. Loyihada tovushni real vaqtda saralab, eshitishni himoya qilgan holda muhim signallarni o‘tkazadigan, sun’iy intellektli kiyiladigan quloqchin yaratilgan. O‘zbekistonda yo‘l ta’mirlash zonalarida ishchilar jarohatlanishini kamaytirishga xizmat qiladi."
+   }
+  },
+  "fileId": "",
+  "fileUrl": "",
+  "fileName": "",
+  "fileSize": 0,
+  "createdAt": 1794541547223,
+  "updatedAt": 1794541547223
  }
 ]

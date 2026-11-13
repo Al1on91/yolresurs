@@ -430,5 +430,29 @@
   "source": "MyJoyOnline",
   "url": "https://myjoyonline.com/government-secures-about-us3bn-for-accra-kumasi-expressway",
   "createdAt": 1794516377534
+ },
+ {
+  "id": "trb-20250507-01",
+  "scope": "foreign",
+  "cat": "lab",
+  "country": "AQSh",
+  "date": "2025-05-07",
+  "title": "AQShda asfalt dinamik modulini arzon uskunada sun’iy intellekt bilan aniqlash usuli yaratildi",
+  "summary": "TRB NCHRP IDEA dasturining 242-loyihasi yakuniy hisobotida arzon yuklash ramasida ishlaydigan IDEAL-E* sinovi taqdim etildi. Sun’iy intellekt asfaltbetonning dinamik modulini tez va arzon baholash imkonini beradi. Bu ko‘rsatkich qoplamani mexanik-empirik loyihalashda asosiy kirish ma’lumoti hisoblanadi.",
+  "source": "TRB NCHRP IDEA",
+  "url": "https://trb.org/Main/Blurbs/183321.aspx",
+  "createdAt": 1794541547223
+ },
+ {
+  "id": "trb-20250218-01",
+  "scope": "foreign",
+  "cat": "winter",
+  "country": "AQSh",
+  "date": "2025-02-18",
+  "title": "Ko‘prikdagi muzdan real vaqtda ogohlantiruvchi dielektrik datchik tizimi sinovdan o‘tdi",
+  "summary": "NCHRP IDEA 239-loyihasi doirasida ko‘prik qoplamasida muz hosil bo‘lishini sirtning dielektrik doimiysi orqali aniqlaydigan datchik va haydovchilarni ogohlantirish tizimi ishlab chiqildi. Yakuniy hisobot TRB saytida e’lon qilingan. Yechim qishki yo‘l saqlash va dovon yo‘llarida xavfsizlik uchun qiziqarli.",
+  "source": "TRB NCHRP IDEA",
+  "url": "https://trb.org/Main/Blurbs/183313.aspx",
+  "createdAt": 1794541547223
  }
 ]
