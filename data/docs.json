@@ -4209,7 +4209,48 @@
  {
   "id": "a20261113-01",
   "ident": "YR-20261113-01",
-  "title": "Data collection survey for transportation sector in the Republic of Uzbekistan: final report (summary, Uzbek edition) — Ўзбекистон Республикасида транспорт соҳасида маълумот йиғиш бўйича тадқиқот. Якуний ҳисобот (қисқача мазмун)",
+  "title": "Data Collection Survey for Transportation Sector in the Republic of Uzbekistan: Final Report",
+  "authors": [
+   "Japan International Cooperation Agency (JICA)",
+   "CTI Engineering International Co., Ltd.",
+   "ALMEC Corporation",
+   "Oriental Consultants Global Co., Ltd."
+  ],
+  "org": "JICA (Yaponiya, O‘zbekiston uchun)",
+  "cat": "report",
+  "year": 2025,
+  "lang": "en",
+  "ftype": "WEB",
+  "pages": 0,
+  "kw": [
+   "transport sohasi",
+   "avtomobil yo‘llari",
+   "O‘zbekiston",
+   "ma’lumot to‘plash tadqiqoti",
+   "транспортный сектор",
+   "transport sector survey",
+   "JICA"
+  ],
+  "abs": "Final report (October 2025) of a JICA data collection survey on the transport sector of Uzbekistan, prepared by a consortium of Japanese consultants. The record page on the JICA Report PDF library gives access to the full English report; an Uzbek-language executive summary is published separately.",
+  "link": "https://openjicareport.jica.go.jp/700/700/700_158_1000055901.html",
+  "intl": true,
+  "tr": {
+   "uz": {
+    "t": "O‘zbekiston Respublikasi transport sohasi bo‘yicha ma’lumot yig‘ish tadqiqoti: yakuniy hisobot",
+    "ab": "JICA buyurtmasi bilan yapon konsalting kompaniyalari tomonidan 2025-yil oktabrda tayyorlangan O‘zbekiston transport sohasi tadqiqotining yakuniy hisoboti. Hujjat to‘g‘ridan-to‘g‘ri O‘zbekiston yo‘l va transport tarmog‘iga bag‘ishlangan bo‘lib, sohani rivojlantirish va xalqaro hamkorlik loyihalarini rejalashtirishda eng dolzarb manbalardan biridir."
+   }
+  },
+  "fileId": "",
+  "fileUrl": "",
+  "fileName": "",
+  "fileSize": 0,
+  "createdAt": 1794537040049,
+  "updatedAt": 1794537040049
+ },
+ {
+  "id": "a20261113-02",
+  "ident": "YR-20261113-02",
+  "title": "Ўзбекистон Республикасида транспорт соҳасида маълумот йиғиш бўйича тадқиқот. Якуний ҳисобот (Қисқача мазмун)",
   "authors": [
    "Japan International Cooperation Agency (JICA)",
    "CTI Engineering International Co., Ltd.",
@@ -4224,108 +4265,33 @@
   "pages": 0,
   "kw": [
    "transport sohasi",
-   "avtomobil yo‘llari",
-   "ko‘priklar",
-   "yo‘l falokatlarining oldini olish",
-   "JICA",
+   "yo‘l tarmog‘i",
+   "O‘zbekiston",
+   "qisqacha mazmun",
    "транспортный сектор",
-   "road disaster prevention"
+   "transport sector",
+   "JICA"
   ],
-  "abs": "JICA tomonidan Transport vazirligi, Avtomobil yo‘llari qo‘mitasi va «O‘zbekiston temir yo‘llari» bilan hamkorlikda o‘tkazilgan transport sohasidagi ma’lumot yig‘ish tadqiqotining yakuniy hisoboti qisqacha mazmuni (kirill yozuvida). Hisobotda kelajakdagi Yaponiya moliyalashtirishi mumkin bo‘lgan yo‘l, ko‘prik, temir yo‘l va yo‘llarni tabiiy ofatlardan himoya qilish loyihalari saralangan, beshta yo‘l va ofatlarning oldini olish loyihasi texnik-iqtisodiy asoslash uchun tanlangan.",
+  "abs": "Uzbek-language (Cyrillic) executive summary, dated October 2025, of the JICA data collection survey on the transport sector of Uzbekistan. It condenses the findings of the full final report for Uzbek readers.",
   "link": "https://openjicareport.jica.go.jp/pdf/1000055902.pdf",
-  "intl": false,
-  "tr": {},
-  "fileId": "",
-  "fileUrl": "",
-  "fileName": "",
-  "fileSize": 0,
-  "createdAt": 1794519038038,
-  "updatedAt": 1794519038038
- },
- {
-  "id": "a20261113-02",
-  "ident": "YR-20261113-02",
-  "title": "Data collection survey for transportation sector in the Republic of Uzbekistan: final report",
-  "authors": [
-   "Japan International Cooperation Agency (JICA)",
-   "CTI Engineering International Co., Ltd.",
-   "ALMEC Corporation",
-   "Oriental Consultants Global Co., Ltd."
-  ],
-  "org": "JICA (Yaponiya, O‘zbekiston uchun)",
-  "cat": "report",
-  "year": 2025,
-  "lang": "en",
-  "ftype": "WEB",
-  "pages": 0,
-  "kw": [
-   "transport sohasi",
-   "O‘zbekiston yo‘llari",
-   "ko‘priklar",
-   "investitsiya loyihalari",
-   "транспортный сектор Узбекистана",
-   "transport sector survey"
-  ],
-  "abs": "English final report (October 2025) of JICA's data collection survey on Uzbekistan's transport sector, carried out with consultants CTI Engineering International, ALMEC and Oriental Consultants Global. The JICA library record page gives access to the report PDF; it reviews roads, bridges, railways and road disaster prevention and shortlists candidate projects.",
-  "link": "https://openjicareport.jica.go.jp/700/700/700_158_1000055901.html",
   "intl": true,
   "tr": {
    "uz": {
-    "t": "O‘zbekiston Respublikasi transport sohasi bo‘yicha ma’lumot yig‘ish tadqiqoti: yakuniy hisobot (ingliz tilida)",
-    "ab": "JICA 2025-yil oktyabrida nashr etgan, O‘zbekiston yo‘llari, ko‘priklari, temir yo‘llari va yo‘llarni tabiiy ofatlardan himoya qilish bo‘yicha istiqbolli loyihalarni tahlil qilgan yakuniy hisobotning inglizcha to‘liq matni (JICA kutubxonasi yozuvi orqali). Bevosita O‘zbekiston yo‘l tarmog‘iga bag‘ishlangan bo‘lib, Avtomobil yo‘llari qo‘mitasi va institut uchun investitsiya rejalashtirishda asosiy manba hisoblanadi."
+    "t": "O‘zbekiston Respublikasida transport sohasida ma’lumot yig‘ish bo‘yicha tadqiqot. Yakuniy hisobot (qisqacha mazmun)",
+    "ab": "JICA transport sohasi tadqiqotining o‘zbek tilidagi (kirill yozuvida) qisqacha mazmuni, 2025-yil oktabr. O‘zbek tilida chop etilgani uchun mahalliy mutaxassislar va rahbarlar uchun bevosita foydalanishga qulay manba."
    }
   },
   "fileId": "",
   "fileUrl": "",
   "fileName": "",
   "fileSize": 0,
-  "createdAt": 1794519038039,
-  "updatedAt": 1794519038039
+  "createdAt": 1794537040050,
+  "updatedAt": 1794537040050
  },
  {
   "id": "a20261113-03",
   "ident": "YR-20261113-03",
-  "title": "ウズベキスタン国 運輸セクター情報収集・確認調査 ファイナル・レポート (Uzbekistan Transport Sector Information Collection and Confirmation Survey: Final Report)",
-  "authors": [
-   "国際協力機構 (JICA)",
-   "建設技研インターナショナル",
-   "アルメック",
-   "オリエンタルコンサルタンツグローバル"
-  ],
-  "org": "JICA (Yaponiya, O‘zbekiston uchun)",
-  "cat": "report",
-  "year": 2025,
-  "lang": "en",
-  "ftype": "WEB",
-  "pages": 0,
-  "kw": [
-   "transport sohasi",
-   "O‘zbekiston",
-   "yo‘l loyihalari",
-   "JICA",
-   "Япония — транспортный сектор Узбекистана",
-   "Japanese report"
-  ],
-  "abs": "Japanese-language edition (October 2025) of JICA's final report on the transport sector information collection and confirmation survey in Uzbekistan. It is the full Japanese version of the study on candidate road, bridge, railway and disaster-prevention projects; the record page links to the PDF.",
-  "link": "https://openjicareport.jica.go.jp/700/700/700_158_1000055900.html",
-  "intl": true,
-  "tr": {
-   "uz": {
-    "t": "O‘zbekiston transport sohasi bo‘yicha ma’lumot yig‘ish va tasdiqlash tadqiqoti: yakuniy hisobot (yapon tilida)",
-    "ab": "JICA va yapon konsalting kompaniyalarining 2025-yilgi O‘zbekiston transport sohasi tadqiqotining yapon tilidagi to‘liq hisoboti. Yaponiya hamkorligidagi yo‘l va ko‘prik loyihalarini tayyorlashda yapon tomoni hujjatlari bilan solishtirish uchun kerak."
-   }
-  },
-  "fileId": "",
-  "fileUrl": "",
-  "fileName": "",
-  "fileSize": 0,
-  "createdAt": 1794519038040,
-  "updatedAt": 1794519038040
- },
- {
-  "id": "a20261113-04",
-  "ident": "YR-20261113-04",
-  "title": "Information Collection Survey on Infrastructure Development in Central Asia and the Caucasus: Republic of Uzbekistan — Final Report",
+  "title": "Data Collection Survey on Infrastructure Development in Central Asia and the Caucasus: Final Report — Uzbekistan",
   "authors": [
    "Japan International Cooperation Agency (JICA)",
    "Nomura Research Institute, Ltd."
@@ -4338,32 +4304,33 @@
   "pages": 0,
   "kw": [
    "infratuzilma",
-   "Markaziy Osiyo",
-   "avtomobil transporti",
-   "temir yo‘l",
-   "инфраструктура Узбекистана",
-   "infrastructure development"
+   "transport va harakat",
+   "davlat-xususiy sheriklik",
+   "O‘zbekiston",
+   "инфраструктура",
+   "infrastructure development",
+   "PPP"
   ],
-  "abs": "JICA and Nomura Research Institute survey (May 2019, report 3R JR 19-009) reviewing Uzbekistan's infrastructure sectors and development plans. The transport part notes that roads carry about half of transport volume, describes rail electrification and high-speed plans, and examines aviation reform.",
-  "link": "https://openjicareport.jica.go.jp/pdf/12345377.pdf",
+  "abs": "JICA survey report (May 2019) on infrastructure needs in Uzbekistan, covering urban development, transport and traffic, energy, environment and healthcare. It also reviews the PPP legal framework, financing options and other donors’ activities.",
+  "link": "https://openjicareport.jica.go.jp/pdf/12345369.pdf",
   "intl": true,
   "tr": {
    "uz": {
-    "t": "Markaziy Osiyo va Kavkazda infratuzilmani rivojlantirish bo‘yicha ma’lumot yig‘ish tadqiqoti: O‘zbekiston Respublikasi — yakuniy hisobot",
-    "ab": "JICA va Nomura tadqiqot instituti 2019-yilda O‘zbekiston infratuzilma tarmoqlari, jumladan avtomobil, temir yo‘l va havo transportining holati va rivojlanish rejalarini tahlil qilgan. O‘zbekiston yo‘l sohasining 2019-yilgacha bo‘lgan holati va xorijiy investorlar nuqtai nazarini o‘rganish uchun muhim manba."
+    "t": "Markaziy Osiyo va Kavkazda infratuzilmani rivojlantirish bo‘yicha ma’lumot yig‘ish tadqiqoti: O‘zbekiston bo‘yicha yakuniy hisobot",
+    "ab": "JICA va Nomura Research Institute tomonidan 2019-yilda tayyorlangan hisobot O‘zbekistonda transport, shahar, energetika va boshqa infratuzilma ehtiyojlarini hamda DXSh huquqiy asoslarini tahlil qiladi. Yo‘l loyihalarini DXSh asosida moliyalashtirishni rejalashtirishda foydali."
    }
   },
   "fileId": "",
   "fileUrl": "",
   "fileName": "",
   "fileSize": 0,
-  "createdAt": 1794519038041,
-  "updatedAt": 1794519038041
+  "createdAt": 1794537040051,
+  "updatedAt": 1794537040051
  },
  {
-  "id": "a20261113-05",
-  "ident": "YR-20261113-05",
-  "title": "Basic design study on the project for supply of road construction and maintenance equipment phase II in the Republic of Uzbekistan",
+  "id": "a20261113-04",
+  "ident": "YR-20261113-04",
+  "title": "Basic Design Study on the Project for Supply of Road Construction and Maintenance Equipment (Phase II) in the Republic of Uzbekistan",
   "authors": [
    "Japan International Cooperation Agency (JICA)",
    "Construction Project Consultants, Inc."
@@ -4372,73 +4339,349 @@
   "cat": "project",
   "year": 2004,
   "lang": "en",
-  "ftype": "WEB",
+  "ftype": "PDF",
   "pages": 0,
   "kw": [
    "yo‘l qurilish texnikasi",
    "yo‘llarni saqlash",
-   "grant loyihasi",
+   "Samarqand–Termiz",
    "O‘zbekiston",
-   "дорожно-строительная техника",
-   "road maintenance equipment"
+   "дорожная техника",
+   "road maintenance equipment",
+   "grant aid"
   ],
-  "abs": "JICA basic design study (2004) for the second phase of Japanese grant aid supplying road construction and maintenance equipment to Uzbekistan. The JICA library record links to the report PDF.",
-  "link": "https://openjicareport.jica.go.jp/614/614/614_158_11772431.html",
+  "abs": "Basic design study (October 2004) for Japanese grant aid supplying road construction and maintenance machinery to Uzbekistan. The equipment was intended for rehabilitating the 378 km Samarkand–Guzar–Termez trunk road through Samarkand, Kashkadarya and Surkhandarya provinces.",
+  "link": "https://openjicareport.jica.go.jp/pdf/11772431.pdf",
   "intl": true,
   "tr": {
    "uz": {
-    "t": "O‘zbekiston Respublikasiga yo‘l qurilishi va saqlash texnikasini yetkazib berish loyihasi (II bosqich) bo‘yicha asosiy loyihaviy tadqiqot",
-    "ab": "Yaponiya hukumatining grant yordami doirasida O‘zbekiston yo‘l xo‘jaligiga yo‘l qurilishi va ta’mirlash texnikasini yetkazib berishning ikkinchi bosqichi uchun 2004-yilda tayyorlangan asosiy loyiha tadqiqoti. O‘zbekiston yo‘l xo‘jaligi texnika parkining tarixi va xalqaro hamkorlik tajribasini o‘rganish uchun qimmatli."
+    "t": "O‘zbekistonga yo‘l qurilishi va saqlash texnikasini yetkazib berish loyihasi (II bosqich) bo‘yicha asosiy loyihalash tadqiqoti",
+    "ab": "Yaponiya grant yordami doirasida Samarqand–G‘uzor–Termiz (378 km) magistral yo‘lini tiklash uchun yo‘l texnikasini yetkazib berish loyihasining 2004-yilgi asosiy loyihalash tadqiqoti. O‘zbekiston yo‘l xo‘jaligining texnika bilan ta’minlanishi tarixini o‘rganishda qimmatli hujjat."
    }
   },
   "fileId": "",
   "fileUrl": "",
   "fileName": "",
   "fileSize": 0,
-  "createdAt": 1794519038042,
-  "updatedAt": 1794519038042
+  "createdAt": 1794537040052,
+  "updatedAt": 1794537040052
+ },
+ {
+  "id": "a20261113-05",
+  "ident": "YR-20261113-05",
+  "title": "The Project for Capacity Development for Bridge Management in the Republic of Tajikistan: Project Completion Report",
+  "authors": [
+   "Japan International Cooperation Agency (JICA)",
+   "CTI Engineering International Co., Ltd.",
+   "Central Nippon Expressway Co., Ltd.",
+   "Central Nippon Highway Engineering Tokyo Co., Ltd."
+  ],
+  "org": "JICA (Yaponiya, Tojikiston uchun)",
+  "cat": "report",
+  "year": 2024,
+  "lang": "en",
+  "ftype": "PDF",
+  "pages": 0,
+  "kw": [
+   "ko‘priklarni boshqarish",
+   "ko‘prik inspeksiyasi",
+   "Tojikiston",
+   "Markaziy Osiyo",
+   "управление мостами",
+   "bridge management",
+   "bridge inspection"
+  ],
+  "abs": "Completion report (November 2024) of a JICA technical cooperation project (2021–2024) that built bridge management capacity in Tajikistan’s Ministry of Transport. It covers bridge inventory, inspection and diagnosis, repair, a mid-term bridge management plan and a bridge engineering training course.",
+  "link": "https://openjicareport.jica.go.jp/pdf/12388526.pdf",
+  "intl": true,
+  "tr": {
+   "uz": {
+    "t": "Tojikistonda ko‘priklarni boshqarish salohiyatini rivojlantirish loyihasi: yakuniy hisobot",
+    "ab": "JICA loyihasi doirasida Tojikiston Transport vazirligida ko‘priklar ro‘yxati, inspeksiya, diagnostika, ta’mirlash va o‘rta muddatli boshqaruv rejasini joriy etish tajribasi bayon qilingan. Qo‘shni davlat tajribasi O‘zbekistonda ko‘priklarni boshqarish tizimini yaratishda bevosita qo‘llanilishi mumkin."
+   }
+  },
+  "fileId": "",
+  "fileUrl": "",
+  "fileName": "",
+  "fileSize": 0,
+  "createdAt": 1794537040053,
+  "updatedAt": 1794537040053
  },
  {
   "id": "a20261113-06",
   "ident": "YR-20261113-06",
-  "title": "ウズベキスタン国 移動式小型全周囲カメラによる道路空間高精度3次元画像データ事業案件化調査業務完了報告書",
+  "title": "The Preparatory Survey Report on the Project for Reconstruction of Urmaral River Bridge on Talas-Taraz Road in the Kyrgyz Republic",
   "authors": [
-   "国際協力機構 (JICA)",
-   "テイコク"
+   "Japan International Cooperation Agency (JICA)",
+   "Katahira & Engineers International"
   ],
-  "org": "JICA (Yaponiya, O‘zbekiston uchun)",
+  "org": "JICA (Yaponiya, Qirg‘iziston uchun)",
   "cat": "project",
+  "year": 2018,
+  "lang": "en",
+  "ftype": "PDF",
+  "pages": 0,
+  "kw": [
+   "ko‘prik rekonstruksiyasi",
+   "toshqin",
+   "qirg‘oq himoyasi",
+   "Qirg‘iziston",
+   "реконструкция моста",
+   "bridge reconstruction",
+   "Talas-Taraz"
+  ],
+  "abs": "Preparatory survey (August 2018) for Japanese grant aid to rebuild the flood-damaged Urmaral River Bridge on the Talas–Taraz road in Kyrgyzstan. The scope includes the new bridge, riverbank revetment, about 1.1 km of approach road and traffic safety measures.",
+  "link": "https://openjicareport.jica.go.jp/pdf/12321188_01.pdf",
+  "intl": true,
+  "tr": {
+   "uz": {
+    "t": "Qirg‘iziston: Talas–Taraz yo‘lidagi Urmaral daryosi ko‘prigini rekonstruksiya qilish loyihasi bo‘yicha dastlabki tadqiqot hisoboti",
+    "ab": "2016-yilgi toshqindan zarar ko‘rgan ko‘prikni qayta qurish, qirg‘oqni mustahkamlash va yondashuv yo‘lini yaxshilash bo‘yicha JICA tadqiqoti. O‘xshash tog‘oldi daryolaridagi ko‘priklarni toshqindan himoya qilishda O‘zbekiston uchun foydali tajriba."
+   }
+  },
+  "fileId": "",
+  "fileUrl": "",
+  "fileName": "",
+  "fileSize": 0,
+  "createdAt": 1794537040054,
+  "updatedAt": 1794537040054
+ },
+ {
+  "id": "a20261113-07",
+  "ident": "YR-20261113-07",
+  "title": "FY2018 Ex-Post Evaluation of Japanese Grant Aid Project: Reconstruction of Kok-Art River Bridge on Bishkek-Osh Road",
+  "authors": [
+   "Mimi Sheikh, International Development Center of Japan, Inc.",
+   "Japan International Cooperation Agency (JICA)"
+  ],
+  "org": "JICA (Yaponiya, Qirg‘iziston uchun)",
+  "cat": "report",
+  "year": 2019,
+  "lang": "en",
+  "ftype": "PDF",
+  "pages": 0,
+  "kw": [
+   "ko‘prik",
+   "loyiha baholash",
+   "Bishkek–O‘sh yo‘li",
+   "Qirg‘iziston",
+   "оценка проекта",
+   "ex-post evaluation",
+   "bridge pier inspection"
+  ],
+  "abs": "External ex-post evaluation of the grant-aid reconstruction of the Kok-Art River Bridge in Jalal-Abad Oblast on the Bishkek–Osh road. It rates relevance, efficiency, effectiveness, impact and sustainability and recommends regular inspection of bridge piers.",
+  "link": "https://www2.jica.go.jp/en/evaluation/pdf/2018_1360060_4_f.pdf",
+  "intl": true,
+  "tr": {
+   "uz": {
+    "t": "Qirg‘iziston: Bishkek–O‘sh yo‘lidagi Ko‘k-Art daryosi ko‘prigi rekonstruksiyasining keyingi bahosi (2018 moliya yili)",
+    "ab": "Farg‘ona vodiysiga tutash hududdagi ko‘prik loyihasining natijalari va barqarorligi mustaqil baholangan, tayanchlarni muntazam tekshirish tavsiya etilgan. Vodiy yo‘llaridagi ko‘priklarni saqlash amaliyotida O‘zbekiston uchun dars bo‘ladigan manba."
+   }
+  },
+  "fileId": "",
+  "fileUrl": "",
+  "fileName": "",
+  "fileSize": 0,
+  "createdAt": 1794537040055,
+  "updatedAt": 1794537040055
+ },
+ {
+  "id": "a20261113-08",
+  "ident": "YR-20261113-08",
+  "title": "Uzbekistan: Karakalpakstan and Khorezm Local Roads Network Reconstruction Project — Project Document (P000871)",
+  "authors": [
+   "Asian Infrastructure Investment Bank (AIIB)"
+  ],
+  "org": "AIIB (xalqaro, O‘zbekiston uchun)",
+  "cat": "project",
+  "year": 2025,
+  "lang": "en",
+  "ftype": "PDF",
+  "pages": 0,
+  "kw": [
+   "mahalliy yo‘llar",
+   "rekonstruksiya",
+   "Qoraqalpog‘iston",
+   "Xorazm",
+   "местные дороги",
+   "local roads",
+   "AIIB"
+  ],
+  "abs": "AIIB project document dated 25 August 2025 for reconstructing up to 516.1 km of local roads in 23 districts of Karakalpakstan and Khorezm. Phase 1 covers up to 188 km in Khorezm and Phase 2 up to 328.1 km in Karakalpakstan.",
+  "link": "https://www.aiib.org/en/projects/details/2025/_download/Uzbekistan/APD-P000871-Uzbekistan-KK-Road-Project_Clean-1.pdf",
+  "intl": true,
+  "tr": {
+   "uz": {
+    "t": "O‘zbekiston: Qoraqalpog‘iston va Xorazm mahalliy yo‘llar tarmog‘ini rekonstruksiya qilish loyihasi hujjati",
+    "ab": "AIIB tomonidan 2025-yilda tasdiqlangan, 23 tumandagi 516 km gacha mahalliy yo‘llarni ikki bosqichda tiklashni nazarda tutuvchi loyiha hujjati. To‘g‘ridan-to‘g‘ri O‘zbekiston yo‘llariga oid, loyihalash, ekologik va ijtimoiy talablar bo‘yicha amaliy namuna."
+   }
+  },
+  "fileId": "",
+  "fileUrl": "",
+  "fileName": "",
+  "fileSize": 0,
+  "createdAt": 1794537040056,
+  "updatedAt": 1794537040056
+ },
+ {
+  "id": "a20261113-09",
+  "ident": "YR-20261113-09",
+  "title": "Republic of Uzbekistan: Preparing the Regional Infrastructure (Roads) Project — Technical Assistance Report",
+  "authors": [
+   "Asian Development Bank (ADB)"
+  ],
+  "org": "ADB (xalqaro, O‘zbekiston uchun)",
+  "cat": "project",
+  "year": 2006,
+  "lang": "en",
+  "ftype": "PDF",
+  "pages": 0,
+  "kw": [
+   "mintaqaviy yo‘llar",
+   "G‘uzor–Beynov",
+   "texnik-iqtisodiy asoslash",
+   "O‘zbekiston",
+   "технико-экономическое обоснование",
+   "feasibility study",
+   "AH-63"
+  ],
+  "abs": "ADB technical assistance report (December 2006), financed by the Japan Special Fund, to prepare rehabilitation of the Guzar–Beyneu regional road, part of AH-63 and E-40. It sets out the scope of traffic, engineering, economic and safeguard studies with the Road Fund as executing agency.",
+  "link": "https://www.adb.org/sites/default/files/project-documents//39669-uzb-tar.pdf",
+  "intl": true,
+  "tr": {
+   "uz": {
+    "t": "O‘zbekiston: Mintaqaviy infratuzilma (yo‘llar) loyihasini tayyorlash — texnik yordam hisoboti",
+    "ab": "Yaponiya maxsus fondi hisobidan G‘uzor–Beynov (AH-63/E-40) yo‘lini tiklash loyihasini tayyorlash uchun ADB texnik yordami, 2006-yil. O‘zbekistonning asosiy xalqaro yo‘llaridan biri bo‘yicha tarixiy-loyihaviy hujjat."
+   }
+  },
+  "fileId": "",
+  "fileUrl": "",
+  "fileName": "",
+  "fileSize": 0,
+  "createdAt": 1794537040057,
+  "updatedAt": 1794537040057
+ },
+ {
+  "id": "a20261113-10",
+  "ident": "YR-20261113-10",
+  "title": "Uzbekistan: Eligibility of State-owned Road Enterprises for Participation in ADB-financed Projects — Final Report",
+  "authors": [
+   "Asian Development Bank (ADB)",
+   "Nicolas Audier",
+   "Etienne Laumonier",
+   "Umid Ubaydullaev",
+   "Mirodil Mirakhmedov"
+  ],
+  "org": "ADB (xalqaro, O‘zbekiston uchun)",
+  "cat": "report",
+  "year": 2008,
+  "lang": "en",
+  "ftype": "PDF",
+  "pages": 0,
+  "kw": [
+   "davlat yo‘l korxonalari",
+   "davlat xaridlari",
+   "O‘zavtoyo‘l",
+   "O‘zbekiston",
+   "государственные дорожные предприятия",
+   "procurement",
+   "road enterprises"
+  ],
+  "abs": "ADB TA 7053 final report (June 2008) assessing whether state-owned road enterprises under Uzavtoyul meet ADB eligibility rules for international competitive bidding. It reviews Uzbek legislation and enterprise practice, identifies gaps and recommends prioritised reforms.",
+  "link": "https://www.adb.org/sites/default/files/project-documents//41685-uzb-tacr.pdf",
+  "intl": true,
+  "tr": {
+   "uz": {
+    "t": "O‘zbekiston: Davlat yo‘l korxonalarining ADB moliyalashtirgan loyihalarda ishtirok etish huquqi — yakuniy hisobot",
+    "ab": "O‘zavtoyo‘l tizimidagi davlat korxonalarining xalqaro tenderlarda qatnashish talablariga mosligi tahlil qilingan va islohot choralari tavsiya etilgan. Yo‘l xo‘jaligida tashkiliy islohotlar va xaridlar tizimini o‘rganishda muhim."
+   }
+  },
+  "fileId": "",
+  "fileUrl": "",
+  "fileName": "",
+  "fileSize": 0,
+  "createdAt": 1794537040058,
+  "updatedAt": 1794537040058
+ },
+ {
+  "id": "a20261113-11",
+  "ident": "YR-20261113-11",
+  "title": "A Way to Sustain Uzbekistan’s Road Infrastructure Transformation",
+  "authors": [
+   "Development Asia (Asian Development Bank)"
+  ],
+  "org": "ADB (xalqaro, O‘zbekiston uchun)",
+  "cat": "article",
   "year": 2023,
   "lang": "en",
   "ftype": "WEB",
   "pages": 0,
   "kw": [
-   "3D yo‘l ma’lumotlari",
-   "mobil kamera",
-   "yo‘l inventarizatsiyasi",
-   "raqamlashtirish",
-   "3D-съёмка дорог",
-   "mobile mapping"
+   "yo‘l infratuzilmasi",
+   "moliyalashtirish",
+   "DXSh",
+   "O‘zbekiston",
+   "финансирование дорог",
+   "road financing",
+   "sustainability"
   ],
-  "abs": "Japanese-language completion report (June 2023) of a JICA SME feasibility survey on producing high-precision 3D image data of road space in Uzbekistan with a compact mobile omnidirectional camera. The JICA library record links to the PDF.",
-  "link": "https://openjicareport.jica.go.jp/614/614/614_158_1000050244.html",
+  "abs": "Development Asia article (22 June 2023) on keeping Uzbekistan’s road modernisation financially sustainable. It discusses budget, multilateral and PPP funding and argues for prioritising projects by urgency, feasibility and return.",
+  "link": "https://development.asia/insight/way-sustain-uzbekistans-road-infrastructure-transformation",
   "intl": true,
   "tr": {
    "uz": {
-    "t": "O‘zbekiston: mobil ixcham panoramali kamera yordamida yo‘l makonining yuqori aniqlikdagi 3D tasvir ma’lumotlarini olish loyihasini shakllantirish tadqiqoti — yakuniy hisobot",
-    "ab": "JICA ko‘magida yapon kompaniyasi O‘zbekiston yo‘llarida mobil panoramali kamera bilan yo‘l makonini 3D formatda suratga olish va undan yo‘l boshqaruvida foydalanish imkoniyatlarini o‘rgangan (2023, yapon tilida). O‘zbekistonda yo‘llarni raqamli inventarizatsiya qilish va diagnostikasini yo‘lga qo‘yishda bevosita foydali."
+    "t": "O‘zbekiston yo‘l infratuzilmasi o‘zgarishlarini barqaror qilish yo‘li",
+    "ab": "ADB bilim platformasidagi maqolada yo‘l tarmog‘ini rivojlantirishni moliyaviy jihatdan barqaror ushlab turish manbalari va loyihalarni ustuvorlashtirish tamoyillari ko‘rib chiqilgan. Bevosita O‘zbekiston yo‘l siyosatiga oid."
    }
   },
   "fileId": "",
   "fileUrl": "",
   "fileName": "",
   "fileSize": 0,
-  "createdAt": 1794519038043,
-  "updatedAt": 1794519038043
+  "createdAt": 1794537040059,
+  "updatedAt": 1794537040059
  },
  {
-  "id": "a20261113-07",
-  "ident": "YR-20261113-07",
+  "id": "a20261113-12",
+  "ident": "YR-20261113-12",
+  "title": "Advancing Uzbekistan’s Sustainable Development via PPP Road Projects",
+  "authors": [
+   "Development Asia (Asian Development Bank)"
+  ],
+  "org": "ADB (xalqaro, O‘zbekiston uchun)",
+  "cat": "article",
+  "year": 2024,
+  "lang": "en",
+  "ftype": "WEB",
+  "pages": 0,
+  "kw": [
+   "DXSh",
+   "pullik yo‘llar",
+   "Toshkent–Andijon",
+   "O‘zbekiston",
+   "ГЧП",
+   "PPP roads",
+   "tolling"
+  ],
+  "abs": "Development Asia article (14 October 2024) on Uzbekistan’s use of public–private partnerships to close the road funding gap. It notes the Tashkent–Andijan and Tashkent–Samarkand PPPs under preparation, tolling plans and the fiscal risks of long-term PPP commitments.",
+  "link": "https://development.asia/insight/advancing-uzbekistans-sustainable-development-ppp-road-projects",
+  "intl": true,
+  "tr": {
+   "uz": {
+    "t": "DXSh yo‘l loyihalari orqali O‘zbekistonning barqaror rivojlanishini ta’minlash",
+    "ab": "Maqolada O‘zbekistonda yo‘l DXSh loyihalari (Toshkent–Andijon, Toshkent–Samarqand), pullik yo‘llarni joriy etish va moliyaviy xavflar tahlil qilingan. Pullik yo‘llar siyosatini ishlab chiqishda dolzarb."
+   }
+  },
+  "fileId": "",
+  "fileUrl": "",
+  "fileName": "",
+  "fileSize": 0,
+  "createdAt": 1794537040060,
+  "updatedAt": 1794537040060
+ },
+ {
+  "id": "a20261113-13",
+  "ident": "YR-20261113-13",
   "title": "Roads in Japan 2026",
   "authors": [
    "Road Bureau, Ministry of Land, Infrastructure, Transport and Tourism (MLIT)"
@@ -4450,187 +4693,309 @@
   "ftype": "PDF",
   "pages": 0,
   "kw": [
-   "Yaponiya yo‘llari",
-   "yo‘l boshqaruvi",
+   "yo‘l tarmog‘i",
    "aktivlarni boshqarish",
-   "tabiiy ofatlardan himoya",
-   "дороги Японии",
-   "road administration"
+   "tabiiy ofatlar",
+   "Yaponiya",
+   "дорожная сеть Японии",
+   "road administration",
+   "asset management"
   ],
-  "abs": "Annual English brochure of Japan's Road Bureau describing road classes, administration and financing, project planning, asset management, disaster prevention and advanced road technologies. It also summarises the history of Japanese roads and current policies such as WISENET, decarbonisation and road digital transformation.",
+  "abs": "MLIT Road Bureau’s 2026 English overview of Japanese roads: road classes, administration, funding, project planning, asset management, disaster prevention and road technologies. It also presents the WISENET 2050 vision and recovery from the 2024 Noto Peninsula earthquake.",
   "link": "https://www.mlit.go.jp/road/road_e/pdf/roads_in_japan_2026.pdf",
   "intl": true,
   "tr": {
    "uz": {
-    "t": "Yaponiya yo‘llari — 2026",
-    "ab": "Yaponiya Yer, infratuzilma, transport va turizm vazirligi Yo‘llar byurosining yo‘l tasnifi, boshqaruvi, moliyalashtirish, aktivlarni boshqarish va zilzila hamda boshqa ofatlardan himoya qilish bo‘yicha yillik ma’lumotnomasi. Seysmik faol O‘zbekiston uchun yo‘l va ko‘priklarni saqlash hamda ofatlarga chidamlilik tajribasini o‘rganishda foydali."
+    "t": "Yaponiya yo‘llari 2026",
+    "ab": "Yaponiya yo‘l boshqaruvi, moliyalashtirish, ko‘prik va qoplamalarni profilaktik saqlash hamda zilzila, jala va qorga qarshi choralar haqida rasmiy umumiy sharh. Seysmik faol O‘zbekiston uchun yo‘l aktivlarini boshqarish va ofatlarga chidamlilik tajribasi sifatida foydali."
    }
   },
   "fileId": "",
   "fileUrl": "",
   "fileName": "",
   "fileSize": 0,
-  "createdAt": 1794519038044,
-  "updatedAt": 1794519038044
+  "createdAt": 1794537040061,
+  "updatedAt": 1794537040061
  },
  {
-  "id": "a20261113-08",
-  "ident": "YR-20261113-08",
+  "id": "a20261113-14",
+  "ident": "YR-20261113-14",
   "title": "Policies for WISENET 2050",
   "authors": [
    "Road Bureau, Ministry of Land, Infrastructure, Transport and Tourism (MLIT)"
   ],
   "org": "MLIT (Yaponiya)",
-  "cat": "report",
+  "cat": "guide",
   "year": 2023,
   "lang": "en",
   "ftype": "PDF",
   "pages": 0,
   "kw": [
-   "yuqori standartli yo‘llar",
    "yo‘l siyosati",
-   "avtomatlashtirilgan harakat",
-   "logistika",
+   "yuqori standartli yo‘llar",
+   "avtonom harakat",
+   "Yaponiya",
    "дорожная политика",
-   "high-standard road network"
+   "road policy",
+   "WISENET"
   ],
-  "abs": "Booklet issued in October 2023 setting out the Road Bureau's long-term policy for Japan's high-standard road network up to 2050. It links network planning to demographic decline, logistics labour shortages and natural hazards, and proposes service-level-based planning, data-driven management, automated driving support and low-carbon road transport.",
+  "abs": "October 2023 booklet from MLIT’s Road Bureau setting out policy directions for a smart, safe and sustainable high-standard road network by 2050. It links demographic, disaster and logistics challenges to service-level network planning, data-driven management, automated driving and low-carbon roads.",
   "link": "https://www.mlit.go.jp/road/road_e/pdf/policiesforWISENET_2050.pdf",
   "intl": true,
   "tr": {
    "uz": {
-    "t": "WISENET 2050 siyosati (Yaponiya yuqori standartli yo‘l tarmog‘i)",
-    "ab": "Yaponiyaning 2050-yilgacha yuqori standartli avtomobil yo‘llari tarmog‘ini rivojlantirish siyosati: xizmat darajasiga asoslangan rejalashtirish, ma’lumotlarga tayangan boshqaruv, avtomatlashtirilgan harakat va kam uglerodli transport. O‘zbekistonda tezyurar yo‘llar tarmog‘i strategiyasini ishlab chiqishda namuna bo‘ladi."
+    "t": "WISENET 2050 siyosati",
+    "ab": "Yaponiyaning 2050-yilgacha yuqori standartli yo‘l tarmog‘ini rivojlantirish strategiyasi: xizmat darajasiga asoslangan rejalashtirish, raqamlashtirish va past uglerodli yo‘llar. O‘zbekistonda uzoq muddatli yo‘l strategiyasini ishlab chiqishda namuna bo‘la oladi."
    }
   },
   "fileId": "",
   "fileUrl": "",
   "fileName": "",
   "fileSize": 0,
-  "createdAt": 1794519038045,
-  "updatedAt": 1794519038045
+  "createdAt": 1794537040062,
+  "updatedAt": 1794537040062
  },
  {
-  "id": "a20261113-09",
-  "ident": "YR-20261113-09",
-  "title": "2040 Vision for Roads in Japan — To shape a better future for people (Summary)",
+  "id": "a20261113-15",
+  "ident": "YR-20261113-15",
+  "title": "2040 Vision for Roads in Japan (Summary): To shape a better future for people",
   "authors": [
    "Ministry of Land, Infrastructure, Transport and Tourism (MLIT)"
   ],
   "org": "MLIT (Yaponiya)",
+  "cat": "guide",
+  "year": 2020,
+  "lang": "en",
+  "ftype": "PDF",
+  "pages": 0,
+  "kw": [
+   "yo‘llar istiqboli",
+   "raqamli texnologiyalar",
+   "yo‘l xavfsizligi",
+   "Yaponiya",
+   "видение развития дорог",
+   "road vision",
+   "automated driving"
+  ],
+  "abs": "English summary of MLIT’s long-term vision for Japanese roads in 2040. It describes roads as people-centred spaces supported by digital technology, with directions on automated driving, safer streets, low-carbon transport, disaster resilience and efficient maintenance.",
+  "link": "https://www.mlit.go.jp/road/vision/pdf/03.pdf",
+  "intl": true,
+  "tr": {
+   "uz": {
+    "t": "Yaponiya yo‘llarining 2040-yilgacha istiqboli (qisqacha)",
+    "ab": "Yo‘llarni inson farovonligiga xizmat qiluvchi makon sifatida ko‘rib, avtonom harakat, xavfsiz ko‘chalar va eskirgan infratuzilmani tejamli saqlash yo‘nalishlarini belgilaydi. O‘zbekiston yo‘l sohasi konsepsiyalarini tayyorlashda g‘oyalar manbai."
+   }
+  },
+  "fileId": "",
+  "fileUrl": "",
+  "fileName": "",
+  "fileSize": 0,
+  "createdAt": 1794537040063,
+  "updatedAt": 1794537040063
+ },
+ {
+  "id": "a20261113-16",
+  "ident": "YR-20261113-16",
+  "title": "Development and revision of technical standards for road structures",
+  "authors": [
+   "Road Structures Department, National Institute for Land and Infrastructure Management (NILIM)"
+  ],
+  "org": "NILIM / MLIT (Yaponiya)",
+  "cat": "report",
+  "year": 2021,
+  "lang": "en",
+  "ftype": "PDF",
+  "pages": 0,
+  "kw": [
+   "texnik standartlar",
+   "ko‘priklar",
+   "tunnellar",
+   "yo‘l qoplamalari",
+   "технические нормы",
+   "performance-based standards",
+   "road structures"
+  ],
+  "abs": "Chapter from NILIM’s “20 Years of NILIM History” describing how Japan develops and revises performance-based technical standards for bridges, earthworks, tunnels and pavements. It outlines the history of the standards, supporting research and future work such as repair design for existing bridges.",
+  "link": "https://www.nilim.go.jp/english/20th_history/pdf_en/1-22en.pdf",
+  "intl": true,
+  "tr": {
+   "uz": {
+    "t": "Yo‘l inshootlari uchun texnik standartlarni ishlab chiqish va qayta ko‘rib chiqish",
+    "ab": "Yaponiyada ko‘prik, yer ishlari, tunnel va qoplamalar uchun funksional (performance-based) standartlarga o‘tish tajribasi yoritilgan. O‘zbekistonda ShNQ/QMQ me’yorlarini zamonaviylashtirishda metodik namuna."
+   }
+  },
+  "fileId": "",
+  "fileUrl": "",
+  "fileName": "",
+  "fileSize": 0,
+  "createdAt": 1794537040064,
+  "updatedAt": 1794537040064
+ },
+ {
+  "id": "a20261113-17",
+  "ident": "YR-20261113-17",
+  "title": "Support for maintenance and management of road structures",
+  "authors": [
+   "Road Structures Department, National Institute for Land and Infrastructure Management (NILIM)"
+  ],
+  "org": "NILIM / MLIT (Yaponiya)",
+  "cat": "report",
+  "year": 2021,
+  "lang": "en",
+  "ftype": "PDF",
+  "pages": 0,
+  "kw": [
+   "inshootlarni saqlash",
+   "davriy inspeksiya",
+   "eskirgan ko‘priklar",
+   "Yaponiya",
+   "содержание искусственных сооружений",
+   "periodic inspection",
+   "maintenance"
+  ],
+  "abs": "Chapter from “20 Years of NILIM History” on research and technical support for maintaining Japan’s ageing road structures, centred on periodic inspections introduced after the 2012 Sasago Tunnel accident and the 2013 Road Law revision. It also covers long-life repair planning, data-driven asset management and training of road managers.",
+  "link": "https://www.nilim.go.jp/english/20th_history/pdf_en/1-19en.pdf",
+  "intl": true,
+  "tr": {
+   "uz": {
+    "t": "Yo‘l inshootlarini saqlash va boshqarishni qo‘llab-quvvatlash",
+    "ab": "Sasago tunnelidagi avariyadan so‘ng Yaponiyada joriy etilgan majburiy davriy inspeksiya tizimi va uzoq muddatli ta’mir rejalashtirish tajribasi bayon etilgan. O‘zbekistonda ko‘prik va tunnellarni muntazam tekshirish tizimini yo‘lga qo‘yishda foydali."
+   }
+  },
+  "fileId": "",
+  "fileUrl": "",
+  "fileName": "",
+  "fileSize": 0,
+  "createdAt": 1794537040065,
+  "updatedAt": 1794537040065
+ },
+ {
+  "id": "a20261113-18",
+  "ident": "YR-20261113-18",
+  "title": "Disaster prevention, mitigation, and risk management of road structures",
+  "authors": [
+   "Road Structures Department, National Institute for Land and Infrastructure Management (NILIM)"
+  ],
+  "org": "NILIM / MLIT (Yaponiya)",
+  "cat": "report",
+  "year": 2021,
+  "lang": "en",
+  "ftype": "PDF",
+  "pages": 0,
+  "kw": [
+   "seysmik xavfsizlik",
+   "tabiiy ofatlar",
+   "ko‘priklar",
+   "yer ishlari",
+   "сейсмостойкость",
+   "disaster risk management",
+   "earthquake"
+  ],
+  "abs": "Chapter from “20 Years of NILIM History” on research, testing and technical guidance to protect bridges and earthworks against earthquakes, heavy rain and other disasters. It traces major disasters in Japan and the standard revisions and research programmes that followed them.",
+  "link": "https://www.nilim.go.jp/english/20th_history/pdf_en/1-06en.pdf",
+  "intl": true,
+  "tr": {
+   "uz": {
+    "t": "Yo‘l inshootlarida tabiiy ofatlarning oldini olish, oqibatlarini yumshatish va xavfni boshqarish",
+    "ab": "Yaponiyada zilzila va jaladan keyin ko‘prik va yer inshootlari me’yorlari qanday qayta ko‘rib chiqilgani ko‘rsatilgan. Seysmik hududdagi O‘zbekiston yo‘llari uchun bevosita dolzarb tajriba."
+   }
+  },
+  "fileId": "",
+  "fileUrl": "",
+  "fileName": "",
+  "fileSize": 0,
+  "createdAt": 1794537040066,
+  "updatedAt": 1794537040066
+ },
+ {
+  "id": "a20261113-19",
+  "ident": "YR-20261113-19",
+  "title": "Traffic safety measures on arterial roads",
+  "authors": [
+   "Road Traffic Department, National Institute for Land and Infrastructure Management (NILIM)"
+  ],
+  "org": "NILIM / MLIT (Yaponiya)",
+  "cat": "report",
+  "year": 2021,
+  "lang": "en",
+  "ftype": "PDF",
+  "pages": 0,
+  "kw": [
+   "yo‘l harakati xavfsizligi",
+   "xavfli joylar",
+   "avariya ma’lumotlari",
+   "Yaponiya",
+   "опасные участки",
+   "black spots",
+   "ETC2.0"
+  ],
+  "abs": "Chapter from “20 Years of NILIM History” on how Japan’s police and MLIT identify and treat accident-prone spots on arterial roads using crash, road and ETC2.0 probe data. It also describes guidelines and databases for planning and evaluating countermeasures.",
+  "link": "https://www.nilim.go.jp/english/20th_history/pdf_en/1-46en.pdf",
+  "intl": true,
+  "tr": {
+   "uz": {
+    "t": "Magistral yo‘llarda yo‘l harakati xavfsizligi choralari",
+    "ab": "Avariya o‘choqlarini ma’lumotlar asosida aniqlash va bartaraf etish choralarini baholash bo‘yicha yapon tajribasi. O‘zbekistonda “qora nuqtalar”ni aniqlash tizimini takomillashtirishda qo‘llash mumkin."
+   }
+  },
+  "fileId": "",
+  "fileUrl": "",
+  "fileName": "",
+  "fileSize": 0,
+  "createdAt": 1794537040067,
+  "updatedAt": 1794537040067
+ },
+ {
+  "id": "a20261113-20",
+  "ident": "YR-20261113-20",
+  "title": "Data Collection Survey on Road Asset Management Platform Technical Support: Final Report",
+  "authors": [
+   "Japan International Cooperation Agency (JICA)",
+   "Japan Expressway International Co., Ltd. (JEXWAY)",
+   "Nippon Engineering Consultants Co., Ltd.",
+   "Infrastructure Development Institute-Japan (IDI)",
+   "West Nippon Expressway Co., Ltd."
+  ],
+  "org": "JICA (Yaponiya)",
   "cat": "report",
   "year": 2020,
   "lang": "en",
   "ftype": "PDF",
   "pages": 0,
   "kw": [
-   "yo‘l siyosati",
-   "2040 vizyoni",
-   "raqamli texnologiyalar",
-   "yo‘l xavfsizligi",
-   "концепция дорог 2040",
-   "road vision"
+   "yo‘l aktivlarini boshqarish",
+   "baholash varaqasi",
+   "texnik yordam",
+   "Qirg‘iziston",
+   "управление дорожными активами",
+   "road asset management",
+   "JICA"
   ],
-  "abs": "English summary of Japan's long-term road policy vision for 2040, centred on people's well-being and the use of digital technology. It sets goals such as reducing commuting congestion, expanding automated transport, building disaster-resilient networks and extending infrastructure life through smarter maintenance.",
-  "link": "https://www.mlit.go.jp/road/vision/pdf/03.pdf",
+  "abs": "JICA final report (September 2020) on assessing the maturity of road asset management in partner countries, including Kyrgyzstan, with an evaluation sheet. It also systematises JICA road-sector training and compiles standards and manuals from past technical cooperation projects.",
+  "link": "https://openjicareport.jica.go.jp/pdf/12341244.pdf",
   "intl": true,
   "tr": {
    "uz": {
-    "t": "Yaponiya yo‘llarining 2040-yilgacha bo‘lgan vizyoni (qisqacha bayon)",
-    "ab": "Yaponiya yo‘l siyosatining 2040-yilgacha bo‘lgan uzoq muddatli yo‘nalishlari: tirbandlikni kamaytirish, avtomatlashtirilgan transport, ofatlarga chidamli tarmoq va infratuzilma xizmat muddatini uzaytirish. O‘zbekiston yo‘l sohasining uzoq muddatli konsepsiyalarini tayyorlashda foydali tajriba."
+    "t": "Yo‘l aktivlarini boshqarish platformasiga texnik ko‘mak bo‘yicha ma’lumot yig‘ish tadqiqoti: yakuniy hisobot",
+    "ab": "Yo‘l aktivlarini boshqarish darajasini baholash uslubi va JICA loyihalarida ishlab chiqilgan qo‘llanmalar to‘plami taqdim etilgan. Qirg‘iziston tajribasi bilan birga O‘zbekistonda aktivlarni boshqarish tizimini baholashda qo‘llasa bo‘ladi."
    }
   },
   "fileId": "",
   "fileUrl": "",
   "fileName": "",
   "fileSize": 0,
-  "createdAt": 1794519038046,
-  "updatedAt": 1794519038046
+  "createdAt": 1794537040068,
+  "updatedAt": 1794537040068
  },
  {
-  "id": "a20261113-10",
-  "ident": "YR-20261113-10",
-  "title": "Periodic inspection guidelines for highway bridges (Technical advice under the Local Autonomy Act); Commentary to the Technical Advice to Road Administrators and Practical Standards; Guideline for recording basic data (Road Bridges) 2024 version — English translations",
+  "id": "a20261113-21",
+  "ident": "YR-20261113-21",
+  "title": "Korea Expressway Corporation Act (English translation)",
   "authors": [
-   "Road Bureau, Ministry of Land, Infrastructure, Transport and Tourism (MLIT)",
-   "Bridge and Structures Division, NILIM"
-  ],
-  "org": "MLIT / NILIM (Yaponiya)",
-  "cat": "guide",
-  "year": 2024,
-  "lang": "en",
-  "ftype": "WEB",
-  "pages": 0,
-  "kw": [
-   "ko‘priklarni tekshirish",
-   "davriy ko‘rik",
-   "texnik holat toifalari",
-   "ko‘prik ma’lumotlar bazasi",
-   "обследование мостов",
-   "bridge inspection"
-  ],
-  "abs": "NILIM page presenting English translations of Japan's March 2024 road bridge inspection documents: the periodic inspection guidelines, their commentary and practical standards, and the guideline for recording basic bridge data. Bridges are normally inspected about every five years and placed in one of four soundness categories, from sound to emergency action.",
-  "link": "https://www.nilim.go.jp/lab/ubg/english/research.html",
-  "intl": true,
-  "tr": {
-   "uz": {
-    "t": "Avtomobil yo‘li ko‘priklarini davriy tekshirish bo‘yicha qo‘llanma, unga sharhlar va ko‘prik asosiy ma’lumotlarini qayd etish yo‘riqnomasi (2024, inglizcha tarjima)",
-    "ab": "Yaponiyada ko‘priklar har besh yilda davriy ko‘rikdan o‘tkaziladi va to‘rt toifadagi (I–IV) texnik holat bahosi beriladi; sahifada ko‘rik tartibi, shikastlanish darajalari va ma’lumotlar bazasi shakllari keltirilgan. O‘zbekistonda ko‘priklarni diagnostika qilish va boshqarish tizimini takomillashtirish uchun bevosita qo‘llanadigan tajriba."
-   }
-  },
-  "fileId": "",
-  "fileUrl": "",
-  "fileName": "",
-  "fileSize": 0,
-  "createdAt": 1794519038047,
-  "updatedAt": 1794519038047
- },
- {
-  "id": "a20261113-11",
-  "ident": "YR-20261113-11",
-  "title": "Road Traffic Act (Republic of Korea), Act No. 21016, 14 Aug. 2025 — English translation",
-  "authors": [
-   "Korea Legislation Research Institute (KLRI)",
-   "National Police Agency (Republic of Korea)"
-  ],
-  "org": "KLRI (Koreya)",
-  "cat": "norm",
-  "year": 2025,
-  "lang": "en",
-  "ftype": "WEB",
-  "pages": 0,
-  "kw": [
-   "yo‘l harakati qonuni",
-   "harakat xavfsizligi",
-   "haydovchilik guvohnomasi",
-   "tezyurar yo‘llar",
-   "закон о дорожном движении",
-   "road traffic act"
-  ],
-  "abs": "Official English translation by KLRI of Korea's Road Traffic Act as amended by Act No. 21016 (14 August 2025). The act aims to prevent and remove hazards to road traffic and covers signals and safety facilities, rules for road users, expressway rules, autonomous vehicles, driver licensing and penalties.",
-  "link": "https://elaw.klri.re.kr/eng_service/lawViewContent.do?hseq=72652",
-  "intl": true,
-  "tr": {
-   "uz": {
-    "t": "Koreya Respublikasining «Yo‘l harakati to‘g‘risida»gi qonuni (2025-yil tahriri, inglizcha tarjima)",
-    "ab": "Koreyaning yo‘l harakati xavfsizligi, svetoforlar va xavfsizlik inshootlari, piyoda va haydovchilar qoidalari, tezyurar yo‘llarda harakat, avtonom avtomobillar va haydovchilik guvohnomalarini tartibga soluvchi qonuni. O‘zbekistonda yo‘l harakati qonunchiligini takomillashtirishda solishtirma manba."
-   }
-  },
-  "fileId": "",
-  "fileUrl": "",
-  "fileName": "",
-  "fileSize": 0,
-  "createdAt": 1794519038048,
-  "updatedAt": 1794519038048
- },
- {
-  "id": "a20261113-12",
-  "ident": "YR-20261113-12",
-  "title": "Korea Expressway Corporation Act, Act No. 20124, 23 Jan. 2024 — English translation",
-  "authors": [
+   "Republic of Korea",
    "Korea Legislation Research Institute (KLRI)"
   ],
-  "org": "KLRI (Koreya)",
+  "org": "MOLIT / KLRI (Koreya)",
   "cat": "norm",
   "year": 2024,
   "lang": "en",
@@ -4639,25 +5004,185 @@
   "kw": [
    "tezyurar yo‘llar",
    "davlat korporatsiyasi",
-   "yo‘l ekspluatatsiyasi",
+   "qonun",
    "Koreya",
-   "скоростные автодороги",
-   "expressway corporation"
+   "скоростные дороги",
+   "expressway",
+   "Korea Expressway Corporation"
   ],
-  "abs": "KLRI English translation of the act establishing the Korea Expressway Corporation, as amended by Act No. 20124 (23 January 2024). It sets the corporation's mandate to build, operate and maintain expressways and related projects, its governance and financing.",
+  "abs": "Official English translation by KLRI of the Korea Expressway Corporation Act (Act No. 20124, amended 23 January 2024). The Act establishes the corporation that builds, operates and maintains expressways and allows it to carry out related road projects.",
   "link": "https://elaw.klri.re.kr/eng_service/lawViewContent.do?hseq=64736",
   "intl": true,
   "tr": {
    "uz": {
-    "t": "Koreya tezyurar yo‘llar korporatsiyasi to‘g‘risidagi qonun (2024-yil tahriri, inglizcha tarjima)",
-    "ab": "Tezyurar avtomobil yo‘llarini qurish, ekspluatatsiya qilish va saqlash bilan shug‘ullanuvchi davlat korporatsiyasining vakolatlari, boshqaruvi va moliyalashtirilishini belgilovchi qonun. O‘zbekistonda pullik va tezyurar yo‘llarni boshqaruvchi tashkilot modelini ishlab chiqishda foydali namuna."
+    "t": "Koreya tezyurar yo‘llar korporatsiyasi to‘g‘risidagi qonun (inglizcha tarjima)",
+    "ab": "Tezyurar yo‘llarni qurish, ekspluatatsiya qilish va saqlash bilan shug‘ullanuvchi davlat korporatsiyasining huquqiy asoslari belgilangan. O‘zbekistonda pullik avtomagistrallarni boshqaruvchi tashkilot modelini ishlab chiqishda namuna."
    }
   },
   "fileId": "",
   "fileUrl": "",
   "fileName": "",
   "fileSize": 0,
-  "createdAt": 1794519038049,
-  "updatedAt": 1794519038049
+  "createdAt": 1794537040069,
+  "updatedAt": 1794537040069
+ },
+ {
+  "id": "a20261113-22",
+  "ident": "YR-20261113-22",
+  "title": "Road Traffic Act of the Republic of Korea (English translation)",
+  "authors": [
+   "Republic of Korea",
+   "Korea Legislation Research Institute (KLRI)"
+  ],
+  "org": "KLRI (Koreya)",
+  "cat": "norm",
+  "year": 2025,
+  "lang": "en",
+  "ftype": "WEB",
+  "pages": 0,
+  "kw": [
+   "yo‘l harakati qoidalari",
+   "qonun",
+   "harakat xavfsizligi",
+   "Koreya",
+   "закон о дорожном движении",
+   "road traffic act",
+   "traffic safety"
+  ],
+  "abs": "KLRI English translation of Korea’s Road Traffic Act, wholly amended in 2005, in the version reflecting amendments up to Act No. 21016 of 14 August 2025. It sets rules for pedestrians, drivers and other road users to prevent hazards and keep traffic safe and smooth.",
+  "link": "https://elaw.klri.re.kr/eng_service/lawViewContent.do?hseq=72652",
+  "intl": true,
+  "tr": {
+   "uz": {
+    "t": "Koreya Respublikasining Yo‘l harakati to‘g‘risidagi qonuni (inglizcha tarjima)",
+    "ab": "Piyodalar, haydovchilar va boshqa yo‘l harakati ishtirokchilari uchun qoidalarni belgilovchi qonunning 2025-yilgacha bo‘lgan o‘zgarishlar bilan tarjimasi. O‘zbekiston yo‘l harakati qonunchiligini qiyosiy tahlil qilishda foydali."
+   }
+  },
+  "fileId": "",
+  "fileUrl": "",
+  "fileName": "",
+  "fileSize": 0,
+  "createdAt": 1794537040070,
+  "updatedAt": 1794537040070
+ },
+ {
+  "id": "a20261113-23",
+  "ident": "YR-20261113-23",
+  "title": "Do Speed Limit Reductions Help Road Safety? Lessons from the Republic of Korea’s Recent Move to Lower Speed Limit on Urban Roads",
+  "authors": [
+   "Sudeshna Mitra",
+   "Soames Job",
+   "Sangjin Han",
+   "Kijong Eom",
+   "World Bank / Global Road Safety Facility",
+   "Korea Transport Institute (KOTI)"
+  ],
+  "org": "World Bank / KOTI (Koreya)",
+  "cat": "report",
+  "year": 2021,
+  "lang": "en",
+  "ftype": "PDF",
+  "pages": 0,
+  "kw": [
+   "tezlik chegarasi",
+   "shahar yo‘llari",
+   "harakat xavfsizligi",
+   "Koreya",
+   "ограничение скорости",
+   "speed limit",
+   "road safety"
+  ],
+  "abs": "World Bank Mobility and Transport Connectivity Series paper (2021) with KOTI on Daegu’s lowered urban speed limits. A before-and-after comparison found fewer total and vehicle-to-vehicle crashes and fatalities, though pedestrian crashes did not fall, and recommends combining lower limits with traffic calming.",
+  "link": "https://www.globalroadsafetyfacility.org/sites/default/files/2023-10/Do-Speed-Limit-Reductions-Help-Road-Safety-Lessons-from-the-Republic-of-Koreas-Recent-Move-to-Lower-Speed-Limit-on-Urban-Roads.pdf",
+  "intl": true,
+  "tr": {
+   "uz": {
+    "t": "Tezlik chegarasini pasaytirish xavfsizlikka yordam beradimi? Koreyada shahar yo‘llarida tezlikni kamaytirish tajribasi",
+    "ab": "Tegu shahrida tezlik chegarasi pasaytirilgandan keyin avariyalar va o‘limlar kamaygani, ammo piyodalar bilan bog‘liq hodisalar o‘zgarmagani aniqlangan. Toshkent va boshqa shaharlarda tezlik rejimini belgilashda dalilga asoslangan manba."
+   }
+  },
+  "fileId": "",
+  "fileUrl": "",
+  "fileName": "",
+  "fileSize": 0,
+  "createdAt": 1794537040071,
+  "updatedAt": 1794537040071
+ },
+ {
+  "id": "a20261113-24",
+  "ident": "YR-20261113-24",
+  "title": "The Road to Expressway Construction and Management",
+  "authors": [
+   "Development Asia (Asian Development Bank)",
+   "Eui-Young Shon (original report, KDI School)"
+  ],
+  "org": "ADB / KDI School (Koreya)",
+  "cat": "article",
+  "year": 2020,
+  "lang": "en",
+  "ftype": "WEB",
+  "pages": 0,
+  "kw": [
+   "tezyurar yo‘llar",
+   "qurilish va ekspluatatsiya",
+   "Koreya tajribasi",
+   "rejalashtirish",
+   "скоростные автомагистрали",
+   "expressway development",
+   "Korea"
+  ],
+  "abs": "Development Asia case study (17 April 2020), adapted from a 2013 KDI School report by Eui-Young Shon, tracing how Korea built and managed its expressway network. It closes with lessons on transport databases, higher design standards and advanced operation and maintenance systems.",
+  "link": "https://development.asia/case-study/road-expressway-construction-and-management",
+  "intl": true,
+  "tr": {
+   "uz": {
+    "t": "Tezyurar yo‘llarni qurish va boshqarish yo‘li: Koreya tajribasi",
+    "ab": "Koreyada urushdan keyingi davrdan hozirgacha tezyurar yo‘l tarmog‘ining rivojlanishi va undan olingan saboqlar bayon qilingan. O‘zbekistonda birinchi avtomagistrallarni rejalashtirish va boshqarishda amaliy saboqlar beradi."
+   }
+  },
+  "fileId": "",
+  "fileUrl": "",
+  "fileName": "",
+  "fileSize": 0,
+  "createdAt": 1794537040072,
+  "updatedAt": 1794537040072
+ },
+ {
+  "id": "a20261113-25",
+  "ident": "YR-20261113-25",
+  "title": "Compendium on Pavement Structural Design and Rehabilitation Methods Adopted by Member Countries (REAAA Technical Report TC-11)",
+  "authors": [
+   "Road Engineering Association of Asia and Australasia (REAAA), Pavement Technology Committee"
+  ],
+  "org": "REAAA (xalqaro, Osiyo)",
+  "cat": "report",
+  "year": 2021,
+  "lang": "en",
+  "ftype": "PDF",
+  "pages": 0,
+  "kw": [
+   "yo‘l to‘shamasini loyihalash",
+   "qoplamani tiklash",
+   "Yaponiya",
+   "Koreya",
+   "проектирование дорожных одежд",
+   "pavement design",
+   "rehabilitation"
+  ],
+  "abs": "REAAA technical report (2021) comparing pavement structural design, surfacing, distress and rehabilitation practice across member countries via a questionnaire. Japan’s method is based on a modified structural number with Japan Road Association manuals, while Korea combines AASHTO with its own mechanistic-empirical guidelines.",
+  "link": "https://www.reaaa.net/wp-content/uploads/2026/05/REAAA_TC-11_Compendium-on-pavement-structural-design-and-rehabilitation_FINAL_15-Nov-2021.pdf",
+  "intl": true,
+  "tr": {
+   "uz": {
+    "t": "A’zo davlatlarda yo‘l to‘shamasini konstruktiv loyihalash va tiklash usullari to‘plami (REAAA TC-11)",
+    "ab": "Osiyo va Avstraliya mamlakatlarida, jumladan Yaponiya va Koreyada, asfalt qoplamalarni loyihalash va ta’mirlash usullarining qiyosiy sharhi. O‘zbekistonda yo‘l to‘shamasini loyihalash me’yorlarini xalqaro amaliyot bilan solishtirishda foydali."
+   }
+  },
+  "fileId": "",
+  "fileUrl": "",
+  "fileName": "",
+  "fileSize": 0,
+  "createdAt": 1794537040073,
+  "updatedAt": 1794537040073
  }
 ]
