@@ -4207,254 +4207,457 @@
   "updatedAt": 1794450837394
  },
  {
-  "id": "trbidea-227",
-  "ident": "TRB-IDEA-227",
-  "title": "Adjustable Cross-frames for the Erection of Steel Girder Bridges",
+  "id": "a20261113-01",
+  "ident": "YR-20261113-01",
+  "title": "Data collection survey for transportation sector in the Republic of Uzbekistan: final report (summary, Uzbek edition) — Ўзбекистон Республикасида транспорт соҳасида маълумот йиғиш бўйича тадқиқот. Якуний ҳисобот (қисқача мазмун)",
   "authors": [
-   "TRB NCHRP IDEA Program"
+   "Japan International Cooperation Agency (JICA)",
+   "CTI Engineering International Co., Ltd.",
+   "ALMEC Corporation",
+   "Oriental Consultants Global Co., Ltd."
   ],
-  "org": "TRB / NCHRP IDEA (AQSh)",
+  "org": "JICA (Yaponiya, O‘zbekiston uchun)",
   "cat": "report",
   "year": 2025,
-  "lang": "en",
-  "ftype": "WEB",
+  "lang": "uz",
+  "ftype": "PDF",
   "pages": 0,
   "kw": [
-   "po‘lat to‘sinli ko‘prik",
-   "ko‘ndalang bog‘lamalar",
-   "ko‘prik montaji",
-   "qiyshiq ko‘priklar"
+   "transport sohasi",
+   "avtomobil yo‘llari",
+   "ko‘priklar",
+   "yo‘l falokatlarining oldini olish",
+   "JICA",
+   "транспортный сектор",
+   "road disaster prevention"
   ],
-  "abs": "This IDEA project addressed the difficulty of fitting cross-frames in highly skewed and curved steel girder bridges, where girder twist and deflection during erection cause misfits. A low-cost, deployable adjustable tool was developed and evaluated through numerical modelling and physical testing to simplify cross-frame installation.",
-  "link": "https://trb.org/Main/Blurbs/183307.aspx",
-  "intl": true,
-  "tr": {
-   "uz": {
-    "t": "Po‘lat to‘sinli ko‘priklarni montaj qilishda ko‘ndalang bog‘lamalarni o‘rnatishni osonlashtiruvchi rostlanadigan arzon moslama",
-    "ab": "Keskin qiyshiq va egri po‘lat to‘sinli ko‘priklarda montaj paytida to‘sinlar buralib, ko‘ndalang bog‘lamalar joyiga tushmay qoladi. Loyiha bu ishni osonlashtiradigan arzon, ko‘chma rostlanadigan moslama ishlab chiqib, uni hisob-kitob va tajriba sinovlarida baholagan. Yo‘l o‘tkazgich va estakadalar qurilishi jadallashayotgan O‘zbekiston uchun montaj muddati va xatolarini kamaytirishda foydali tajriba."
-   }
-  },
+  "abs": "JICA tomonidan Transport vazirligi, Avtomobil yo‘llari qo‘mitasi va «O‘zbekiston temir yo‘llari» bilan hamkorlikda o‘tkazilgan transport sohasidagi ma’lumot yig‘ish tadqiqotining yakuniy hisoboti qisqacha mazmuni (kirill yozuvida). Hisobotda kelajakdagi Yaponiya moliyalashtirishi mumkin bo‘lgan yo‘l, ko‘prik, temir yo‘l va yo‘llarni tabiiy ofatlardan himoya qilish loyihalari saralangan, beshta yo‘l va ofatlarning oldini olish loyihasi texnik-iqtisodiy asoslash uchun tanlangan.",
+  "link": "https://openjicareport.jica.go.jp/pdf/1000055902.pdf",
+  "intl": false,
+  "tr": {},
   "fileId": "",
   "fileUrl": "",
   "fileName": "",
   "fileSize": 0,
-  "createdAt": 1794541547223,
-  "updatedAt": 1794541547223
+  "createdAt": 1794519038038,
+  "updatedAt": 1794519038038
  },
  {
-  "id": "trbidea-237",
-  "ident": "TRB-IDEA-237",
-  "title": "New Tool for Predicting the Retroreflectivity (RL) of Pavement Markings",
+  "id": "a20261113-02",
+  "ident": "YR-20261113-02",
+  "title": "Data collection survey for transportation sector in the Republic of Uzbekistan: final report",
   "authors": [
-   "TRB NCHRP IDEA Program"
+   "Japan International Cooperation Agency (JICA)",
+   "CTI Engineering International Co., Ltd.",
+   "ALMEC Corporation",
+   "Oriental Consultants Global Co., Ltd."
   ],
-  "org": "TRB / NCHRP IDEA (AQSh)",
+  "org": "JICA (Yaponiya, O‘zbekiston uchun)",
   "cat": "report",
   "year": 2025,
   "lang": "en",
   "ftype": "WEB",
   "pages": 0,
   "kw": [
-   "yo‘l chiziqlari",
-   "nur qaytaruvchanlik",
-   "mashinaviy o‘qitish",
-   "tungi ko‘rinish",
-   "yo‘l belgilari"
+   "transport sohasi",
+   "O‘zbekiston yo‘llari",
+   "ko‘priklar",
+   "investitsiya loyihalari",
+   "транспортный сектор Узбекистана",
+   "transport sector survey"
   ],
-  "abs": "This IDEA project produced a machine-learning-based decision tool that forecasts the retroreflectivity of pavement markings for up to three years. It needs only the initial measured retroreflectivity and readily available project data, helping agencies that seldom measure markings plan restriping more rationally.",
-  "link": "https://trb.org/Main/Blurbs/183315.aspx",
+  "abs": "English final report (October 2025) of JICA's data collection survey on Uzbekistan's transport sector, carried out with consultants CTI Engineering International, ALMEC and Oriental Consultants Global. The JICA library record page gives access to the report PDF; it reviews roads, bridges, railways and road disaster prevention and shortlists candidate projects.",
+  "link": "https://openjicareport.jica.go.jp/700/700/700_158_1000055901.html",
   "intl": true,
   "tr": {
    "uz": {
-    "t": "Yo‘l chiziqlarining nur qaytaruvchanligini bashorat qiluvchi mashinaviy o‘qitishga asoslangan yangi vosita",
-    "ab": "Ko‘plab yo‘l tashkilotlari chiziqlarning nur qaytaruvchanligini kam o‘lchaydi va ularni ko‘z bilan yoki jadval asosida qayta chizadi. Loyihada boshlang‘ich o‘lchov va oddiy loyiha ma’lumotlari asosida chiziq holatini uch yilgacha oldindan aytadigan qaror qabul qilish vositasi yaratilgan. O‘zbekiston yo‘llarida tungi xavfsizlikni oshirish va bo‘yoq xarajatlarini rejalashtirishda qo‘llash mumkin."
+    "t": "O‘zbekiston Respublikasi transport sohasi bo‘yicha ma’lumot yig‘ish tadqiqoti: yakuniy hisobot (ingliz tilida)",
+    "ab": "JICA 2025-yil oktyabrida nashr etgan, O‘zbekiston yo‘llari, ko‘priklari, temir yo‘llari va yo‘llarni tabiiy ofatlardan himoya qilish bo‘yicha istiqbolli loyihalarni tahlil qilgan yakuniy hisobotning inglizcha to‘liq matni (JICA kutubxonasi yozuvi orqali). Bevosita O‘zbekiston yo‘l tarmog‘iga bag‘ishlangan bo‘lib, Avtomobil yo‘llari qo‘mitasi va institut uchun investitsiya rejalashtirishda asosiy manba hisoblanadi."
    }
   },
   "fileId": "",
   "fileUrl": "",
   "fileName": "",
   "fileSize": 0,
-  "createdAt": 1794541547223,
-  "updatedAt": 1794541547223
+  "createdAt": 1794519038039,
+  "updatedAt": 1794519038039
  },
  {
-  "id": "trbidea-238",
-  "ident": "TRB-IDEA-238",
-  "title": "Low-Cost Sensing System for the Detection and Classification of Wide Base Tire Types and Distribution at the Network Level",
+  "id": "a20261113-03",
+  "ident": "YR-20261113-03",
+  "title": "ウズベキスタン国 運輸セクター情報収集・確認調査 ファイナル・レポート (Uzbekistan Transport Sector Information Collection and Confirmation Survey: Final Report)",
   "authors": [
-   "TRB NCHRP IDEA Program"
+   "国際協力機構 (JICA)",
+   "建設技研インターナショナル",
+   "アルメック",
+   "オリエンタルコンサルタンツグローバル"
   ],
-  "org": "TRB / NCHRP IDEA (AQSh)",
+  "org": "JICA (Yaponiya, O‘zbekiston uchun)",
   "cat": "report",
   "year": 2025,
   "lang": "en",
   "ftype": "WEB",
   "pages": 0,
   "kw": [
-   "keng profilli shinalar",
-   "transport monitoringi",
-   "datchiklar",
-   "g‘ildirak og‘ishi",
-   "yo‘l qoplamasi"
+   "transport sohasi",
+   "O‘zbekiston",
+   "yo‘l loyihalari",
+   "JICA",
+   "Япония — транспортный сектор Узбекистана",
+   "Japanese report"
   ],
-  "abs": "This IDEA project developed an inexpensive sensor system embedded in EPDM rubber strips that uses force transducers to measure tire width, vehicle class and lateral wheel wander at highway speeds. Deployed on busy corridors, it can track the share of wide-base tires and support assessment of their effect on pavement performance.",
-  "link": "https://trb.org/Main/Blurbs/183308.aspx",
+  "abs": "Japanese-language edition (October 2025) of JICA's final report on the transport sector information collection and confirmation survey in Uzbekistan. It is the full Japanese version of the study on candidate road, bridge, railway and disaster-prevention projects; the record page links to the PDF.",
+  "link": "https://openjicareport.jica.go.jp/700/700/700_158_1000055900.html",
   "intl": true,
   "tr": {
    "uz": {
-    "t": "Tarmoq miqyosida keng profilli shinalarni aniqlash va tasniflash uchun arzon datchik tizimi",
-    "ab": "Rezina tasmaga joylashtirilgan kuch datchiklari yordamida yuqori tezlikda shina kengligi, transport toifasi va g‘ildirakning yon tomonga og‘ishini o‘lchovchi arzon tizim ishlab chiqilgan. U gavjum yo‘llarda keng profilli shinalar ulushini kuzatib, qoplamaga ta’sirini baholashga yordam beradi. Og‘ir yuk tashish ko‘p bo‘lgan O‘zbekiston magistrallarida qoplamaning izlanishi va yuklamalarni nazorat qilishda foydali."
+    "t": "O‘zbekiston transport sohasi bo‘yicha ma’lumot yig‘ish va tasdiqlash tadqiqoti: yakuniy hisobot (yapon tilida)",
+    "ab": "JICA va yapon konsalting kompaniyalarining 2025-yilgi O‘zbekiston transport sohasi tadqiqotining yapon tilidagi to‘liq hisoboti. Yaponiya hamkorligidagi yo‘l va ko‘prik loyihalarini tayyorlashda yapon tomoni hujjatlari bilan solishtirish uchun kerak."
    }
   },
   "fileId": "",
   "fileUrl": "",
   "fileName": "",
   "fileSize": 0,
-  "createdAt": 1794541547223,
-  "updatedAt": 1794541547223
+  "createdAt": 1794519038040,
+  "updatedAt": 1794519038040
  },
  {
-  "id": "trbidea-239",
-  "ident": "TRB-IDEA-239",
-  "title": "A Real-time Warning System Empowered by Dielectric Ice Sensors for Bridges",
+  "id": "a20261113-04",
+  "ident": "YR-20261113-04",
+  "title": "Information Collection Survey on Infrastructure Development in Central Asia and the Caucasus: Republic of Uzbekistan — Final Report",
   "authors": [
-   "TRB NCHRP IDEA Program"
+   "Japan International Cooperation Agency (JICA)",
+   "Nomura Research Institute, Ltd."
   ],
-  "org": "TRB / NCHRP IDEA (AQSh)",
+  "org": "JICA (Yaponiya, O‘zbekiston uchun)",
   "cat": "report",
-  "year": 2025,
+  "year": 2019,
   "lang": "en",
-  "ftype": "WEB",
+  "ftype": "PDF",
   "pages": 0,
   "kw": [
-   "ko‘prikda muz",
-   "qishki saqlash",
-   "dielektrik datchik",
-   "ogohlantirish tizimi",
-   "yo‘l xavfsizligi"
+   "infratuzilma",
+   "Markaziy Osiyo",
+   "avtomobil transporti",
+   "temir yo‘l",
+   "инфраструктура Узбекистана",
+   "infrastructure development"
   ],
-  "abs": "This IDEA project built an active warning system that alerts drivers when ice forms on bridge decks. Its sensor identifies the pavement surface condition by measuring the dielectric constant of the surface material with time domain reflectometry.",
-  "link": "https://trb.org/Main/Blurbs/183313.aspx",
+  "abs": "JICA and Nomura Research Institute survey (May 2019, report 3R JR 19-009) reviewing Uzbekistan's infrastructure sectors and development plans. The transport part notes that roads carry about half of transport volume, describes rail electrification and high-speed plans, and examines aviation reform.",
+  "link": "https://openjicareport.jica.go.jp/pdf/12345377.pdf",
   "intl": true,
   "tr": {
    "uz": {
-    "t": "Ko‘priklar uchun dielektrik muz datchiklariga asoslangan real vaqtli ogohlantirish tizimi",
-    "ab": "Ko‘prik qoplamasida muz paydo bo‘lganda haydovchilarni darhol ogohlantiradigan faol tizim yaratilgan. Datchik vaqt sohasidagi reflektometriya yordamida sirt materialining dielektrik doimiysini o‘lchab, qoplama holatini aniqlaydi. Qishda ko‘priklar yo‘lning boshqa qismlaridan oldin muzlaydigan O‘zbekiston tog‘ va dovon yo‘llarida avariyalarni kamaytirish uchun dolzarb."
+    "t": "Markaziy Osiyo va Kavkazda infratuzilmani rivojlantirish bo‘yicha ma’lumot yig‘ish tadqiqoti: O‘zbekiston Respublikasi — yakuniy hisobot",
+    "ab": "JICA va Nomura tadqiqot instituti 2019-yilda O‘zbekiston infratuzilma tarmoqlari, jumladan avtomobil, temir yo‘l va havo transportining holati va rivojlanish rejalarini tahlil qilgan. O‘zbekiston yo‘l sohasining 2019-yilgacha bo‘lgan holati va xorijiy investorlar nuqtai nazarini o‘rganish uchun muhim manba."
    }
   },
   "fileId": "",
   "fileUrl": "",
   "fileName": "",
   "fileSize": 0,
-  "createdAt": 1794541547223,
-  "updatedAt": 1794541547223
+  "createdAt": 1794519038041,
+  "updatedAt": 1794519038041
  },
  {
-  "id": "trbidea-241",
-  "ident": "TRB-IDEA-241",
-  "title": "Producing DynaSignal: A Novel Aerodynamic Solution for Traffic Signal Lights",
+  "id": "a20261113-05",
+  "ident": "YR-20261113-05",
+  "title": "Basic design study on the project for supply of road construction and maintenance equipment phase II in the Republic of Uzbekistan",
   "authors": [
-   "TRB NCHRP IDEA Program"
+   "Japan International Cooperation Agency (JICA)",
+   "Construction Project Consultants, Inc."
   ],
-  "org": "TRB / NCHRP IDEA (AQSh)",
-  "cat": "report",
-  "year": 2025,
+  "org": "JICA (Yaponiya, O‘zbekiston uchun)",
+  "cat": "project",
+  "year": 2004,
   "lang": "en",
   "ftype": "WEB",
   "pages": 0,
   "kw": [
-   "svetofor konstruksiyalari",
-   "shamol tebranishi",
-   "charchoq mustahkamligi",
-   "aerodinamika",
-   "dala monitoringi"
+   "yo‘l qurilish texnikasi",
+   "yo‘llarni saqlash",
+   "grant loyihasi",
+   "O‘zbekiston",
+   "дорожно-строительная техника",
+   "road maintenance equipment"
   ],
-  "abs": "Slender cantilevered traffic signal structures are prone to wind-induced vibration that causes fatigue damage at the pole-to-mast-arm connection. Building on an earlier wind-tunnel and simulation study, this Type II project applied flat-plate aerodynamic modifications to a full-scale in-service signal structure and used long-term field monitoring to quantify the gain in fatigue life.",
-  "link": "https://trb.org/Main/Blurbs/183333.aspx",
+  "abs": "JICA basic design study (2004) for the second phase of Japanese grant aid supplying road construction and maintenance equipment to Uzbekistan. The JICA library record links to the report PDF.",
+  "link": "https://openjicareport.jica.go.jp/614/614/614_158_11772431.html",
   "intl": true,
   "tr": {
    "uz": {
-    "t": "DynaSignal: svetoforlar uchun yangi aerodinamik yechim",
-    "ab": "Ingichka konsolli svetofor ustunlari shamoldan tebranib, ustun va konsol birikmasida charchoq yoriqlari paydo bo‘ladi. Loyihada svetoforga o‘rnatiladigan yassi plastinkali aerodinamik qo‘shimcha haqiqiy ishlayotgan konstruksiyada uzoq muddat kuzatilib, xizmat muddati qanchaga uzayishi baholangan. Kuchli shamollar bo‘ladigan O‘zbekiston hududlarida svetofor va belgilar ustunlarining ishonchliligini oshirishda qo‘llash mumkin."
+    "t": "O‘zbekiston Respublikasiga yo‘l qurilishi va saqlash texnikasini yetkazib berish loyihasi (II bosqich) bo‘yicha asosiy loyihaviy tadqiqot",
+    "ab": "Yaponiya hukumatining grant yordami doirasida O‘zbekiston yo‘l xo‘jaligiga yo‘l qurilishi va ta’mirlash texnikasini yetkazib berishning ikkinchi bosqichi uchun 2004-yilda tayyorlangan asosiy loyiha tadqiqoti. O‘zbekiston yo‘l xo‘jaligi texnika parkining tarixi va xalqaro hamkorlik tajribasini o‘rganish uchun qimmatli."
    }
   },
   "fileId": "",
   "fileUrl": "",
   "fileName": "",
   "fileSize": 0,
-  "createdAt": 1794541547223,
-  "updatedAt": 1794541547223
+  "createdAt": 1794519038042,
+  "updatedAt": 1794519038042
  },
  {
-  "id": "trbidea-242",
-  "ident": "TRB-IDEA-242",
-  "title": "Development of an AI-Powered Dynamic Modulus Test with a Low-Cost Loading Frame",
+  "id": "a20261113-06",
+  "ident": "YR-20261113-06",
+  "title": "ウズベキスタン国 移動式小型全周囲カメラによる道路空間高精度3次元画像データ事業案件化調査業務完了報告書",
   "authors": [
-   "TRB NCHRP IDEA Program"
+   "国際協力機構 (JICA)",
+   "テイコク"
   ],
-  "org": "TRB / NCHRP IDEA (AQSh)",
-  "cat": "report",
-  "year": 2025,
+  "org": "JICA (Yaponiya, O‘zbekiston uchun)",
+  "cat": "project",
+  "year": 2023,
   "lang": "en",
   "ftype": "WEB",
   "pages": 0,
   "kw": [
-   "dinamik modul",
-   "asfaltbeton",
-   "sun’iy intellekt",
-   "laboratoriya sinovi",
-   "IDEAL-E*"
+   "3D yo‘l ma’lumotlari",
+   "mobil kamera",
+   "yo‘l inventarizatsiyasi",
+   "raqamlashtirish",
+   "3D-съёмка дорог",
+   "mobile mapping"
   ],
-  "abs": "Dynamic modulus (E*) is a key input to mechanistic-empirical pavement design, yet its standard measurement is slow and requires expensive equipment. This IDEA project developed IDEAL-E*, an AI-driven test run on a low-cost loading frame, intended for routine use by agencies and the asphalt industry.",
-  "link": "https://trb.org/Main/Blurbs/183321.aspx",
+  "abs": "Japanese-language completion report (June 2023) of a JICA SME feasibility survey on producing high-precision 3D image data of road space in Uzbekistan with a compact mobile omnidirectional camera. The JICA library record links to the PDF.",
+  "link": "https://openjicareport.jica.go.jp/614/614/614_158_1000050244.html",
   "intl": true,
   "tr": {
    "uz": {
-    "t": "Arzon yuklash ramasida sun’iy intellektga asoslangan dinamik modul sinovini ishlab chiqish",
-    "ab": "Asfaltbetonning dinamik moduli (E*) qoplamani loyihalashda asosiy ko‘rsatkich, ammo uni an’anaviy usulda o‘lchash qimmat va uzoq. Loyihada arzon yuklash ramasida sun’iy intellekt yordamida E* ni tez aniqlaydigan IDEAL-E* sinovi yaratilgan. O‘zbekistondagi yo‘l laboratoriyalari qimmat uskunasiz asfalt qorishmalarini mexanik-empirik loyihalash uchun baholashi mumkin bo‘ladi."
+    "t": "O‘zbekiston: mobil ixcham panoramali kamera yordamida yo‘l makonining yuqori aniqlikdagi 3D tasvir ma’lumotlarini olish loyihasini shakllantirish tadqiqoti — yakuniy hisobot",
+    "ab": "JICA ko‘magida yapon kompaniyasi O‘zbekiston yo‘llarida mobil panoramali kamera bilan yo‘l makonini 3D formatda suratga olish va undan yo‘l boshqaruvida foydalanish imkoniyatlarini o‘rgangan (2023, yapon tilida). O‘zbekistonda yo‘llarni raqamli inventarizatsiya qilish va diagnostikasini yo‘lga qo‘yishda bevosita foydali."
    }
   },
   "fileId": "",
   "fileUrl": "",
   "fileName": "",
   "fileSize": 0,
-  "createdAt": 1794541547223,
-  "updatedAt": 1794541547223
+  "createdAt": 1794519038043,
+  "updatedAt": 1794519038043
  },
  {
-  "id": "trbidea-247",
-  "ident": "TRB-IDEA-247",
-  "title": "Augmenting the Hearing of Safety-Critical Sounds for Highway Workers Using Artificial Intelligence",
+  "id": "a20261113-07",
+  "ident": "YR-20261113-07",
+  "title": "Roads in Japan 2026",
   "authors": [
-   "TRB NCHRP IDEA Program"
+   "Road Bureau, Ministry of Land, Infrastructure, Transport and Tourism (MLIT)"
   ],
-  "org": "TRB / NCHRP IDEA (AQSh)",
-  "cat": "report",
-  "year": 2025,
+  "org": "MLIT (Yaponiya)",
+  "cat": "guide",
+  "year": 2026,
   "lang": "en",
-  "ftype": "WEB",
+  "ftype": "PDF",
   "pages": 0,
   "kw": [
-   "yo‘l ishchilari xavfsizligi",
-   "eshitish himoyasi",
-   "sun’iy intellekt",
-   "ish zonasi",
-   "ogohlantiruvchi signallar"
+   "Yaponiya yo‘llari",
+   "yo‘l boshqaruvi",
+   "aktivlarni boshqarish",
+   "tabiiy ofatlardan himoya",
+   "дороги Японии",
+   "road administration"
   ],
-  "abs": "Highway construction workers are exposed to loud equipment and traffic noise, and conventional hearing protection can mask warnings such as backup alarms. This IDEA project developed a wearable AI-augmented hearing protection device that filters sound in real time so workers stay protected while still hearing safety-critical signals.",
-  "link": "https://trb.org/Main/Blurbs/183332.aspx",
+  "abs": "Annual English brochure of Japan's Road Bureau describing road classes, administration and financing, project planning, asset management, disaster prevention and advanced road technologies. It also summarises the history of Japanese roads and current policies such as WISENET, decarbonisation and road digital transformation.",
+  "link": "https://www.mlit.go.jp/road/road_e/pdf/roads_in_japan_2026.pdf",
   "intl": true,
   "tr": {
    "uz": {
-    "t": "Sun’iy intellekt yordamida yo‘l ishchilariga xavf signallarini eshitishda ko‘maklashish",
-    "ab": "Yo‘l qurilishida texnika va transport shovqini kuchli, oddiy quloqchinlar esa orqaga yurish signallari kabi ogohlantirishlarni ham bosib qo‘yadi. Loyihada tovushni real vaqtda saralab, eshitishni himoya qilgan holda muhim signallarni o‘tkazadigan, sun’iy intellektli kiyiladigan quloqchin yaratilgan. O‘zbekistonda yo‘l ta’mirlash zonalarida ishchilar jarohatlanishini kamaytirishga xizmat qiladi."
+    "t": "Yaponiya yo‘llari — 2026",
+    "ab": "Yaponiya Yer, infratuzilma, transport va turizm vazirligi Yo‘llar byurosining yo‘l tasnifi, boshqaruvi, moliyalashtirish, aktivlarni boshqarish va zilzila hamda boshqa ofatlardan himoya qilish bo‘yicha yillik ma’lumotnomasi. Seysmik faol O‘zbekiston uchun yo‘l va ko‘priklarni saqlash hamda ofatlarga chidamlilik tajribasini o‘rganishda foydali."
    }
   },
   "fileId": "",
   "fileUrl": "",
   "fileName": "",
   "fileSize": 0,
-  "createdAt": 1794541547223,
-  "updatedAt": 1794541547223
+  "createdAt": 1794519038044,
+  "updatedAt": 1794519038044
+ },
+ {
+  "id": "a20261113-08",
+  "ident": "YR-20261113-08",
+  "title": "Policies for WISENET 2050",
+  "authors": [
+   "Road Bureau, Ministry of Land, Infrastructure, Transport and Tourism (MLIT)"
+  ],
+  "org": "MLIT (Yaponiya)",
+  "cat": "report",
+  "year": 2023,
+  "lang": "en",
+  "ftype": "PDF",
+  "pages": 0,
+  "kw": [
+   "yuqori standartli yo‘llar",
+   "yo‘l siyosati",
+   "avtomatlashtirilgan harakat",
+   "logistika",
+   "дорожная политика",
+   "high-standard road network"
+  ],
+  "abs": "Booklet issued in October 2023 setting out the Road Bureau's long-term policy for Japan's high-standard road network up to 2050. It links network planning to demographic decline, logistics labour shortages and natural hazards, and proposes service-level-based planning, data-driven management, automated driving support and low-carbon road transport.",
+  "link": "https://www.mlit.go.jp/road/road_e/pdf/policiesforWISENET_2050.pdf",
+  "intl": true,
+  "tr": {
+   "uz": {
+    "t": "WISENET 2050 siyosati (Yaponiya yuqori standartli yo‘l tarmog‘i)",
+    "ab": "Yaponiyaning 2050-yilgacha yuqori standartli avtomobil yo‘llari tarmog‘ini rivojlantirish siyosati: xizmat darajasiga asoslangan rejalashtirish, ma’lumotlarga tayangan boshqaruv, avtomatlashtirilgan harakat va kam uglerodli transport. O‘zbekistonda tezyurar yo‘llar tarmog‘i strategiyasini ishlab chiqishda namuna bo‘ladi."
+   }
+  },
+  "fileId": "",
+  "fileUrl": "",
+  "fileName": "",
+  "fileSize": 0,
+  "createdAt": 1794519038045,
+  "updatedAt": 1794519038045
+ },
+ {
+  "id": "a20261113-09",
+  "ident": "YR-20261113-09",
+  "title": "2040 Vision for Roads in Japan — To shape a better future for people (Summary)",
+  "authors": [
+   "Ministry of Land, Infrastructure, Transport and Tourism (MLIT)"
+  ],
+  "org": "MLIT (Yaponiya)",
+  "cat": "report",
+  "year": 2020,
+  "lang": "en",
+  "ftype": "PDF",
+  "pages": 0,
+  "kw": [
+   "yo‘l siyosati",
+   "2040 vizyoni",
+   "raqamli texnologiyalar",
+   "yo‘l xavfsizligi",
+   "концепция дорог 2040",
+   "road vision"
+  ],
+  "abs": "English summary of Japan's long-term road policy vision for 2040, centred on people's well-being and the use of digital technology. It sets goals such as reducing commuting congestion, expanding automated transport, building disaster-resilient networks and extending infrastructure life through smarter maintenance.",
+  "link": "https://www.mlit.go.jp/road/vision/pdf/03.pdf",
+  "intl": true,
+  "tr": {
+   "uz": {
+    "t": "Yaponiya yo‘llarining 2040-yilgacha bo‘lgan vizyoni (qisqacha bayon)",
+    "ab": "Yaponiya yo‘l siyosatining 2040-yilgacha bo‘lgan uzoq muddatli yo‘nalishlari: tirbandlikni kamaytirish, avtomatlashtirilgan transport, ofatlarga chidamli tarmoq va infratuzilma xizmat muddatini uzaytirish. O‘zbekiston yo‘l sohasining uzoq muddatli konsepsiyalarini tayyorlashda foydali tajriba."
+   }
+  },
+  "fileId": "",
+  "fileUrl": "",
+  "fileName": "",
+  "fileSize": 0,
+  "createdAt": 1794519038046,
+  "updatedAt": 1794519038046
+ },
+ {
+  "id": "a20261113-10",
+  "ident": "YR-20261113-10",
+  "title": "Periodic inspection guidelines for highway bridges (Technical advice under the Local Autonomy Act); Commentary to the Technical Advice to Road Administrators and Practical Standards; Guideline for recording basic data (Road Bridges) 2024 version — English translations",
+  "authors": [
+   "Road Bureau, Ministry of Land, Infrastructure, Transport and Tourism (MLIT)",
+   "Bridge and Structures Division, NILIM"
+  ],
+  "org": "MLIT / NILIM (Yaponiya)",
+  "cat": "guide",
+  "year": 2024,
+  "lang": "en",
+  "ftype": "WEB",
+  "pages": 0,
+  "kw": [
+   "ko‘priklarni tekshirish",
+   "davriy ko‘rik",
+   "texnik holat toifalari",
+   "ko‘prik ma’lumotlar bazasi",
+   "обследование мостов",
+   "bridge inspection"
+  ],
+  "abs": "NILIM page presenting English translations of Japan's March 2024 road bridge inspection documents: the periodic inspection guidelines, their commentary and practical standards, and the guideline for recording basic bridge data. Bridges are normally inspected about every five years and placed in one of four soundness categories, from sound to emergency action.",
+  "link": "https://www.nilim.go.jp/lab/ubg/english/research.html",
+  "intl": true,
+  "tr": {
+   "uz": {
+    "t": "Avtomobil yo‘li ko‘priklarini davriy tekshirish bo‘yicha qo‘llanma, unga sharhlar va ko‘prik asosiy ma’lumotlarini qayd etish yo‘riqnomasi (2024, inglizcha tarjima)",
+    "ab": "Yaponiyada ko‘priklar har besh yilda davriy ko‘rikdan o‘tkaziladi va to‘rt toifadagi (I–IV) texnik holat bahosi beriladi; sahifada ko‘rik tartibi, shikastlanish darajalari va ma’lumotlar bazasi shakllari keltirilgan. O‘zbekistonda ko‘priklarni diagnostika qilish va boshqarish tizimini takomillashtirish uchun bevosita qo‘llanadigan tajriba."
+   }
+  },
+  "fileId": "",
+  "fileUrl": "",
+  "fileName": "",
+  "fileSize": 0,
+  "createdAt": 1794519038047,
+  "updatedAt": 1794519038047
+ },
+ {
+  "id": "a20261113-11",
+  "ident": "YR-20261113-11",
+  "title": "Road Traffic Act (Republic of Korea), Act No. 21016, 14 Aug. 2025 — English translation",
+  "authors": [
+   "Korea Legislation Research Institute (KLRI)",
+   "National Police Agency (Republic of Korea)"
+  ],
+  "org": "KLRI (Koreya)",
+  "cat": "norm",
+  "year": 2025,
+  "lang": "en",
+  "ftype": "WEB",
+  "pages": 0,
+  "kw": [
+   "yo‘l harakati qonuni",
+   "harakat xavfsizligi",
+   "haydovchilik guvohnomasi",
+   "tezyurar yo‘llar",
+   "закон о дорожном движении",
+   "road traffic act"
+  ],
+  "abs": "Official English translation by KLRI of Korea's Road Traffic Act as amended by Act No. 21016 (14 August 2025). The act aims to prevent and remove hazards to road traffic and covers signals and safety facilities, rules for road users, expressway rules, autonomous vehicles, driver licensing and penalties.",
+  "link": "https://elaw.klri.re.kr/eng_service/lawViewContent.do?hseq=72652",
+  "intl": true,
+  "tr": {
+   "uz": {
+    "t": "Koreya Respublikasining «Yo‘l harakati to‘g‘risida»gi qonuni (2025-yil tahriri, inglizcha tarjima)",
+    "ab": "Koreyaning yo‘l harakati xavfsizligi, svetoforlar va xavfsizlik inshootlari, piyoda va haydovchilar qoidalari, tezyurar yo‘llarda harakat, avtonom avtomobillar va haydovchilik guvohnomalarini tartibga soluvchi qonuni. O‘zbekistonda yo‘l harakati qonunchiligini takomillashtirishda solishtirma manba."
+   }
+  },
+  "fileId": "",
+  "fileUrl": "",
+  "fileName": "",
+  "fileSize": 0,
+  "createdAt": 1794519038048,
+  "updatedAt": 1794519038048
+ },
+ {
+  "id": "a20261113-12",
+  "ident": "YR-20261113-12",
+  "title": "Korea Expressway Corporation Act, Act No. 20124, 23 Jan. 2024 — English translation",
+  "authors": [
+   "Korea Legislation Research Institute (KLRI)"
+  ],
+  "org": "KLRI (Koreya)",
+  "cat": "norm",
+  "year": 2024,
+  "lang": "en",
+  "ftype": "WEB",
+  "pages": 0,
+  "kw": [
+   "tezyurar yo‘llar",
+   "davlat korporatsiyasi",
+   "yo‘l ekspluatatsiyasi",
+   "Koreya",
+   "скоростные автодороги",
+   "expressway corporation"
+  ],
+  "abs": "KLRI English translation of the act establishing the Korea Expressway Corporation, as amended by Act No. 20124 (23 January 2024). It sets the corporation's mandate to build, operate and maintain expressways and related projects, its governance and financing.",
+  "link": "https://elaw.klri.re.kr/eng_service/lawViewContent.do?hseq=64736",
+  "intl": true,
+  "tr": {
+   "uz": {
+    "t": "Koreya tezyurar yo‘llar korporatsiyasi to‘g‘risidagi qonun (2024-yil tahriri, inglizcha tarjima)",
+    "ab": "Tezyurar avtomobil yo‘llarini qurish, ekspluatatsiya qilish va saqlash bilan shug‘ullanuvchi davlat korporatsiyasining vakolatlari, boshqaruvi va moliyalashtirilishini belgilovchi qonun. O‘zbekistonda pullik va tezyurar yo‘llarni boshqaruvchi tashkilot modelini ishlab chiqishda foydali namuna."
+   }
+  },
+  "fileId": "",
+  "fileUrl": "",
+  "fileName": "",
+  "fileSize": 0,
+  "createdAt": 1794519038049,
+  "updatedAt": 1794519038049
  }
 ]
