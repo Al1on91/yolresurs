@@ -502,5 +502,89 @@
   "source": "TRB NCHRP IDEA",
   "url": "https://trb.org/Main/Blurbs/183313.aspx",
   "createdAt": 1794714323229
+ },
+ {
+  "id": "d20261116-01",
+  "scope": "local",
+  "cat": "materials",
+  "country": "O‘zbekiston",
+  "date": "2026-11-13",
+  "title": "O‘zbekistonda belaruscha rezina-bitum bog‘lovchisi bilan tajriba yo‘l uchastkasi qurish rejalashtirilmoqda",
+  "summary": "Belarusning BeldorNII instituti granulalangan rezina-bitum bog‘lovchisi RBV-G ni O‘zbekistondagi hududiy yo‘llar buyurtmachi xizmatiga taqdim etdi. Material asfaltbeton qorishmalarida yo‘l va aerodrom qoplamalarini qurish va ta’mirlash uchun mo‘ljallangan. Tomonlar tajriba uchastkasi bo‘yicha dastlabki kelishuvga erishdi, dekabrda memorandum imzolanishi kutilmoqda.",
+  "source": "SB.by (Belarus segodnya)",
+  "url": "https://www.sb.by/articles/v-uzbekistane-planiruyut-postroit-opytnyy-uchastok-dorogi-s-primeneniem-razrabotki-beldornii.html",
+  "createdAt": 1794794512904
+ },
+ {
+  "id": "d20261116-02",
+  "scope": "local",
+  "cat": "projects",
+  "country": "O‘zbekiston",
+  "date": "2026-11-13",
+  "title": "O‘zbekiston Parijdagi InfraWeek-2026 forumida yevropalik investorlarga pulli avtomagistral loyihalarini taqdim etdi",
+  "summary": "Iqtisodiyot va moliya vazirligi vakili davlat-xususiy sheriklik asosidagi transport loyihalari — pulli avtomagistrallar, xalqaro aeroportlar va temir yo‘l infratuzilmasi taqdimotini o‘tkazdi. O‘zbek delegatsiyasi Proparco, AFD, Bpifrance, Meridiam va Jahon banki vakillari bilan moliyalashtirish masalalarini muhokama qildi.",
+  "source": "Nuz.uz",
+  "url": "https://nuz.uz/2026/11/13/uzbekistan-predlozhil-evropejskim-investoram-proekty-platnyh-dorog-aeroportov-i-zheleznodorozhnoj-infrastruktury/",
+  "createdAt": 1794794512904
+ },
+ {
+  "id": "d20261116-03",
+  "scope": "local",
+  "cat": "law",
+  "country": "O‘zbekiston",
+  "date": "2026-11-13",
+  "title": "Toshkentda 24-dekabrdan avtomobillarni evakuatsiya qilish yagona elektron tizim orqali amalga oshiriladi",
+  "summary": "Vazirlar Mahkamasining 508-son qaroriga ko‘ra, evakuatorga yuklashdan avtomobilni qaytarishgacha bo‘lgan jarayon bitta elektron platformada yuritiladi. Tashish va saqlash narxi kilometr yoki kun uchun 88 ming so‘mdan, umumiy xizmat qiymati esa 1,76 mln so‘mdan oshmaydi. Avtomobil to‘lovdan so‘ng SMS orqali yuboriladigan QR-ruxsatnoma bilan qaytariladi.",
+  "source": "Spot.uz",
+  "url": "https://www.spot.uz/oz/2026/11/13/car-evacuation",
+  "createdAt": 1794794512904
+ },
+ {
+  "id": "d20261116-04",
+  "scope": "foreign",
+  "cat": "projects",
+  "country": "Qozog‘iston",
+  "date": "2026-11-15",
+  "title": "Qozog‘istonda Aqto‘be–Qandyag‘ash yo‘lining 89 km qismi 15-noyabrdan pulli bo‘ldi",
+  "summary": "Uchastka umumiy uzunligi 469,5 km bo‘lgan Qandyag‘ash–Maqat pulli avtomagistraliga qo‘shildi. 11–87-km oralig‘ida barcha transport turlari to‘laydi, yengil avtomobil uchun bir yo‘nalishdagi tarif oldindan to‘langanda taxminan 240 tenge. To‘lov 10 ta nazorat arkasi orqali davlat raqamini avtomatik o‘qish yo‘li bilan undiriladi.",
+  "source": "Lada.kz",
+  "url": "https://www.lada.kz/kazakhstan-news/160809-ofitsialno-novaia-platnaia-doroga-poiavilas-v-kazakhstane-s-15-noiabria.html",
+  "createdAt": 1794794512904
+ },
+ {
+  "id": "d20261116-05",
+  "scope": "foreign",
+  "cat": "bridges",
+  "country": "AQSh",
+  "date": "2026-11-13",
+  "title": "Alyaskada 283 metrlik Juneau Creek ko‘prigi gidravlik surish usulida jarlik ustiga o‘rnatildi",
+  "summary": "Kenay yarimorolidagi Sterling shossesida 3 ming tonnadan ortiq po‘lat konstruksiya qirg‘oqda yig‘ilib, to‘rtta 100 tonnalik gidravlik silindr yordamida taxminan sakkiz kunda jarlik bo‘ylab surildi. Ko‘prikning markaziy oralig‘i 134 m, u soydan 87 m balandlikda joylashgan. Inshoot 2030-yilda ochilishi kutilayotgan Cooper Landing aylanma yo‘lining asosiy qismi hisoblanadi.",
+  "source": "Highways Today",
+  "url": "https://highways.today/2026/11/13/enerpac-hydraulics-juneau-creek-bridge/",
+  "createdAt": 1794794512904
+ },
+ {
+  "id": "d20261116-06",
+  "scope": "foreign",
+  "cat": "machinery",
+  "country": "Yaponiya",
+  "date": "2026-11-12",
+  "title": "Komatsu asfalt yotqizish texnikasi ishlab chiqaruvchisi Roadtec’ni 75 mln dollarga sotib oladi",
+  "summary": "Yaponiyaning Komatsu kompaniyasi Astec Industries’ga tegishli Roadtec va Carlson brendlarini sotib olishga kelishdi. Roadtec asfalt yotqizgichlar, sovuq frezalash mashinalari va material uzatuvchi mashinalar, Carlson esa yotqizish plitalari (screed) ishlab chiqaradi. Bitim 2027-yilning birinchi choragida yakunlanishi kutilmoqda.",
+  "source": "Highways Today",
+  "url": "https://highways.today/2026/11/12/komatsu-to-acquire-roadtec/",
+  "createdAt": 1794794512904
+ },
+ {
+  "id": "d20261116-07",
+  "scope": "foreign",
+  "cat": "bridges",
+  "country": "Xitoy",
+  "date": "2026-11-11",
+  "title": "Syamin–Kinmen ko‘prigining Syamin qismidagi asosiy dengiz ko‘prigi tutashtirildi",
+  "summary": "10-noyabr kuni so‘nggi po‘lat quti to‘sin o‘rnatilib, Fuszyan provinsiyasidagi Syamin–Kinmen ko‘prigining asosiy dengiz ustidagi qismi konstruktiv jihatdan yakunlandi. Loyiha harakat ochilishidan oldingi so‘nggi bosqichga o‘tdi, ochilish sanasi hali e’lon qilinmagan.",
+  "source": "People's Daily Online",
+  "url": "https://en.people.cn/n3/2026/1111/c90000-20517839.html",
+  "createdAt": 1794794512904
  }
 ]
