@@ -5220,5 +5220,2816 @@
   "fileSize": 0,
   "createdAt": 1794800646858,
   "updatedAt": 1794800646858
+ },
+ {
+  "id": "a20261110-01",
+  "ident": "YR-20261110-01",
+  "title": "Beton Karışım Oranları Tayin Rehberi",
+  "authors": [
+   "Karayolları Genel Müdürlüğü (KGM)"
+  ],
+  "org": "KGM (Turkiya)",
+  "cat": "guide",
+  "year": 2025,
+  "lang": "en",
+  "ftype": "PDF",
+  "pages": 0,
+  "kw": [
+   "beton tarkibi",
+   "yo‘l betoni",
+   "sement",
+   "Turkiya",
+   "состав бетона",
+   "concrete mix design"
+  ],
+  "abs": "Guide by KGM's R&D Department (Materials Laboratories Branch) on selecting concrete mix proportions for road and structural works. It covers exposure classes, choice of cement and aggregates, water–cement ratio, air content, consistency and per-cubic-metre quantity calculations. Original in Turkish.",
+  "link": "https://www.kgm.gov.tr/SiteCollectionDocuments/KGMdocuments/Baskanliklar/BaskanliklarTeknikArastirma/Yay%C4%B1mlar/Beton%20Kar%C4%B1%C5%9F%C4%B1m%20Oranlar%C4%B1%20Tayin%20Rehberi%202025.pdf",
+  "intl": true,
+  "tr": {
+   "uz": {
+    "t": "Turkiya: beton aralashmasi tarkibini aniqlash qo‘llanmasi (2025)",
+    "ab": "KGM tomonidan yo‘l va sun’iy inshootlar uchun beton tarkibini tanlash bo‘yicha qo‘llanma. Ta’sir sinflari, sement va to‘ldiruvchi tanlash, suv-sement nisbati, havo miqdori va 1 m³ ga material sarfini hisoblash yoritilgan. Asl matni turk tilida."
+   }
+  },
+  "fileId": "",
+  "fileUrl": "",
+  "fileName": "",
+  "fileSize": 0,
+  "createdAt": 1794277796110,
+  "updatedAt": 1794277796110
+ },
+ {
+  "id": "a20261110-02",
+  "ident": "YR-20261110-02",
+  "title": "Bitümlü Kaplamalar Koruyucu Bakım ve Onarım Rehberi",
+  "authors": [
+   "Karayolları Genel Müdürlüğü (KGM)"
+  ],
+  "org": "KGM (Turkiya)",
+  "cat": "guide",
+  "year": 2024,
+  "lang": "en",
+  "ftype": "PDF",
+  "pages": 0,
+  "kw": [
+   "asfalt qoplama",
+   "profilaktik ta’mirlash",
+   "yoriqlarni berkitish",
+   "Turkiya",
+   "содержание покрытий",
+   "pavement preservation"
+  ],
+  "abs": "KGM guide to preventive maintenance and repair of asphalt pavements within a pavement management framework. It describes condition assessment, typical distresses (cracking, rutting, ravelling) and their causes, and treatments such as crack sealing, chip seal, slurry seal, micro-surfacing and patching. Original in Turkish.",
+  "link": "https://www.kgm.gov.tr/SiteCollectionDocuments/KGMdocuments/Baskanliklar/BaskanliklarTeknikArastirma/Yay%C4%B1mlar/bitumlukaplama2024.pdf",
+  "intl": true,
+  "tr": {
+   "uz": {
+    "t": "Turkiya: bitumli qoplamalarni profilaktik saqlash va ta’mirlash qo‘llanmasi (2024)",
+    "ab": "Asfalt qoplamalarning holatini baholash, asosiy nuqsonlar (yoriq, iz, to‘kilish) va ularning sabablari hamda yoriqlarni berkitish, sirtqi ishlov, mikroqoplama va yamoq kabi ta’mirlash usullari bayon etilgan. KGM nashri, turk tilida."
+   }
+  },
+  "fileId": "",
+  "fileUrl": "",
+  "fileName": "",
+  "fileSize": 0,
+  "createdAt": 1794277796111,
+  "updatedAt": 1794277796111
+ },
+ {
+  "id": "a20261110-03",
+  "ident": "YR-20261110-03",
+  "title": "Üstyapı Yönetim Sistemi (ÜYS) Rehberi",
+  "authors": [
+   "Karayolları Genel Müdürlüğü (KGM)"
+  ],
+  "org": "KGM (Turkiya)",
+  "cat": "guide",
+  "year": 2024,
+  "lang": "en",
+  "ftype": "PDF",
+  "pages": 0,
+  "kw": [
+   "yo‘l to‘shamasini boshqarish tizimi",
+   "HDM-4",
+   "notekislik",
+   "Turkiya",
+   "система управления покрытиями",
+   "pavement management system"
+  ],
+  "abs": "Describes Türkiye's national Pavement Management System: inventory, condition surveys (roughness, rutting, skid resistance, noise, FWD), deterioration modelling with HDM-4, life-cycle cost analysis and the KGM-ÜYS web software. It shows how a delay-cost ratio is used to prioritise sections. Original in Turkish.",
+  "link": "https://www.kgm.gov.tr/SiteCollectionDocuments/KGMdocuments/Baskanliklar/BaskanliklarTeknikArastirma/Yay%C4%B1mlar/UstyapiYonetim.pdf",
+  "intl": true,
+  "tr": {
+   "uz": {
+    "t": "Turkiya: yo‘l to‘shamalarini boshqarish tizimi (ÜYS) qo‘llanmasi (2024)",
+    "ab": "Turkiyaning milliy yo‘l to‘shamalarini boshqarish tizimi: inventarizatsiya, holat o‘lchovlari (IRI, iz, ilashish, FWD), HDM-4 orqali yemirilishni prognozlash va hayotiy tsikl xarajatlari tahlili. Ta’mirlash navbatini belgilash usuli ham ko‘rsatilgan."
+   }
+  },
+  "fileId": "",
+  "fileUrl": "",
+  "fileName": "",
+  "fileSize": 0,
+  "createdAt": 1794277796112,
+  "updatedAt": 1794277796112
+ },
+ {
+  "id": "a20261110-04",
+  "ident": "YR-20261110-04",
+  "title": "Karayolları Esnek Üstyapılar Rehabilitasyon Tasarım Rehberi",
+  "authors": [
+   "Karayolları Genel Müdürlüğü (KGM)"
+  ],
+  "org": "KGM (Turkiya)",
+  "cat": "guide",
+  "year": 2023,
+  "lang": "en",
+  "ftype": "PDF",
+  "pages": 0,
+  "kw": [
+   "egiluvchan to‘shama",
+   "reabilitatsiya",
+   "qoplama qalinligi",
+   "Turkiya",
+   "реабилитация нежестких одежд",
+   "pavement rehabilitation design"
+  ],
+  "abs": "Framework for rehabilitating flexible pavements on Turkish highways: distress surveys, coring and test pits, cause analysis, strategy selection, structural condition scoring, milling decisions and overlay thickness design. It distinguishes maintenance, repair, surface treatment, overlay and reconstruction. Original in Turkish.",
+  "link": "https://www.kgm.gov.tr/SiteCollectionDocuments/KGMdocuments/Baskanliklar/BaskanliklarTeknikArastirma/Yay%C4%B1mlar/EsnekUstyapilar2023.pdf",
+  "intl": true,
+  "tr": {
+   "uz": {
+    "t": "Turkiya: egiluvchan yo‘l to‘shamalarini reabilitatsiya qilishni loyihalash qo‘llanmasi (2023)",
+    "ab": "Nuqsonlarni o‘rganish, kern olish, sabablarni tahlil qilish, strategiya tanlash, frezalash va qoplama qalinligini hisoblash bo‘yicha yo‘riqnoma. Saqlash, ta’mirlash va qayta qurish o‘rtasidagi farqlar aniq belgilangan."
+   }
+  },
+  "fileId": "",
+  "fileUrl": "",
+  "fileName": "",
+  "fileSize": 0,
+  "createdAt": 1794277796113,
+  "updatedAt": 1794277796113
+ },
+ {
+  "id": "a20261110-05",
+  "ident": "YR-20261110-05",
+  "title": "Asfalt Geri Dönüşüm Yöntemleri ve Uygulama Rehberi",
+  "authors": [
+   "Karayolları Genel Müdürlüğü (KGM)"
+  ],
+  "org": "KGM (Turkiya)",
+  "cat": "guide",
+  "year": 2023,
+  "lang": "en",
+  "ftype": "PDF",
+  "pages": 0,
+  "kw": [
+   "asfaltni qayta ishlash",
+   "RAP",
+   "sovuq regeneratsiya",
+   "Turkiya",
+   "регенерация асфальтобетона",
+   "asphalt recycling"
+  ],
+  "abs": "KGM guide on asphalt recycling methods: cold planing, hot and hot in-place recycling, cold recycling (in-place and plant) and full-depth reclamation, with equipment and benefits. It explains method selection by distress type and gives mix design and construction guidance for hot mixes with reclaimed asphalt. Original in Turkish.",
+  "link": "https://www.kgm.gov.tr/SiteCollectionDocuments/KGMdocuments/Baskanliklar/BaskanliklarTeknikArastirma/AsfaltGeriDonusumRehberi.pdf",
+  "intl": true,
+  "tr": {
+   "uz": {
+    "t": "Turkiya: asfaltni qayta ishlash usullari va qo‘llash qo‘llanmasi (2023)",
+    "ab": "Sovuq frezalash, issiq va joyida issiq regeneratsiya, sovuq regeneratsiya hamda to‘liq chuqurlikda tiklash usullari tavsiflangan. Nuqson turiga qarab usul tanlash va RAP qo‘shilgan aralashmalarni loyihalash bo‘yicha tavsiyalar berilgan."
+   }
+  },
+  "fileId": "",
+  "fileUrl": "",
+  "fileName": "",
+  "fileSize": 0,
+  "createdAt": 1794277796114,
+  "updatedAt": 1794277796114
+ },
+ {
+  "id": "a20261110-06",
+  "ident": "YR-20261110-06",
+  "title": "Bitümlü Sıcak Karışım Kaplamalar Çatlak Kapama Rehberi",
+  "authors": [
+   "Karayolları Genel Müdürlüğü (KGM)"
+  ],
+  "org": "KGM (Turkiya)",
+  "cat": "guide",
+  "year": 2021,
+  "lang": "en",
+  "ftype": "PDF",
+  "pages": 0,
+  "kw": [
+   "yoriqlarni berkitish",
+   "issiq asfalt",
+   "germetik",
+   "Turkiya",
+   "герметизация трещин",
+   "crack sealing"
+  ],
+  "abs": "Guide to selecting materials and methods for sealing cracks in hot-mix asphalt pavements, covering crack types, laboratory tests, equipment and application steps. It stresses that timely sealing keeps water out and extends service life at low cost. Original in Turkish.",
+  "link": "https://www.kgm.gov.tr/SiteCollectionDocuments/KGMdocuments/Baskanliklar/BaskanliklarTeknikArastirma/BitumluSicakKarisim2021.pdf",
+  "intl": true,
+  "tr": {
+   "uz": {
+    "t": "Turkiya: issiq asfaltbeton qoplamalardagi yoriqlarni berkitish qo‘llanmasi (2021)",
+    "ab": "Yoriq turlari, germetik materiallarni laboratoriyada sinash, uskunalar va bajarish tartibi bayon etilgan. O‘z vaqtida berkitish suvning kirishini to‘xtatib, qoplama xizmat muddatini arzon yo‘l bilan uzaytirishi ta’kidlanadi."
+   }
+  },
+  "fileId": "",
+  "fileUrl": "",
+  "fileName": "",
+  "fileSize": 0,
+  "createdAt": 1794277796115,
+  "updatedAt": 1794277796115
+ },
+ {
+  "id": "a20261110-07",
+  "ident": "YR-20261110-07",
+  "title": "Toprak ve Stabilizasyon Laboratuvar El Kitabı",
+  "authors": [
+   "Karayolları Genel Müdürlüğü (KGM)"
+  ],
+  "org": "KGM (Turkiya)",
+  "cat": "guide",
+  "year": 2021,
+  "lang": "en",
+  "ftype": "PDF",
+  "pages": 0,
+  "kw": [
+   "grunt",
+   "stabilizatsiya",
+   "zichlash",
+   "laboratoriya sinovlari",
+   "Turkiya",
+   "грунты",
+   "soil stabilization"
+  ],
+  "abs": "Laboratory handbook for road soils: classification, engineering properties, compaction, base and sub-base materials, sampling and test procedures. It brings national and international standards together for highway engineers and lab staff. Original in Turkish.",
+  "link": "https://www.kgm.gov.tr/SiteCollectionDocuments/KGMdocuments/Baskanliklar/BaskanliklarTeknikArastirma/ToprakveStabilizasyonLabElKitabi.pdf",
+  "intl": true,
+  "tr": {
+   "uz": {
+    "t": "Turkiya: grunt va stabilizatsiya laboratoriyasi qo‘llanmasi (2021)",
+    "ab": "Yo‘l gruntlarini tasniflash, xossalari, zichlash, asos va qatlam materiallari, namuna olish va sinov usullari bo‘yicha laboratoriya qo‘llanmasi. Milliy va xalqaro standartlar bir joyga jamlangan."
+   }
+  },
+  "fileId": "",
+  "fileUrl": "",
+  "fileName": "",
+  "fileSize": 0,
+  "createdAt": 1794277796116,
+  "updatedAt": 1794277796116
+ },
+ {
+  "id": "a20261110-08",
+  "ident": "YR-20261110-08",
+  "title": "Bitümlü Bağlayıcılar Laboratuvar El Kitabı",
+  "authors": [
+   "Karayolları Genel Müdürlüğü (KGM)"
+  ],
+  "org": "KGM (Turkiya)",
+  "cat": "guide",
+  "year": 2021,
+  "lang": "en",
+  "ftype": "PDF",
+  "pages": 0,
+  "kw": [
+   "bitum",
+   "emulsiya",
+   "modifikatsiyalangan bitum",
+   "Superpave",
+   "Turkiya",
+   "битумные вяжущие",
+   "bituminous binders"
+  ],
+  "abs": "KGM handbook on bitumen and bituminous binders — natural and petroleum bitumen, emulsions, modified binders — and how their properties relate to pavement performance. It details lab test procedures for binders, emulsions and crack/joint sealants and gives Superpave PG selection guidance. Original in Turkish.",
+  "link": "https://www.kgm.gov.tr/SiteCollectionDocuments/KGMdocuments/Baskanliklar/BaskanliklarTeknikArastirma/BitumluBaglayicilarLaboratuvarElKitabi.pdf",
+  "intl": true,
+  "tr": {
+   "uz": {
+    "t": "Turkiya: bitumli bog‘lovchilar laboratoriyasi qo‘llanmasi (2021)",
+    "ab": "Bitum turlari, emulsiyalar va modifikatsiyalangan bog‘lovchilarning xossalari hamda ularni sinash usullari bayon etilgan. Superpave bo‘yicha bitum markasini tanlash tavsiyalari ham bor."
+   }
+  },
+  "fileId": "",
+  "fileUrl": "",
+  "fileName": "",
+  "fileSize": 0,
+  "createdAt": 1794277796117,
+  "updatedAt": 1794277796117
+ },
+ {
+  "id": "a20261110-09",
+  "ident": "YR-20261110-09",
+  "title": "Bitümlü Karışımlar Laboratuvar El Kitabı",
+  "authors": [
+   "Karayolları Genel Müdürlüğü (KGM)"
+  ],
+  "org": "KGM (Turkiya)",
+  "cat": "guide",
+  "year": 2021,
+  "lang": "en",
+  "ftype": "PDF",
+  "pages": 0,
+  "kw": [
+   "asfaltbeton aralashma",
+   "Marshall",
+   "Superpave",
+   "laboratoriya",
+   "Turkiya",
+   "асфальтобетонные смеси",
+   "asphalt mixtures"
+  ],
+  "abs": "Handbook classifying bituminous surfacings and hot mixes by binder, production method and gradation. It covers materials, performance properties, Superpave, Hveem and Marshall mix design, and test procedures based on TS EN, ASTM, AASHTO and BS. Original in Turkish.",
+  "link": "https://www.kgm.gov.tr/SiteCollectionDocuments/KGMdocuments/Baskanliklar/BaskanliklarTeknikArastirma/BitumluKarisimlarLaboratuvarElKitabi.pdf",
+  "intl": true,
+  "tr": {
+   "uz": {
+    "t": "Turkiya: bitumli aralashmalar laboratoriyasi qo‘llanmasi (2021)",
+    "ab": "Asfalt aralashmalarining tasnifi, materiallari, Superpave, Hveem va Marshall usulida loyihalash hamda TS EN, ASTM, AASHTO standartlari asosidagi sinov usullari keltirilgan."
+   }
+  },
+  "fileId": "",
+  "fileUrl": "",
+  "fileName": "",
+  "fileSize": 0,
+  "createdAt": 1794277796118,
+  "updatedAt": 1794277796118
+ },
+ {
+  "id": "a20261110-10",
+  "ident": "YR-20261110-10",
+  "title": "Araştırma ve Geliştirme Projeleri (KGM-ARGE-K-21-01)",
+  "authors": [
+   "Karayolları Genel Müdürlüğü (KGM)"
+  ],
+  "org": "KGM (Turkiya)",
+  "cat": "report",
+  "year": 2021,
+  "lang": "en",
+  "ftype": "PDF",
+  "pages": 0,
+  "kw": [
+   "ilmiy-tadqiqot loyihalari",
+   "yo‘l materiallari",
+   "innovatsiya",
+   "Turkiya",
+   "НИОКР",
+   "road R&D projects"
+  ],
+  "abs": "Catalogue of KGM's 55 research and development projects as of January 2021 (48 completed, 7 ongoing), grouped by funding model and research area. Each entry gives aims and results, e.g. new materials, pavement management tools and specifications. Original in Turkish.",
+  "link": "https://www.kgm.gov.tr/SiteCollectionDocuments/KGMdocuments/Baskanliklar/BaskanliklarTeknikArastirma/Calismalar/Ar-Ge_Projeleri_Kitap_2021.pdf",
+  "intl": true,
+  "tr": {
+   "uz": {
+    "t": "Turkiya: KGM ilmiy-tadqiqot loyihalari katalogi (2021)",
+    "ab": "KGMning 2021-yil yanvar holatidagi 55 ta ilmiy-tadqiqot loyihasi (48 tasi yakunlangan) maqsad va natijalari bilan keltirilgan. Yangi materiallar, to‘shamalarni boshqarish vositalari va texnik shartlar bo‘yicha ishlar qamrab olingan."
+   }
+  },
+  "fileId": "",
+  "fileUrl": "",
+  "fileName": "",
+  "fileSize": 0,
+  "createdAt": 1794277796119,
+  "updatedAt": 1794277796119
+ },
+ {
+  "id": "a20261110-11",
+  "ident": "YR-20261110-11",
+  "title": "Sathi Kaplama Dizayn Rehberi",
+  "authors": [
+   "Karayolları Genel Müdürlüğü (KGM)"
+  ],
+  "org": "KGM (Turkiya)",
+  "cat": "guide",
+  "year": 2020,
+  "lang": "en",
+  "ftype": "PDF",
+  "pages": 0,
+  "kw": [
+   "sirtqi ishlov",
+   "shag‘al-bitum qoplama",
+   "bitum sarfi",
+   "Turkiya",
+   "поверхностная обработка",
+   "surface dressing design"
+  ],
+  "abs": "Design method for single, double and protective surface dressings on Turkish roads, adapted from international practice to local climate and traffic. It shows how to compute binder and chip rates from aggregate size, flakiness, lane traffic and climate/texture corrections, with worked examples. Original in Turkish.",
+  "link": "https://www.kgm.gov.tr/SiteCollectionDocuments/KGMdocuments/Baskanliklar/BaskanliklarTeknikArastirma/SathiKaplamaDizaynRehberi-2020.pdf",
+  "intl": true,
+  "tr": {
+   "uz": {
+    "t": "Turkiya: sirtqi ishlov (yuza qoplama) loyihalash qo‘llanmasi (2020)",
+    "ab": "Bir va ikki qatlamli sirtqi ishlov uchun bitum va mayda tosh sarfini hisoblash usuli. Tosh o‘lchami, yassilik indeksi, harakat jadalligi va iqlim tuzatmalari hisobga olinadi, misollar keltirilgan."
+   }
+  },
+  "fileId": "",
+  "fileUrl": "",
+  "fileName": "",
+  "fileSize": 0,
+  "createdAt": 1794277796120,
+  "updatedAt": 1794277796120
+ },
+ {
+  "id": "a20261110-12",
+  "ident": "YR-20261110-12",
+  "title": "Karayolları Beton Yol Üstyapılar Projelendirme Rehberi",
+  "authors": [
+   "Karayolları Genel Müdürlüğü (KGM)"
+  ],
+  "org": "KGM (Turkiya)",
+  "cat": "guide",
+  "year": 2019,
+  "lang": "en",
+  "ftype": "PDF",
+  "pages": 0,
+  "kw": [
+   "bikr yo‘l to‘shamasi",
+   "sement-beton qoplama",
+   "AASHTO 93",
+   "Turkiya",
+   "жесткие дорожные одежды",
+   "concrete pavement design"
+  ],
+  "abs": "Design criteria for concrete road pavements in Türkiye, based on AASHTO 93 adapted to local conditions. It covers traffic and reliability inputs, subgrade and frost, drainage, load transfer, reinforcement and slab thickness tables for JPCP, JRCP and CRCP. Original in Turkish.",
+  "link": "https://www.kgm.gov.tr/SiteCollectionDocuments/KGMdocuments/Baskanliklar/BaskanliklarTeknikArastirma/Yay%C4%B1mlar/Karayollar%C4%B1BetonYol%C3%9Cstyap%C4%B1larProjelendirmeRehberi.pdf",
+  "intl": true,
+  "tr": {
+   "uz": {
+    "t": "Turkiya: beton yo‘l to‘shamalarini loyihalash qo‘llanmasi (2019)",
+    "ab": "AASHTO 93 usuli asosida mahalliy sharoitga moslangan beton to‘shamalarni loyihalash mezonlari. Harakat yuklamasi, grunt, drenaj, yuk uzatish, armatura va plita qalinligi jadvallari berilgan."
+   }
+  },
+  "fileId": "",
+  "fileUrl": "",
+  "fileName": "",
+  "fileSize": 0,
+  "createdAt": 1794277796121,
+  "updatedAt": 1794277796121
+ },
+ {
+  "id": "a20261110-13",
+  "ident": "YR-20261110-13",
+  "title": "Beton Yol Kaplamaları Teknik Şartnamesi (KGM-ARGE-17-02)",
+  "authors": [
+   "Karayolları Genel Müdürlüğü (KGM)"
+  ],
+  "org": "KGM (Turkiya)",
+  "cat": "norm",
+  "year": 2016,
+  "lang": "en",
+  "ftype": "PDF",
+  "pages": 0,
+  "kw": [
+   "beton qoplama",
+   "texnik shartlar",
+   "muzlash-erishga chidamlilik",
+   "Turkiya",
+   "цементобетонные покрытия",
+   "concrete pavement specification"
+  ],
+  "abs": "KGM technical specification (December 2016) for rigid concrete pavements. It sets requirements for cement, aggregates, water, admixtures and fibres, mix design, freeze–thaw and de-icing salt durability, dowels and tie bars, construction, curing, quality control and penalties. Original in Turkish.",
+  "link": "https://www.kgm.gov.tr/SiteCollectionDocuments/KGMdocuments/Baskanliklar/BaskanliklarTeknikArastirma/BetonYol%20Kaplamalar%C4%B1TeknikSartnamesi2016.pdf",
+  "intl": true,
+  "tr": {
+   "uz": {
+    "t": "Turkiya: beton yo‘l qoplamalari texnik shartnomasi (2016)",
+    "ab": "Bikr beton qoplamalar uchun materiallar, tarkib, chidamlilik, shtir va ankerlar, qurilish, parvarish va sifat nazorati talablari. Talabga javob bermagan ishlar uchun jarimalar ham belgilangan."
+   }
+  },
+  "fileId": "",
+  "fileUrl": "",
+  "fileName": "",
+  "fileSize": 0,
+  "createdAt": 1794277796122,
+  "updatedAt": 1794277796122
+ },
+ {
+  "id": "a20261110-14",
+  "ident": "YR-20261110-14",
+  "title": "Heyelan Tanımlama ve Veri Oluşturma Kılavuzu",
+  "authors": [
+   "Karayolları Genel Müdürlüğü (KGM)"
+  ],
+  "org": "KGM (Turkiya)",
+  "cat": "guide",
+  "year": 2015,
+  "lang": "en",
+  "ftype": "PDF",
+  "pages": 0,
+  "kw": [
+   "surilma",
+   "ko‘chki",
+   "geologiya",
+   "xavf xaritasi",
+   "Turkiya",
+   "оползни",
+   "landslide inventory"
+  ],
+  "abs": "Standard framework (May 2015) for identifying and recording landslides along the highway network, based on Varnes (1978) classification. It covers landslide types, geometry, activity, causes and field investigation, with data forms and report templates for inventory and black-spot analysis. Original in Turkish.",
+  "link": "https://www.kgm.gov.tr/SiteCollectionDocuments/KGMdocuments/Baskanliklar/BaskanliklarTeknikArastirma/Yay%C4%B1mlar/HeyelanTan%C4%B1mlamaK%C4%B1lavuzu.pdf",
+  "intl": true,
+  "tr": {
+   "uz": {
+    "t": "Turkiya: yo‘llardagi surilmalarni aniqlash va ma’lumot yaratish yo‘riqnomasi (2015)",
+    "ab": "Avtomobil yo‘llari bo‘ylab surilmalarni Varnes tasnifi asosida aniqlash, o‘lchash va qayd etish tartibi. Dala tekshiruvi dasturi, ma’lumot shakllari va hisobot namunalari berilgan."
+   }
+  },
+  "fileId": "",
+  "fileUrl": "",
+  "fileName": "",
+  "fileSize": 0,
+  "createdAt": 1794277796123,
+  "updatedAt": 1794277796123
+ },
+ {
+  "id": "a20261110-15",
+  "ident": "YR-20261110-15",
+  "title": "Karayolu Yolboyu Mühendislik Yapıları İçin Afet Yönetmeliği",
+  "authors": [
+   "Bayındırlık ve İskan Bakanlığı"
+  ],
+  "org": "Bayındırlık ve İskan Bakanlığı (Turkiya)",
+  "cat": "norm",
+  "year": 2006,
+  "lang": "en",
+  "ftype": "PDF",
+  "pages": 0,
+  "kw": [
+   "tabiiy ofat",
+   "seysmik bardoshlilik",
+   "ko‘prik",
+   "tunnel",
+   "Turkiya",
+   "защита от стихийных бедствий",
+   "disaster regulation"
+  ],
+  "abs": "Turkish regulation (Official Gazette 07.12.2006, No. 26369) on designing and building roadside engineering structures — bridges, tunnels, retaining walls, slopes — to withstand disasters, and on strengthening existing ones. Its annex addresses flood, earthquake, landslide, liquefaction, fire and avalanche protection. Linked from the Ministry of Transport and Infrastructure site; original in Turkish.",
+  "link": "https://uab.gov.tr/uploads/legislations/karayolu-yolboyu-muhendislik-yapilari-icin-afet-yo/karayolu-yolboyu-muhendislik-yapilari-icin-afet-yonetmeligi.pdf",
+  "intl": true,
+  "tr": {
+   "uz": {
+    "t": "Turkiya: avtomobil yo‘li bo‘yidagi muhandislik inshootlari uchun tabiiy ofat reglamenti (2006)",
+    "ab": "Ko‘priklar, tunnellar, tirgak devorlar va qiyaliklarni toshqin, zilzila, surilma, yong‘in va qor ko‘chkisiga bardoshli loyihalash hamda mavjudlarini kuchaytirish qoidalari. 2006-yil 7-dekabrdagi Rasmiy gazetada e’lon qilingan."
+   }
+  },
+  "fileId": "",
+  "fileUrl": "",
+  "fileName": "",
+  "fileSize": 0,
+  "createdAt": 1794277796124,
+  "updatedAt": 1794277796124
+ },
+ {
+  "id": "a20261110-16",
+  "ident": "YR-20261110-16",
+  "title": "СН РК 3.03-01-2013 «Автомобильные дороги»",
+  "authors": [
+   "Комитет по делам строительства и ЖКХ РК"
+  ],
+  "org": "Qozog‘iston Respublikasi",
+  "cat": "norm",
+  "year": 2013,
+  "lang": "ru",
+  "ftype": "WEB",
+  "pages": 0,
+  "kw": [
+   "SN RK",
+   "avtomobil yo‘llari",
+   "loyihalash",
+   "Qozog‘iston",
+   "строительные нормы",
+   "road design norms"
+  ],
+  "abs": "Qozog‘istonning umumiy foydalanishdagi avtomobil yo‘llarini loyihalashga oid majburiy qurilish normalari: yo‘l tasnifi, elementlar, to‘shama, yo‘l bo‘yi jihozlari, inshootlar va atrof-muhit talablari. 2015-yil 1-iyuldan amalda, keyingi o‘zgarishlar bilan. Havola «Paragraf» huquqiy tizimidagi yozuvga olib boradi; to‘liq matn ro‘yxatdan o‘tishni talab qiladi.",
+  "link": "https://prg.kz/document/?doc_id=36922044",
+  "intl": true,
+  "tr": {
+   "uz": {
+    "t": "Qozog‘iston: SN RK 3.03-01-2013 “Avtomobil yo‘llari”",
+    "ab": "Qozog‘istonning umumiy foydalanishdagi avtomobil yo‘llarini loyihalashga oid majburiy qurilish normalari: yo‘l tasnifi, elementlar, to‘shama, yo‘l bo‘yi jihozlari, inshootlar va atrof-muhit talablari. 2015-yil 1-iyuldan amalda, keyingi o‘zgarishlar bilan. Havola «Paragraf» huquqiy tizimidagi yozuvga olib boradi; to‘liq matn ro‘yxatdan o‘tishni talab qiladi."
+   }
+  },
+  "fileId": "",
+  "fileUrl": "",
+  "fileName": "",
+  "fileSize": 0,
+  "createdAt": 1794277796125,
+  "updatedAt": 1794277796125
+ },
+ {
+  "id": "a20261110-17",
+  "ident": "YR-20261110-17",
+  "title": "СП РК 3.03-112-2013 «Мосты и трубы»",
+  "authors": [
+   "Комитет по делам строительства и ЖКХ РК"
+  ],
+  "org": "Qozog‘iston Respublikasi",
+  "cat": "norm",
+  "year": 2013,
+  "lang": "ru",
+  "ftype": "WEB",
+  "pages": 0,
+  "kw": [
+   "ko‘priklar",
+   "quvurlar",
+   "yuklamalar",
+   "temirbeton",
+   "Qozog‘iston",
+   "мосты и трубы",
+   "bridges and culverts"
+  ],
+  "abs": "Ko‘priklar va suv o‘tkazuvchi quvurlarni loyihalash bo‘yicha qoidalar to‘plami: umumiy talablar, yuklamalar va ta’sirlar, temirbeton va po‘lat konstruksiyalarni hisoblash. 2015-yil 1-iyuldan amalda. «Paragraf» tizimidagi yozuv; to‘liq matn ro‘yxatdan o‘tishni talab qiladi.",
+  "link": "https://prg.kz/Document/?doc_id=33307481",
+  "intl": true,
+  "tr": {
+   "uz": {
+    "t": "Qozog‘iston: SP RK 3.03-112-2013 “Ko‘priklar va quvurlar”",
+    "ab": "Ko‘priklar va suv o‘tkazuvchi quvurlarni loyihalash bo‘yicha qoidalar to‘plami: umumiy talablar, yuklamalar va ta’sirlar, temirbeton va po‘lat konstruksiyalarni hisoblash. 2015-yil 1-iyuldan amalda. «Paragraf» tizimidagi yozuv; to‘liq matn ro‘yxatdan o‘tishni talab qiladi."
+   }
+  },
+  "fileId": "",
+  "fileUrl": "",
+  "fileName": "",
+  "fileSize": 0,
+  "createdAt": 1794277796126,
+  "updatedAt": 1794277796126
+ },
+ {
+  "id": "a20261110-18",
+  "ident": "YR-20261110-18",
+  "title": "СН РК 3.03-12-2013 «Мосты и трубы»",
+  "authors": [
+   "Комитет по делам строительства и ЖКХ РК"
+  ],
+  "org": "Qozog‘iston Respublikasi",
+  "cat": "norm",
+  "year": 2013,
+  "lang": "ru",
+  "ftype": "WEB",
+  "pages": 0,
+  "kw": [
+   "ko‘priklar",
+   "quvurlar",
+   "qurilish normalari",
+   "Qozog‘iston",
+   "мосты",
+   "bridge design norms"
+  ],
+  "abs": "Avtomobil, temir yo‘l, metro va tramvay yo‘llaridagi yangi, rekonstruksiya qilinadigan va ta’mirlanadigan ko‘priklar hamda quvurlarni loyihalash bo‘yicha majburiy normalar; piyodalar ko‘priklari va tunnellarini ham qamraydi. 2015-yil 1-iyuldan amalda. «Paragraf» tizimidagi yozuv.",
+  "link": "https://prg.kz/Document/?doc_id=34572847",
+  "intl": true,
+  "tr": {
+   "uz": {
+    "t": "Qozog‘iston: SN RK 3.03-12-2013 “Ko‘priklar va quvurlar”",
+    "ab": "Avtomobil, temir yo‘l, metro va tramvay yo‘llaridagi yangi, rekonstruksiya qilinadigan va ta’mirlanadigan ko‘priklar hamda quvurlarni loyihalash bo‘yicha majburiy normalar; piyodalar ko‘priklari va tunnellarini ham qamraydi. 2015-yil 1-iyuldan amalda. «Paragraf» tizimidagi yozuv."
+   }
+  },
+  "fileId": "",
+  "fileUrl": "",
+  "fileName": "",
+  "fileSize": 0,
+  "createdAt": 1794277796127,
+  "updatedAt": 1794277796127
+ },
+ {
+  "id": "a20261110-19",
+  "ident": "YR-20261110-19",
+  "title": "СП РК 3.03-113-2014 «Мосты и трубы. Правила обследований и испытаний»",
+  "authors": [
+   "Комитет по делам строительства и ЖКХ РК"
+  ],
+  "org": "Qozog‘iston Respublikasi",
+  "cat": "norm",
+  "year": 2014,
+  "lang": "ru",
+  "ftype": "WEB",
+  "pages": 0,
+  "kw": [
+   "ko‘priklarni tekshirish",
+   "statik sinov",
+   "dinamik sinov",
+   "Qozog‘iston",
+   "обследование мостов",
+   "bridge inspection and testing"
+  ],
+  "abs": "Ko‘priklar va quvurlarni tekshirish hamda statik, dinamik sinovdan o‘tkazish qoidalari; qurilish yoki kapital ta’mirdan keyin foydalanishga topshiriladigan inshootlarga taalluqli. 2015-yil 1-iyuldan amalda. «Paragraf» tizimidagi yozuv.",
+  "link": "https://prg.kz/Document/?doc_id=39108584",
+  "intl": true,
+  "tr": {
+   "uz": {
+    "t": "Qozog‘iston: SP RK 3.03-113-2014 “Ko‘priklar va quvurlar. Tekshirish va sinash qoidalari”",
+    "ab": "Ko‘priklar va quvurlarni tekshirish hamda statik, dinamik sinovdan o‘tkazish qoidalari; qurilish yoki kapital ta’mirdan keyin foydalanishga topshiriladigan inshootlarga taalluqli. 2015-yil 1-iyuldan amalda. «Paragraf» tizimidagi yozuv."
+   }
+  },
+  "fileId": "",
+  "fileUrl": "",
+  "fileName": "",
+  "fileSize": 0,
+  "createdAt": 1794277796128,
+  "updatedAt": 1794277796128
+ },
+ {
+  "id": "a20261110-20",
+  "ident": "YR-20261110-20",
+  "title": "СП РК 3.03-103-2014 «Проектирование жестких дорожных одежд» (с изменениями от 14.06.2019 г.)",
+  "authors": [
+   "Комитет по делам строительства и ЖКХ РК"
+  ],
+  "org": "Qozog‘iston Respublikasi",
+  "cat": "norm",
+  "year": 2014,
+  "lang": "ru",
+  "ftype": "WEB",
+  "pages": 0,
+  "kw": [
+   "bikr yo‘l to‘shamasi",
+   "sement-beton",
+   "choklar",
+   "Qozog‘iston",
+   "жесткие дорожные одежды",
+   "rigid pavement design"
+  ],
+  "abs": "Sement-beton (bikr) yo‘l to‘shamalarini loyihalash bo‘yicha tavsiyaviy qoidalar to‘plami: konstruksiya, yuklama hisoblari, choklar, sovuqqa chidamlilik va drenajni tekshirish. 2019-yil 14-iyundagi o‘zgarishlar bilan. «Paragraf» tizimidagi yozuv.",
+  "link": "https://prg.kz/m/amp/document/32456615",
+  "intl": true,
+  "tr": {
+   "uz": {
+    "t": "Qozog‘iston: SP RK 3.03-103-2014 “Bikr yo‘l to‘shamalarini loyihalash”",
+    "ab": "Sement-beton (bikr) yo‘l to‘shamalarini loyihalash bo‘yicha tavsiyaviy qoidalar to‘plami: konstruksiya, yuklama hisoblari, choklar, sovuqqa chidamlilik va drenajni tekshirish. 2019-yil 14-iyundagi o‘zgarishlar bilan. «Paragraf» tizimidagi yozuv."
+   }
+  },
+  "fileId": "",
+  "fileUrl": "",
+  "fileName": "",
+  "fileSize": 0,
+  "createdAt": 1794277796129,
+  "updatedAt": 1794277796129
+ },
+ {
+  "id": "a20261110-21",
+  "ident": "YR-20261110-21",
+  "title": "СП РК 3.03-104-2014 «Проектирование дорожных одежд нежесткого типа»",
+  "authors": [
+   "Комитет по делам строительства и ЖКХ РК"
+  ],
+  "org": "Qozog‘iston Respublikasi",
+  "cat": "norm",
+  "year": 2014,
+  "lang": "ru",
+  "ftype": "WEB",
+  "pages": 0,
+  "kw": [
+   "egiluvchan to‘shama",
+   "mustahkamlik hisobi",
+   "hisobiy yuklama",
+   "Qozog‘iston",
+   "нежесткие дорожные одежды",
+   "flexible pavement design"
+  ],
+  "abs": "Yangi, rekonstruksiya qilinadigan va kapital ta’mirlanadigan yo‘llar uchun egiluvchan to‘shamalarni loyihalash qoidalari: mustahkamlik hisobi, hisobiy yuklamalar, sovuqqa chidamlilik va armaturalash; hisob misoli ilova qilingan. 2024-yil 13-fevral holatidagi tahrir. «Paragraf» tizimidagi yozuv.",
+  "link": "https://prg.kz/m/amp/document/33665106",
+  "intl": true,
+  "tr": {
+   "uz": {
+    "t": "Qozog‘iston: SP RK 3.03-104-2014 “Egiluvchan yo‘l to‘shamalarini loyihalash”",
+    "ab": "Yangi, rekonstruksiya qilinadigan va kapital ta’mirlanadigan yo‘llar uchun egiluvchan to‘shamalarni loyihalash qoidalari: mustahkamlik hisobi, hisobiy yuklamalar, sovuqqa chidamlilik va armaturalash; hisob misoli ilova qilingan. 2024-yil 13-fevral holatidagi tahrir. «Paragraf» tizimidagi yozuv."
+   }
+  },
+  "fileId": "",
+  "fileUrl": "",
+  "fileName": "",
+  "fileSize": 0,
+  "createdAt": 1794277796130,
+  "updatedAt": 1794277796130
+ },
+ {
+  "id": "a20261110-22",
+  "ident": "YR-20261110-22",
+  "title": "СТ РК 2373-2019 «Смеси щебеночно-мастичные полимерасфальтобетонные дорожные, аэродромные и щебеночно-мастичный полимерасфальтобетон. Технические условия»",
+  "authors": [
+   "Казахстанский институт стандартизации и метрологии"
+  ],
+  "org": "Qozog‘iston Respublikasi",
+  "cat": "norm",
+  "year": 2019,
+  "lang": "ru",
+  "ftype": "WEB",
+  "pages": 0,
+  "kw": [
+   "ShMA",
+   "polimer-asfaltbeton",
+   "texnik shartlar",
+   "Qozog‘iston",
+   "ЩМА",
+   "stone mastic asphalt"
+  ],
+  "abs": "Yo‘l, aerodrom va shahar ko‘chalari qoplamalarining yuqori va pastki qatlamlari uchun issiq shag‘al-mastikali polimer-asfaltbeton aralashmalariga texnik talablar va sinov usullari (1-o‘zgartirish bilan). «Paragraf» tizimidagi yozuv; to‘liq matn ro‘yxatdan o‘tishni talab qiladi.",
+  "link": "https://prg.kz/m/amp/document/35138024",
+  "intl": true,
+  "tr": {
+   "uz": {
+    "t": "Qozog‘iston: ST RK 2373-2019 shag‘al-mastikali polimer-asfaltbeton aralashmalari",
+    "ab": "Yo‘l, aerodrom va shahar ko‘chalari qoplamalarining yuqori va pastki qatlamlari uchun issiq shag‘al-mastikali polimer-asfaltbeton aralashmalariga texnik talablar va sinov usullari (1-o‘zgartirish bilan). «Paragraf» tizimidagi yozuv; to‘liq matn ro‘yxatdan o‘tishni talab qiladi."
+   }
+  },
+  "fileId": "",
+  "fileUrl": "",
+  "fileName": "",
+  "fileSize": 0,
+  "createdAt": 1794277796131,
+  "updatedAt": 1794277796131
+ },
+ {
+  "id": "a20261110-23",
+  "ident": "YR-20261110-23",
+  "title": "СТ РК 2516-2014 «Смеси асфальтобетонные и асфальтобетон щебеночно-мастичные на МАК-битуме. Технические условия»",
+  "authors": [
+   "Казахстанский институт стандартизации и метрологии"
+  ],
+  "org": "Qozog‘iston Respublikasi",
+  "cat": "norm",
+  "year": 2014,
+  "lang": "ru",
+  "ftype": "WEB",
+  "pages": 0,
+  "kw": [
+   "MAK-bitum",
+   "ShMA",
+   "asfaltbeton",
+   "Qozog‘iston",
+   "щебеночно-мастичный асфальтобетон",
+   "SMA specification"
+  ],
+  "abs": "III–V yo‘l-iqlim zonalarida yo‘l, aerodrom va shahar ko‘chalari qoplamalari uchun MAK-bitumdagi issiq shag‘al-mastikali asfaltbeton aralashmalariga texnik shartlar. «Paragraf» tizimidagi yozuv; to‘liq matn ro‘yxatdan o‘tishni talab qiladi.",
+  "link": "https://prg.kz/m/amp/document/38851227",
+  "intl": true,
+  "tr": {
+   "uz": {
+    "t": "Qozog‘iston: ST RK 2516-2014 MAK-bitumdagi shag‘al-mastikali asfaltbeton",
+    "ab": "III–V yo‘l-iqlim zonalarida yo‘l, aerodrom va shahar ko‘chalari qoplamalari uchun MAK-bitumdagi issiq shag‘al-mastikali asfaltbeton aralashmalariga texnik shartlar. «Paragraf» tizimidagi yozuv; to‘liq matn ro‘yxatdan o‘tishni talab qiladi."
+   }
+  },
+  "fileId": "",
+  "fileUrl": "",
+  "fileName": "",
+  "fileSize": 0,
+  "createdAt": 1794277796132,
+  "updatedAt": 1794277796132
+ },
+ {
+  "id": "a20261110-24",
+  "ident": "YR-20261110-24",
+  "title": "Закон Республики Казахстан от 17 июля 2001 года № 245 «Об автомобильных дорогах»",
+  "authors": [
+   "Парламент Республики Казахстан"
+  ],
+  "org": "Qozog‘iston Respublikasi",
+  "cat": "norm",
+  "year": 2001,
+  "lang": "ru",
+  "ftype": "WEB",
+  "pages": 0,
+  "kw": [
+   "qonun",
+   "avtomobil yo‘llari",
+   "pullik yo‘llar",
+   "yo‘l faoliyati",
+   "Qozog‘iston",
+   "закон об автомобильных дорогах",
+   "road law"
+  ],
+  "abs": "Qozog‘istonda avtomobil yo‘llarini boshqarish, qurish, saqlash va rivojlantirishning huquqiy, tashkiliy va iqtisodiy asoslarini belgilovchi qonun (amaldagi tahriri o‘zgartirishlar bilan): yo‘llar tasnifi, yo‘l bo‘yi yerlari, pullik yo‘llar va yo‘l organlari vakolatlari. Havola rasmiy Adilet bazasidagi matnning nusxasini beruvchi zakon.uchet.kz sahifasiga olib boradi.",
+  "link": "https://zakon.uchet.kz/rus/docs/Z010000245_",
+  "intl": true,
+  "tr": {
+   "uz": {
+    "t": "Qozog‘iston: “Avtomobil yo‘llari to‘g‘risida”gi qonun (2001, № 245)",
+    "ab": "Qozog‘istonda avtomobil yo‘llarini boshqarish, qurish, saqlash va rivojlantirishning huquqiy, tashkiliy va iqtisodiy asoslarini belgilovchi qonun (amaldagi tahriri o‘zgartirishlar bilan): yo‘llar tasnifi, yo‘l bo‘yi yerlari, pullik yo‘llar va yo‘l organlari vakolatlari. Havola rasmiy Adilet bazasidagi matnning nusxasini beruvchi zakon.uchet.kz sahifasiga olib boradi."
+   }
+  },
+  "fileId": "",
+  "fileUrl": "",
+  "fileName": "",
+  "fileSize": 0,
+  "createdAt": 1794277796133,
+  "updatedAt": 1794277796133
+ },
+ {
+  "id": "a20261111-14",
+  "ident": "YR-20261111-14",
+  "title": "Evaluating Scour at Bridges (HEC-18, 5th ed., FHWA-HIF-12-003)",
+  "authors": [
+   "L.A. Arneson",
+   "L.W. Zevenbergen",
+   "P.F. Lagasse",
+   "P.E. Clopper",
+   "FHWA"
+  ],
+  "org": "FHWA (AQSh)",
+  "cat": "guide",
+  "year": 2012,
+  "lang": "en",
+  "ftype": "PDF",
+  "pages": 0,
+  "kw": [
+   "ko‘prik yuvilishi",
+   "gidravlika",
+   "tayanch",
+   "мостовой размыв",
+   "bridge scour",
+   "HEC-18"
+  ],
+  "abs": "Fifth edition of FHWA's Hydraulic Engineering Circular 18 giving the state-of-practice methods for estimating contraction, pier and abutment scour at bridges. It explains design floods, scour evaluation of existing bridges and the equations used by US agencies.",
+  "link": "https://www.fhwa.dot.gov/engineering/hydraulics/pubs/hif12003.pdf",
+  "intl": true,
+  "tr": {
+   "uz": {
+    "t": "Ko‘priklarda yuvilishni baholash (HEC-18, 5-nashr)",
+    "ab": "FHWAning 18-sonli gidravlik sirkulyari ko‘prik tayanchlari va qirg‘oq tayanchlari atrofidagi yuvilish chuqurligini hisoblash usullarini beradi. Mavjud ko‘priklarni yuvilish xavfiga ko‘ra baholash tartibi ham yoritilgan. O‘zbekiston yo‘llari uchun ahamiyati: Amudaryo, Sirdaryo va tog‘ daryolari ustidagi ko‘priklarni loyihalash va ekspertizasida bevosita qo‘llash mumkin."
+   }
+  },
+  "fileId": "",
+  "fileUrl": "",
+  "fileName": "",
+  "fileSize": 0,
+  "createdAt": 1794364119817,
+  "updatedAt": 1794364119817
+ },
+ {
+  "id": "a20261111-15",
+  "ident": "YR-20261111-15",
+  "title": "Stream Stability at Highway Structures (HEC-20, 4th ed., FHWA-HIF-12-004)",
+  "authors": [
+   "P.F. Lagasse",
+   "L.W. Zevenbergen",
+   "W.J. Spitz",
+   "L.A. Arneson",
+   "FHWA"
+  ],
+  "org": "FHWA (AQSh)",
+  "cat": "guide",
+  "year": 2012,
+  "lang": "en",
+  "ftype": "PDF",
+  "pages": 0,
+  "kw": [
+   "daryo o‘zani barqarorligi",
+   "ko‘prik",
+   "gidrologiya",
+   "устойчивость русла",
+   "stream stability",
+   "HEC-20"
+  ],
+  "abs": "FHWA circular on identifying and analysing stream instability that threatens bridges and culverts. It covers geomorphic assessment, lateral and vertical channel change and the selection of countermeasures.",
+  "link": "https://www.fhwa.dot.gov/engineering/hydraulics/pubs/hif12004.pdf",
+  "intl": true,
+  "tr": {
+   "uz": {
+    "t": "Avtomobil yo‘li inshootlarida daryo o‘zani barqarorligi (HEC-20, 4-nashr)",
+    "ab": "Qo‘llanma daryo o‘zanining gorizontal va vertikal siljishlarini aniqlash hamda ko‘prik va quvurlarga xavfini baholash usullarini bayon qiladi. Geomorfologik tahlil va himoya choralarini tanlash tartibi berilgan. O‘zbekiston yo‘llari uchun ahamiyati: o‘zani tez o‘zgaradigan Markaziy Osiyo daryolari ustidagi inshootlar uchun foydali."
+   }
+  },
+  "fileId": "",
+  "fileUrl": "",
+  "fileName": "",
+  "fileSize": 0,
+  "createdAt": 1794364119818,
+  "updatedAt": 1794364119818
+ },
+ {
+  "id": "a20261111-16",
+  "ident": "YR-20261111-16",
+  "title": "Urban Drainage Design (HEC-22, 4th ed., FHWA-HIF-24-006)",
+  "authors": [
+   "Roger Kilgore",
+   "A. Tamim Atayee",
+   "George Herrmann",
+   "FHWA"
+  ],
+  "org": "FHWA (AQSh)",
+  "cat": "guide",
+  "year": 2024,
+  "lang": "en",
+  "ftype": "PDF",
+  "pages": 0,
+  "kw": [
+   "suv qochirish",
+   "yomg‘ir suvi",
+   "shahar ko‘chalari",
+   "водоотвод",
+   "urban drainage",
+   "HEC-22"
+  ],
+  "abs": "The 2024 fourth edition of FHWA's urban drainage manual covering pavement drainage, inlets, storm drains, detention and stormwater quality for highways in built-up areas. It replaces the 2009 third edition.",
+  "link": "https://www.fhwa.dot.gov/engineering/hydraulics/pubs/hif24006.pdf",
+  "intl": true,
+  "tr": {
+   "uz": {
+    "t": "Shahar hududida suv qochirishni loyihalash (HEC-22, 4-nashr)",
+    "ab": "2024-yilgi nashr qatnov qismidan suvni qochirish, suv qabul qilgichlar, yomg‘ir kanalizatsiyasi va suvni ushlab turish inshootlarini loyihalashni qamrab oladi. Avvalgi 2009-yilgi nashr o‘rnini bosadi. O‘zbekiston yo‘llari uchun ahamiyati: shahar ko‘chalari va aylanma yo‘llarda suv to‘planishi muammosini hal qilishda qo‘llanma bo‘ladi."
+   }
+  },
+  "fileId": "",
+  "fileUrl": "",
+  "fileName": "",
+  "fileSize": 0,
+  "createdAt": 1794364119819,
+  "updatedAt": 1794364119819
+ },
+ {
+  "id": "a20261111-17",
+  "ident": "YR-20261111-17",
+  "title": "Highway Hydrology (HDS-2, 3rd ed., FHWA-HIF-24-007)",
+  "authors": [
+   "Roger Kilgore",
+   "A. Tamim Atayee",
+   "George Herrmann",
+   "David B. Thompson",
+   "FHWA"
+  ],
+  "org": "FHWA (AQSh)",
+  "cat": "guide",
+  "year": 2024,
+  "lang": "en",
+  "ftype": "PDF",
+  "pages": 0,
+  "kw": [
+   "gidrologiya",
+   "hisobiy oqim",
+   "toshqin",
+   "гидрология",
+   "highway hydrology",
+   "HDS-2"
+  ],
+  "abs": "Third edition (2024) of FHWA Hydraulic Design Series 2 on estimating design flows for highway drainage structures. It covers rainfall and runoff methods, statistical flood analysis and hydrographs.",
+  "link": "https://www.fhwa.dot.gov/engineering/hydraulics/pubs/hif24007.pdf",
+  "intl": true,
+  "tr": {
+   "uz": {
+    "t": "Avtomobil yo‘llari gidrologiyasi (HDS-2, 3-nashr)",
+    "ab": "Qo‘llanma yo‘l suv o‘tkazish inshootlari uchun hisobiy suv sarfini aniqlash usullarini — yog‘in-oqim modellari, toshqinlarni statistik tahlili va gidrograflarni — bayon qiladi. O‘zbekiston yo‘llari uchun ahamiyati: sel va toshqin xavfi yuqori tog‘oldi hududlarida quvur va ko‘priklarni to‘g‘ri o‘lchamlash uchun zarur."
+   }
+  },
+  "fileId": "",
+  "fileUrl": "",
+  "fileName": "",
+  "fileSize": 0,
+  "createdAt": 1794364119820,
+  "updatedAt": 1794364119820
+ },
+ {
+  "id": "a20261111-18",
+  "ident": "YR-20261111-18",
+  "title": "Design of Roadside Channels with Flexible Linings (HEC-15, 3rd ed., FHWA-NHI-05-114)",
+  "authors": [
+   "Roger T. Kilgore",
+   "George K. Cotton",
+   "FHWA"
+  ],
+  "org": "FHWA (AQSh)",
+  "cat": "guide",
+  "year": 2005,
+  "lang": "en",
+  "ftype": "PDF",
+  "pages": 0,
+  "kw": [
+   "kyuvet",
+   "ariq qoplamasi",
+   "eroziya",
+   "кюветы",
+   "roadside channels",
+   "HEC-15"
+  ],
+  "abs": "FHWA circular on designing stable roadside ditches with vegetation, riprap, gabions and manufactured flexible linings. It gives the shear-stress based design procedure and examples.",
+  "link": "https://www.fhwa.dot.gov/engineering/hydraulics/pubs/05114/05114.pdf",
+  "intl": true,
+  "tr": {
+   "uz": {
+    "t": "Yo‘l bo‘yi ariqlarini egiluvchan qoplamalar bilan loyihalash (HEC-15)",
+    "ab": "Sirkulyar kyuvet va ariqlarni o‘t, tosh to‘kma, gabion va boshqa egiluvchan qoplamalar bilan eroziyadan himoyalash usulini beradi. Urinma kuchlanishga asoslangan hisob tartibi misollar bilan keltirilgan. O‘zbekiston yo‘llari uchun ahamiyati: yo‘l poyi yon ariqlarining yuvilishini kamaytirish uchun amaliy usul."
+   }
+  },
+  "fileId": "",
+  "fileUrl": "",
+  "fileName": "",
+  "fileSize": 0,
+  "createdAt": 1794364119821,
+  "updatedAt": 1794364119821
+ },
+ {
+  "id": "a20261111-19",
+  "ident": "YR-20261111-19",
+  "title": "Hydraulic Design of Energy Dissipators for Culverts and Channels (HEC-14, 3rd ed., FHWA-NHI-06-086)",
+  "authors": [
+   "Philip L. Thompson",
+   "Roger T. Kilgore",
+   "FHWA"
+  ],
+  "org": "FHWA (AQSh)",
+  "cat": "guide",
+  "year": 2006,
+  "lang": "en",
+  "ftype": "PDF",
+  "pages": 0,
+  "kw": [
+   "energiya so‘ndirgich",
+   "quvur",
+   "gidravlika",
+   "гасители энергии",
+   "energy dissipators",
+   "HEC-14"
+  ],
+  "abs": "FHWA manual on predicting erosion at culvert outlets and designing energy dissipators such as riprap aprons, drop structures and stilling basins.",
+  "link": "https://www.fhwa.dot.gov/engineering/hydraulics/pubs/06086/hec14.pdf",
+  "intl": true,
+  "tr": {
+   "uz": {
+    "t": "Quvurlar va kanallar uchun energiya so‘ndirgichlarni gidravlik loyihalash (HEC-14)",
+    "ab": "Qo‘llanma quvur chiqishidagi yuvilishni bashorat qilish va tosh to‘shamalar, pog‘onali inshootlar, tinchlantirish havzalarini loyihalash usullarini beradi. O‘zbekiston yo‘llari uchun ahamiyati: qiya joylardagi yo‘l quvurlari chiqishida eroziyaning oldini olishda qo‘llaniladi."
+   }
+  },
+  "fileId": "",
+  "fileUrl": "",
+  "fileName": "",
+  "fileSize": 0,
+  "createdAt": 1794364119822,
+  "updatedAt": 1794364119822
+ },
+ {
+  "id": "a20261111-20",
+  "ident": "YR-20261111-20",
+  "title": "Hydraulic Design of Highway Culverts, Third Edition (HDS-5, FHWA-HIF-12-026)",
+  "authors": [
+   "FHWA"
+  ],
+  "org": "FHWA (AQSh)",
+  "cat": "guide",
+  "year": 2012,
+  "lang": "en",
+  "ftype": "WEB",
+  "pages": 0,
+  "kw": [
+   "quvurlar",
+   "suv o‘tkazgich",
+   "gidravlik hisob",
+   "водопропускные трубы",
+   "culverts",
+   "HDS-5"
+  ],
+  "abs": "FHWA's main reference on hydraulic design of highway culverts, covering inlet and outlet control, improved inlets and design procedures. The record page on the FHWA hydraulics library links to the full PDF (about 49 MB).",
+  "link": "https://www.fhwa.dot.gov/engineering/hydraulics/library_arc.cfm?pub_number=7&id=13",
+  "intl": true,
+  "tr": {
+   "uz": {
+    "t": "Avtomobil yo‘li suv o‘tkazgich quvurlarini gidravlik loyihalash (HDS-5, 3-nashr)",
+    "ab": "Qo‘llanma quvurlarning kirish va chiqish nazorati rejimlari, takomillashtirilgan kirish qismlari va loyihalash tartibini batafsil yoritadi. Sahifada to‘liq PDF (taxminan 49 MB) havolasi bor. O‘zbekiston yo‘llari uchun ahamiyati: yo‘l tarmog‘idagi minglab quvurlarni hisoblash va qayta tiklashda asosiy manba."
+   }
+  },
+  "fileId": "",
+  "fileUrl": "",
+  "fileName": "",
+  "fileSize": 0,
+  "createdAt": 1794364119823,
+  "updatedAt": 1794364119823
+ },
+ {
+  "id": "a20261111-21",
+  "ident": "YR-20261111-21",
+  "title": "LRFD Seismic Analysis and Design of Transportation Geotechnical Features and Structural Foundations (GEC 3, FHWA-NHI-11-032)",
+  "authors": [
+   "Edward Kavazanjian Jr.",
+   "Jaw-Nan Joe Wang",
+   "Geoffrey R. Martin",
+   "Anoosh Shamsabadi",
+   "Ignatius Lam",
+   "Stephen E. Dickenson",
+   "C. Jeremy Hung",
+   "FHWA"
+  ],
+  "org": "FHWA (AQSh)",
+  "cat": "guide",
+  "year": 2011,
+  "lang": "en",
+  "ftype": "PDF",
+  "pages": 0,
+  "kw": [
+   "seysmik",
+   "zilzilabardoshlik",
+   "poydevor",
+   "geotexnika",
+   "сейсмостойкость",
+   "seismic design"
+  ],
+  "abs": "FHWA reference manual on seismic hazard analysis, site response, liquefaction, slopes, retaining walls and foundations for transportation structures under LRFD. It serves as Geotechnical Engineering Circular No. 3.",
+  "link": "https://www.fhwa.dot.gov/engineering/geotech/pubs/nhi11032/nhi11032.pdf",
+  "intl": true,
+  "tr": {
+   "uz": {
+    "t": "Transport geotexnik elementlari va poydevorlarini LRFD bo‘yicha seysmik hisoblash (GEC 3)",
+    "ab": "Qo‘llanma seysmik xavfni baholash, gruntning seysmik javobi, suyuqlanish, qiyaliklar, tirgak devorlar va poydevorlarni zilzilaga hisoblashni qamrab oladi. O‘zbekiston yo‘llari uchun ahamiyati: seysmik faol O‘zbekistonda ko‘priklar va yo‘l ko‘tarmalarini loyihalashda juda dolzarb."
+   }
+  },
+  "fileId": "",
+  "fileUrl": "",
+  "fileName": "",
+  "fileSize": 0,
+  "createdAt": 1794364119824,
+  "updatedAt": 1794364119824
+ },
+ {
+  "id": "a20261111-22",
+  "ident": "YR-20261111-22",
+  "title": "Design and Construction of Mechanically Stabilized Earth (MSE) Walls (GEC 11, FHWA-HIF-24-002)",
+  "authors": [
+   "Thomas P. Taylor",
+   "James G. Collin",
+   "Stan Boyle",
+   "Ken Fishman",
+   "Jie Han",
+   "FHWA"
+  ],
+  "org": "FHWA (AQSh)",
+  "cat": "guide",
+  "year": 2023,
+  "lang": "en",
+  "ftype": "PDF",
+  "pages": 0,
+  "kw": [
+   "armogrunt devor",
+   "tirgak devor",
+   "geosintetik",
+   "армогрунт",
+   "MSE walls",
+   "GEC 11"
+  ],
+  "abs": "The 2023 update of FHWA Geotechnical Engineering Circular 11 on design and construction of mechanically stabilized earth walls. It covers materials, LRFD design, construction control and inspection.",
+  "link": "https://www.fhwa.dot.gov/engineering/geotech/pubs/hif24002.pdf",
+  "intl": true,
+  "tr": {
+   "uz": {
+    "t": "Mexanik mustahkamlangan grunt (armogrunt) devorlarini loyihalash va qurish (GEC 11, 2023)",
+    "ab": "2023-yilgi yangilangan sirkulyar armogrunt devorlar uchun materiallar, LRFD hisobi, qurilish nazorati va tekshiruvni bayon qiladi. O‘zbekiston yo‘llari uchun ahamiyati: yo‘l o‘tkazgichlar va tog‘ yo‘llarida tirgak devorlarni arzonroq qurish imkonini beradi."
+   }
+  },
+  "fileId": "",
+  "fileUrl": "",
+  "fileName": "",
+  "fileSize": 0,
+  "createdAt": 1794364119825,
+  "updatedAt": 1794364119825
+ },
+ {
+  "id": "a20261111-23",
+  "ident": "YR-20261111-23",
+  "title": "Ground Modification Methods Reference Manual, Volume I (GEC 13, FHWA-NHI-16-027)",
+  "authors": [
+   "Vernon R. Schaefer",
+   "Ryan R. Berg",
+   "James G. Collin",
+   "Barry R. Christopher",
+   "Jerome A. DiMaggio",
+   "George M. Filz",
+   "Donald A. Bruce",
+   "Dinesh Ayala",
+   "FHWA"
+  ],
+  "org": "FHWA (AQSh)",
+  "cat": "guide",
+  "year": 2017,
+  "lang": "en",
+  "ftype": "PDF",
+  "pages": 0,
+  "kw": [
+   "grunt mustahkamlash",
+   "zaif gruntlar",
+   "zichlash",
+   "укрепление грунтов",
+   "ground improvement",
+   "GEC 13"
+  ],
+  "abs": "Volume I of FHWA's reference manual on ground improvement techniques for transportation projects, including densification, consolidation, reinforcement and chemical stabilisation of weak soils.",
+  "link": "https://www.fhwa.dot.gov/engineering/geotech/pubs/nhi16027.pdf",
+  "intl": true,
+  "tr": {
+   "uz": {
+    "t": "Gruntlarni mustahkamlash usullari bo‘yicha qo‘llanma, I jild (GEC 13)",
+    "ab": "Qo‘llanma zaif gruntlarni zichlash, konsolidatsiyalash, armirlash va kimyoviy barqarorlashtirish texnologiyalarini tanlash va loyihalashni yoritadi. O‘zbekiston yo‘llari uchun ahamiyati: cho‘kuvchan lyoss va sho‘rlangan gruntlarda yo‘l poyi qurishda dolzarb."
+   }
+  },
+  "fileId": "",
+  "fileUrl": "",
+  "fileName": "",
+  "fileSize": 0,
+  "createdAt": 1794364119826,
+  "updatedAt": 1794364119826
+ },
+ {
+  "id": "a20261111-24",
+  "ident": "YR-20261111-24",
+  "title": "Geotechnical Aspects of Pavements (FHWA-NHI-05-037)",
+  "authors": [
+   "Barry R. Christopher",
+   "Charles Schwartz",
+   "Richard Boudreau",
+   "FHWA"
+  ],
+  "org": "FHWA (AQSh)",
+  "cat": "guide",
+  "year": 2006,
+  "lang": "en",
+  "ftype": "PDF",
+  "pages": 0,
+  "kw": [
+   "yo‘l to‘shamasi",
+   "grunt asos",
+   "drenaj",
+   "geotexnika",
+   "основание дорожной одежды",
+   "pavement subgrade"
+  ],
+  "abs": "NHI reference manual linking geotechnical engineering with pavement design: subgrade characterisation, unbound base materials, drainage and subgrade stabilisation for flexible and rigid pavements.",
+  "link": "https://www.fhwa.dot.gov/engineering/geotech/pubs/05037/05037.pdf",
+  "intl": true,
+  "tr": {
+   "uz": {
+    "t": "Yo‘l to‘shamalarining geotexnik jihatlari",
+    "ab": "Qo‘llanma yo‘l poyi gruntini tavsiflash, bog‘lanmagan asos materiallari, drenaj va gruntni barqarorlashtirishni qattiq va nobikr to‘shamalar loyihasi bilan bog‘laydi. O‘zbekiston yo‘llari uchun ahamiyati: to‘shamalarning muddatidan oldin buzilishi ko‘pincha grunt asosga bog‘liq bo‘lgani uchun muhim."
+   }
+  },
+  "fileId": "",
+  "fileUrl": "",
+  "fileName": "",
+  "fileSize": 0,
+  "createdAt": 1794364119827,
+  "updatedAt": 1794364119827
+ },
+ {
+  "id": "a20261111-25",
+  "ident": "YR-20261111-25",
+  "title": "Geohazards, Extreme Weather Events, and Climate Change Resilience Manual (FHWA-HIF-23-008)",
+  "authors": [
+   "Brian Zelenko",
+   "Erik Loehr",
+   "Andy Boeckmann",
+   "Chris Dorney",
+   "Elizabeth Godfrey",
+   "FHWA"
+  ],
+  "org": "FHWA (AQSh)",
+  "cat": "guide",
+  "year": 2023,
+  "lang": "en",
+  "ftype": "PDF",
+  "pages": 0,
+  "kw": [
+   "geoxavflar",
+   "ko‘chki",
+   "iqlim chidamliligi",
+   "sel",
+   "геориски",
+   "climate resilience"
+  ],
+  "abs": "FHWA manual (2023) on assessing and managing geohazards such as landslides, rockfall and debris flows on highways in the context of extreme weather and climate change.",
+  "link": "https://www.fhwa.dot.gov/engineering/geotech/pubs/hif23008.pdf",
+  "intl": true,
+  "tr": {
+   "uz": {
+    "t": "Geoxavflar, ekstremal ob-havo va iqlim o‘zgarishiga chidamlilik qo‘llanmasi",
+    "ab": "Qo‘llanma ko‘chki, tosh qulashi va sel kabi geoxavflarni ekstremal ob-havo va iqlim o‘zgarishi sharoitida baholash va boshqarishni bayon qiladi. O‘zbekiston yo‘llari uchun ahamiyati: Qamchiq, Toshkent–O‘sh kabi tog‘ yo‘llarida ko‘chki va sel xavfini boshqarishga mos."
+   }
+  },
+  "fileId": "",
+  "fileUrl": "",
+  "fileName": "",
+  "fileSize": 0,
+  "createdAt": 1794364119828,
+  "updatedAt": 1794364119828
+ },
+ {
+  "id": "a20261111-26",
+  "ident": "YR-20261111-26",
+  "title": "Capturing the Durability of High Recycled Binder Ratio Asphalt Mixtures (NCHRP Research Report 1130)",
+  "authors": [
+   "Amy Epps Martin",
+   "Edith Arámbula Mercado",
+   "Nam Tran",
+   "Fan Yin",
+   "et al.",
+   "TRB / NCHRP"
+  ],
+  "org": "TRB / NCHRP (AQSh)",
+  "cat": "report",
+  "year": 2024,
+  "lang": "en",
+  "ftype": "WEB",
+  "pages": 0,
+  "kw": [
+   "qayta ishlangan asfalt",
+   "RAP",
+   "asfaltbeton chidamliligi",
+   "переработанный асфальт",
+   "recycled asphalt",
+   "NCHRP"
+  ],
+  "abs": "NCHRP Project 09-65 report proposing a stepwise mix design approach for asphalt mixtures with high recycled binder ratios (RAP, RAS) that keeps cracking, rutting and moisture resistance. The read-online page gives free access; the PDF can be downloaded as guest.",
+  "link": "https://www.nationalacademies.org/read/27991",
+  "intl": true,
+  "tr": {
+   "uz": {
+    "t": "Qayta ishlangan bog‘lovchi ulushi yuqori asfalt aralashmalarining chidamliligi (NCHRP 1130)",
+    "ab": "Hisobot RAP va RAS ulushi yuqori aralashmalarni yorilish, iz hosil bo‘lishi va namlikka chidamliligini saqlagan holda loyihalash bosqichlarini taklif qiladi. O‘zbekiston yo‘llari uchun ahamiyati: eski qoplamani qayta ishlash orqali bitum va chaqiqtoshni tejash imkonini beradi."
+   }
+  },
+  "fileId": "",
+  "fileUrl": "",
+  "fileName": "",
+  "fileSize": 0,
+  "createdAt": 1794364119829,
+  "updatedAt": 1794364119829
+ },
+ {
+  "id": "a20261111-27",
+  "ident": "YR-20261111-27",
+  "title": "AI Applications for Automatic Pavement Condition Evaluation (NCHRP Synthesis 636)",
+  "authors": [
+   "Linda M. Pierce",
+   "Sarah E. Lopez",
+   "Jose R. Medina",
+   "Vivek Jha",
+   "TRB / NCHRP"
+  ],
+  "org": "TRB / NCHRP (AQSh)",
+  "cat": "report",
+  "year": 2024,
+  "lang": "en",
+  "ftype": "WEB",
+  "pages": 0,
+  "kw": [
+   "sun’iy intellekt",
+   "qoplama holati",
+   "nuqsonlarni aniqlash",
+   "искусственный интеллект",
+   "pavement condition",
+   "AI"
+  ],
+  "abs": "Synthesis of US state DOT practice in automated pavement distress detection and machine learning for condition evaluation, based on a literature review, survey and interviews. It notes integration and ground-truth challenges.",
+  "link": "https://www.nationalacademies.org/read/27993",
+  "intl": true,
+  "tr": {
+   "uz": {
+    "t": "Qoplama holatini avtomatik baholashda sun’iy intellekt (NCHRP Synthesis 636)",
+    "ab": "Sintez AQSh shtat transport departamentlarida qoplama nuqsonlarini avtomatik aniqlash va mashinaviy o‘qitishni qo‘llash tajribasini umumlashtiradi. Ma’lumotlarni integratsiyalash va etalon ma’lumotlar muammolari qayd etilgan. O‘zbekiston yo‘llari uchun ahamiyati: yo‘l holatini raqamli monitoring qilish tizimini yaratishda tayyor tajriba."
+   }
+  },
+  "fileId": "",
+  "fileUrl": "",
+  "fileName": "",
+  "fileSize": 0,
+  "createdAt": 1794364119830,
+  "updatedAt": 1794364119830
+ },
+ {
+  "id": "a20261111-28",
+  "ident": "YR-20261111-28",
+  "title": "LTPP Data Analysis: Improving Use of FWD and Longitudinal Profile Measurements (NCHRP Web-Only Document 416)",
+  "authors": [
+   "Linda M. Pierce",
+   "Timin Punnackal",
+   "Joshua Li",
+   "Steve M. Karamihas",
+   "et al.",
+   "TRB / NCHRP"
+  ],
+  "org": "TRB / NCHRP (AQSh)",
+  "cat": "report",
+  "year": 2024,
+  "lang": "en",
+  "ftype": "WEB",
+  "pages": 0,
+  "kw": [
+   "FWD",
+   "egilish o‘lchash",
+   "ravonlik",
+   "iqlim ta’siri",
+   "прогибомер FWD",
+   "LTPP"
+  ],
+  "abs": "NCHRP Project 20-50(22)A study using LTPP data on how climate affects pavement response, with procedures for adjusting falling weight deflectometer deflections and assessing curl and warp of concrete slabs from profile data.",
+  "link": "https://www.nationalacademies.org/read/28570",
+  "intl": true,
+  "tr": {
+   "uz": {
+    "t": "LTPP ma’lumotlari tahlili: FWD va bo‘ylama profil o‘lchovlaridan foydalanishni takomillashtirish",
+    "ab": "Tadqiqot iqlimning qoplama javobiga ta’sirini o‘rganib, FWD egilishlarini harorat va mavsumga moslash hamda beton plitalarning qiyshayishini baholash usullarini beradi. O‘zbekiston yo‘llari uchun ahamiyati: keskin kontinental iqlimda FWD sinovlarini to‘g‘ri talqin qilish uchun kerak."
+   }
+  },
+  "fileId": "",
+  "fileUrl": "",
+  "fileName": "",
+  "fileSize": 0,
+  "createdAt": 1794364119831,
+  "updatedAt": 1794364119831
+ },
+ {
+  "id": "a20261111-29",
+  "ident": "YR-20261111-29",
+  "title": "Considerations for the Design and Construction of Bonded and Unbonded Post-Tensioned Concrete Bridge Elements (NCHRP Research Report 1139)",
+  "authors": [
+   "TRB / NCHRP"
+  ],
+  "org": "TRB / NCHRP (AQSh)",
+  "cat": "report",
+  "year": 2025,
+  "lang": "en",
+  "ftype": "WEB",
+  "pages": 0,
+  "kw": [
+   "oldindan zo‘riqtirilgan beton",
+   "ko‘prik",
+   "arqon (tendon)",
+   "преднапряжённый бетон",
+   "post-tensioning",
+   "NCHRP"
+  ],
+  "abs": "NCHRP Project 12-118 report on post-tensioned concrete bridge elements with unbonded or mixed bonded/unbonded tendons, which ease tendon replacement given durability concerns with grouted tendons. Companion appendices are in NCHRP Web-Only Document 417.",
+  "link": "https://www.nationalacademies.org/publications/29033",
+  "intl": true,
+  "tr": {
+   "uz": {
+    "t": "Bog‘langan va bog‘lanmagan arqonli oldindan zo‘riqtirilgan beton ko‘prik elementlarini loyihalash va qurish (NCHRP 1139)",
+    "ab": "Hisobot bog‘lanmagan yoki aralash arqonli zo‘riqtirilgan beton elementlarni qo‘llash, ularning afzalliklari va loyihalash tavsiyalarini ko‘rib chiqadi. Ilovalar NCHRP Web-Only 417 hujjatida. O‘zbekiston yo‘llari uchun ahamiyati: zamonaviy uzun oraliqli beton ko‘priklarning chidamliligini oshirishda foydali."
+   }
+  },
+  "fileId": "",
+  "fileUrl": "",
+  "fileName": "",
+  "fileSize": 0,
+  "createdAt": 1794364119832,
+  "updatedAt": 1794364119832
+ },
+ {
+  "id": "a20261111-30",
+  "ident": "YR-20261111-30",
+  "title": "Highway Design Manual (HDM), 7th Edition",
+  "authors": [
+   "California Department of Transportation (Caltrans)"
+  ],
+  "org": "Caltrans (AQSh, Kaliforniya)",
+  "cat": "norm",
+  "year": 2025,
+  "lang": "en",
+  "ftype": "WEB",
+  "pages": 0,
+  "kw": [
+   "yo‘l loyihalash",
+   "geometrik loyiha",
+   "shtat qo‘llanmasi",
+   "проектирование дорог",
+   "highway design manual",
+   "Caltrans"
+  ],
+  "abs": "Caltrans' 7th edition design manual setting standards for geometric design, drainage, pavements, bicycle facilities and other elements of California state highways. The page offers chapter PDFs and a combined PDF updated in August 2025.",
+  "link": "https://dot.ca.gov/programs/design/manual-highway-design-manual-hdm",
+  "intl": true,
+  "tr": {
+   "uz": {
+    "t": "Avtomobil yo‘llarini loyihalash qo‘llanmasi (Caltrans HDM, 7-nashr)",
+    "ab": "Kaliforniya transport departamentining qo‘llanmasi geometrik loyiha, suv qochirish, yo‘l to‘shamalari, velosiped yo‘laklari va boshqa elementlar bo‘yicha standartlarni belgilaydi. Sahifada boblar va 2025-yil avgustdagi yig‘ma PDF mavjud. O‘zbekiston yo‘llari uchun ahamiyati: seysmik va issiq-quruq iqlimli shtat tajribasi O‘zbekiston normalarini yangilashda taqqoslash uchun qulay."
+   }
+  },
+  "fileId": "",
+  "fileUrl": "",
+  "fileName": "",
+  "fileSize": 0,
+  "createdAt": 1794364119833,
+  "updatedAt": 1794364119833
+ },
+ {
+  "id": "a20261115-01",
+  "ident": "YR-20261115-01",
+  "title": "Conducting experimental studies of cement concrete pavement joints",
+  "authors": [
+   "Kh. Aripov",
+   "K. Muminov",
+   "Ya. Kochkharov",
+   "J. Khushvakhtov"
+  ],
+  "org": "Toshkent davlat transport universiteti (O‘zbekiston)",
+  "cat": "article",
+  "year": 2023,
+  "lang": "en",
+  "ftype": "PDF",
+  "pages": 0,
+  "kw": [
+   "sement-beton qoplama",
+   "deformatsiya choklari",
+   "plitalar pog‘onasi",
+   "IRI",
+   "цементобетонное покрытие",
+   "швы",
+   "pavement joints"
+  ],
+  "abs": "Field study of step faulting and settlement at transverse joints of cement concrete slabs on a section of highway A-380 under hot, dry climate. Slab steps were measured with an electronic caliper, and longitudinal evenness from a mobile laboratory was correlated with IRI. Published in E3S Web of Conferences 401 (CONMECHYDRO-2023), open access.",
+  "link": "https://www.e3s-conferences.org/articles/e3sconf/pdf/2023/38/e3sconf_conmechydro23_02047.pdf",
+  "intl": false,
+  "tr": {
+   "uz": {
+    "t": "Sement-beton qoplama choklarini eksperimental tadqiq qilish",
+    "ab": "A-380 avtomobil yo‘lining uchastkasida sement-beton plitalarning ko‘ndalang choklaridagi pog‘ona va cho‘kishlar o‘lchangan hamda ular IRI ravonlik ko‘rsatkichi bilan bog‘langan. Issiq-quruq iqlimda qurilgan sement-beton yo‘llarni ekspluatatsiya qilish va ta’mirlashni rejalashtirish uchun bevosita foydali."
+   }
+  },
+  "fileId": "",
+  "fileUrl": "",
+  "fileName": "",
+  "fileSize": 0,
+  "createdAt": 1794709748484,
+  "updatedAt": 1794709748484
+ },
+ {
+  "id": "a20261115-02",
+  "ident": "YR-20261115-02",
+  "title": "The effect comparative evaluation of energy-saving additives on the bitumen properties",
+  "authors": [
+   "A. Riskulov",
+   "T. Sidikova",
+   "R. Khakimov",
+   "J. Avliyokulov"
+  ],
+  "org": "Toshkent davlat transport universiteti (O‘zbekiston)",
+  "cat": "article",
+  "year": 2023,
+  "lang": "en",
+  "ftype": "PDF",
+  "pages": 0,
+  "kw": [
+   "bitum",
+   "energiya tejovchi qo‘shimchalar",
+   "adgeziya",
+   "reologiya",
+   "дорожный битум",
+   "добавки",
+   "bitumen additives"
+  ],
+  "abs": "Experimental comparison of energy-saving (warm-mix type) additives used in Uzbek road construction and their influence on standard, adhesive and rheological properties of viscous petroleum road bitumen. E3S Web of Conferences 401, 05028 (2023), open access.",
+  "link": "https://www.e3s-conferences.org/articles/e3sconf/pdf/2023/38/e3sconf_conmechydro23_05028.pdf",
+  "intl": false,
+  "tr": {
+   "uz": {
+    "t": "Energiya tejovchi qo‘shimchalarning bitum xossalariga ta’sirini qiyosiy baholash",
+    "ab": "O‘zbekiston yo‘l qurilishida qo‘llanayotgan energiya tejovchi qo‘shimchalarning neft yo‘l bitumining standart, adgezion va reologik xossalariga ta’siri tajribada aniqlangan. Asfaltbeton ishlab chiqarishda harorat va yoqilg‘i sarfini kamaytirish yechimlarini tanlashda qo‘l keladi."
+   }
+  },
+  "fileId": "",
+  "fileUrl": "",
+  "fileName": "",
+  "fileSize": 0,
+  "createdAt": 1794709748485,
+  "updatedAt": 1794709748485
+ },
+ {
+  "id": "a20261115-03",
+  "ident": "YR-20261115-03",
+  "title": "Анализ и применение технологии литого сероасфальтбетона на автомобильных дорогах Республики Узбекистан",
+  "authors": [
+   "И. С. Содиков",
+   "С. М. Тилаков",
+   "Э. С. Соттикулов",
+   "А. Т. Маматмуминов"
+  ],
+  "org": "BNTU (Belarus) — O‘zbek mualliflar",
+  "cat": "article",
+  "year": 2022,
+  "lang": "ru",
+  "ftype": "WEB",
+  "pages": 0,
+  "kw": [
+   "oltingugurtli asfaltbeton",
+   "quyma asfaltbeton",
+   "oltingugurtli bitum",
+   "сероасфальтобетон",
+   "литой асфальтобетон",
+   "sulfur asphalt"
+  ],
+  "abs": "Conference paper (BNTU, Minsk, 2022) reviewing cast asphalt concrete and its properties, and presenting sulfur bitumen obtained by a new modification method together with its application on roads of Uzbekistan. Open repository record with full-text PDF.",
+  "link": "https://rep.bntu.by/handle/data/125150",
+  "intl": false,
+  "tr": {
+   "uz": {
+    "t": "O‘zbekiston avtomobil yo‘llarida quyma oltingugurtli asfaltbeton texnologiyasini tahlil qilish va qo‘llash",
+    "ab": "Quyma asfaltbetonning xossalari ko‘rib chiqilib, bitumni oltingugurt bilan modifikatsiyalashning yangi usuli va uning O‘zbekiston yo‘llarida qo‘llanishi bayon etilgan. Mahalliy oltingugurt resursidan foydalanib bardoshli qoplamalar yaratish uchun muhim."
+   }
+  },
+  "fileId": "",
+  "fileUrl": "",
+  "fileName": "",
+  "fileSize": 0,
+  "createdAt": 1794709748486,
+  "updatedAt": 1794709748486
+ },
+ {
+  "id": "a20261115-04",
+  "ident": "YR-20261115-04",
+  "title": "Research on methods for effective use of machines in kit in construction and repair of asphalt concrete pavement",
+  "authors": [
+   "Z. Maksudov",
+   "M. Kudaybergenov"
+  ],
+  "org": "Toshkent davlat transport universiteti (O‘zbekiston)",
+  "cat": "article",
+  "year": 2023,
+  "lang": "en",
+  "ftype": "PDF",
+  "pages": 0,
+  "kw": [
+   "yo‘l mashinalari",
+   "asfalt yotqizgich",
+   "mashinalar komplekti",
+   "asfaltbeton ta’miri",
+   "дорожные машины",
+   "asphalt paving fleet"
+  ],
+  "abs": "Proposes a methodology for efficient use of asphalt pavers and haul trucks as a machine set, focusing on cost and productivity of hauling and laying asphalt mix, and an optimisation algorithm for the fleet in construction and repair works. E3S Web of Conferences 401, 02054 (2023).",
+  "link": "https://www.e3s-conferences.org/articles/e3sconf/pdf/2023/38/e3sconf_conmechydro23_02054.pdf",
+  "intl": false,
+  "tr": {
+   "uz": {
+    "t": "Asfaltbeton qoplamani qurish va ta’mirlashda mashinalar komplektidan samarali foydalanish usullarini tadqiq qilish",
+    "ab": "Asfaltbeton qorishmasini tashish va yotqizishda mashinalar to‘plamining unumdorligi va tannarxini optimallashtirish algoritmi taklif etilgan. Yo‘l pudratchilari texnika parkini rejalashtirishda amaliy ahamiyatga ega."
+   }
+  },
+  "fileId": "",
+  "fileUrl": "",
+  "fileName": "",
+  "fileSize": 0,
+  "createdAt": 1794709748487,
+  "updatedAt": 1794709748487
+ },
+ {
+  "id": "a20261115-05",
+  "ident": "YR-20261115-05",
+  "title": "Technology of obtaining a binder for the base of asphalt roads and roofing",
+  "authors": [
+   "B. Shukrullaev",
+   "G. Bekturdiev",
+   "N. Isaev",
+   "S. Omonov"
+  ],
+  "org": "UNKI FA / TIQXMMI / TDTrU (O‘zbekiston)",
+  "cat": "article",
+  "year": 2021,
+  "lang": "en",
+  "ftype": "PDF",
+  "pages": 0,
+  "kw": [
+   "bog‘lovchi",
+   "neft shlami",
+   "Muborak",
+   "qayta ishlash",
+   "вяжущее",
+   "нефтешлам",
+   "binder from oil sludge"
+  ],
+  "abs": "Describes processing of local Mubarek oil sludge into a binder for road bases and roofing, including an oxidation route to an asphalt binder and chemical/elemental analysis of the dehydrated sludge. E3S Web of Conferences 264, 05026 (2021).",
+  "link": "https://www.e3s-conferences.org/articles/e3sconf/pdf/2021/40/e3sconf_conmechydro2021_05026.pdf",
+  "intl": false,
+  "tr": {
+   "uz": {
+    "t": "Asfalt yo‘llar asosi va tom yopish uchun bog‘lovchi olish texnologiyasi",
+    "ab": "Muborak neft shlamini qayta ishlab yo‘l asoslari uchun bog‘lovchi olish usuli va uning kimyoviy tarkibi keltirilgan. Mahalliy chiqindilardan yo‘l qurilish materiali olish va importni kamaytirish nuqtai nazaridan dolzarb."
+   }
+  },
+  "fileId": "",
+  "fileUrl": "",
+  "fileName": "",
+  "fileSize": 0,
+  "createdAt": 1794709748488,
+  "updatedAt": 1794709748488
+ },
+ {
+  "id": "a20261115-06",
+  "ident": "YR-20261115-06",
+  "title": "Calculation of monolithic bridges taking into account seismic conditions of Republic of Uzbekistan",
+  "authors": [
+   "U. Shermukhamedov",
+   "A. Karimova",
+   "A. Abdullaev",
+   "I. Hikmatova"
+  ],
+  "org": "Toshkent davlat transport universiteti (O‘zbekiston)",
+  "cat": "article",
+  "year": 2023,
+  "lang": "en",
+  "ftype": "PDF",
+  "pages": 0,
+  "kw": [
+   "ko‘prik",
+   "seysmik hisob",
+   "monolit estakada",
+   "M-39",
+   "мост",
+   "сейсмостойкость",
+   "seismic bridge design"
+  ],
+  "abs": "Dynamic analysis of a monolithic overpass on highway M-39 near Samarkand using two real accelerograms (Gazli and Manjil). Concludes that seismic checks of transport structures should use record sets with dominant frequencies close to site conditions and that this should be reflected in regulations. E3S Web of Conferences 365, 02005 (2023).",
+  "link": "https://www.e3s-conferences.org/articles/e3sconf/pdf/2023/02/e3sconf_conmechydro2023_02005.pdf",
+  "intl": false,
+  "tr": {
+   "uz": {
+    "t": "O‘zbekiston seysmik sharoitini hisobga olgan holda monolit ko‘priklarni hisoblash",
+    "ab": "Samarqand yaqinidagi M-39 yo‘lidagi monolit estakada Gazli va Manjil zilzilalari yozuvlari bilan dinamik hisoblangan. Seysmik hududlarda ko‘priklarni loyihalash me’yorlarini takomillashtirish uchun tavsiyalar beradi."
+   }
+  },
+  "fileId": "",
+  "fileUrl": "",
+  "fileName": "",
+  "fileSize": 0,
+  "createdAt": 1794709748489,
+  "updatedAt": 1794709748489
+ },
+ {
+  "id": "a20261115-07",
+  "ident": "YR-20261115-07",
+  "title": "Calculation of the stress-strain state of monolithic bridges on the action of real seismic impacts",
+  "authors": [
+   "U. Shermukhamedov",
+   "I. Mirzaev",
+   "A. Karimova",
+   "D. Askarova"
+  ],
+  "org": "Toshkent davlat transport universiteti (O‘zbekiston)",
+  "cat": "article",
+  "year": 2023,
+  "lang": "en",
+  "ftype": "PDF",
+  "pages": 0,
+  "kw": [
+   "ko‘prik",
+   "kuchlanish-deformatsiya holati",
+   "zilzila",
+   "MSK-64",
+   "напряжённо-деформированное состояние",
+   "seismic response"
+  ],
+  "abs": "Models a monolithic bridge on the M-39 highway near Samarkand under real Gazli and Manjil records, analysing longitudinal/vertical displacements and normal stresses along the span; finds safety margins for an 8-point MSK-64 event. E3S Web of Conferences 401, 05080 (2023).",
+  "link": "https://www.e3s-conferences.org/articles/e3sconf/pdf/2023/38/e3sconf_conmechydro23_05080.pdf",
+  "intl": false,
+  "tr": {
+   "uz": {
+    "t": "Real seysmik ta’sirlarda monolit ko‘priklarning kuchlanish-deformatsiya holatini hisoblash",
+    "ab": "M-39 yo‘lidagi monolit ko‘prik oralig‘idagi siljish va normal kuchlanishlar real zilzila yozuvlari asosida tahlil qilingan. O‘zbekistondagi ko‘priklarning seysmik bardoshliligini baholashda namunaviy yondashuv."
+   }
+  },
+  "fileId": "",
+  "fileUrl": "",
+  "fileName": "",
+  "fileSize": 0,
+  "createdAt": 1794709748490,
+  "updatedAt": 1794709748490
+ },
+ {
+  "id": "a20261115-08",
+  "ident": "YR-20261115-08",
+  "title": "Безопасность дорожного движения в Республике Узбекистан",
+  "authors": [
+   "С. В. Богданович",
+   "Ж. Нурмурадов",
+   "О. Г. Геливер"
+  ],
+  "org": "BNTU (Belarus) — O‘zbek muallif",
+  "cat": "article",
+  "year": 2022,
+  "lang": "ru",
+  "ftype": "WEB",
+  "pages": 0,
+  "kw": [
+   "yo‘l harakati xavfsizligi",
+   "diagnostika",
+   "avtomatlashtirish",
+   "O‘zbekiston",
+   "безопасность дорожного движения",
+   "road safety"
+  ],
+  "abs": "Short paper in a BNTU collection (2022) examining road traffic safety on the roads of Uzbekistan and arguing for automating the diagnosis of road safety conditions. Open repository record with PDF.",
+  "link": "https://rep.bntu.by/handle/data/122447",
+  "intl": false,
+  "tr": {
+   "uz": {
+    "t": "O‘zbekiston Respublikasida yo‘l harakati xavfsizligi",
+    "ab": "O‘zbekiston yo‘llarida harakat xavfsizligi holati ko‘rib chiqilib, xavfsizlikni diagnostika qilish jarayonini avtomatlashtirish zarurligi asoslangan. Yo‘l xavfsizligi auditi tizimini rivojlantirish uchun foydali manba."
+   }
+  },
+  "fileId": "",
+  "fileUrl": "",
+  "fileName": "",
+  "fileSize": 0,
+  "createdAt": 1794709748491,
+  "updatedAt": 1794709748491
+ },
+ {
+  "id": "a20261115-09",
+  "ident": "YR-20261115-09",
+  "title": "Calculation of the dynamic effects of a monolithic overpass taking into account the post-tensioning of the span rope on the basis of real earthquake records",
+  "authors": [
+   "I. Mirzaev",
+   "U. Z. Shermukhamedov",
+   "A. R. Abdullaev"
+  ],
+  "org": "Science and innovation jurnali (O‘zbekiston)",
+  "cat": "article",
+  "year": 2024,
+  "lang": "en",
+  "ftype": "WEB",
+  "pages": 0,
+  "kw": [
+   "estakada",
+   "oldindan zo‘riqtirish",
+   "zilzila akselerogrammasi",
+   "Jizzax",
+   "путепровод",
+   "преднапряжение",
+   "overpass seismic"
+  ],
+  "abs": "Seismic analysis of a 120 m monolithic road overpass in Jizzakh (8-point zone) over the Tashkent–Samarkand high-speed railway, using Gazli accelerograms and accounting for post-tensioned tendons. Published in the Science and innovation journal and archived on Zenodo with PDF.",
+  "link": "https://zenodo.org/records/12626974",
+  "intl": false,
+  "tr": {
+   "uz": {
+    "t": "Real zilzila yozuvlari asosida oraliq arqonini oldindan zo‘riqtirishni hisobga olib monolit estakadaning dinamik ta’sirlarini hisoblash",
+    "ab": "Jizzaxdagi 120 metrli monolit avtomobil estakadasining 9 ballgacha zilzilalarga bardoshliligi real akselerogrammalar bilan baholangan. Seysmik hududlarda zamonaviy estakadalarni loyihalash amaliyoti uchun dolzarb."
+   }
+  },
+  "fileId": "",
+  "fileUrl": "",
+  "fileName": "",
+  "fileSize": 0,
+  "createdAt": 1794709748492,
+  "updatedAt": 1794709748492
+ },
+ {
+  "id": "a20261115-10",
+  "ident": "YR-20261115-10",
+  "title": "Mechanical and moisture performance of asphalt concrete containing polyurethane-coated basalt fiber and recycled polyethylene",
+  "authors": [
+   "S. Kurbonov",
+   "G. Malikov"
+  ],
+  "org": "Toshkent davlat transport universiteti (O‘zbekiston)",
+  "cat": "article",
+  "year": 2026,
+  "lang": "en",
+  "ftype": "WEB",
+  "pages": 0,
+  "kw": [
+   "asfaltbeton",
+   "bazalt tola",
+   "qayta ishlangan polietilen",
+   "namga chidamlilik",
+   "базальтовое волокно",
+   "basalt fiber asphalt"
+  ],
+  "abs": "Laboratory study of a composite additive of polyurethane-coated basalt fibre and recycled polyethylene for dense-graded and stone-mastic asphalt, reporting higher stability, tensile strength and lower moisture susceptibility, plus partial reuse of RAP. Vibroengineering Procedia 62 (2026), open access.",
+  "link": "https://www.extrica.com/article/26297",
+  "intl": false,
+  "tr": {
+   "uz": {
+    "t": "Poliuretan qoplangan bazalt tola va qayta ishlangan polietilen qo‘shilgan asfaltbetonning mexanik va namga chidamlilik ko‘rsatkichlari",
+    "ab": "Bazalt tola va ikkilamchi polietilendan iborat qo‘shimcha asfaltbetonning mustahkamligi va suvga chidamliligini oshirishi laboratoriyada ko‘rsatilgan. Keskin harorat o‘zgarishi va og‘ir harakatli O‘zbekiston yo‘llari uchun mo‘ljallangan."
+   }
+  },
+  "fileId": "",
+  "fileUrl": "",
+  "fileName": "",
+  "fileSize": 0,
+  "createdAt": 1794709748493,
+  "updatedAt": 1794709748493
+ },
+ {
+  "id": "a20261115-11",
+  "ident": "YR-20261115-11",
+  "title": "The effect of shale mineral powder on the strength of asphalt concrete",
+  "authors": [
+   "Sh. Buriyev",
+   "Sh. Davranov",
+   "Y. Kuchkarov",
+   "I. Saydakberova"
+  ],
+  "org": "Toshkent davlat transport universiteti (O‘zbekiston)",
+  "cat": "article",
+  "year": 2021,
+  "lang": "en",
+  "ftype": "PDF",
+  "pages": 0,
+  "kw": [
+   "mineral kukun",
+   "slanets",
+   "asfaltbeton mustahkamligi",
+   "Samarqand",
+   "Jizzax",
+   "минеральный порошок",
+   "shale filler"
+  ],
+  "abs": "Develops a mineral filler from local shale (Samarkand and Jizzakh regions) for fine-grained hot dense asphalt concrete; tests show lower water absorption and compressive strength at 60–70°C above GOST 9128-2013 requirements, with reduced filler and bitumen content. E3S Web of Conferences 264, 02052 (2021).",
+  "link": "https://www.e3s-conferences.org/articles/e3sconf/pdf/2021/40/e3sconf_conmechydro2021_02052.pdf",
+  "intl": false,
+  "tr": {
+   "uz": {
+    "t": "Slanets mineral kukunining asfaltbeton mustahkamligiga ta’siri",
+    "ab": "Samarqand va Jizzax slanetslaridan olingan mineral kukun asfaltbetonning yuqori haroratdagi mustahkamligini oshirishi va bitum sarfini kamaytirishi ko‘rsatilgan. Mahalliy xomashyodan foydalanib yozgi izlanishga (kolei) qarshi qoplamalar yaratish uchun muhim."
+   }
+  },
+  "fileId": "",
+  "fileUrl": "",
+  "fileName": "",
+  "fileSize": 0,
+  "createdAt": 1794709748494,
+  "updatedAt": 1794709748494
+ },
+ {
+  "id": "a20261115-12",
+  "ident": "YR-20261115-12",
+  "title": "Review of chemical methods for road pavement stabilization: prospects for application in Uzbekistan",
+  "authors": [
+   "R. Hudaykulov",
+   "B. Salimova",
+   "D. Aralov",
+   "A. Kurbanbaev",
+   "N. Osmonkanov"
+  ],
+  "org": "TDTrU (O‘zbekiston) / QDTU (Qirg‘iziston)",
+  "cat": "article",
+  "year": 2025,
+  "lang": "en",
+  "ftype": "WEB",
+  "pages": 0,
+  "kw": [
+   "grunt stabilizatsiyasi",
+   "nanomateriallar",
+   "polimerlar",
+   "lyoss",
+   "yo‘l poyi",
+   "стабилизация грунтов",
+   "soil stabilization"
+  ],
+  "abs": "Review of nanomaterial and polymer additives (nanosilica, nanoclays, carbon nanotubes, polymers) for stabilising subgrade soils, with recommendations by soil type and climate zone for Uzbekistan’s loess and silty clays. Vibroengineering Procedia 58 (2025), open access review.",
+  "link": "https://www.extrica.com/article/24997",
+  "intl": false,
+  "tr": {
+   "uz": {
+    "t": "Yo‘l asoslarini kimyoviy stabilizatsiyalash usullari sharhi: O‘zbekistonda qo‘llash istiqbollari",
+    "ab": "Nanomateriallar va polimerlar yordamida yo‘l poyi gruntlarini mustahkamlash usullari solishtirilib, O‘zbekistonning lyoss va changsimon gruntlariga mos tavsiyalar berilgan. Cho‘kuvchan gruntlarda yo‘l qurishda usul tanlash uchun foydali."
+   }
+  },
+  "fileId": "",
+  "fileUrl": "",
+  "fileName": "",
+  "fileSize": 0,
+  "createdAt": 1794709748495,
+  "updatedAt": 1794709748495
+ },
+ {
+  "id": "a20261115-13",
+  "ident": "YR-20261115-13",
+  "title": "Crack investigation on automobile roads in Tashkent region",
+  "authors": [
+   "M. Mamatkulov",
+   "Sh. Xalimova",
+   "Yu. G. Babaskin"
+  ],
+  "org": "TDTrU (O‘zbekiston) / BNTU (Belarus)",
+  "cat": "article",
+  "year": 2026,
+  "lang": "en",
+  "ftype": "WEB",
+  "pages": 0,
+  "kw": [
+   "yoriqlar",
+   "asfaltbeton qoplama",
+   "dala tadqiqoti",
+   "Toshkent viloyati",
+   "трещины",
+   "crack survey"
+  ],
+  "abs": "Field surveys of road sections in Tashkent region with different traffic, climate and pavement age, recording crack types, widths, lengths and spacing to explain how materials, traffic stresses and environment drive cracking. Vibroengineering Procedia 62 (2026), open access.",
+  "link": "https://www.extrica.com/article/25528",
+  "intl": false,
+  "tr": {
+   "uz": {
+    "t": "Toshkent viloyati avtomobil yo‘llaridagi yoriqlarni tadqiq qilish",
+    "ab": "Toshkent viloyatidagi turli yoshdagi qoplamalarda yoriqlarning turi, kengligi va oralig‘i dala sharoitida qayd etilgan. Yo‘llarni saqlash va ta’mirlashni rejalashtirishda mahalliy ma’lumot bazasi sifatida muhim."
+   }
+  },
+  "fileId": "",
+  "fileUrl": "",
+  "fileName": "",
+  "fileSize": 0,
+  "createdAt": 1794709748496,
+  "updatedAt": 1794709748496
+ },
+ {
+  "id": "a20261115-14",
+  "ident": "YR-20261115-14",
+  "title": "Some issues of forecasting crack formation on automobile roads",
+  "authors": [
+   "M. Mamatkulov",
+   "Sh. Xalimova"
+  ],
+  "org": "Toshkent davlat transport universiteti (O‘zbekiston)",
+  "cat": "article",
+  "year": 2026,
+  "lang": "en",
+  "ftype": "WEB",
+  "pages": 0,
+  "kw": [
+   "yoriq hosil bo‘lishini prognozlash",
+   "asfaltbeton",
+   "harorat",
+   "yoriqlar bazasi",
+   "прогнозирование трещин",
+   "crack prediction"
+  ],
+  "abs": "Discusses causes and development of cracking in asphalt concrete highway pavements, its effect on bearing capacity and safety, and the need for a crack database, using Uzbek regulations and Tashkent-region crack and temperature data. Vibroengineering Procedia 62 (2026), open access.",
+  "link": "https://www.extrica.com/article/25515",
+  "intl": false,
+  "tr": {
+   "uz": {
+    "t": "Avtomobil yo‘llarida yoriq hosil bo‘lishini prognozlashning ayrim masalalari",
+    "ab": "Asfaltbeton qoplamalarda yoriqlar paydo bo‘lish sabablari va rivojlanishi tahlil qilinib, yoriqlar ma’lumotlar bazasini yaratish taklif etilgan. Qoplamalar xizmat muddatini bashorat qilish uchun dolzarb."
+   }
+  },
+  "fileId": "",
+  "fileUrl": "",
+  "fileName": "",
+  "fileSize": 0,
+  "createdAt": 1794709748497,
+  "updatedAt": 1794709748497
+ },
+ {
+  "id": "a20261115-15",
+  "ident": "YR-20261115-15",
+  "title": "Improvement of the physical and mechanical properties of crushed stone used in the construction of asphalt concrete pavements",
+  "authors": [
+   "R. Soataliyev",
+   "D. Yuldashbaev"
+  ],
+  "org": "Toshkent davlat transport universiteti (O‘zbekiston)",
+  "cat": "article",
+  "year": 2026,
+  "lang": "en",
+  "ftype": "WEB",
+  "pages": 0,
+  "kw": [
+   "chaqiq tosh",
+   "adgeziya",
+   "bitum",
+   "TITAN qo‘shimchasi",
+   "щебень",
+   "сцепление",
+   "aggregate adhesion"
+  ],
+  "abs": "Laboratory study on improving crushed stone for asphalt concrete: grading, dust contamination and aggregate–bitumen adhesion, using the TITAN additive which significantly improved bonding. Vibroengineering Procedia 62 (2026), open access.",
+  "link": "https://www.extrica.com/article/25600",
+  "intl": false,
+  "tr": {
+   "uz": {
+    "t": "Asfaltbeton qoplamalar qurilishida ishlatiladigan chaqiq toshning fizik-mexanik xossalarini yaxshilash",
+    "ab": "Chaqiq toshning donadorligi, changlanganligi va bitum bilan yopishishi o‘rganilib, adgezion qo‘shimcha samaradorligi ko‘rsatilgan. Mahalliy karyer materiallari sifatini oshirish uchun foydali."
+   }
+  },
+  "fileId": "",
+  "fileUrl": "",
+  "fileName": "",
+  "fileSize": 0,
+  "createdAt": 1794709748498,
+  "updatedAt": 1794709748498
+ },
+ {
+  "id": "a20261115-16",
+  "ident": "YR-20261115-16",
+  "title": "Road zoning in the Fergana Valley based on the level of traffic safety",
+  "authors": [
+   "A. Urokov",
+   "D. Tashev",
+   "Sh. Tojiboev",
+   "Z. Utashov"
+  ],
+  "org": "TDTrU / FDTU / JizPI (O‘zbekiston)",
+  "cat": "article",
+  "year": 2025,
+  "lang": "en",
+  "ftype": "WEB",
+  "pages": 0,
+  "kw": [
+   "yo‘l harakati xavfsizligi",
+   "rayonlashtirish",
+   "Farg‘ona vodiysi",
+   "YTH statistikasi",
+   "районирование",
+   "безопасность",
+   "road safety zoning"
+  ],
+  "abs": "Develops a traffic-safety zoning method for roads of the Fergana Valley combining crash statistics, road geometry, pavement condition, traffic and climate into a composite indicator, yielding safety categories for planning and countermeasures. Vibroengineering Procedia 60 (2025), open access.",
+  "link": "https://www.extrica.com/article/25508",
+  "intl": false,
+  "tr": {
+   "uz": {
+    "t": "Farg‘ona vodiysi yo‘llarini harakat xavfsizligi darajasi bo‘yicha rayonlashtirish",
+    "ab": "Avariyalar statistikasi, yo‘l geometriyasi va harakat jadalligi asosida Farg‘ona vodiysi yo‘llari xavfsizlik toifalariga ajratilgan. Hududiy yo‘l xavfsizligi dasturlari va xavfli uchastkalarni bartaraf etishda bevosita qo‘llanadi."
+   }
+  },
+  "fileId": "",
+  "fileUrl": "",
+  "fileName": "",
+  "fileSize": 0,
+  "createdAt": 1794709748499,
+  "updatedAt": 1794709748499
+ },
+ {
+  "id": "a20261115-17",
+  "ident": "YR-20261115-17",
+  "title": "Modern strengthening techniques for enhancing the load-carrying capacity of in-service road bridges in Uzbekistan",
+  "authors": [
+   "U. Khamdamov",
+   "A. Ishankhodjaev"
+  ],
+  "org": "Transport vazirligi inspeksiyasi / TDTrU (O‘zbekiston)",
+  "cat": "article",
+  "year": 2025,
+  "lang": "en",
+  "ftype": "WEB",
+  "pages": 0,
+  "kw": [
+   "ko‘priklarni kuchaytirish",
+   "yuk ko‘tarish qobiliyati",
+   "CFRP",
+   "tashqi zo‘riqtirish",
+   "усиление мостов",
+   "bridge strengthening"
+  ],
+  "abs": "Compares strengthening methods for in-service road bridges in Uzbekistan — section enlargement, external prestressing/continuity and CFRP — with a worked 12 m RC girder example and practical notes for arid climate. Vibroengineering Procedia 60 (2025), open access.",
+  "link": "https://www.extrica.com/article/25668",
+  "intl": false,
+  "tr": {
+   "uz": {
+    "t": "O‘zbekistonda foydalanilayotgan avtomobil ko‘priklarining yuk ko‘tarish qobiliyatini oshirishning zamonaviy kuchaytirish usullari",
+    "ab": "Ekspluatatsiyadagi ko‘priklarni an’anaviy, tashqi zo‘riqtirish va uglerod tolali kompozitlar bilan kuchaytirish usullari solishtirilgan. Eskirgan ko‘priklarni rekonstruksiya qilish dasturlari uchun amaliy qo‘llanma vazifasini o‘taydi."
+   }
+  },
+  "fileId": "",
+  "fileUrl": "",
+  "fileName": "",
+  "fileSize": 0,
+  "createdAt": 1794709748500,
+  "updatedAt": 1794709748500
+ },
+ {
+  "id": "a20261115-18",
+  "ident": "YR-20261115-18",
+  "title": "New composition of film-forming materials for maintaining freshly laid cement-concrete road pavements",
+  "authors": [
+   "T. J. Amirov",
+   "M. B. Tukhtayev",
+   "E. S. Sottiqulov"
+  ],
+  "org": "TDTrU / TKTITI (O‘zbekiston)",
+  "cat": "article",
+  "year": 2025,
+  "lang": "en",
+  "ftype": "WEB",
+  "pages": 0,
+  "kw": [
+   "sement-beton",
+   "parvarish",
+   "plyonka hosil qiluvchi material",
+   "gach",
+   "уход за бетоном",
+   "curing compound"
+  ],
+  "abs": "Develops a curing compound for fresh concrete pavements based on ‘Gach’, a local petroleum wax by-product, compared with imported products; lab tests show effective film at lower application rates and lower curing cost. Vibroengineering Procedia 60 (2025), open access.",
+  "link": "https://www.extrica.com/article/25684",
+  "intl": false,
+  "tr": {
+   "uz": {
+    "t": "Yangi yotqizilgan sement-beton yo‘l qoplamalarini parvarishlash uchun plyonka hosil qiluvchi materiallarning yangi tarkibi",
+    "ab": "Mahalliy neft mumi chiqindisi asosida sement-beton qoplamani parvarishlash tarkibi ishlab chiqilib, import mahsulotlar bilan solishtirilgan. Sement-beton yo‘llar qurilishini kengaytirish sharoitida mahalliylashtirish uchun muhim."
+   }
+  },
+  "fileId": "",
+  "fileUrl": "",
+  "fileName": "",
+  "fileSize": 0,
+  "createdAt": 1794709748501,
+  "updatedAt": 1794709748501
+ },
+ {
+  "id": "a20261115-19",
+  "ident": "YR-20261115-19",
+  "title": "Technology for producing modified polymer sulfur bitumen and its properties",
+  "authors": [
+   "A. Mamatmuminov",
+   "I. Sadikov",
+   "I. Xoshimov"
+  ],
+  "org": "Toshkent davlat transport universiteti (O‘zbekiston)",
+  "cat": "article",
+  "year": 2025,
+  "lang": "en",
+  "ftype": "WEB",
+  "pages": 0,
+  "kw": [
+   "polimer-oltingugurtli bitum",
+   "modifikatsiya",
+   "issiqbardoshlik",
+   "polietilen mumi",
+   "серобитум",
+   "sulfur bitumen"
+  ],
+  "abs": "Method for producing polymer–sulfur bitumen for hot climates by blending sulfur and polymer modifiers at controlled temperatures; 3% polyethylene wax raised softening point and viscosity. Vibroengineering Procedia 60 (2025), open access.",
+  "link": "https://www.extrica.com/article/25364",
+  "intl": false,
+  "tr": {
+   "uz": {
+    "t": "Modifikatsiyalangan polimer-oltingugurtli bitum olish texnologiyasi va uning xossalari",
+    "ab": "Oltingugurt va polimer qo‘shimchalar bilan bitumning issiqqa chidamliligini oshirish texnologiyasi taklif etilgan. Issiq iqlimli O‘zbekiston yo‘llari uchun arzon va bardoshli bog‘lovchi yaratishda dolzarb."
+   }
+  },
+  "fileId": "",
+  "fileUrl": "",
+  "fileName": "",
+  "fileSize": 0,
+  "createdAt": 1794709748502,
+  "updatedAt": 1794709748502
+ },
+ {
+  "id": "a20261115-20",
+  "ident": "YR-20261115-20",
+  "title": "Optimization of polymer-sulfur asphalt concrete composition for high-temperature pavement applications",
+  "authors": [
+   "A. Mamatmuminov",
+   "I. Sadikov",
+   "Yu. Vasilyev",
+   "E. Sottiqulov",
+   "B. Tovboyev",
+   "S. Tilakov"
+  ],
+  "org": "TDTrU (O‘zbekiston) / MADI (Rossiya)",
+  "cat": "article",
+  "year": 2026,
+  "lang": "en",
+  "ftype": "WEB",
+  "pages": 0,
+  "kw": [
+   "polimer-oltingugurtli asfaltbeton",
+   "tarkibni loyihalash",
+   "yuqori harorat",
+   "slanets kukuni",
+   "сероасфальтобетон",
+   "mix design"
+  ],
+  "abs": "Selection and calculation of polymer–sulfur asphalt concrete compositions resistant to high temperatures, with granite aggregates and activated shale filler from Samarkand region; seven mixes tested for physical-mechanical properties. Vibroengineering Procedia 62 (2026), open access.",
+  "link": "https://www.extrica.com/article/26333",
+  "intl": false,
+  "tr": {
+   "uz": {
+    "t": "Yuqori haroratli sharoit uchun polimer-oltingugurtli asfaltbeton tarkibini optimallashtirish",
+    "ab": "Samarqand materiallari asosida yetti xil polimer-oltingugurtli asfaltbeton tarkibi sinovdan o‘tkazilgan. IV–V yo‘l-iqlim zonalarida kolei paydo bo‘lishiga qarshi qoplamalar uchun muhim."
+   }
+  },
+  "fileId": "",
+  "fileUrl": "",
+  "fileName": "",
+  "fileSize": 0,
+  "createdAt": 1794709748503,
+  "updatedAt": 1794709748503
+ },
+ {
+  "id": "a20261115-21",
+  "ident": "YR-20261115-21",
+  "title": "Dynamic interaction of bridge spans and piers as a tuned system for seismic load reduction",
+  "authors": [
+   "Z. Rakhimjonov",
+   "F. Zokirov",
+   "A. Lintang"
+  ],
+  "org": "TDTrU (O‘zbekiston) / JGU (Indoneziya)",
+  "cat": "article",
+  "year": 2026,
+  "lang": "en",
+  "ftype": "WEB",
+  "pages": 0,
+  "kw": [
+   "ko‘prik oralig‘i",
+   "tayanch",
+   "seysmik yuklamani kamaytirish",
+   "dinamik so‘ndirgich",
+   "Chirchiq",
+   "сейсмоизоляция",
+   "tuned mass bridge"
+  ],
+  "abs": "Treats the bridge span as a tuned dynamic element to reduce pier seismic response, using a 2-DOF model and parametric selection of span–support stiffness and damping; case study of a highway bridge over the Chirchik River (7–9 point zone). Vibroengineering Procedia 62 (2026), open access.",
+  "link": "https://www.extrica.com/article/26330",
+  "intl": false,
+  "tr": {
+   "uz": {
+    "t": "Seysmik yuklamani kamaytirish uchun ko‘prik oraliq qurilmasi va tayanchlarining sozlangan tizim sifatida dinamik o‘zaro ta’siri",
+    "ab": "Chirchiq daryosi ustidagi avtomobil ko‘prigi misolida oraliq qurilmani dinamik so‘ndirgich sifatida ishlatib, tayanchlardagi eguvchi momentni kamaytirish ko‘rsatilgan. Seysmik faol O‘zbekistonda ko‘priklarni tejamkor loyihalash uchun foydali."
+   }
+  },
+  "fileId": "",
+  "fileUrl": "",
+  "fileName": "",
+  "fileSize": 0,
+  "createdAt": 1794709748504,
+  "updatedAt": 1794709748504
+ },
+ {
+  "id": "a20261115-22",
+  "ident": "YR-20261115-22",
+  "title": "Estimation of a monolithic reinforced concrete overpass under the seismic effect",
+  "authors": [
+   "U. Shermukhamedov",
+   "D. Bekmirzaev",
+   "S. Shaumarov",
+   "A. Karimova",
+   "A. Abdullaev",
+   "X. Liang"
+  ],
+  "org": "TDTrU / MISMI FA (O‘zbekiston)",
+  "cat": "article",
+  "year": 2026,
+  "lang": "en",
+  "ftype": "WEB",
+  "pages": 0,
+  "kw": [
+   "estakada",
+   "seysmik ta’sir",
+   "qoziq poydevor",
+   "Midas Civil",
+   "M-39",
+   "путепровод",
+   "overpass seismic analysis"
+  ],
+  "abs": "Linear spectral finite-element analysis (Midas Civil) of a continuous monolithic RC overpass at km 1083 of highway M-39 in Samarkand; pile-soil pressures within limits, with peak moment near pile head recommended for strengthening. Vibroengineering Procedia 62 (2026), open access.",
+  "link": "https://www.extrica.com/article/25756",
+  "intl": false,
+  "tr": {
+   "uz": {
+    "t": "Seysmik ta’sir ostida monolit temirbeton estakadani baholash",
+    "ab": "Samarqanddagi M-39 yo‘lining 1083-km dagi estakadasi chekli elementlar usulida seysmik hisoblangan va qoziq boshini kuchaytirish tavsiya etilgan. Magistral yo‘llardagi sun’iy inshootlar seysmik xavfsizligi uchun muhim."
+   }
+  },
+  "fileId": "",
+  "fileUrl": "",
+  "fileName": "",
+  "fileSize": 0,
+  "createdAt": 1794709748505,
+  "updatedAt": 1794709748505
+ },
+ {
+  "id": "a20261115-23",
+  "ident": "YR-20261115-23",
+  "title": "Avtomobil transportining yuk aylanmasi hajmi (yillik) — statistik ko‘rsatkich metama’lumotlari",
+  "authors": [
+   "O‘zbekiston Respublikasi Milliy statistika qo‘mitasi"
+  ],
+  "org": "Milliy statistika qo‘mitasi (O‘zbekiston)",
+  "cat": "report",
+  "year": 2026,
+  "lang": "uz",
+  "ftype": "PDF",
+  "pages": 0,
+  "kw": [
+   "yuk aylanmasi",
+   "avtomobil transporti",
+   "statistika",
+   "hududlar",
+   "грузооборот",
+   "freight turnover"
+  ],
+  "abs": "Yillik statistik ko‘rsatkich: avtomobil transportining yuk aylanmasi (mln t-km), 2000-yildan respublika, viloyatlar va Toshkent shahri kesimida. SIAT/SDMX metama’lumot va jadval PDF shaklida.",
+  "link": "https://api.siat.stat.uz/media/uploads/sdmx/sdmx_data_472.pdf",
+  "intl": false,
+  "tr": {},
+  "fileId": "",
+  "fileUrl": "",
+  "fileName": "",
+  "fileSize": 0,
+  "createdAt": 1794709748506,
+  "updatedAt": 1794709748506
+ },
+ {
+  "id": "a20261115-24",
+  "ident": "YR-20261115-24",
+  "title": "Avtomobil transportining yuk aylanmasi hajmi (choraklik) — statistik ko‘rsatkich metama’lumotlari",
+  "authors": [
+   "O‘zbekiston Respublikasi Milliy statistika qo‘mitasi"
+  ],
+  "org": "Milliy statistika qo‘mitasi (O‘zbekiston)",
+  "cat": "report",
+  "year": 2026,
+  "lang": "uz",
+  "ftype": "PDF",
+  "pages": 0,
+  "kw": [
+   "yuk aylanmasi",
+   "choraklik statistika",
+   "avtomobil transporti",
+   "грузооборот",
+   "quarterly freight"
+  ],
+  "abs": "Choraklik statistik ko‘rsatkich: avtomobil transportining yuk aylanmasi hajmi (mln t-km). Milliy statistika qo‘mitasi xizmatlar statistikasi boshqarmasi tomonidan yangilanadi.",
+  "link": "https://api.siat.stat.uz/media/uploads/sdmx/sdmx_data_3269.pdf",
+  "intl": false,
+  "tr": {},
+  "fileId": "",
+  "fileUrl": "",
+  "fileName": "",
+  "fileSize": 0,
+  "createdAt": 1794709748507,
+  "updatedAt": 1794709748507
+ },
+ {
+  "id": "a20261115-25",
+  "ident": "YR-20261115-25",
+  "title": "Avtomobil transportining yo‘lovchi aylanmasi (choraklik) — statistik ko‘rsatkich metama’lumotlari",
+  "authors": [
+   "O‘zbekiston Respublikasi Milliy statistika qo‘mitasi"
+  ],
+  "org": "Milliy statistika qo‘mitasi (O‘zbekiston)",
+  "cat": "report",
+  "year": 2026,
+  "lang": "uz",
+  "ftype": "PDF",
+  "pages": 0,
+  "kw": [
+   "yo‘lovchi aylanmasi",
+   "avtomobil transporti",
+   "choraklik statistika",
+   "пассажирооборот",
+   "passenger turnover"
+  ],
+  "abs": "Choraklik statistik ko‘rsatkich: avtomobil transportining yo‘lovchi aylanmasi. Yo‘llardagi harakat talabini baholash uchun rasmiy ma’lumot manbai.",
+  "link": "https://api.siat.stat.uz/media/uploads/sdmx/sdmx_data_3280.pdf",
+  "intl": false,
+  "tr": {},
+  "fileId": "",
+  "fileUrl": "",
+  "fileName": "",
+  "fileSize": 0,
+  "createdAt": 1794709748508,
+  "updatedAt": 1794709748508
+ },
+ {
+  "id": "trbidea-227",
+  "ident": "TRB-IDEA-227",
+  "title": "Adjustable Cross-frames for the Erection of Steel Girder Bridges",
+  "authors": [
+   "TRB NCHRP IDEA Program"
+  ],
+  "org": "TRB / NCHRP IDEA (AQSh)",
+  "cat": "report",
+  "year": 2025,
+  "lang": "en",
+  "ftype": "WEB",
+  "pages": 0,
+  "kw": [
+   "ko‘prik",
+   "po‘lat to‘sin",
+   "ko‘ndalang bog‘lagich",
+   "montaj",
+   "qiyshiq ko‘prik"
+  ],
+  "abs": "IDEA Project 227 tackled the poor fit of cross-frames in curved and heavily skewed steel girder bridges, where girders twist and deflect unevenly during erection. The team developed a deployable adjustable cross-frame tool, studied it numerically and demonstrated it in laboratory experiments as a low-cost aid to installation.",
+  "link": "https://trb.org/Main/Blurbs/183307.aspx",
+  "intl": true,
+  "tr": {
+   "uz": {
+    "t": "Po‘lat to‘sinli ko‘priklarni o‘rnatish uchun sozlanadigan ko‘ndalang bog‘lagichlar",
+    "ab": "Egri va keskin qiyshiq po‘lat to‘sinli ko‘priklarda montaj paytida to‘sinlar buralib, ko‘ndalang bog‘lagichlarni joyiga moslash qiyinlashadi; loyiha shu muammoni yechuvchi sozlanadigan qurilmani ishlab chiqib, hisob va tajriba orqali sinagan. O‘zbekistonda yo‘l o‘tkazgichlar va murakkab geometriyali ko‘priklar ko‘payayotgani sababli montaj sifatini oshirish uchun foydali tajriba."
+   }
+  },
+  "fileId": "",
+  "fileUrl": "",
+  "fileName": "",
+  "fileSize": 0,
+  "createdAt": 1794714323217,
+  "updatedAt": 1794714323217
+ },
+ {
+  "id": "trbidea-237",
+  "ident": "TRB-IDEA-237",
+  "title": "New Tool for Predicting the Retroreflectivity (RL) of Pavement Markings",
+  "authors": [
+   "TRB NCHRP IDEA Program"
+  ],
+  "org": "TRB / NCHRP IDEA (AQSh)",
+  "cat": "report",
+  "year": 2025,
+  "lang": "en",
+  "ftype": "WEB",
+  "pages": 0,
+  "kw": [
+   "yo‘l chizig‘i",
+   "retroreflektivlik",
+   "mashinali o‘qitish",
+   "yo‘l belgilari",
+   "ko‘rinuvchanlik"
+  ],
+  "abs": "IDEA Project 237 built a machine-learning decision tool that forecasts pavement marking retroreflectivity up to three years ahead using only the initial measured value and routinely available project data. It targets agencies that cannot afford regular field measurement and restripe on visual checks or fixed schedules.",
+  "link": "https://trb.org/Main/Blurbs/183315.aspx",
+  "intl": true,
+  "tr": {
+   "uz": {
+    "t": "Yo‘l chiziqlarining retroreflektivligini bashorat qilish uchun yangi vosita",
+    "ab": "Mashinali o‘qitishga asoslangan vosita yo‘l chizig‘ining boshlang‘ich yorug‘lik qaytarish ko‘rsatkichi va oddiy loyiha ma’lumotlari bo‘yicha uch yilgacha bo‘lgan holatini oldindan aytadi. Bu chiziqlarni qayta bo‘yashni jadval yoki ko‘z bilan baholash o‘rniga ma’lumotga tayanib rejalashtirishga imkon beradi — O‘zbekistonda tungi xavfsizlik va bo‘yoq xarajatlarini tejash uchun muhim."
+   }
+  },
+  "fileId": "",
+  "fileUrl": "",
+  "fileName": "",
+  "fileSize": 0,
+  "createdAt": 1794714323218,
+  "updatedAt": 1794714323218
+ },
+ {
+  "id": "trbidea-238",
+  "ident": "TRB-IDEA-238",
+  "title": "Low-Cost Sensing System for the Detection and Classification of Wide Base Tire Types and Distribution at the Network Level",
+  "authors": [
+   "TRB NCHRP IDEA Program"
+  ],
+  "org": "TRB / NCHRP IDEA (AQSh)",
+  "cat": "report",
+  "year": 2025,
+  "lang": "en",
+  "ftype": "WEB",
+  "pages": 0,
+  "kw": [
+   "harakat monitoringi",
+   "keng shina",
+   "datchik",
+   "transport tasnifi",
+   "qoplama yuklanishi"
+  ],
+  "abs": "IDEA Project 238 developed an inexpensive traffic sensing system that uses sensors embedded in EPDM rubber strips with force transducer technology to measure tire width, vehicle class and wheel wander at highway speed. It is intended for busy corridors to track wide-base (super single) tires and their effect on pavements.",
+  "link": "https://trb.org/Main/Blurbs/183308.aspx",
+  "intl": true,
+  "tr": {
+   "uz": {
+    "t": "Tarmoq darajasida keng profilli shinalar turini aniqlash va tasniflash uchun arzon datchik tizimi",
+    "ab": "Rezina tasmaga o‘rnatilgan kuch datchiklari yordamida avtomagistral tezligida shina kengligi, transport toifasi va g‘ildirak izining siljishini o‘lchaydigan arzon tizim yaratilgan. Og‘ir yuk mashinalari oqimi ko‘p bo‘lgan O‘zbekiston magistrallarida qoplamaga tushadigan real yukni baholash va loyihalash uchun foydali."
+   }
+  },
+  "fileId": "",
+  "fileUrl": "",
+  "fileName": "",
+  "fileSize": 0,
+  "createdAt": 1794714323219,
+  "updatedAt": 1794714323219
+ },
+ {
+  "id": "trbidea-239",
+  "ident": "TRB-IDEA-239",
+  "title": "A Real-Time Ice Warning System Empowered by Dielectric Ice Sensors for Bridges",
+  "authors": [
+   "TRB NCHRP IDEA Program"
+  ],
+  "org": "TRB / NCHRP IDEA (AQSh)",
+  "cat": "report",
+  "year": 2025,
+  "lang": "en",
+  "ftype": "WEB",
+  "pages": 0,
+  "kw": [
+   "muzlash",
+   "ko‘prik qoplamasi",
+   "qishki saqlash",
+   "datchik",
+   "ogohlantirish tizimi"
+  ],
+  "abs": "IDEA Project 239 produced a real-time active ice warning system for bridge decks based on a sensor that reads the dielectric constant of the surface layer using time domain reflectometry. The system classifies deck surface condition so that icing can be flagged to drivers and maintenance crews in time.",
+  "link": "https://trb.org/Main/Blurbs/183313.aspx",
+  "intl": true,
+  "tr": {
+   "uz": {
+    "t": "Dielektrik muz datchiklariga asoslangan ko‘priklar uchun real vaqtli muzlash ogohlantirish tizimi",
+    "ab": "Ko‘prik qoplamasi yuzasining dielektrik doimiysini TDR usulida o‘lchab, sirt holatini (quruq, nam, muz) real vaqtda aniqlovchi ogohlantirish tizimi ishlab chiqilgan. O‘zbekistonning tog‘li va shimoliy hududlarida ko‘priklar yo‘ldan oldin muzlashi sababli qishki saqlash va xavfsizlik uchun bevosita foydali."
+   }
+  },
+  "fileId": "",
+  "fileUrl": "",
+  "fileName": "",
+  "fileSize": 0,
+  "createdAt": 1794714323220,
+  "updatedAt": 1794714323220
+ },
+ {
+  "id": "trbidea-241",
+  "ident": "TRB-IDEA-241",
+  "title": "Producing DynaSignal: A Novel Aerodynamic Solution for Traffic Signal Lights to Mitigate Large Vibrations and Fatigue-Related Issues in Structural Supports of Traffic Signals",
+  "authors": [
+   "TRB NCHRP IDEA Program"
+  ],
+  "org": "TRB / NCHRP IDEA (AQSh)",
+  "cat": "report",
+  "year": 2025,
+  "lang": "en",
+  "ftype": "WEB",
+  "pages": 0,
+  "kw": [
+   "svetofor",
+   "shamol tebranishi",
+   "charchoq",
+   "konsol tayanch",
+   "aerodinamika"
+  ],
+  "abs": "IDEA Project 241, a Type II follow-on to earlier wind-tunnel and simulation work, implemented an aerodynamic signal-light design on a full-scale cantilevered traffic signal structure exposed to natural wind. Long-term monitoring of an in-service structure was used to validate vibration reduction and estimate the extension of fatigue life at pole-to-arm connections.",
+  "link": "https://trb.org/Main/Blurbs/183333.aspx",
+  "intl": true,
+  "tr": {
+   "uz": {
+    "t": "DynaSignal: svetofor tayanchlarida kuchli tebranish va charchoqni kamaytiruvchi aerodinamik yechim",
+    "ab": "Konsolli svetofor tayanchlarida shamol tebranishi ustun va konsol ulanishida charchoq yoriqlariga olib keladi; loyiha aerodinamik svetofor korpusini real shamolda to‘liq o‘lchamli inshootda sinab, tebranish kamayishini uzoq muddat kuzatgan. Shamolli hududlarda svetofor va belgi tayanchlari xizmat muddatini uzaytirish uchun O‘zbekistonda ham qo‘llasa bo‘ladi."
+   }
+  },
+  "fileId": "",
+  "fileUrl": "",
+  "fileName": "",
+  "fileSize": 0,
+  "createdAt": 1794714323221,
+  "updatedAt": 1794714323221
+ },
+ {
+  "id": "trbidea-242",
+  "ident": "TRB-IDEA-242",
+  "title": "Development of an AI-Powered Dynamic Modulus Test with a Low-Cost Loading Frame",
+  "authors": [
+   "TRB NCHRP IDEA Program"
+  ],
+  "org": "TRB / NCHRP IDEA (AQSh)",
+  "cat": "report",
+  "year": 2025,
+  "lang": "en",
+  "ftype": "WEB",
+  "pages": 0,
+  "kw": [
+   "asfaltbeton",
+   "dinamik modul",
+   "IDEAL-E*",
+   "sun’iy intellekt",
+   "laboratoriya sinovi"
+  ],
+  "abs": "IDEA Project 242 developed IDEAL-E*, an AI-assisted test that estimates the dynamic modulus of asphalt mixtures on an inexpensive loading frame instead of costly servo-hydraulic equipment. The goal is a quick, practical E* measurement for routine use by highway agencies and industry, since E* is a key input to mechanistic pavement design.",
+  "link": "https://trb.org/Main/Blurbs/183321.aspx",
+  "intl": true,
+  "tr": {
+   "uz": {
+    "t": "Arzon yuklash ramasi va sun’iy intellekt asosidagi dinamik modul sinovini ishlab chiqish",
+    "ab": "Asfaltbetonning dinamik modulini (E*) qimmat servogidravlik uskunasiz, arzon yuklash ramasi va sun’iy intellekt yordamida aniqlovchi IDEAL-E* sinovi yaratilgan. E* qoplamani mexanik-empirik loyihalashda asosiy parametr bo‘lgani uchun bu usul O‘zbekiston laboratoriyalarida asfalt sifatini nazorat qilishni arzonlashtirishi mumkin."
+   }
+  },
+  "fileId": "",
+  "fileUrl": "",
+  "fileName": "",
+  "fileSize": 0,
+  "createdAt": 1794714323222,
+  "updatedAt": 1794714323222
+ },
+ {
+  "id": "trbidea-247",
+  "ident": "TRB-IDEA-247",
+  "title": "Augmenting the Hearing of Safety-Critical Sounds for Highway Workers Using Artificial Intelligence",
+  "authors": [
+   "TRB NCHRP IDEA Program"
+  ],
+  "org": "TRB / NCHRP IDEA (AQSh)",
+  "cat": "report",
+  "year": 2025,
+  "lang": "en",
+  "ftype": "WEB",
+  "pages": 0,
+  "kw": [
+   "ish zonasi xavfsizligi",
+   "eshitishni himoyalash",
+   "sun’iy intellekt",
+   "yo‘l ishchilari",
+   "ogohlantiruvchi signal"
+  ],
+  "abs": "IDEA Project 247 explored a wearable AI-augmented hearing protector that filters noise in real time while letting through safety-critical sounds such as backup alarms and intrusion warnings. It aims to protect highway construction workers from hearing loss without blocking the signals that warn them of danger.",
+  "link": "https://trb.org/Main/Blurbs/183332.aspx",
+  "intl": true,
+  "tr": {
+   "uz": {
+    "t": "Sun’iy intellekt yordamida yo‘l ishchilariga xavf signallarini eshitishni kuchaytirish",
+    "ab": "Shovqinni real vaqtda filtrlab, orqaga yurish signali va ish zonasiga transport bostirib kirishi haqidagi ogohlantirishlarni o‘tkazib yuboradigan aqlli eshitish himoya vositasi o‘rganilgan. Faol harakat ostida ta’mirlash ishlari olib boriladigan O‘zbekiston yo‘llarida ishchilar xavfsizligi uchun dolzarb."
+   }
+  },
+  "fileId": "",
+  "fileUrl": "",
+  "fileName": "",
+  "fileSize": 0,
+  "createdAt": 1794714323223,
+  "updatedAt": 1794714323223
  }
 ]
