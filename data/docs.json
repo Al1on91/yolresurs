@@ -8670,5 +8670,203 @@
   "fileSize": 0,
   "createdAt": 1794796141544,
   "updatedAt": 1794796141544
+ },
+ {
+  "id": "a20261116-21",
+  "ident": "YR-20261116-21",
+  "title": "Mahalliy barqarorlashtiruvchi qo‘shimcha asosida polimer-chaqiq tosh-mastikali asfaltbeton qoplamalarini ekspluatatsion ko‘rsatkichlarini oshirish",
+  "authors": [
+   "Kurbonov Salohiddin Ziyadullayevich"
+  ],
+  "org": "Toshkent davlat transport universiteti (O‘zbekiston)",
+  "cat": "thesis",
+  "year": 2025,
+  "lang": "uz",
+  "ftype": "PDF",
+  "pages": 0,
+  "kw": [
+   "polimer-chaqiq tosh-mastikali asfaltbeton",
+   "barqarorlashtiruvchi qo‘shimcha",
+   "bazalt tolasi",
+   "izchil iz",
+   "PhD dissertatsiya",
+   "щебеночно-мастичный асфальтобетон",
+   "stone mastic asphalt"
+  ],
+  "abs": "Texnika fanlari bo‘yicha falsafa doktori (PhD) dissertatsiyasi avtoreferati, 05.09.02 – “Geotexnika” ixtisosligi, TDTU huzuridagi PhD.15/31.08.2022.T.73.05 ilmiy kengash. Ishda mahalliy xomashyodan olingan barqarorlashtiruvchi qo‘shimcha (modifikatsiyalangan bazalt va sellyuloza tolasi, polimer-bitum) asosidagi chaqiq tosh-mastikali asfaltbeton tadqiq etilgan. Izchil iz hosil bo‘lishiga, suvbardoshlik va yoriqbardoshlikka ta’siri o‘rganilib, Toshkent halqa yo‘lida (M39b) tajriba uchastkasi sinovdan o‘tkazilgan.",
+  "link": "https://api.ziyonet.uz/uploads/books/10001253/1joboV8aEAMcqy3.pdf",
+  "intl": false,
+  "tr": {},
+  "fileId": "",
+  "fileUrl": "",
+  "fileName": "",
+  "fileSize": 0,
+  "createdAt": 1794816000001,
+  "updatedAt": 1794816000001
+ },
+ {
+  "id": "a20261116-22",
+  "ident": "YR-20261116-22",
+  "title": "Ekspluatatsiya qilinayotgan avtoyo‘l temirbeton ko‘priklarining yuk ko‘tarish qobiliyatini oshirish usullarini takomillashtirish",
+  "authors": [
+   "Zokirov Faxriddin Zohidjon o‘g‘li"
+  ],
+  "org": "Toshkent davlat transport universiteti (O‘zbekiston)",
+  "cat": "thesis",
+  "year": 2024,
+  "lang": "uz",
+  "ftype": "PDF",
+  "pages": 0,
+  "kw": [
+   "temirbeton ko‘prik",
+   "yuk ko‘tarish qobiliyati",
+   "oraliq qurilma",
+   "kuchaytirish",
+   "PhD dissertatsiya",
+   "железобетонные мосты",
+   "bridge strengthening"
+  ],
+  "abs": "Texnika fanlari bo‘yicha falsafa doktori (PhD) dissertatsiyasi avtoreferati, 05.09.02 – “Geotexnika” (Ko‘priklar, transport tonnellari va metropolitenlar) ixtisosligi, TDTU huzuridagi DSc.15/31.08.2022.T.73.04 ilmiy kengash. Ishda foydalanilayotgan avtomobil yo‘li temirbeton ko‘priklarining yuk ko‘tarish qobiliyatini oshirish usullari ko‘rib chiqilgan. Asosiy yondashuv — qo‘shimcha beton qatlami hisobiga oraliq qurilmaning ishchi balandligini oshirish.",
+  "link": "https://api.ziyonet.uz/uploads/books/10000014/7Dq2DMCWpRHFMcf.pdf",
+  "intl": false,
+  "tr": {},
+  "fileId": "",
+  "fileUrl": "",
+  "fileName": "",
+  "fileSize": 0,
+  "createdAt": 1794816000002,
+  "updatedAt": 1794816000002
+ },
+ {
+  "id": "a20261116-23",
+  "ident": "YR-20261116-23",
+  "title": "Yo‘l-transport majmuasi resurs salohiyati boshqaruvi samaradorligini oshirish metodologiyasini takomillashtirish",
+  "authors": [
+   "Ravshanov Malik Naimovich"
+  ],
+  "org": "Toshkent davlat transport universiteti (O‘zbekiston)",
+  "cat": "thesis",
+  "year": 2024,
+  "lang": "uz",
+  "ftype": "PDF",
+  "pages": 0,
+  "kw": [
+   "yo‘l-transport majmuasi",
+   "resurs salohiyati",
+   "menejment",
+   "monitoring markazi",
+   "DSc dissertatsiya",
+   "дорожно-транспортный комплекс",
+   "resource management"
+  ],
+  "abs": "Iqtisod fanlari doktori (DSc) dissertatsiyasi avtoreferati, 08.00.13 “Menejment” va 08.00.05 ixtisosliklari, TDTU huzuridagi DSc.15/31.12.2020.I.09.04 ilmiy kengash. Ish yo‘l-transport majmuasining resurs salohiyatini boshqarish samaradorligini oshirish metodologiyasiga bag‘ishlangan. Resurs samaradorligini baholash usullari va monitoring markazi tashkil etish taklif qilingan; bu muhandislik emas, iqtisodiy-boshqaruv yo‘nalishidagi tadqiqot.",
+  "link": "https://turan-edu.uz/media/books/2024/05/28/a7b79709-1a97-4537-b725-b5223373b156.pdf",
+  "intl": false,
+  "tr": {},
+  "fileId": "",
+  "fileUrl": "",
+  "fileName": "",
+  "fileSize": 0,
+  "createdAt": 1794816000003,
+  "updatedAt": 1794816000003
+ },
+ {
+  "id": "a20261116-24",
+  "ident": "YR-20261116-24",
+  "title": "Tog‘li avtomobil yo‘llarida transport oqimining harakat sharoitini baholashni modellashtirish (“Qamchiq” dovoni misolida)",
+  "authors": [
+   "Quljonov Farhod Berdiyorovich"
+  ],
+  "org": "Toshkent davlat transport universiteti (O‘zbekiston)",
+  "cat": "thesis",
+  "year": 2026,
+  "lang": "uz",
+  "ftype": "WEB",
+  "pages": 0,
+  "kw": [
+   "tog‘li yo‘llar",
+   "transport oqimi",
+   "Qamchiq dovoni",
+   "yo‘l harakati xavfsizligi",
+   "PhD dissertatsiya",
+   "горные дороги",
+   "traffic flow modelling"
+  ],
+  "abs": "Texnika fanlari bo‘yicha falsafa doktori (PhD) dissertatsiyasi, 05.09.02 – “Geotexnika” (Yo‘llar, yo‘llarni raqamlashtirish va yo‘l harakati xavfsizligi) ixtisosligi. Himoya TDTU huzuridagi PhD.10/2025.27.12.T.01.05 ilmiy kengashida 2026-yil 8-sentabrga belgilangan edi. Ishda tog‘li avtomobil yo‘llarida transport oqimining harakat sharoitini baholash modellashtirilgan, “Qamchiq” dovoni misolida. Havola rasmiy himoya e’loniga olib boradi; avtoreferat matni hozircha ochiq havolada emas.",
+  "link": "https://uza.uz/oz/posts/quljonov-farhod-berdiyorovichning-texnika-fanlari-boyicha-falsafa-doktori-phd-dissertatsiya-ishi-himoyasi-togrisida_894544",
+  "intl": false,
+  "tr": {},
+  "fileId": "",
+  "fileUrl": "",
+  "fileName": "",
+  "fileSize": 0,
+  "createdAt": 1794816000004,
+  "updatedAt": 1794816000004
+ },
+ {
+  "id": "a20261116-25",
+  "ident": "YR-20261116-25",
+  "title": "Sho‘rlangan gruntli yo‘l poyi ishchi qatlamining takroriy yuklamalar ta’sirida hisobiy ko‘rsatkichlarini asoslash",
+  "authors": [
+   "Kayumov Dilshod Abdubakiyevich"
+  ],
+  "org": "Toshkent davlat transport universiteti (O‘zbekiston)",
+  "cat": "thesis",
+  "year": 2022,
+  "lang": "uz",
+  "ftype": "WEB",
+  "pages": 0,
+  "kw": [
+   "yo‘l poyi",
+   "sho‘rlangan grunt",
+   "takroriy yuklama",
+   "ishchi qatlam",
+   "PhD dissertatsiya",
+   "засоленные грунты",
+   "subgrade"
+  ],
+  "abs": "Texnika fanlari bo‘yicha falsafa doktori (PhD) dissertatsiyasi, 05.09.02 ixtisosligi, TDTU huzuridagi DSc.18/30.12.2019.T.09.01 ilmiy kengash. Ishda sho‘rlangan gruntlardan tashkil topgan yo‘l poyi ishchi qatlamining takroriy transport yuklamalari ostidagi hisobiy ko‘rsatkichlari asoslangan. Himoya 2022-yil 5-fevralga e’lon qilingan; havola rasmiy himoya e’loniga olib boradi.",
+  "link": "https://uza.uz/en/posts/kayumov-dilshod-abdubakiyevichning-texnika-fanlari-boyicha-falsafa-doktori-phd-dissertatsiya-ishi-himoyasi-togrisida_339655",
+  "intl": false,
+  "tr": {},
+  "fileId": "",
+  "fileUrl": "",
+  "fileName": "",
+  "fileSize": 0,
+  "createdAt": 1794816000005,
+  "updatedAt": 1794816000005
+ },
+ {
+  "id": "a20261116-26",
+  "ident": "YR-20261116-26",
+  "title": "Kompozit gruntlar tarkibini ularning mexanik ko‘rsatgichlariga ta’siri",
+  "authors": [
+   "Azimova Shaxlo Nizomovna"
+  ],
+  "org": "Mirzo Ulug‘bek nomidagi Samarqand davlat texnika universiteti (O‘zbekiston)",
+  "cat": "thesis",
+  "year": 2025,
+  "lang": "uz",
+  "ftype": "WEB",
+  "pages": 0,
+  "kw": [
+   "kompozit gruntlar",
+   "grunt mexanikasi",
+   "asos va poydevor",
+   "geotexnika",
+   "PhD dissertatsiya",
+   "композитные грунты",
+   "soil mechanics"
+  ],
+  "abs": "Texnika fanlari bo‘yicha falsafa doktori (PhD) dissertatsiyasi, 05.09.02 – “Asoslar, poydevor va yer osti inshootlari. Ko‘priklar va transport tonnellari. Yo‘llar, metropolitenlar” ixtisosligi. Himoya 2025-yil 25-iyulda Samarqandda PhD.26/26.01.2023.T.109.02 ilmiy kengashida bo‘lib o‘tgan. Ishda kompozit gruntlar tarkibining ularning mexanik ko‘rsatkichlariga ta’siri o‘rganilgan; mavzu yo‘l poyi va asoslar geotexnikasiga tegishli, lekin bevosita yo‘l qoplamasi haqida emas.",
+  "link": "https://sdtu.uz/news/dissertatsiya-ishi-himoyasi",
+  "intl": false,
+  "tr": {},
+  "fileId": "",
+  "fileUrl": "",
+  "fileName": "",
+  "fileSize": 0,
+  "createdAt": 1794816000006,
+  "updatedAt": 1794816000006
  }
 ]
