@@ -478,5 +478,29 @@
   "source": "Rossiyskaya gazeta",
   "url": "https://rg.ru/2026/11/12/na-polnoj-skorosti.html",
   "createdAt": 1794535395503
+ },
+ {
+  "id": "trb-20261115-01",
+  "scope": "foreign",
+  "cat": "lab",
+  "country": "AQSh",
+  "date": "2026-11-15",
+  "title": "NCHRP IDEA: asfaltbeton dinamik modulini arzon uskunada aniqlovchi IDEAL-E* sinovi",
+  "summary": "AQShning NCHRP IDEA dasturi 242-loyiha yakuniy hisobotini e’lon qildi: asfaltbeton dinamik moduli sun’iy intellekt va arzon yuklash ramasi yordamida o‘lchanadi. Usul qimmat servogidravlik uskunaga ehtiyojni kamaytirib, qoplamani loyihalash uchun zarur E* ko‘rsatkichini kundalik nazoratga olib kirishni maqsad qiladi.",
+  "source": "TRB NCHRP IDEA",
+  "url": "https://trb.org/Main/Blurbs/183321.aspx",
+  "createdAt": 1794714323228
+ },
+ {
+  "id": "trb-20261115-02",
+  "scope": "foreign",
+  "cat": "winter",
+  "country": "AQSh",
+  "date": "2026-11-15",
+  "title": "Ko‘priklar uchun real vaqtli muzlash ogohlantirish tizimi — NCHRP IDEA 239 yakuniy hisoboti",
+  "summary": "NCHRP IDEA 239-loyihasida ko‘prik qoplamasi sirtining dielektrik xossasini TDR usulida o‘lchaydigan datchik asosida muzlashni oldindan ogohlantiruvchi tizim yaratildi. Tizim haydovchilar va qishki saqlash xizmatlariga muz paydo bo‘lishi haqida o‘z vaqtida xabar berishga mo‘ljallangan.",
+  "source": "TRB NCHRP IDEA",
+  "url": "https://trb.org/Main/Blurbs/183313.aspx",
+  "createdAt": 1794714323229
  }
 ]
