@@ -13878,5 +13878,531 @@
   "fileSize": 0,
   "createdAt": 1795314625520,
   "updatedAt": 1795314625520
+ },
+ {
+  "id": "trbidea-037",
+  "ident": "TRB-IDEA-037",
+  "title": "In-Service Repair of Highway Bridges and Pavements by Internal Time-Release of Repair Chemicals",
+  "authors": [
+   "Carolyn Dry",
+   "University of Illinois at Urbana-Champaign"
+  ],
+  "org": "TRB / NCHRP IDEA (AQSh)",
+  "cat": "report",
+  "year": 2001,
+  "lang": "en",
+  "ftype": "PDF",
+  "pages": 0,
+  "kw": [
+   "o‘z-o‘zini tiklovchi beton",
+   "yoriqlarni ta’mirlash",
+   "yelim kapsulalar",
+   "ko‘prik qoplamasi",
+   "beton"
+  ],
+  "abs": "The project embedded adhesive-filled glass tubes in concrete so that cracking breaks the tubes and releases adhesive into the crack while the structure stays in service. Lab frames, full-scale bridge deck slabs and small beams were tested with cyanoacrylate, epoxy and silicone. Cyanoacrylate sealed cracks best and shrinkage tubes acted as control joints, but beam results were largely inconclusive and the work was described as preliminary.",
+  "link": "https://onlinepubs.trb.org/onlinepubs/archive/studies/idea/finalreports/highway/NCHRP037_Final_Report.pdf",
+  "intl": true,
+  "tr": {
+   "uz": {
+    "t": "Ta’mirlovchi kimyoviy moddalarni ichkaridan sekin ajratish orqali ko‘prik va qoplamalarni foydalanish davrida ta’mirlash",
+    "ab": "Betonda yoriq paydo bo‘lganda uning ichiga joylangan shisha naychalar sinib, yelimni o‘zi yoriqqa chiqarishi — ya’ni inshootni to‘xtatmasdan \"o‘z-o‘zini ta’mirlash\" g‘oyasi sinaldi. Laboratoriya ramalarida, to‘rtta to‘liq o‘lchamli ko‘prik qoplamasi plitasida va kichik balkalarda sianoakrilat, epoksid va silikon yelimlar tekshirildi. Sianoakrilat yoriqlarni eng mustahkam yopdi; faqat sirtqi yelimli plita ikkinchi yuklashda dastlabki 1500 psi o‘rniga taxminan 1800 psi ko‘tardi (≈20% ko‘p), nazorat plitasi esa ≈33% kuchsizlandi, biroq balkalarda yoriq ≈1/3 dyuymgacha kengayib, natija aniq bo‘lmadi. O‘zbekistonda yozgi issiq va keskin harorat farqidan betonning kirishib yorilishi keng tarqalgan, shu sababli bu yondashuv ko‘prik qoplamalarini suv va tuzdan himoya qilishda kelajakda qo‘llanishi mumkin bo‘lgan g‘oya sifatida qiziqarli."
+   }
+  },
+  "fileId": "",
+  "fileUrl": "",
+  "fileName": "",
+  "fileSize": 0,
+  "createdAt": 1,
+  "updatedAt": 1
+ },
+ {
+  "id": "trbidea-084",
+  "ident": "TRB-IDEA-084",
+  "title": "Mechanics-Based Asphalt Binder Test Method for Low Temperature Performance Prediction",
+  "authors": [
+   "Simon A. M. Hesp",
+   "Queen's University (Kanada)"
+  ],
+  "org": "TRB / NCHRP IDEA (AQSh)",
+  "cat": "report",
+  "year": 2004,
+  "lang": "en",
+  "ftype": "PDF",
+  "pages": 0,
+  "kw": [
+   "bitum",
+   "past haroratda yorilish",
+   "PG klassifikatsiya",
+   "sinish mexanikasi",
+   "bitum eskirishi"
+  ],
+  "abs": "Standard low-temperature binder grading (AASHTO M320/MP1a) failed to explain why same-grade sections in northern Ontario cracked very differently. Using 17 trial sections, extended conditioning, spectroscopy of aged binders and notched fracture tests, the study showed physical aging, notch sensitivity and field oxidation beyond PAV predictions drive early cracking. A fracture-energy based criterion predicted cracking onset more closely than current grading.",
+  "link": "https://onlinepubs.trb.org/onlinepubs/archive/studies/idea/finalreports/highway/nchrp84_final_report.pdf",
+  "intl": true,
+  "tr": {
+   "uz": {
+    "t": "Past haroratda bitum ishlashini bashorat qilishning mexanikaga asoslangan sinov usuli",
+    "ab": "Shimoliy Ontariodagi 17 ta tajriba uchastkasida bir xil PG markali bitumli qoplamalar nega turlicha yorilishi o‘rganildi: bir yo‘lda bir xil markali ikki uchastkada ko‘ndalang yoriqlar soni qariyb 20 baravar farq qildi. Bitumlar uzoqroq (12 va 72 soat) sovuqda saqlanib, spektroskopiya va kesikli namunalarda sinish sinovlari o‘tkazildi; 12 soatdan so‘ng sifatsiz bitumlar markasini 10–13 °C ga yo‘qotdi, yaxshisi faqat 3 °C, sirtqi 2,5 sm qatlamdagi oksidlanish esa laboratoriya RTFO+PAV eskirtirishidan 2,5–4,2 baravar kuchli chiqdi. Muallif sinish energiyasiga asoslangan mezonni taklif qildi va u yoriqlar boshlanishini amaldagi M320 usulidan aniqroq bashorat qildi. O‘zbekistonda qishki sovuq va yozgi kuchli quyosh bitumni tez eskirtiradi, shuning uchun bitum markasini real eskirish sharoitida baholash tamoyili mahalliy bitum sifatini nazorat qilishda foydali."
+   }
+  },
+  "fileId": "",
+  "fileUrl": "",
+  "fileName": "",
+  "fileSize": 0,
+  "createdAt": 1,
+  "updatedAt": 1
+ },
+ {
+  "id": "trbidea-109",
+  "ident": "TRB-IDEA-109",
+  "title": "Smart Antenna Array for NDE of FRP-Wrapped Concrete Bridge Members",
+  "authors": [
+   "Maria Q. Feng",
+   "Newport Sensors, Inc."
+  ],
+  "org": "TRB / NCHRP IDEA (AQSh)",
+  "cat": "report",
+  "year": 2007,
+  "lang": "en",
+  "ftype": "PDF",
+  "pages": 0,
+  "kw": [
+   "buzmasdan nazorat",
+   "FRP kompozit",
+   "mikroto‘lqin",
+   "ko‘prik ta’miri",
+   "qatlamlanish"
+  ],
+  "abs": "Concrete bridge members strengthened with FRP wraps can hide debonds that visual inspection cannot find. The project built a prototype of six phased-array microwave antennas near 10 GHz that electronically focus the beam and compare scattered signals with a sound reference point. Lab specimens showed debonds of about 1–1.5 mm thickness under two FRP layers and between FRP layers were detected, though field evaluation was still needed.",
+  "link": "https://onlinepubs.trb.org/onlinepubs/archive/studies/idea/finalreports/highway/NCHRP109_Final_Report.pdf",
+  "intl": true,
+  "tr": {
+   "uz": {
+    "t": "Kompozit bilan o‘ralgan beton ko‘prik elementlarini buzmasdan tekshirish uchun aqlli antenna massivi",
+    "ab": "Eskirgan beton ko‘prik elementlarini kuchaytirish uchun ular FRP (shisha yoki uglerod tolali kompozit) bilan o‘raladi, ammo o‘rama ostida beton bilan kompozit orasida havo bo‘shlig‘i (ajralish) paydo bo‘lsa, uni ko‘z bilan ko‘rib bo‘lmaydi. Loyihada ≈10 GGs chastotali mikroto‘lqinni elektron yo‘l bilan fokuslaydigan oltita antenna massividan iborat prototip yaratildi: u taxminan 1 soniyada bir uchastkani skanerlaydi va signalni shikastlanmagan nuqta bilan solishtiradi. Laboratoriyada ikki qatlam FRP ostidagi qalinligi 1–1,5 mm bo‘shliqlar va ko‘p qatlamli kompozit ichidagi ajralishlar aniqlandi, lekin dala sinovlari hali zarurligi qayd etildi. O‘zbekistonda eski temir-beton ko‘priklarni kompozit bilan kuchaytirish ko‘paysa, bunday buzmasdan nazorat usullari ta’mir sifatini tekshirish uchun kerak bo‘ladi."
+   }
+  },
+  "fileId": "",
+  "fileUrl": "",
+  "fileName": "",
+  "fileSize": 0,
+  "createdAt": 1,
+  "updatedAt": 1
+ },
+ {
+  "id": "trbidea-123",
+  "ident": "TRB-IDEA-123",
+  "title": "Long-Term Remote Sensing System for Bridge Piers",
+  "authors": [
+   "Glenn A. Washer",
+   "University of Missouri"
+  ],
+  "org": "TRB / NCHRP IDEA (AQSh)",
+  "cat": "report",
+  "year": 2010,
+  "lang": "en",
+  "ftype": "PDF",
+  "pages": 0,
+  "kw": [
+   "ko‘prik tayanchi",
+   "qiyalik datchigi",
+   "yuvilish (scour)",
+   "monitoring",
+   "ko‘prik xavfsizligi"
+  ],
+  "abs": "Existing pier tilt monitors use few expensive sensors that drift and miss slow, long-term movement. This project used arrays of low-cost electrolytic tilt sensors with redundancy and algorithms that convert tilt to 3D pier movement and filter normal thermal motion. Arrays tripled signal-to-noise ratio, detected pier movements above 0.0265° and vertical displacements of 0.045 in., and a field system on a New York bridge ran over 13 months.",
+  "link": "https://onlinepubs.trb.org/Onlinepubs/IDEA/FinalReports/Highway/NCHRP123_Final_Report.pdf",
+  "intl": true,
+  "tr": {
+   "uz": {
+    "t": "Ko‘prik tayanchlarini uzoq muddat masofadan kuzatish tizimi",
+    "ab": "Ko‘prik tayanchlari suv yuvishi, cho‘kish yoki tiqilib qolgan tayanch qismlar tufayli asta-sekin og‘ishi mumkin, ammo mavjud qimmat datchiklar vaqt o‘tishi bilan \"suzadi\" va sekin harakatni sezmaydi. Loyihada ko‘plab arzon elektrolitik qiyalik datchiklari guruhlarga birlashtirildi va maxsus algoritmlar ularning ma’lumotini tayanchning uch o‘lchamli siljishiga aylantirib, haroratdan kelib chiqadigan oddiy kunlik harakatni ajratdi. Guruhlash signal/shovqin nisbatini ≈1 dan ≈3 ga oshirdi, 0,0265° dan katta og‘ish va 0,045 dyuymli vertikal siljish aniqlandi, Nyu-Yorkdagi ko‘prikda 16 datchikli tizim 13 oydan ortiq uzluksiz ishladi. O‘zbekistonda daryo va kanallar ustidagi ko‘priklar (masalan, sel va yuvilish xavfi bor joylarda) uchun tayanchlarni arzon uzluksiz kuzatish tizimi sifatida ahamiyatli."
+   }
+  },
+  "fileId": "",
+  "fileUrl": "",
+  "fileName": "",
+  "fileSize": 0,
+  "createdAt": 1,
+  "updatedAt": 1
+ },
+ {
+  "id": "trbidea-134",
+  "ident": "TRB-IDEA-134",
+  "title": "Investigation of a Full-Lane Acoustic Scanning Method for Bridge Deck NDE",
+  "authors": [
+   "John S. Popovics",
+   "University of Illinois at Urbana-Champaign"
+  ],
+  "org": "TRB / NCHRP IDEA (AQSh)",
+  "cat": "report",
+  "year": 2010,
+  "lang": "en",
+  "ftype": "PDF",
+  "pages": 0,
+  "kw": [
+   "ko‘prik qoplamasi",
+   "qatlamlanish",
+   "akustik skanerlash",
+   "impact-echo",
+   "buzmasdan nazorat"
+  ],
+  "abs": "Chain dragging and hammer sounding miss many corrosion-induced delaminations in bridge decks, while contact impact-echo is slow. The project built a towed, contactless impact-echo scanner covering a 12-ft lane with twelve microphones and rotating hammers, plus finite element modeling of defect vibrations. Stationary tests matched predicted frequencies and defect edges well, but rolling-hammer noise prevented defect detection while moving.",
+  "link": "https://onlinepubs.trb.org/Onlinepubs/IDEA/FinalReports/Highway/NCHRP134_Final_Report.pdf",
+  "intl": true,
+  "tr": {
+   "uz": {
+    "t": "Ko‘prik qoplamasini to‘liq tasma bo‘yicha akustik skanerlash usulini tadqiq etish",
+    "ab": "Ko‘prik qoplamalarida armatura korroziyasidan paydo bo‘ladigan ichki qatlamlanishni zanjir sudrash yoki bolg‘a bilan urib tekshirish sub’ektiv va ko‘p nuqsonni o‘tkazib yuboradi. Loyihada 12 futlik (≈3,7 m) bo‘lakni bir o‘tishda qamrab oladigan, 12 ta oddiy mikrofon va aylanuvchi bolg‘achalardan iborat, sirtga tegmaydigan tirkama skaner yaratildi va nuqsonlar tebranishi chekli elementlar usulida modellashtirildi. Joyida turgan holatda o‘lchangan chastotalar modelga mos keldi va nuqson chegaralari aniq ko‘rindi, ammo harakatlanishda bolg‘achalarning g‘adir-budur sirtdagi shovqini nuqsonlarni yashirib qo‘ydi, shuning uchun prototip hali dalaga tayyor emasligi qayd etildi. O‘zbekistonda ko‘priklarni harakatni to‘xtatmasdan tez tekshirish ehtiyoji katta, bu ish arzon mikrofonlar bilan shunday skaner yaratish yo‘lini ko‘rsatadi."
+   }
+  },
+  "fileId": "",
+  "fileUrl": "",
+  "fileName": "",
+  "fileSize": 0,
+  "createdAt": 1,
+  "updatedAt": 1
+ },
+ {
+  "id": "trbidea-136",
+  "ident": "TRB-IDEA-136",
+  "title": "Development of a Second Generation Neutron-Based Detector for Chloride in Concrete",
+  "authors": [
+   "Mohamad Al-Sheikhly",
+   "University of Maryland"
+  ],
+  "org": "TRB / NCHRP IDEA (AQSh)",
+  "cat": "report",
+  "year": 2014,
+  "lang": "en",
+  "ftype": "PDF",
+  "pages": 0,
+  "kw": [
+   "xlorid",
+   "armatura korroziyasi",
+   "neytron detektori",
+   "beton",
+   "buzmasdan nazorat"
+  ],
+  "abs": "Measuring chloride in concrete normally requires drilling and chemical analysis. The project developed a second-generation prompt gamma neutron activation detector using electronic collimation (a planar NaI detector in coincidence with an HPGe detector) to shrink the sampled volume from about 100,000 to about 1,000 cm3. Collimation was confirmed with radioisotope sources, but no concrete measurements were made because no portable neutron source was available.",
+  "link": "https://onlinepubs.trb.org/onlinepubs/IDEA/FinalReports/Highway/NCHRP136.pdf",
+  "intl": true,
+  "tr": {
+   "uz": {
+    "t": "Betondagi xloridni aniqlovchi ikkinchi avlod neytron detektori",
+    "ab": "Betondagi xlorid miqdorini aniqlash odatda burg‘ulash, maydalash va kimyoviy tahlil talab qiladi, shu sababli dalada kam bajariladi. Loyihada neytron nurlanishi ta’sirida chiqadigan gamma nurlarni o‘lchaydigan ikkinchi avlod detektor ishlab chiqildi: ikki detektorni bir vaqtda ishlatuvchi elektron kollimatsiya o‘lchanadigan hajmni ≈100 000 sm³ dan ≈1000 sm³ ga kamaytirishi kerak edi. Radioaktiv manba bilan sinovda bu usul fon signallarini 4442 tadan 3 tagacha kamaytirdi (og‘ir qo‘rg‘oshin himoyasi o‘rniga), ammo ko‘chma neytron manbai bo‘lmagani uchun betonda o‘lchov va dala sinovi o‘tkazilmadi. O‘zbekistonda sho‘r tuproqlar va qishki tuz sepish betonga xlorid kiritadi, shuning uchun xloridni buzmasdan aniqlash g‘oyasi ko‘priklarni saqlash uchun muhim yo‘nalish."
+   }
+  },
+  "fileId": "",
+  "fileUrl": "",
+  "fileName": "",
+  "fileSize": 0,
+  "createdAt": 1,
+  "updatedAt": 1
+ },
+ {
+  "id": "trbidea-151",
+  "ident": "TRB-IDEA-151",
+  "title": "Development of a Simple Test to Determine the Low Temperature Strength of Asphalt Mixtures",
+  "authors": [
+   "Mihai Marasteanu",
+   "Augusto Cannone Falchetto",
+   "Mugurel Turos",
+   "Jia-Liang Le",
+   "University of Minnesota"
+  ],
+  "org": "TRB / NCHRP IDEA (AQSh)",
+  "cat": "report",
+  "year": 2012,
+  "lang": "en",
+  "ftype": "PDF",
+  "pages": 0,
+  "kw": [
+   "asfaltbeton",
+   "past haroratda mustahkamlik",
+   "BBR",
+   "bitum sinovi",
+   "laboratoriya"
+  ],
+  "abs": "Low-temperature strength tests for asphalt (IDT, DTT) are expensive or hard to interpret. The project showed that the Bending Beam Rheometer, run in three-point bending under load control, can measure strength of both binders and thin mixture beams, using size-effect theory to relate results to larger specimens. Air proved a suitable cooling medium for binders, giving values within about 6% of DTT.",
+  "link": "https://onlinepubs.trb.org/Onlinepubs/IDEA/FinalReports/Highway/NCHRP151_Final_Report.pdf",
+  "intl": true,
+  "tr": {
+   "uz": {
+    "t": "Asfalt aralashmalarining past haroratdagi mustahkamligini aniqlovchi oddiy sinov",
+    "ab": "Asfaltning past haroratda yorilishga qarshiligini o‘lchovchi mavjud mustahkamlik sinovlari (IDT, DTT) qimmat uskuna talab qiladi yoki natijasini talqin qilish qiyin. Tadqiqotchilar ko‘pchilik laboratoriyada bor bo‘lgan bitum sinovi qurilmasi — BBR (egiluvchi balka reometri) yordamida bitum va asfaltbetonning ingichka balkachalarini sindirib, mustahkamlikni aniqlash mumkinligini ko‘rsatdi va natijalarni katta namunalarga o‘tkazish uchun o‘lcham effekti (Veybull) nazariyasini qo‘lladi. Havoda sovutilgan bitum namunalari DTT natijasidan atigi ≈6% farq qildi (masalan, 3,7 va 3,9 MPa), etanol esa qiymatlarni keskin pasaytirgani uchun yaroqsiz deb topildi. O‘zbekiston laboratoriyalari uchun qo‘shimcha qimmat uskunasiz qishki yorilishga chidamlilikni baholash imkonini beradigan arzon yo‘l sifatida qiziqarli."
+   }
+  },
+  "fileId": "",
+  "fileUrl": "",
+  "fileName": "",
+  "fileSize": 0,
+  "createdAt": 1,
+  "updatedAt": 1
+ },
+ {
+  "id": "trbidea-169",
+  "ident": "TRB-IDEA-169",
+  "title": "An Inexpensive Vision-Based Approach for the Autonomous Detection, Localization, and Quantification of Pavement Defects",
+  "authors": [
+   "Burcin Becerik-Gerber",
+   "Sami F. Masri",
+   "Mohammad R. Jahanshahi",
+   "University of Southern California"
+  ],
+  "org": "TRB / NCHRP IDEA (AQSh)",
+  "cat": "report",
+  "year": 2015,
+  "lang": "en",
+  "ftype": "PDF",
+  "pages": 0,
+  "kw": [
+   "qoplama nuqsonlari",
+   "chuqurlar",
+   "kompyuter ko‘rishi",
+   "yoriqlarni aniqlash",
+   "arzon monitoring"
+  ],
+  "abs": "Automated pavement survey vehicles cost around $1 million and manual surveys are slow and subjective. The project mounted four low-cost Microsoft Kinect RGB-D cameras with a sun shade, strobe lighting, accelerometers and GPS/INS on a vehicle and developed crack detection and rolling-shutter correction methods. The system gave usable images below about 30 mph; about 70% of points were within 2.5 mm of a LIDAR scan.",
+  "link": "https://onlinepubs.trb.org/onlinepubs/IDEA/FinalReports/Highway/NCHRP169_Final_Report.pdf",
+  "intl": true,
+  "tr": {
+   "uz": {
+    "t": "Qoplama nuqsonlarini avtonom aniqlash, joylashtirish va miqdorini baholashning arzon ko‘rish usuli",
+    "ab": "Yo‘l qoplamasi holatini avtomatik tekshiruvchi maxsus avtomobillar ≈1 mln dollar turadi, qo‘lda baholash esa sekin va sub’ektiv. Loyihada avtomobilga to‘rtta arzon Microsoft Kinect chuqurlik kamerasi, quyosh soyaboni, stroboskop yorug‘lik, akselerometr va GPS/INS o‘rnatilib, chuqur va yoriqlarni aniqlash hamda kamera buzilishini tuzatish algoritmlari ishlab chiqildi. Kaliforniyadagi 3,86 km yo‘lda sinovda nuqtalarning ≈70% lazer skaner (LIDAR) natijasidan 2,5 mm ichida bo‘ldi, tizim ≈30 mil/soat (≈48 km/soat) dan past tezlikda yaxshi tasvir berdi, yuqori tezlikda esa ishonchli natija ko‘rsatilmadi. O‘zbekistonda tarmoq bo‘ylab qoplama holatini arzon usulda kuzatish ehtiyoji katta, shu bois bunday past xarajatli tizimlar tumanlar darajasidagi yo‘l xizmatlari uchun foydali namuna."
+   }
+  },
+  "fileId": "",
+  "fileUrl": "",
+  "fileName": "",
+  "fileSize": 0,
+  "createdAt": 1,
+  "updatedAt": 1
+ },
+ {
+  "id": "trbidea-171",
+  "ident": "TRB-IDEA-171",
+  "title": "Producing a Sustainable and Bio-Based Alternative for Petroleum-Based Asphalt",
+  "authors": [
+   "Elham H. Fini",
+   "North Carolina A&T State University"
+  ],
+  "org": "TRB / NCHRP IDEA (AQSh)",
+  "cat": "report",
+  "year": 2016,
+  "lang": "en",
+  "ftype": "PDF",
+  "pages": 0,
+  "kw": [
+   "rezina-bitum",
+   "bio-bog‘lovchi",
+   "qovushqoqlik",
+   "asfaltbeton",
+   "qayta ishlangan shina"
+  ],
+  "abs": "Crumb rubber improves asphalt but greatly raises binder viscosity and mixing temperatures. Adding a bio-binder derived from swine manure to 15% crumb-rubber binder produced bio-modified rubber (BMR) asphalt, tested in binder and Superpave mixture tests. Up to 20% bio-binder cut viscosity by 71%, lowered mixing and compaction temperatures, and improved aged low-temperature fracture energy and moisture resistance.",
+  "link": "https://onlinepubs.trb.org/onlinepubs/IDEA/FinalReports/Highway/NCHRP171_Final_Report.pdf",
+  "intl": true,
+  "tr": {
+   "uz": {
+    "t": "Neft asosidagi asfaltga barqaror bioasosli muqobil ishlab chiqarish",
+    "ab": "Eski avtoshinadan olingan rezina kukuni asfaltni yaxshilaydi, ammo bitum qovushqoqligini keskin oshirib, aralashtirish va zichlash haroratini ko‘taradi. Loyihada 15% rezinali bitumga cho‘chqa go‘ngidan olingan bio-bog‘lovchi qo‘shilib, \"bio-modifikatsiyalangan rezina\" (BMR) bitum yaratildi va bitum hamda Superpave aralashmalari sinovlaridan o‘tkazildi. 20% gacha bio-bog‘lovchi qovushqoqlikni 71% ga kamaytirdi, 5% qo‘shimchaning o‘zi 135 °C da 3 Pa·s chegarasidan pastga tushirdi, zichlash harorati taxminan 201–208 °C dan 190–198 °C gacha pasaydi, eskirgan namunalarda esa past haroratdagi sinish energiyasi va namlikka chidamlilik oddiy rezina-bitumdan yaxshi chiqdi. O‘zbekistonda eskirgan shinalarni yo‘l qurilishida utilizatsiya qilish va rezina-bitumni zavodda ishlatishni osonlashtirish uchun foydali tajriba."
+   }
+  },
+  "fileId": "",
+  "fileUrl": "",
+  "fileName": "",
+  "fileSize": 0,
+  "createdAt": 1,
+  "updatedAt": 1
+ },
+ {
+  "id": "trbidea-181",
+  "ident": "TRB-IDEA-181",
+  "title": "Development of a Small Specimen Geometry for Asphalt Mixture Performance Testing",
+  "authors": [
+   "Cassie Castorena",
+   "Y. Richard Kim",
+   "North Carolina State University"
+  ],
+  "org": "TRB / NCHRP IDEA (AQSh)",
+  "cat": "report",
+  "year": 2017,
+  "lang": "en",
+  "ftype": "PDF",
+  "pages": 0,
+  "kw": [
+   "asfaltbeton",
+   "kichik namunalar",
+   "dinamik modul",
+   "charchoq sinovi",
+   "kern namunalari"
+  ],
+  "abs": "Small specimens would let agencies test thin as-built asphalt layers. The study compared 38-mm cylinders and 25×50×110-mm prisms with standard 100-mm cylinders for five mixtures in dynamic modulus and direct tension fatigue tests. Results were statistically equivalent at low and intermediate temperatures and predicted fatigue cracking differed by 5% or less in most cases; vertical coring and PP 61 temperature limits are recommended.",
+  "link": "https://onlinepubs.trb.org/onlinepubs/IDEA/FinalReports/Highway/NCHRP181_Final_Report.pdf",
+  "intl": true,
+  "tr": {
+   "uz": {
+    "t": "Asfalt aralashmalarini sinash uchun kichik namuna geometriyasi",
+    "ab": "Yo‘ldagi yupqa asfalt qatlamlaridan standart 100 mm li namuna olish qiyin, shuning uchun kichik namunalarda sinash imkoniyati o‘rganildi. Besh xil aralashmada 38 mm diametrli silindrlar va 25×50×110 mm prizmalar standart namunalar bilan dinamik modul va to‘g‘ridan-to‘g‘ri cho‘zilishdagi charchoq sinovlarida solishtirildi. Past va o‘rta haroratda natijalar statistik jihatdan bir xil chiqdi, Pavement ME bashoratidagi charchoq yoriqlari ko‘p hollarda 5% dan kam farq qildi; yuqori haroratda (54,4 °C) kichik namunalar qattiqroq ko‘rindi, shuning uchun vertikal kesib olish va sinov haroratini cheklash tavsiya etildi. O‘zbekistonda mavjud yo‘llardan kern olib, yangi qatlam sifatini laboratoriyada baholash uchun bu yondashuv amaliy ahamiyatga ega."
+   }
+  },
+  "fileId": "",
+  "fileUrl": "",
+  "fileName": "",
+  "fileSize": 0,
+  "createdAt": 1,
+  "updatedAt": 1
+ },
+ {
+  "id": "trbidea-193",
+  "ident": "TRB-IDEA-193",
+  "title": "DART Field Validation and Prototype Refinement",
+  "authors": [
+   "Chetana Rao",
+   "Matthew Bandyk",
+   "Rao Research and Consulting, LLC"
+  ],
+  "org": "TRB / NCHRP IDEA (AQSh)",
+  "cat": "report",
+  "year": 2017,
+  "lang": "en",
+  "ftype": "PDF",
+  "pages": 0,
+  "kw": [
+   "bitum sifati",
+   "dala nazorati",
+   "PG marka",
+   "ko‘chma qurilma",
+   "DART"
+  ],
+  "abs": "Full AASHTO M320 binder grading takes about two days, so wrong binders can go undetected on site. The project ruggedized the portable piezoelectric DART device and used it to fingerprint binders against certified references. In field cases from two state DOT labs it matched same-grade binders, distinguished grades and flagged failing samples, in as little as 2.5 hours; it supplements rather than replaces M320.",
+  "link": "https://onlinepubs.trb.org/onlinepubs/IDEA/FinalReports/Highway/NCHRP193.pdf",
+  "intl": true,
+  "tr": {
+   "uz": {
+    "t": "DART tizimini dalada tekshirish va prototipni takomillashtirish",
+    "ab": "Bitumning PG markasini AASHTO M320 bo‘yicha to‘liq aniqlash laboratoriyada ≈2 kun oladi, shu sababli qurilishda noto‘g‘ri bitum ishlatilsa, bu kech aniqlanadi. Loyihada pyezoelektrik datchikli ko‘chma DART qurilmasi dalaga moslab mustahkamlandi va bitumning 150–70 °F oralig‘idagi \"barmoq izi\" sertifikatlangan namuna bilan solishtirildi. Ikki shtat laboratoriyasi namunalarida u bir markali bitumlarni mos deb topdi, turli markalarni ajratdi va me’yorga to‘g‘ri kelmagan namunalarni belgiladi; sinov 2,5 soatda bajariladi, ammo M320 o‘rnini bosmaydi, faqat to‘ldiradi. O‘zbekistonda bitum sifati muammosi dolzarb, shu sababli obyektda kelgan bitumni tez tekshiradigan bunday qurilma sifat nazoratini kuchaytirishi mumkin."
+   }
+  },
+  "fileId": "",
+  "fileUrl": "",
+  "fileName": "",
+  "fileSize": 0,
+  "createdAt": 1,
+  "updatedAt": 1
+ },
+ {
+  "id": "trbidea-195",
+  "ident": "TRB-IDEA-195",
+  "title": "Development of an IDEAL Cracking Test for Asphalt Mix Design, Quality Control, and Quality Assurance",
+  "authors": [
+   "Fujie Zhou",
+   "Texas A&M Transportation Institute"
+  ],
+  "org": "TRB / NCHRP IDEA (AQSh)",
+  "cat": "report",
+  "year": 2019,
+  "lang": "en",
+  "ftype": "PDF",
+  "pages": 0,
+  "kw": [
+   "IDEAL-CT",
+   "asfalt yorilishi",
+   "RAP",
+   "sifat nazorati",
+   "aralashma loyihasi"
+  ],
+  "abs": "No simple, performance-related cracking test existed for routine asphalt mix design and QC/QA. The project developed the IDEAL-CT, an indirect tensile test at 25 °C and 50 mm/min yielding a Cracking Tolerance Index, and validated it against other lab tests and field sections. It proved fast, sensitive to RAP/RAS, binder grade, content and aging, with most COVs below 20%, and six DOTs committed to implementation.",
+  "link": "https://onlinepubs.trb.org/onlinepubs/IDEA/FinalReports/Highway/NCHRP195.pdf",
+  "intl": true,
+  "tr": {
+   "uz": {
+    "t": "Asfalt aralashmasini loyihalash va sifat nazorati uchun IDEAL yorilish sinovi",
+    "ab": "Asfalt aralashmasini loyihalash va sifat nazorati uchun oddiy, ammo yo‘ldagi yorilishni aks ettiradigan sinov yo‘q edi. Loyihada IDEAL-CT sinovi yaratildi: 150 mm diametrli namuna 25 °C da 50 mm/min tezlikda bilvosita cho‘zilishga sinaladi va \"yorilishga chidamlilik indeksi\" (CTIndex) hisoblanadi, sinov ≈1 daqiqa davom etadi. Indeks RAP qo‘shilganda keskin tushdi (172,9 dan 20% RAPda 42,8 gacha), bitum markasi va miqdori ortganda o‘sdi, natijalar tarqoqligi asosan 20% dan kam bo‘ldi va FHWA sinov poligoni hamda dala uchastkalaridagi yoriqlar bilan mos keldi; oltita shtat uni joriy qilishga kirishdi. O‘zbekiston laboratoriyalarida mavjud oddiy press bilan bajariladigan bu sinov qayta ishlangan asfalt (RAP) qo‘shilgan aralashmalarni nazorat qilish uchun juda mos."
+   }
+  },
+  "fileId": "",
+  "fileUrl": "",
+  "fileName": "",
+  "fileSize": 0,
+  "createdAt": 1,
+  "updatedAt": 1
+ },
+ {
+  "id": "trbidea-196",
+  "ident": "TRB-IDEA-196",
+  "title": "Smart Installation and Monitoring System for Large Anchor Bolts of Support Structure for Highway Signs, Luminaires, and Traffic Signals",
+  "authors": [
+   "Jay Shen",
+   "Iowa State University"
+  ],
+  "org": "TRB / NCHRP IDEA (AQSh)",
+  "cat": "report",
+  "year": 2022,
+  "lang": "en",
+  "ftype": "PDF",
+  "pages": 0,
+  "kw": [
+   "anker boltlar",
+   "yo‘l belgisi tayanchlari",
+   "sig‘imli datchik",
+   "monitoring",
+   "3D bosma"
+  ],
+  "abs": "Loosened anchor bolts at the base of sign, luminaire and signal supports risk collapse, and hammer checks are slow. The project developed a capacitive \"smart washer\" stack with 3D-printed insulation whose capacitance tracks bolt tension, calibrated on a 2.5-in. bolt from about 30 pF loose to about 140 pF at 132 kips. Lab tests were repeatable and detected tension loss, but outdoor use was limited by moisture sensitivity.",
+  "link": "https://onlinepubs.trb.org/onlinepubs/IDEA/FinalReports/Highway/NCHRP196.pdf",
+  "intl": true,
+  "tr": {
+   "uz": {
+    "t": "Yo‘l belgilari, chiroqlar va svetoforlar tayanchlarining yirik anker boltlari uchun aqlli o‘rnatish va monitoring tizimi",
+    "ab": "Yo‘l belgilari, chiroq va svetofor tayanchlari asosidagi anker boltlar bo‘shab qolsa, inshoot qulashi mumkin, ularni bolg‘a bilan urib tekshirish esa sekin va kech ogohlantiradi. Loyihada 3D bosmada tayyorlangan izolyatsiyali sig‘imli \"aqlli shayba\" yaratildi: boltdagi tortish kuchi o‘zgarganda shaybalar orasidagi masofa va elektr sig‘imi o‘zgaradi; 2,5 dyuymli boltda bo‘sh holatda ≈30 pF, 132 kips tortishda ≈140 pF qayd etildi, takroriy o‘lchov xatosi 0,3% dan kam bo‘ldi. Laboratoriyada usul ishladi, ammo ochiq havoda 80% dan yuqori namlikda o‘lchov buzildi va chidamli suv o‘tkazmaydigan qoplama hali yo‘qligi ta’kidlandi. O‘zbekiston yo‘llarida yirik portal va konsol belgilar soni ko‘paymoqda, ularning boltlarini masofadan nazorat qilish g‘oyasi xavfsizlik uchun foydali."
+   }
+  },
+  "fileId": "",
+  "fileUrl": "",
+  "fileName": "",
+  "fileSize": 0,
+  "createdAt": 1,
+  "updatedAt": 1
+ },
+ {
+  "id": "trbidea-202",
+  "ident": "TRB-IDEA-202",
+  "title": "Vertical Impedance Scanner for Concrete Bridge Deck Assessment without Direct Rebar Attachment",
+  "authors": [
+   "Brian A. Mazzeo",
+   "W. Spencer Guthrie",
+   "Brigham Young University"
+  ],
+  "org": "TRB / NCHRP IDEA (AQSh)",
+  "cat": "report",
+  "year": 2019,
+  "lang": "en",
+  "ftype": "PDF",
+  "pages": 0,
+  "kw": [
+   "ko‘prik qoplamasi",
+   "elektr impedansi",
+   "xlorid",
+   "armatura korroziyasi",
+   "skaner"
+  ],
+  "abs": "Vertical electrical impedance testing of bridge decks previously required a direct connection to the rebar and slow single-channel carts. The project built a multi-channel towed scanner with a large-area electrode instead of a rebar connection, plus GPS/LiDAR localization, scanning over 1,500 ft2/min. Field tests in Utah and Nebraska showed impedance below about 10^4 ohms associated with poor cover protection and higher chloride; the technology was licensed commercially.",
+  "link": "https://onlinepubs.trb.org/onlinepubs/IDEA/FinalReports/HIghway/NCHRP202.pdf",
+  "intl": true,
+  "tr": {
+   "uz": {
+    "t": "Armaturaga ulanmasdan beton ko‘prik qoplamasini baholovchi vertikal impedans skaneri",
+    "ab": "Ko‘prik qoplamasida armatura atrofidagi betonning himoya qobiliyatini elektr impedansi bilan baholash ilgari armaturaga bevosita ulanishni va sekin aravachalarni talab qilardi. Loyihada armaturaga ulanmasdan katta maydonli elektrod orqali ishlaydigan, GPS va LiDAR bilan joylashuvni aniqlaydigan ko‘p kanalli tirkama skaner yaratildi; u daqiqasiga 1500 kv. futdan ortiq maydonni ≈2–3 mil/soat tezlikda skanerlaydi. Yuta va Nebraskadagi sinovlarda impedansi ≈10⁴ Om dan past joylarda xlorid ko‘p va himoya zaif, 10⁵ Om dan yuqorisida holat yaxshi ekani ko‘rsatildi, texnologiya tijorat litsenziyasiga berildi. O‘zbekistonda qishki tuz va sho‘r suvlar ko‘prik armaturasini zanglatadi, bunday tez skanerlash ta’mirga muhtoj uchastkalarni oldindan aniqlashga yordam beradi."
+   }
+  },
+  "fileId": "",
+  "fileUrl": "",
+  "fileName": "",
+  "fileSize": 0,
+  "createdAt": 1,
+  "updatedAt": 1
  }
 ]
