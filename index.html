@@ -2194,7 +2194,7 @@ const QZ_AREA={general:"roads",design:"roads",economics:"roads",airfield:"roads"
 function qzGenQs(lvl,top){return qzGlossQs().concat(qzNormQs()).filter(x=>(!lvl||x.lvl===lvl)&&(!top||x.top===top))}
 function qzTopCount(top){return qzBankQs("",top).length+qzGenQs("",top).length}
 const QZ_TOP={"7205692":"roads","6130301":"bridges",qr0603:"asphalt",qr0604:"bridges",b307:"bridges",tun:"tunnels",st1:"streets",st2:"streets",st3:"streets",geo:"geo",law:"maint"};
-function qzBankQs(lvl,top){return QB.filter(x=>(!lvl||x.lvl===lvl)&&(!top||QZ_TOP[x.src]===top)).map(x=>{const ord=qzShuffle([0,1,2,3]);return{k:"bank",q:x,ok:x.o[x.a],opts:ord.map(j=>x.o[j]),lvl:x.lvl}})}
+function qzBankQs(lvl,top){return QB.filter(x=>(!lvl||x.lvl===lvl)&&(!top||(x.top||QZ_TOP[x.src])===top)).map(x=>{const ord=qzShuffle([0,1,2,3]);return{k:"bank",q:x,ok:x.o[x.a],opts:ord.map(j=>x.o[j]),lvl:x.lvl}})}
 function qzStart(lvl,count,top){
   // Manbalar: qo‘lda tuzilgan bank (quiz.json) + platformadan avtomatik yasaladigan savollar (lug‘at ta’riflari, atama→hujjat, reyestr: belgi va almashtirish)
   const take=(arr,n)=>qzShuffle(arr).slice(0,Math.max(0,n));
