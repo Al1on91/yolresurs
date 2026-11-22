@@ -588,6 +588,78 @@
   "createdAt": 1794794512904
  },
  {
+  "id": "d20261121-01",
+  "scope": "local",
+  "cat": "bridges",
+  "country": "O‘zbekiston",
+  "date": "2026-11-16",
+  "title": "Namanganning Uchqo‘rg‘on tumanida Katta Farg‘ona kanali ustidagi yangi ko‘prik foydalanishga tayyorlanmoqda",
+  "summary": "Qirg‘iziston chegarasidagi Uchqo‘rg‘on–Kengsoy bojxona postiga olib boruvchi D-128 yo‘lida kanal ustidan yangi ko‘prik qurildi. Ko‘prik kengligi 9 metrdan 15 metrga oshirildi, asfalt qoplamasi yotqizib bo‘lindi. Tuman yo‘l xo‘jaligi tashkiloti tutash yo‘lni kengaytirish ishlarini yakunlamoqda, yaqin kunlarda harakat ochilishi kutilmoqda.",
+  "source": "UzDaily.uz",
+  "url": "https://www.uzdaily.uz/ru/v-uzbekistane-zavershaiut-stroitelstvo-mosta-cherez-ferganskii-kanal/",
+  "createdAt": 1795226627227
+ },
+ {
+  "id": "d20261121-02",
+  "scope": "local",
+  "cat": "projects",
+  "country": "O‘zbekiston",
+  "date": "2026-11-19",
+  "title": "Bryusseldagi vazirlar uchrashuvida O‘rta yo‘lak bo‘ylab yo‘llar va chegara o‘tish joylarini modernizatsiya qilish muhokama qilindi",
+  "summary": "16-noyabr kuni Bryusselda Markaziy Osiyo, Janubiy Kavkaz, Turkiya, Ukraina va YeI davlatlari ishtirokida transport bog‘liqligi bo‘yicha ikkinchi vazirlar uchrashuvi bo‘lib o‘tdi. Temir yo‘llar, avtomobil yo‘llari, portlar va chegara punktlarini yangilash, bojxona tartiblarini soddalashtirish ustuvor deb belgilandi. Toshkentdagi investorlar forumida kelishilgan loyihalar qatorida Nukus yaqinidagi A380 xalqaro yo‘li uchastkasini modernizatsiya qilish ham tilga olindi.",
+  "source": "Gazeta.uz",
+  "url": "https://www.gazeta.uz/ru/2026/11/19/ministerial/",
+  "createdAt": 1795226627228
+ },
+ {
+  "id": "d20261121-03",
+  "scope": "foreign",
+  "cat": "materials",
+  "country": "Germaniya",
+  "date": "2026-11-18",
+  "title": "Yevropa va Osiyoda bitum taqchilligi yo‘l qurilishi narxlariga ta’sir qilmoqda",
+  "summary": "Highways Today tahliliga ko‘ra, sanksiyalar, Fors ko‘rfazidagi yetkazib berish uzilishlari va NPZlardagi nosozliklar bitum ishlab chiqarishni qisqartirgan. Germaniyada 2026-yilning birinchi yarmida bitum ishlab chiqarish taxminan 16 foizga kamaygan, Fransiyada narx iyunda tonnasiga 617,5 yevroga yetgan. Yengilroq neft navlaridan bitum chiqishi kamligi ham taqchillikni kuchaytirmoqda.",
+  "source": "Highways Today",
+  "url": "https://highways.today/2026/11/18/the-bitumen-supply-crisis/",
+  "createdAt": 1795226627229
+ },
+ {
+  "id": "d20261121-04",
+  "scope": "foreign",
+  "cat": "bridges",
+  "country": "Rossiya",
+  "date": "2026-11-20",
+  "title": "Leningrad viloyatida Kondega daryosi ustidagi ko‘prik rekonstruksiyasi yakuniy bosqichga yetdi",
+  "summary": "Volxov tumanidagi Pasha–Chasovenskoye–Kayvaksa yo‘lining 27-km da qayta qurilayotgan ko‘prik avvalgisidan 4 metr kengroq bo‘lib, ikki qatorli harakatga mo‘ljallangan. Yuk ko‘tarish qobiliyati 3 tonnadan 100 tonnaga oshirildi, asfalt va tashqi yoritish ishlari tugatildi, to‘siqlar va yo‘l belgilari o‘rnatilmoqda. Ishlar 2025-yil avgustida boshlangan, harakat vaqtinchalik aylanma ko‘prik orqali saqlangan.",
+  "source": "Fontanka.ru",
+  "url": "https://www.fontanka.ru/2026/11/20/76779446/",
+  "createdAt": 1795226627230
+ },
+ {
+  "id": "d20261121-05",
+  "scope": "foreign",
+  "cat": "bridges",
+  "country": "AQSh",
+  "date": "2026-11-19",
+  "title": "Delaver Memorial ko‘prigida 46 ta deformatsiya chokini almashtirish ishlari muddatidan oldin tugadi",
+  "summary": "Nyu-Jersi va Delaverni bog‘lovchi ko‘prikning Nyu-Jersi yo‘nalishidagi qismida UHPC Solutions kompaniyasi 46 ta ko‘prik chokini almashtirdi. Sentyabr o‘rtasida boshlangan birinchi bosqich 24-noyabrga rejalashtirilgan edi, biroq to‘rt kun oldin yakunlanib, sakkiz qatorning barchasi ochildi. Ikkinchi bosqich 2027-yil fevralida boshlanadi.",
+  "source": "NJ.com (Yahoo News)",
+  "url": "https://www.yahoo.com/news/us/articles/major-bridge-project-finished-early-195739712.html",
+  "createdAt": 1795226627231
+ },
+ {
+  "id": "d20261121-06",
+  "scope": "foreign",
+  "cat": "winter",
+  "country": "Qozog‘iston",
+  "date": "2026-11-19",
+  "title": "Ob-havo yomonlashgani sababli Astana–Pavlodar trassasining ikki uchastkasida harakat cheklandi",
+  "summary": "QazAvtoJol ma’lumotiga ko‘ra, 19-noyabr kuni soat 18:00 dan Astana–Shiderti–Pavlodar–Uspenka yo‘lining Aqmola viloyatidagi 16–200-km lar oralig‘ida harakat cheklandi, Pavlodar viloyatidagi 200–254-km lar oralig‘i esa barcha transport uchun yopildi. Qayta ochilish taxminan 20-noyabr soat 09:00 ga belgilangan, haydovchilar 1403 raqami orqali ma’lumot olishlari mumkin.",
+  "source": "Kursiv.media",
+  "url": "https://kz.kursiv.media/2026-11-19/lngr-closed-routes-november-19/",
+  "createdAt": 1795226627232
+ },
+ {
   "id": "d20261122-01",
   "scope": "local",
   "cat": "lab",
@@ -622,18 +694,6 @@
   "source": "Spot.uz",
   "url": "https://www.spot.uz/oz/2026/11/19/turkiye-new-tashkent/",
   "createdAt": 1795313111707
- },
- {
-  "id": "d20261122-04",
-  "scope": "foreign",
-  "cat": "materials",
-  "country": "Germaniya",
-  "date": "2026-11-18",
-  "title": "Yevropa va Osiyoda bitum taqchilligi: Germaniyada ishlab chiqarish 16 foizga qisqardi",
-  "summary": "Highways Today tahliliga ko‘ra, Yaqin Sharqdan og‘ir neft yetkazib berish qiyinlashgani sababli 2026-yilning birinchi yarmida Germaniyada bitum ishlab chiqarish qariyb 16 foizga kamayib, taxminan 1,17 mln tonnani tashkil etdi. Fransiyada iyun oyida bitum narxi tonnasiga 617,5 yevroga yetib, 2022-yildan buyon eng yuqori darajaga chiqdi. Singapurda 60/70 markali bitum sentabrda tonnasiga 660 dollargacha qimmatlashdi.",
-  "source": "Highways Today",
-  "url": "https://highways.today/2026/11/18/the-bitumen-supply-crisis/",
-  "createdAt": 1795313111708
  },
  {
   "id": "d20261122-05",
@@ -682,5 +742,41 @@
   "source": "Xinhua (Telegram: Мосты Китая)",
   "url": "https://www.xinhuanet.com/politics/20261113/327d186617094771b05537cf4c12119e/c.html",
   "createdAt": 1795348239408
+ },
+ {
+  "id": "d20261122-09",
+  "scope": "local",
+  "cat": "projects",
+  "country": "O‘zbekiston",
+  "date": "2026-11-21",
+  "title": "Avtomobil yo‘llari qo‘mitasi Qo‘qonda sayyor qabul o‘tkazdi: 20 ga yaqin murojaat tushdi",
+  "summary": "Qo‘mita rais o‘rinbosari Obid Adilov 21-noyabr kuni Farg‘ona viloyati, Qo‘qon shahrida aholi bilan sayyor qabul o‘tkazdi. Qabulda 20 ga yaqin murojaat qabul qilindi; ular asosan yo‘llarni ta’mirlash, yo‘l chiziqlari va piyodalar yo‘laklariga oid. Murojaatlar tezkor ko‘rib chiqilib, amaliy yechim uchun mas’ullarga topshirildi.",
+  "source": "Avtomobil yo‘llari qo‘mitasi (Telegram)",
+  "url": "https://t.me/avtoyulqumita/90012",
+  "createdAt": 1795350000001
+ },
+ {
+  "id": "d20261122-10",
+  "scope": "foreign",
+  "cat": "bridges",
+  "country": "Hindiston",
+  "date": "2026-11-21",
+  "title": "Hindistonda Dehli–Agra yo‘lagida 11,24 mlrd rupiyalik ko‘prik va yo‘l o‘tkazgichlar loyihalari ma’qullandi",
+  "summary": "Hindiston yo‘l transporti vaziri Nitin Gadkari Faridobod va Palval hududlarida Dehli–Agra yo‘lagi bo‘yicha loyihalarni ma’qulladi. Loyihalar uchta temir yo‘l ustidan o‘tuvchi ko‘prik, to‘rtta estakada va to‘rtta transport yer osti o‘tish joyini o‘z ichiga oladi; umumiy qiymati 11,24 mlrd rupiya.",
+  "source": "Megaproject",
+  "url": "https://megaproject.com/news/roadandbridge/gadkari-approves-rs-11-24-bn-delhi-agra-road-projects",
+  "createdAt": 1795350000002
+ },
+ {
+  "id": "d20261122-11",
+  "scope": "foreign",
+  "cat": "bridges",
+  "country": "AQSh",
+  "date": "2026-11-18",
+  "title": "Arizonada qariyb bir milya uzunlikdagi Ocotillo ko‘prigi dekabrda ochiladi",
+  "summary": "Gilbert shahridagi yangi Ocotillo ko‘prigi qurilishi taxminan 116 mln dollarga tushdi, loyihalash, ruxsatnomalar va elektr tarmoqlarini ko‘prik ichiga ko‘chirish uchun yana 16 mln dollar sarflandi. Ko‘prik dekabrda harakatga ochiladi, undan oldin 21-noyabr kuni aholiga piyoda o‘tib ko‘rish imkoni berildi.",
+  "source": "12News (Yahoo News)",
+  "url": "https://www.yahoo.com/news/articles/gilbert-ocotillo-bridge-opens-december-025111626.html",
+  "createdAt": 1795350000003
  }
 ]
