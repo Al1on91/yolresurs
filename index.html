@@ -309,6 +309,7 @@ table.tbl td.act .btn{margin-left:4px}
 .editor h3{font-family:var(--display);font-size:19px;margin-bottom:16px}
 .filechip{display:flex;gap:10px;align-items:center;background:var(--surface);border:1px solid var(--line);border-radius:8px;padding:10px 12px;font-size:14px}
 
+#iCount.flash{animation:iflash 1.6s ease-out}@keyframes iflash{0%,30%{color:var(--link);font-weight:700}100%{color:var(--muted)}}@media (prefers-reduced-motion:reduce){#iCount.flash{animation:none}}
 .intl-orgs{display:grid;grid-template-columns:repeat(auto-fill,minmax(180px,1fr));gap:12px}
 .org{background:var(--surface);border:1px solid var(--line);border-radius:12px;padding:14px 16px;text-align:left;cursor:pointer;color:var(--ink);display:flex;align-items:center;gap:12px;transition:transform .2s,box-shadow .2s,border-color .2s}
 .org:hover{transform:translateY(-3px);box-shadow:0 12px 26px rgba(15,40,80,.13);border-color:transparent}
@@ -782,7 +783,7 @@ nav.main a.adm-entry:hover{background:#0c6a5d}
 <section class="view" id="v-intl">
   <div class="page-h"><div class="crumbs"><a href="#home" data-i="nav_home"></a> / <span data-i="nav_intl"></span></div><h1 data-i="intl_h"></h1><p data-i="intl_p"></p></div>
   <div class="intl-orgs" id="intlOrgs"></div>
-  <div class="cat-layout" style="margin-top:22px">
+  <div class="cat-layout" id="iList" style="margin-top:22px;scroll-margin-top:96px">
     <aside class="rail">
       <div class="fbox"><h3 data-i="filters"></h3><div class="field"><span class="lab" data-i="f_cat"></span><div class="checks" id="iCats"></div></div><div class="field"><span class="lab" data-i="i_org"></span><div class="checks" id="iOrgs"></div></div><div class="field"><span class="lab" data-i="i_tag"></span><div class="checks" id="iTags"></div></div></div>
       <div class="box"><h3 data-i="tr_h"></h3><p class="note" style="margin:0" data-i="tr_p"></p></div>
@@ -2297,7 +2298,7 @@ document.addEventListener("click",e=>{
   if(el=g("[data-open]")){e.preventDefault();go("doc-"+el.dataset.open);return}
   if(el=g("[data-nscope]")){nScope=el.dataset.nscope;renderNews();return}
   if(el=g("[data-ncat]")){nCat=el.dataset.ncat;renderNews();return}
-  if(el=g("[data-org]")){const o=el.dataset.org;const on=el.classList.contains("on");document.querySelectorAll("#iOrgs input").forEach(i=>i.checked=!on&&i.value===o);renderIntl();return}
+  if(el=g("[data-org]")){const o=el.dataset.org;const on=el.classList.contains("on");document.querySelectorAll("#iOrgs input").forEach(i=>i.checked=!on&&i.value===o);renderIntl();if(!on){const L=$("iList"),rm=matchMedia("(prefers-reduced-motion: reduce)").matches;L.scrollIntoView({behavior:rm?"auto":"smooth",block:"start"});const c=$("iCount");c.classList.remove("flash");void c.offsetWidth;c.classList.add("flash")}return}
   if(el=g("[data-kpi]")){const k=el.dataset.kpi;if(k==="k_intl"){go("intl");return}if(k==="k_norms"){go("norms");return}resetFilters();go("catalog");if(k==="t_authors"||k==="k_orgs")setTimeout(()=>{const f=$(k==="k_orgs"?"fOrg":"fAuthor");f.scrollIntoView({block:"center"});f.focus();if(k==="k_orgs"&&f.showPicker)try{f.showPicker()}catch(e){}},80);return}
   if(el=g("[data-cat]")){resetFilters();document.querySelector(`#fCats input[value="${el.dataset.cat}"]`).checked=true;go("catalog");return}
   if(el=g("[data-kw]")){resetFilters();$("q").value=el.dataset.kw;go("catalog");return}
