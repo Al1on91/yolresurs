@@ -586,5 +586,101 @@
   "source": "People's Daily Online",
   "url": "https://en.people.cn/n3/2026/1111/c90000-20517839.html",
   "createdAt": 1794794512904
+ },
+ {
+  "id": "d20261122-01",
+  "scope": "local",
+  "cat": "lab",
+  "country": "O‘zbekiston",
+  "date": "2026-11-20",
+  "title": "Toshkent, Farg‘ona va Samarqandda qurilish materiallarini sinovchi uchta zamonaviy laboratoriya tashkil etiladi",
+  "summary": "Prezident Parkentda investorlar bilan uchrashuvda sifati tekshirilmagan arzon import mahsulotlarini nazorat qilish uchun uchta zamonaviy sinov laboratoriyasi tashkil etilishini ma’lum qildi. Laboratoriyalar joyi bir oy ichida belgilanib, kelgusi yildan ishga tushiriladi. Shuningdek, kelasi yildan davlat hisobidagi qurilishlarda mahalliy materiallarga ustuvorlik beriladi va Yangi Toshkent pudratchilari uchun 200 mln dollarlik kredit liniyasi ochiladi.",
+  "source": "President.uz",
+  "url": "https://president.uz/oz/lists/view/9879",
+  "createdAt": 1795313111705
+ },
+ {
+  "id": "d20261122-02",
+  "scope": "local",
+  "cat": "projects",
+  "country": "O‘zbekiston",
+  "date": "2026-11-20",
+  "title": "OTB: A380 yo‘lining Qo‘ng‘irot–Qozog‘iston chegarasi qismi 2027-yilda qayta qurib bitkaziladi",
+  "summary": "Osiyo taraqqiyot banki vakili ma’lumotiga ko‘ra, A380 avtomagistralining Qo‘ng‘irot tumanidan Qozog‘iston chegarasigacha bo‘lgan 240 km qismi hamda Beruniy–Qorao‘zak oralig‘idagi 25 km qismi rekonstruksiya qilinmoqda. Ishlar 2027-yilda yakunlanishi rejalashtirilgan. Bank yo‘l bo‘ylab savdo, xizmat ko‘rsatish va ijtimoiy infratuzilmani ham rivojlantirish niyatida.",
+  "source": "Gazeta.uz",
+  "url": "https://www.gazeta.uz/oz/2026/11/20/adb-karakalpakstan/",
+  "createdAt": 1795313111706
+ },
+ {
+  "id": "d20261122-03",
+  "scope": "local",
+  "cat": "projects",
+  "country": "O‘zbekiston",
+  "date": "2026-11-19",
+  "title": "Turk kompaniyalari O‘zbekistondagi pulli avtomagistral loyihalariga taklif qilindi",
+  "summary": "O‘zbekiston–Turkiya biznesni qo‘llab-quvvatlash bo‘yicha oliy darajadagi kengashning birinchi yig‘ilishida Prezident turk investorlarini pulli avtomobil yo‘llari, aeroportlar va logistika markazlari qurilishida ishtirok etishga chaqirdi. Koç Construction, Mimsan va OYAK kompaniyalari Yangi Toshkent loyihasiga qiziqish bildirgan.",
+  "source": "Spot.uz",
+  "url": "https://www.spot.uz/oz/2026/11/19/turkiye-new-tashkent/",
+  "createdAt": 1795313111707
+ },
+ {
+  "id": "d20261122-04",
+  "scope": "foreign",
+  "cat": "materials",
+  "country": "Germaniya",
+  "date": "2026-11-18",
+  "title": "Yevropa va Osiyoda bitum taqchilligi: Germaniyada ishlab chiqarish 16 foizga qisqardi",
+  "summary": "Highways Today tahliliga ko‘ra, Yaqin Sharqdan og‘ir neft yetkazib berish qiyinlashgani sababli 2026-yilning birinchi yarmida Germaniyada bitum ishlab chiqarish qariyb 16 foizga kamayib, taxminan 1,17 mln tonnani tashkil etdi. Fransiyada iyun oyida bitum narxi tonnasiga 617,5 yevroga yetib, 2022-yildan buyon eng yuqori darajaga chiqdi. Singapurda 60/70 markali bitum sentabrda tonnasiga 660 dollargacha qimmatlashdi.",
+  "source": "Highways Today",
+  "url": "https://highways.today/2026/11/18/the-bitumen-supply-crisis/",
+  "createdAt": 1795313111708
+ },
+ {
+  "id": "d20261122-05",
+  "scope": "foreign",
+  "cat": "projects",
+  "country": "Niderlandiya",
+  "date": "2026-11-18",
+  "title": "Gaaga 2026-yilda ko‘chalardan 507 mingdan ortiq yo‘lak plitasini olib, ko‘kalamzorlashtirdi",
+  "summary": "Niderlandiyaning Gaaga shahri bir yilda 507 436 ta yo‘lak plitasini olib tashlab, o‘rniga o‘simlik va maysa ekdi va bu bilan NK Tegelwippen tanlovida uchinchi marta g‘olib bo‘ldi. Plitalarning taxminan 350 mingtasi ko‘cha rekonstruksiyasi va kanalizatsiya almashtirish loyihalarida olingan. Shahar 2027–2028-yillarda ko‘kalamzorlashtirishga yana 6 mln yevro ajratgan.",
+  "source": "Highways Today",
+  "url": "https://highways.today/2026/11/18/hague-removes-paving-slabs/",
+  "createdAt": 1795313111709
+ },
+ {
+  "id": "d20261122-06",
+  "scope": "foreign",
+  "cat": "projects",
+  "country": "Rossiya",
+  "date": "2026-11-20",
+  "title": "Saxalinda ko‘chki tufayli yopilgan Xolmsk dovonidagi yo‘l muddatidan bir yil oldin qayta ochildi",
+  "summary": "Yujno-Saxalinsk–Xolmsk (A-392) federal yo‘lining 4 km li Xolmsk dovoni qismida harakat tiklandi; bu yerda 2019-yilgi ko‘chkidan so‘ng transport vaqtinchalik aylanma yo‘ldan yurgan. Kapital ta’mir davomida 1 mln kub metrdan ortiq grunt olib tashlandi, qiyalik mustahkamlandi, 5 ta yangi quvur o‘tkazgich qurildi va 4 tasi ta’mirlandi. Burilish radiusi kengaytirilib, ko‘tarilish qiyaligi kamaytirildi.",
+  "source": "PrimaMedia",
+  "url": "https://primamedia.ru/news/2688007/",
+  "createdAt": 1795313111710
+ },
+ {
+  "id": "d20261122-07",
+  "scope": "foreign",
+  "cat": "projects",
+  "country": "Yaponiya",
+  "date": "2026-10-20",
+  "title": "Yaponiyada “avtomatlashtirilgan logistika yo‘li” bo‘yicha dala sinovlari Narita aeroporti va Tsukubada o‘tkazilmoqda",
+  "summary": "Yaponiya Yer, infratuzilma, transport va turizm vazirligi (MLIT) yo‘l hududida ajratilgan maxsus yuk polosasida toza energiyada ishlaydigan uchuvchisiz avtomatik transport vositalari harakatlanadigan yangi tizimni sinovdan o‘tkazmoqda. Sinovlar 28-oktabrdan 18-dekabrgacha NILIM (Tsukuba), Narita xalqaro aeroporti va kompaniyalar maydonlarida Taisei, Shimizu, Kajima kompaniyalari hamda Chiba prefekturasi boshchiligida o‘tkaziladi. Loyiha logistika inqirozini yumshatish va uglerod neytralligiga erishishga qaratilgan.",
+  "source": "MLIT (Yaponiya)",
+  "url": "https://www.mlit.go.jp/report/press/road01_hh_002159.html",
+  "createdAt": 1795348239407
+ },
+ {
+  "id": "d20261122-08",
+  "scope": "foreign",
+  "cat": "bridges",
+  "country": "Xitoy",
+  "date": "2026-11-13",
+  "title": "Xitoyda temir yo‘l ko‘prigi uchun ilk bor 105 metrli panjarasimon tayanch qurildi",
+  "summary": "Yunnan provinsiyasidagi Venshan–Mengzi temir yo‘lida uzunligi 789,71 m, yer sathidan balandligi 118 m gacha bo‘lgan Nanxi daryosi katta ko‘prigining eng baland — 105 metrli 9-tayanchi qurib bitkazildi. Tayanch ichi yuqori mustahkam beton bilan to‘ldirilgan po‘lat quvurlardan yig‘ilgan fazoviy panjara konstruksiya bo‘lib, Xitoy temir yo‘l qurilishida birinchi marta qo‘llanmoqda. Quruvchilar fikricha, bu yechim beton va po‘latni 30–50 foiz tejaydi va seysmik barqarorlikni oshiradi.",
+  "source": "Xinhua (Telegram: Мосты Китая)",
+  "url": "https://www.xinhuanet.com/politics/20261113/327d186617094771b05537cf4c12119e/c.html",
+  "createdAt": 1795348239408
  }
 ]
