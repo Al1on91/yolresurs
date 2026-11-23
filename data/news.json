@@ -958,5 +958,89 @@
   "source": "12News (Yahoo News)",
   "url": "https://www.yahoo.com/news/articles/gilbert-ocotillo-bridge-opens-december-025111626.html",
   "createdAt": 1795350000003
+ },
+ {
+  "id": "d20261123-01",
+  "scope": "local",
+  "cat": "safety",
+  "country": "O‘zbekiston",
+  "date": "2026-11-22",
+  "title": "Toshkentning Qumariq ko‘chasida proyeksiyali “yorug‘ zebra” piyodalar o‘tish joyi sinovdan o‘tkazilmoqda",
+  "summary": "Toshkent shahar yo‘l harakatini tashkil etish markazi Qumariq ko‘chasidagi tartibga solinmagan, har yo‘nalishda ikki qatorli o‘tish joyida yorug‘lik bilan proyeksiya qilinadigan “zebra”ni sinovdan o‘tkazmoqda; natija yaxshi bo‘lsa, boshqa tumanlarga ham joriy etilishi mumkin. Gazeta.uz va mutaxassislar bunday yechim piyodalarni ko‘rinarli qilmasligini ta’kidlab, svetofor, xavfsizlik orolchalari, yaqinlashish joylarini yoritish va qatnov qismini toraytirish kabi choralarni tavsiya qildi.",
+  "source": "Gazeta.uz",
+  "url": "https://www.gazeta.uz/oz/2026/11/22/crossings/",
+  "createdAt": 1795399479573
+ },
+ {
+  "id": "d20261123-02",
+  "scope": "local",
+  "cat": "projects",
+  "country": "O‘zbekiston",
+  "date": "2026-11-20",
+  "title": "Namangan viloyati Norin tumani markazida zamonaviy piyodalar yer usti ko‘prigi qurilmoqda",
+  "summary": "Avtomobil yo‘llari qo‘mitasi ma’lumotiga ko‘ra, Norin tumani markazida piyodalarning yo‘ldan xavfsiz va qulay o‘tishi uchun zamonaviy yer usti ko‘prigi qurilmoqda. Loyiha haqida “Namangan haqiqati” gazetasi “Xavfsizlik va qulaylik — ustuvor” sarlavhali maqola chop etdi.",
+  "source": "Avtomobil yo‘llari qo‘mitasi (Telegram)",
+  "url": "https://t.me/avtoyulqumita/90001",
+  "createdAt": 1795399479574
+ },
+ {
+  "id": "d20261123-03",
+  "scope": "foreign",
+  "cat": "bridges",
+  "country": "Xitoy",
+  "date": "2026-11-21",
+  "title": "Sichuan va Yunnanni bog‘lovchi 1060 metrli osma Jinsha daryosi ko‘prigi qurilishi yakunlandi",
+  "summary": "G4216 Ibin–Panzhixua tezyurar yo‘lining Jinsha daryosi ustidagi 1140 metrli osma ko‘prigi (asosiy oraliq 1060 m, po‘lat fermali, to‘rt qatorli, hisobiy tezlik 80 km/soat) 20-noyabrda asosiy ishlar bo‘yicha yakunlandi. Ko‘prik har biri 35 tonnali 72 ta yuk mashinasi bilan sinovdan o‘tdi va barcha ko‘rsatkichlar loyiha talablariga mos keldi.",
+  "source": "Kaiping News (Tencent News)",
+  "url": "https://news.qq.com/rain/a/20261121A03ZHJ00",
+  "createdAt": 1795399479575
+ },
+ {
+  "id": "d20261123-04",
+  "scope": "foreign",
+  "cat": "bridges",
+  "country": "AQSh",
+  "date": "2026-11-21",
+  "title": "Jorjiyada I-285 avtomagistralining Chattahoochee daryosi ustidagi ko‘prigida deformatsiya choki muammosi yo‘lni yopdi",
+  "summary": "21-noyabr kuni Smirna yaqinida I-285 ning janubiy yo‘nalishidagi barcha qatorlar ko‘prik ustidagi chok (header joint) nosozligi sabab yopildi. GDOT konstruksiyaga xavf yo‘qligini ma’lum qildi; pudratchilar shu kechasi vaqtinchalik ta’mir o‘tkazdi, doimiy ta’mir dekabr boshida boshlanadi.",
+  "source": "FOX 5 Atlanta",
+  "url": "https://www.fox5atlanta.com/news/i-285-bridge-separates-causing-closures-traffic-delays-smyrna-police",
+  "createdAt": 1795399479576
+ },
+ {
+  "id": "d20261123-05",
+  "scope": "foreign",
+  "cat": "safety",
+  "country": "AQSh",
+  "date": "2026-11-19",
+  "title": "INRIX va Arity AQShdagi 310 mingdan ortiq svetoforli chorrahada signal tahlilini kengaytirdi",
+  "summary": "INRIX Signal Analytics platformasi Arity kompaniyasining o‘n millionlab haydovchilar harakat ma’lumotlari bilan birlashtirildi, natijada ko‘plab chorrahalarda kuzatuvlar soni kamida to‘rt barobar oshadi. Bu muhandislarga kechikishlar, to‘xtashlar va svetofor rejimi samaradorligini yo‘l bo‘yi datchiklarisiz ham baholash imkonini beradi.",
+  "source": "Highways Today",
+  "url": "https://highways.today/2026/11/19/inrix-arity-analytics/",
+  "createdAt": 1795399479577
+ },
+ {
+  "id": "d20261123-06",
+  "scope": "foreign",
+  "cat": "winter",
+  "country": "Italiya",
+  "date": "2026-11-21",
+  "title": "Italiya Alp tog‘larida qor ko‘chkisi to‘sib qo‘ygan yo‘l ekskavator yordamida uch kunda tozalandi",
+  "summary": "Aosta vodiysidagi Val Ferret’da 2061 metr balandlikdagi Rifugio Elena boshpanasiga olib boruvchi yo‘lni ikki qor ko‘chkisi 3–4 metr qalinlikda to‘sib qo‘ydi. 10 tonnalik Yanmar SV100 ekskavatori bilan yo‘l uch kunda qayta ochildi.",
+  "source": "Highways Today",
+  "url": "https://highways.today/2026/11/21/yanmar-sv100-clears-alpine-access-road/",
+  "createdAt": 1795399479578
+ },
+ {
+  "id": "d20261123-07",
+  "scope": "foreign",
+  "cat": "safety",
+  "country": "Yaponiya",
+  "date": "2026-11-19",
+  "title": "Yaponiyada velosiped yo‘llari tarmog‘ini rivojlantirish bo‘yicha qo‘llanmani qayta ko‘rib chiqish boshlanadi",
+  "summary": "MLIT va Milliy politsiya agentligi qoshidagi xavfsiz va qulay velosiped muhiti qo‘mitasi 24-noyabrda onlayn yig‘ilish o‘tkazadi. Kun tartibida 2025-moliya yili natijalari, velosiped siyosati yo‘nalishi va qo‘llanmalarni qayta ko‘rib chiqish masalalari bor.",
+  "source": "MLIT (Yaponiya)",
+  "url": "https://www.mlit.go.jp/report/press/road01_hh_002170.html",
+  "createdAt": 1795399479579
  }
 ]
