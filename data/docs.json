@@ -14660,5 +14660,565 @@
   "fileSize": 0,
   "createdAt": 1795401086641,
   "updatedAt": 1795401086641
+ },
+ {
+  "id": "a20261124-01",
+  "ident": "YR-20261124-01",
+  "title": "ВН РК 1.6-001-2025 «Автомобильные дороги. Технический надзор» (с изменениями № 1)",
+  "authors": [
+   "АО «КаздорНИИ»",
+   "Комитет автомобильных дорог МТ РК"
+  ],
+  "org": "KazdorNII / Avtomobil yo‘llari qo‘mitasi (Qozog‘iston)",
+  "cat": "norm",
+  "year": 2025,
+  "lang": "ru",
+  "ftype": "PDF",
+  "pages": 0,
+  "kw": [
+   "texnik nazorat",
+   "yo‘l qurilishi",
+   "sifat nazorati",
+   "технический надзор",
+   "автомобильные дороги",
+   "technical supervision"
+  ],
+  "abs": "Kazakhstan departmental norm developed by KazdorNII and approved by Committee for Automobile Roads order No. 119 of 18.11.2025 (amendment No. 1 of 02.07.2026). It sets the organisation, composition and procedures of technical supervision for construction, reconstruction and repair of public roads and urban streets, including incoming, operational and acceptance control, executive documentation and supervision laboratory equipment.",
+  "link": "https://new-shop.ksm.kz/media/egfntd/ntdgo/%D0%BA%D0%A0_%D0%92%D0%9D_1.6-001-2025.pdf",
+  "intl": true,
+  "tr": {
+   "uz": {
+    "t": "QR VN 1.6-001-2025 «Avtomobil yo‘llari. Texnik nazorat»",
+    "ab": "Qozog‘istonning yo‘l qurilishi, rekonstruksiyasi va ta’mirida texnik nazoratni tashkil etish bo‘yicha idoraviy normasi (2025, 2026-yilgi o‘zgartirish bilan). Unda kiruvchi, operatsion va qabul nazorati bosqichlari, ijro hujjatlari (yashirin ishlar dalolatnomalari, laboratoriya jurnallari), nazorat laboratoriyasi jihozlari va to‘liq yotqizishdan oldin kamida 100 m sinov uchastkasi talabi belgilangan. O‘zbekistonda yo‘l ishlarida texnik nazorat tizimini takomillashtirishda bevosita qo‘shni tajriba sifatida foydali."
+   }
+  },
+  "fileId": "",
+  "fileUrl": "",
+  "fileName": "",
+  "fileSize": 0,
+  "createdAt": 1795487465648,
+  "updatedAt": 1795487465648
+ },
+ {
+  "id": "a20261124-02",
+  "ident": "YR-20261124-02",
+  "title": "ВН РК 6.1-002-2025 «Периодичность проведения работ по содержанию автомобильных дорог»",
+  "authors": [
+   "АО «КаздорНИИ»",
+   "Комитет автомобильных дорог МТ РК"
+  ],
+  "org": "KazdorNII / Avtomobil yo‘llari qo‘mitasi (Qozog‘iston)",
+  "cat": "norm",
+  "year": 2025,
+  "lang": "ru",
+  "ftype": "PDF",
+  "pages": 0,
+  "kw": [
+   "yo‘llarni saqlash",
+   "saqlash ishlari davriyligi",
+   "ekspluatatsiya",
+   "содержание дорог",
+   "периодичность работ",
+   "road maintenance frequency"
+  ],
+  "abs": "Departmental norm approved by order No. 119 of 18.11.2025 that sets how often routine maintenance works must be carried out on public roads and their structures. Frequency is calculated from seasonality, a variable index and a correction factor depending on road category and traffic; two climatic zones are defined and work schedules cover drainage, pavements, bridges, tunnels, furniture and greenery.",
+  "link": "https://new-shop.ksm.kz/media/egfntd/ntdgo/%D0%92%D0%9D_%D0%A0%D0%9A_6.1-002-2025.pdf",
+  "intl": true,
+  "tr": {
+   "uz": {
+    "t": "QR VN 6.1-002-2025 «Avtomobil yo‘llarini saqlash ishlarini bajarish davriyligi»",
+    "ab": "Umumiy foydalanishdagi yo‘llar va sun’iy inshootlarda saqlash ishlari qanchalik tez-tez bajarilishini belgilovchi Qozog‘iston normasi. Davriylik mavsumiylik, yo‘l toifasi va harakat jadalligiga bog‘liq koeffitsiyent orqali hisoblanadi; ikki iqlim zonasi (masalan, 265 va 215 kunlik iliq mavsum) ajratilgan, qoplamalar, ko‘priklar, tunnellar, suv qochirish va ko‘kalamzorlashtirish bo‘yicha jadvallar keltirilgan, patrul orqali har kuni ko‘zdan kechirish talab etiladi. O‘zbekiston yo‘l xo‘jaligida saqlash ishlarini rejalashtirish va me’yorlashda tayyor namuna."
+   }
+  },
+  "fileId": "",
+  "fileUrl": "",
+  "fileName": "",
+  "fileSize": 0,
+  "createdAt": 1795487465649,
+  "updatedAt": 1795487465649
+ },
+ {
+  "id": "a20261124-03",
+  "ident": "YR-20261124-03",
+  "title": "Р РК 218-189-2022 «Рекомендации по технологии производства окисленных модифицированных битумов»",
+  "authors": [
+   "АО «КаздорНИИ»",
+   "Комитет автомобильных дорог МТ РК"
+  ],
+  "org": "KazdorNII / Avtomobil yo‘llari qo‘mitasi (Qozog‘iston)",
+  "cat": "norm",
+  "year": 2022,
+  "lang": "ru",
+  "ftype": "PDF",
+  "pages": 0,
+  "kw": [
+   "bitum",
+   "modifikatsiyalangan bitum",
+   "rezina kukuni",
+   "окисленный битум",
+   "резиновая крошка",
+   "modified bitumen"
+  ],
+  "abs": "Recommendations approved by order No. 154 of 28.12.2022, developed by KazdorNII with the Institute of Combustion Problems. They describe producing oxidised bitumen modified with crumb rubber (7.5–12.5% of the tar mass, air oxidation at 250–260 °C) and its use in hot asphalt mixes for category I–III roads, with property limits for grades 100/130, 70/100 and 50/70.",
+  "link": "https://new-shop.ksm.kz/media/egfntd/ntdgo/218_189_2022.pdf",
+  "intl": true,
+  "tr": {
+   "uz": {
+    "t": "QR R 218-189-2022 «Oksidlangan modifikatsiyalangan bitumlarni ishlab chiqarish texnologiyasi bo‘yicha tavsiyalar»",
+    "ab": "Gudronga 7,5–12,5% rezina kukuni qo‘shib, 250–260 °C da havo bilan oksidlash orqali modifikatsiyalangan bitum olish texnologiyasi va undan I–III toifali yo‘llar uchun issiq asfaltbeton tayyorlash bo‘yicha tavsiyalar. Bitum markalari bo‘yicha yumshash, mo‘rtlik va chaqnash harorati chegaralari, aralashmadagi bitum ulushi (5–7%) va zichlash koeffitsiyenti (≥0,99) berilgan. Eskirgan shinalarni qayta ishlash va mahalliy bitum sifatini oshirish O‘zbekiston uchun ham dolzarb."
+   }
+  },
+  "fileId": "",
+  "fileUrl": "",
+  "fileName": "",
+  "fileSize": 0,
+  "createdAt": 1795487465650,
+  "updatedAt": 1795487465650
+ },
+ {
+  "id": "a20261124-04",
+  "ident": "YR-20261124-04",
+  "title": "Р РК 218-192-2022 «Использование модифицированной серы для укрепления малопрочных инертных материалов»",
+  "authors": [
+   "АО «КаздорНИИ»",
+   "Комитет автомобильных дорог МТ РК"
+  ],
+  "org": "KazdorNII / Avtomobil yo‘llari qo‘mitasi (Qozog‘iston)",
+  "cat": "norm",
+  "year": 2022,
+  "lang": "ru",
+  "ftype": "PDF",
+  "pages": 0,
+  "kw": [
+   "oltingugurt",
+   "sershcheben",
+   "yo‘l asosi",
+   "модифицированная сера",
+   "малопрочные материалы",
+   "sulfur-modified aggregate"
+  ],
+  "abs": "Recommendations (order No. 154 of 28.12.2022) on impregnating low-strength crushed stone (e.g. shell limestone) with modified sulfur to obtain 'sulfur-crushed stone' for bases and other pavement layers on category III–V rural roads. They give the modification recipe (styrene and epoxy additives), mixing and drying regimes and required strength, frost resistance and radiation limits, intended for pilot sections.",
+  "link": "https://new-shop.ksm.kz/media/egfntd/ntdgo/218_192_2022.pdf",
+  "intl": true,
+  "tr": {
+   "uz": {
+    "t": "QR R 218-192-2022 «Past mustahkamlikdagi inert materiallarni modifikatsiyalangan oltingugurt bilan mustahkamlash»",
+    "ab": "Past mustahkam chaqiq toshni (masalan, chig‘anoqli ohaktosh) 130–170 °C dagi modifikatsiyalangan oltingugurtga (tosh massasining 10–20%) shimdirib, III–V toifali yo‘llar asosi uchun material olish bo‘yicha tavsiya. Material kamida 600 markali mustahkamlik, F25 sovuqqa chidamlilik va ≤5% suv shimish talablariga javob berishi kerak. Oltingugurt neft-gaz sanoatining qo‘shimcha mahsuloti bo‘lgani uchun O‘zbekistonda ham mahalliy yo‘l materiallari bazasini kengaytirish imkonini ko‘rsatadi."
+   }
+  },
+  "fileId": "",
+  "fileUrl": "",
+  "fileName": "",
+  "fileSize": 0,
+  "createdAt": 1795487465651,
+  "updatedAt": 1795487465651
+ },
+ {
+  "id": "a20261124-05",
+  "ident": "YR-20261124-05",
+  "title": "Р РК 218-193-2022 «Рекомендации по устройству сопряжений автодорожных мостов, путепроводов и искусственных сооружений с подходной насыпью»",
+  "authors": [
+   "АО «КаздорНИИ»",
+   "Комитет автомобильных дорог МТ РК"
+  ],
+  "org": "KazdorNII / Avtomobil yo‘llari qo‘mitasi (Qozog‘iston)",
+  "cat": "norm",
+  "year": 2022,
+  "lang": "ru",
+  "ftype": "PDF",
+  "pages": 0,
+  "kw": [
+   "ko‘prik",
+   "ko‘prikka yondashuv",
+   "nasyp",
+   "sopryajeniye",
+   "сопряжение моста с насыпью",
+   "bridge approach embankment"
+  ],
+  "abs": "Recommendations (order No. 154 of 28.12.2022) on surveying, designing and constructing transitions between road bridges, overpasses, culverts and approach embankments. They classify foundation stability into three types, require settlement forecasts and geotechnical monitoring during construction and warranty, and describe pile and ground-improvement options including driven, bored, soil-cement and gravel piles.",
+  "link": "https://new-shop.ksm.kz/media/egfntd/ntdgo/218_193_2022.pdf",
+  "intl": true,
+  "tr": {
+   "uz": {
+    "t": "QR R 218-193-2022 «Avtomobil ko‘priklari, yo‘l o‘tkazgichlar va sun’iy inshootlarning yondashuv ko‘tarmasi bilan tutashuvini qurish bo‘yicha tavsiyalar»",
+    "ab": "Ko‘prik va quvurlarga yondashuv ko‘tarmalaridagi notekis cho‘kish («ko‘prik oldi zarbasi») muammosini hal etish bo‘yicha tavsiya: muhandis-geologik qidiruv, asoslarni barqarorlik bo‘yicha uch turga ajratish, cho‘kishni prognozlash va monitoring, qoziq va grunt-sement qoziqlar bilan asosni kuchaytirish. O‘zbekiston yo‘llarida ham ko‘prik oldidagi cho‘kish keng tarqalgan nuqson bo‘lgani uchun amaliy ahamiyatga ega."
+   }
+  },
+  "fileId": "",
+  "fileUrl": "",
+  "fileName": "",
+  "fileSize": 0,
+  "createdAt": 1795487465652,
+  "updatedAt": 1795487465652
+ },
+ {
+  "id": "a20261124-06",
+  "ident": "YR-20261124-06",
+  "title": "Р РК 218-194-2022 «Рекомендации по применению различных конструкций сопряжения мостов, путепроводов и искусственных сооружений с насыпью в зависимости от инженерно-геологических и природно-климатических условий»",
+  "authors": [
+   "АО «КаздорНИИ»",
+   "Комитет автомобильных дорог МТ РК"
+  ],
+  "org": "KazdorNII / Avtomobil yo‘llari qo‘mitasi (Qozog‘iston)",
+  "cat": "norm",
+  "year": 2022,
+  "lang": "ru",
+  "ftype": "PDF",
+  "pages": 0,
+  "kw": [
+   "ko‘prik",
+   "o‘tish plitasi",
+   "armogrunt",
+   "переходные плиты",
+   "сопряжение",
+   "transition slab"
+  ],
+  "abs": "Companion recommendations (order No. 154 of 28.12.2022) that select bridge–embankment transition designs according to ground and climate conditions. They cover cement-treated soil approaches with dosage tables, transition slabs 4–8 m long for embankments 2–8 m high, reinforced-soil fill requirements and ride-comfort limits on vertical acceleration (0.6 g for trucks, 0.3 g for cars).",
+  "link": "https://new-shop.ksm.kz/media/egfntd/ntdgo/218_194_2022.pdf",
+  "intl": true,
+  "tr": {
+   "uz": {
+    "t": "QR R 218-194-2022 «Ko‘priklarning ko‘tarma bilan tutashuvi konstruksiyalarini sharoitga qarab tanlash bo‘yicha tavsiyalar»",
+    "ab": "Muhandis-geologik va iqlim sharoitiga qarab ko‘prik–ko‘tarma tutashuv konstruksiyasini tanlash bo‘yicha tavsiya: sement bilan mustahkamlangan grunt (sement miqdori jadvallari), 2–8 m balandlikdagi ko‘tarmalar uchun 4–8 m uzunlikdagi o‘tish plitalari, armogrunt talablari (ichki ishqalanish burchagi ≥35°, zichlik ≥0,98) va qulaylik mezonlari keltirilgan. O‘zbekistonda ko‘priklarni loyihalash va rekonstruksiya qilishda bevosita qo‘llash mumkin bo‘lgan yechimlar."
+   }
+  },
+  "fileId": "",
+  "fileUrl": "",
+  "fileName": "",
+  "fileSize": 0,
+  "createdAt": 1795487465653,
+  "updatedAt": 1795487465653
+ },
+ {
+  "id": "a20261124-07",
+  "ident": "YR-20261124-07",
+  "title": "Р РК 218-195-2022 «Изменение свойств материалов в слоях дорожной одежды и земляном полотне в зависимости от эксплуатационных характеристик»",
+  "authors": [
+   "АО «КаздорНИИ»",
+   "Комитет автомобильных дорог МТ РК"
+  ],
+  "org": "KazdorNII / Avtomobil yo‘llari qo‘mitasi (Qozog‘iston)",
+  "cat": "norm",
+  "year": 2022,
+  "lang": "ru",
+  "ftype": "PDF",
+  "pages": 0,
+  "kw": [
+   "yo‘l to‘shamasi",
+   "yer polotnosi",
+   "materiallar xossalari",
+   "дорожная одежда",
+   "земляное полотно",
+   "pavement material ageing"
+  ],
+  "abs": "Recommendations (order No. 154 of 28.12.2022; KazdorNII with KazNIiPI Dortrans) on how properties of subgrade soils and pavement layer materials change during service on category I–III roads. Field data show, for example, about 45% loss of compressive strength of lime-stabilised clay after 14–17 years under heavy traffic and a drop of cement-treated crushed stone from M40 to M20 after about 14 years.",
+  "link": "https://new-shop.ksm.kz/media/egfntd/ntdgo/218_195_2022.pdf",
+  "intl": true,
+  "tr": {
+   "uz": {
+    "t": "QR R 218-195-2022 «Yo‘l to‘shamasi qatlamlari va yer polotnosi materiallari xossalarining ekspluatatsiya davomida o‘zgarishi»",
+    "ab": "Ekspluatatsiyadagi I–III toifali yo‘llarda yer polotnosi gruntlari va to‘shama qatlamlari xossalari yillar davomida qanday o‘zgarishini dala ma’lumotlari asosida ko‘rsatuvchi tavsiya: ohak bilan mustahkamlangan loy 14–17 yilda siqilishga mustahkamligining ~45% ini yo‘qotadi, sement bilan mustahkamlangan chaqiq tosh M40 dan M20 gacha tushadi. Rekonstruksiya va kuchaytirish loyihalarida mavjud qatlamlarni baholash uchun O‘zbekiston muhandislariga ham foydali raqamlar beradi."
+   }
+  },
+  "fileId": "",
+  "fileUrl": "",
+  "fileName": "",
+  "fileSize": 0,
+  "createdAt": 1795487465654,
+  "updatedAt": 1795487465654
+ },
+ {
+  "id": "a20261124-08",
+  "ident": "YR-20261124-08",
+  "title": "Р РК 218-198-2022 «Нормативы потребности в дорожно-эксплуатационной технике на текущий ремонт, содержание и озеленение автомобильных дорог общего пользования и улиц населенных пунктов»",
+  "authors": [
+   "АО «КаздорНИИ»",
+   "Комитет автомобильных дорог МТ РК"
+  ],
+  "org": "KazdorNII / Avtomobil yo‘llari qo‘mitasi (Qozog‘iston)",
+  "cat": "norm",
+  "year": 2022,
+  "lang": "ru",
+  "ftype": "PDF",
+  "pages": 0,
+  "kw": [
+   "yo‘l texnikasi",
+   "saqlash",
+   "qishki saqlash",
+   "дорожно-эксплуатационная техника",
+   "нормативы потребности",
+   "maintenance fleet"
+  ],
+  "abs": "Recommendations (order No. 154 of 28.12.2022) for calculating the fleet of road-maintenance machinery needed for current repair, upkeep and landscaping of public roads and urban streets in summer and winter, replacing the 2019 norms. They provide formulas per machine type, a fleet utilisation factor of 0.7, seven snow-difficulty zones with coefficients from 1.0 to 2.0, and worked examples for Akmola region.",
+  "link": "https://new-shop.ksm.kz/media/egfntd/ntdgo/218_198_2022.pdf",
+  "intl": true,
+  "tr": {
+   "uz": {
+    "t": "QR R 218-198-2022 «Yo‘llarni joriy ta’mirlash, saqlash va ko‘kalamzorlashtirish uchun yo‘l-ekspluatatsiya texnikasiga ehtiyoj normativlari»",
+    "ab": "Yo‘l tashkilotlariga yoz va qish mavsumida joriy ta’mir, saqlash va ko‘kalamzorlashtirish uchun qancha mashina (greyder, supurgich, qor tozalagich, sepgich, katok va h.k.) kerakligini hisoblash usuli. Texnikadan foydalanish koeffitsiyenti 0,7, qor bo‘yicha yetti zona (1,0–2,0 koeffitsiyent) va Aqmola viloyati misolidagi hisob-kitoblar keltirilgan. O‘zbekiston yo‘l-ekspluatatsiya korxonalarining texnika parkini rejalashtirishda andoza sifatida yaroqli."
+   }
+  },
+  "fileId": "",
+  "fileUrl": "",
+  "fileName": "",
+  "fileSize": 0,
+  "createdAt": 1795487465655,
+  "updatedAt": 1795487465655
+ },
+ {
+  "id": "a20261124-09",
+  "ident": "YR-20261124-09",
+  "title": "ВНЦ РК 9.1.1-001-2024 «Порядок определения стоимости среднего, текущего ремонта и содержания автомобильных дорог в Республике Казахстан»",
+  "authors": [
+   "АО «КаздорНИИ»",
+   "Комитет автомобильных дорог МТ РК"
+  ],
+  "org": "KazdorNII / Avtomobil yo‘llari qo‘mitasi (Qozog‘iston)",
+  "cat": "norm",
+  "year": 2024,
+  "lang": "ru",
+  "ftype": "PDF",
+  "pages": 0,
+  "kw": [
+   "smeta",
+   "ta’mirlash narxi",
+   "saqlash xarajatlari",
+   "сметная стоимость",
+   "средний и текущий ремонт",
+   "road maintenance costing"
+  ],
+  "abs": "Departmental pricing norm approved by order No. 167 of 27.12.2024, replacing the 2023 procedure. It sets the resource-based method at current prices for estimating the cost of medium and current repair and maintenance of public roads, the structure of local, object and consolidated estimates, and standard allowances such as 5% estimated profit and 2% for unforeseen works.",
+  "link": "https://new-shop.ksm.kz/media/egfntd/ntdgo/13._%D0%92%D0%9D%D0%A6_%D0%A0%D0%9A_9.1.1-001-2024.pdf",
+  "intl": true,
+  "tr": {
+   "uz": {
+    "t": "QR VNC 9.1.1-001-2024 «Qozog‘iston Respublikasida avtomobil yo‘llarini o‘rta, joriy ta’mirlash va saqlash qiymatini aniqlash tartibi»",
+    "ab": "Yo‘llarni o‘rta va joriy ta’mirlash hamda saqlash ishlarining smeta qiymatini joriy narxlarda resurs usulida aniqlash tartibi: lokal, obyekt va yig‘ma smetalar tuzilmasi, ekspertiza va texnik nazorat xarajatlari, 5% smeta foydasi va 2% kutilmagan ishlar zaxirasi. O‘zbekistonda yo‘l ta’miri smeta normativlarini yangilashda solishtirish uchun qulay manba."
+   }
+  },
+  "fileId": "",
+  "fileUrl": "",
+  "fileName": "",
+  "fileSize": 0,
+  "createdAt": 1795487465656,
+  "updatedAt": 1795487465656
+ },
+ {
+  "id": "a20261124-10",
+  "ident": "YR-20261124-10",
+  "title": "ВСП РК 4.1.4-001-2024 «Определение стоимости услуг консультантов при реализации займовых проектов»",
+  "authors": [
+   "АО «КаздорНИИ»",
+   "Комитет автомобильных дорог МТ РК"
+  ],
+  "org": "KazdorNII / Avtomobil yo‘llari qo‘mitasi (Qozog‘iston)",
+  "cat": "norm",
+  "year": 2024,
+  "lang": "ru",
+  "ftype": "PDF",
+  "pages": 0,
+  "kw": [
+   "konsultant xizmatlari",
+   "qarz loyihalari",
+   "texnik nazorat",
+   "услуги консультантов",
+   "займовые проекты",
+   "consultancy cost"
+  ],
+  "abs": "Departmental code approved by order No. 152 of 12.12.2024 for determining the cost of consultancy services (project management, construction supervision, institutional development) on road projects financed by international loans. It gives the cost formula (payroll, reimbursables, insurance, 5–10% contingencies), minimum expert qualifications and quality-and-cost-based selection.",
+  "link": "https://new-shop.ksm.kz/media/egfntd/ntdgo/VCP_4.1.4_001.pdf",
+  "intl": true,
+  "tr": {
+   "uz": {
+    "t": "QR VSP 4.1.4-001-2024 «Qarz loyihalarini amalga oshirishda konsultantlar xizmati qiymatini aniqlash»",
+    "ab": "Xalqaro moliya institutlari qarzi hisobiga quriladigan yo‘l loyihalarida loyiha boshqaruvi, qurilish nazorati va institutsional rivojlantirish konsultantlari xizmati narxini hisoblash qoidalari: ish haqi, qaytariladigan xarajatlar, sug‘urta va 5–10% kutilmagan xarajatlar; jamoa rahbari kamida 15 yillik tajribaga ega bo‘lishi talab etiladi. O‘zbekistonda ham ADB, Jahon banki va IsDB yo‘l loyihalari ko‘p bo‘lgani uchun bevosita foydali."
+   }
+  },
+  "fileId": "",
+  "fileUrl": "",
+  "fileName": "",
+  "fileSize": 0,
+  "createdAt": 1795487465657,
+  "updatedAt": 1795487465657
+ },
+ {
+  "id": "a20261124-11",
+  "ident": "YR-20261124-11",
+  "title": "Araştırma ve Geliştirme Dairesi Başkanlığı 2025 Yılı Birim Faaliyet Raporu",
+  "authors": [
+   "Karayolları Genel Müdürlüğü — Araştırma ve Geliştirme Dairesi Başkanlığı"
+  ],
+  "org": "KGM (Turkiya)",
+  "cat": "report",
+  "year": 2026,
+  "lang": "en",
+  "ftype": "PDF",
+  "pages": 0,
+  "kw": [
+   "yo‘l laboratoriyasi",
+   "ilmiy-tadqiqot",
+   "IRI o‘lchash",
+   "faoliyat hisoboti",
+   "лабораторные испытания",
+   "KGM R&D annual report"
+  ],
+  "abs": "Annual activity report of the KGM Research and Development Department for 2025, dated January 2026. It reports about 80,300 laboratory tests, 69 R&D projects (13 ongoing, e.g. long-life asphalt, hydrated lime, RAP in bases, electric road systems), IRI measurements on about 17,000 km and accreditation of 53 test and calibration activities.",
+  "link": "https://www.kgm.gov.tr/SiteCollectionDocuments/KGMdocuments/Baskanliklar/BaskanliklarTeknikArastirma/2025birimfaliyet.pdf",
+  "intl": true,
+  "tr": {
+   "uz": {
+    "t": "KGM Tadqiqot va ishlanmalar boshqarmasining 2025-yilgi faoliyat hisoboti",
+    "ab": "Turkiya Avtomobil yo‘llari bosh boshqarmasi ilmiy-tadqiqot bo‘linmasining 2025-yil hisoboti: 80 mingdan ortiq laboratoriya sinovi, 69 ta ilmiy loyiha (uzoq muddatli asfalt, gidratlangan ohak, qayta ishlangan asfaltni asosda qo‘llash, elektr yo‘l tizimlari), ~17 000 km tarmoqda IRI o‘lchovlari va ISO/IEC 17025 bo‘yicha 53 ta akkreditatsiya. Avtomobil yo‘llari ilmiy-tadqiqot instituti uchun yo‘l tadqiqot markazining tuzilmasi va ish hajmini taqqoslash namunasidir."
+   }
+  },
+  "fileId": "",
+  "fileUrl": "",
+  "fileName": "",
+  "fileSize": 0,
+  "createdAt": 1795487465658,
+  "updatedAt": 1795487465658
+ },
+ {
+  "id": "a20261124-12",
+  "ident": "YR-20261124-12",
+  "title": "Araştırma ve Geliştirme Dairesi Başkanlığı 2024 Yılı Birim Faaliyet Raporu",
+  "authors": [
+   "Karayolları Genel Müdürlüğü — Araştırma ve Geliştirme Dairesi Başkanlığı"
+  ],
+  "org": "KGM (Turkiya)",
+  "cat": "report",
+  "year": 2025,
+  "lang": "en",
+  "ftype": "PDF",
+  "pages": 0,
+  "kw": [
+   "faoliyat hisoboti",
+   "yo‘l laboratoriyasi",
+   "qoplama boshqaruvi",
+   "Karayolu Teknik Şartnamesi",
+   "лабораторные испытания",
+   "KGM annual report"
+  ],
+  "abs": "2024 activity report of the KGM R&D Department, dated January 2025. It records about 93,300 laboratory tests, 59 R&D projects, the entry into force of the Highway Technical Specification 2023 on 3 January 2024, publication of the pavement management and bituminous preventive maintenance guides, and review of 64 pavement design reports covering 1,923 km.",
+  "link": "https://www.kgm.gov.tr/SiteCollectionDocuments/KGMdocuments/Baskanliklar/BaskanliklarTeknikArastirma/2024birimfaliyet.pdf",
+  "intl": true,
+  "tr": {
+   "uz": {
+    "t": "KGM Tadqiqot va ishlanmalar boshqarmasining 2024-yilgi faoliyat hisoboti",
+    "ab": "Hisobotda 93 mingdan ortiq laboratoriya sinovi, 59 ta ilmiy loyiha, 2024-yil 3-yanvardan kuchga kirgan «Karayolu Teknik Şartnamesi-2023», qoplama boshqaruvi tizimi va bitumli qoplamalarni profilaktik ta’mirlash qo‘llanmalarining chiqarilishi hamda 1923 km uchun 64 ta to‘shama loyihasini tekshirish qayd etilgan. Tarmoqning 75% ida IRI ≤ 2 maqsadi kabi ko‘rsatkichlar O‘zbekiston yo‘l sifati monitoringi uchun mo‘ljal bo‘la oladi."
+   }
+  },
+  "fileId": "",
+  "fileUrl": "",
+  "fileName": "",
+  "fileSize": 0,
+  "createdAt": 1795487465659,
+  "updatedAt": 1795487465659
+ },
+ {
+  "id": "a20261124-13",
+  "ident": "YR-20261124-13",
+  "title": "Karayolları Genel Müdürlüğü Sorumluluğundaki Devlet ve İl Yollarında Yıllara Göre Köprü Sayısı ve Uzunlukları (Köprü envanter bilgileri, 2025)",
+  "authors": [
+   "Karayolları Genel Müdürlüğü"
+  ],
+  "org": "KGM (Turkiya)",
+  "cat": "report",
+  "year": 2025,
+  "lang": "en",
+  "ftype": "PDF",
+  "pages": 0,
+  "kw": [
+   "ko‘priklar",
+   "ko‘prik inventari",
+   "statistika",
+   "мосты",
+   "инвентаризация мостов",
+   "bridge inventory"
+  ],
+  "abs": "Statistical table published by KGM in January 2025 showing the number and total length of bridges on Turkish state and provincial roads by year from 2002 to 2024. In 2024 the network had 8,189 bridges with a total length of about 516 km, compared with 5,168 bridges and 211 km in 2002.",
+  "link": "https://www.kgm.gov.tr/SiteCollectionDocuments/KGMdocuments/Istatistikler/KopruveTunelBilgileri/kopruenvanterbilgileri.pdf",
+  "intl": true,
+  "tr": {
+   "uz": {
+    "t": "Turkiya davlat va viloyat yo‘llaridagi ko‘priklar soni va uzunligi (yillar bo‘yicha, 2025)",
+    "ab": "KGMning 2025-yil yanvarda e’lon qilingan statistik jadvali: 2002–2024 yillarda davlat va viloyat yo‘llaridagi ko‘priklar soni va umumiy uzunligi. 2024-yilda 8189 ta ko‘prik (~516 km) bo‘lgan, 2002-yilda esa 5168 ta (~211 km). O‘zbekistonda ko‘priklar inventari va pasportlashtirish ma’lumotlar bazasini shakllantirishda taqqoslash uchun foydali."
+   }
+  },
+  "fileId": "",
+  "fileUrl": "",
+  "fileName": "",
+  "fileSize": 0,
+  "createdAt": 1795487465660,
+  "updatedAt": 1795487465660
+ },
+ {
+  "id": "a20261124-14",
+  "ident": "YR-20261124-14",
+  "title": "Karayolları Genel Müdürlüğü 2024 Yılı Sayıştay Denetim Raporu",
+  "authors": [
+   "T.C. Sayıştay Başkanlığı"
+  ],
+  "org": "Sayıştay (Turkiya)",
+  "cat": "report",
+  "year": 2025,
+  "lang": "en",
+  "ftype": "PDF",
+  "pages": 0,
+  "kw": [
+   "audit",
+   "o‘q yuklamasi nazorati",
+   "tarozi punktlari",
+   "yo‘l saqlash",
+   "аудит дорожного ведомства",
+   "overload enforcement"
+  ],
+  "abs": "Regularity audit report of the Turkish Court of Accounts on the General Directorate of Highways for fiscal year 2024, dated September 2025. Findings include overloaded trucks (20%+ over limit) continuing without unloading at weigh stations, fines for bypassing weigh stations lower than overload fines, unpermitted access connections to state roads and maintenance machines working without required vehicle tracking.",
+  "link": "https://www.sayistay.gov.tr/reports/download/wPoAqq5oey-karayollari-genel-mudurlugu",
+  "intl": true,
+  "tr": {
+   "uz": {
+    "t": "Turkiya Hisob palatasining KGM 2024-yil faoliyati bo‘yicha audit hisoboti",
+    "ab": "Turkiya Hisob palatasining 2025-yil sentabrdagi audit hisoboti: tarozi punktlarida 20% dan ortiq ortiqcha yukli yuk mashinalari yukni tushirmasdan davom etishi, tarozidan o‘tib ketish jarimasining ortiqcha yuk jarimasidan pastligi, davlat yo‘llariga ruxsatsiz ulanishlar va qishki saqlash texnikasida GPS kuzatuvining yo‘qligi aniqlangan. O‘zbekistonda ham og‘ir yuk mashinalari yo‘llarni tez buzayotgani sababli, o‘q yuklamasi nazoratini tashkil etishda ibratli xulosalar beradi."
+   }
+  },
+  "fileId": "",
+  "fileUrl": "",
+  "fileName": "",
+  "fileSize": 0,
+  "createdAt": 1795487465661,
+  "updatedAt": 1795487465661
+ },
+ {
+  "id": "a20261124-15",
+  "ident": "YR-20261124-15",
+  "title": "Transport huquqining shakllanishi va rivojlanishi: qiyosiy-huquqiy tahlil (yuridik fanlar bo‘yicha falsafa doktori (PhD) dissertatsiyasi avtoreferati)",
+  "authors": [
+   "Oppoqxonov Azizxon Akmalxon o‘g‘li"
+  ],
+  "org": "Toshkent davlat transport universiteti (O‘zbekiston)",
+  "cat": "thesis",
+  "year": 2026,
+  "lang": "uz",
+  "ftype": "PDF",
+  "pages": 0,
+  "kw": [
+   "transport huquqi",
+   "avtomobil transporti",
+   "Transport kodeksi",
+   "avtonom transport",
+   "транспортное право",
+   "transport law"
+  ],
+  "abs": "Yuridik fanlar bo‘yicha falsafa doktori (PhD) dissertatsiyasi avtoreferati, 12.00.01 – davlat va huquq nazariyasi va tarixi; huquqiy ta’limotlar tarixi ixtisosligi; ish TDTrUda bajarilgan, himoya TDTrU huzuridagi PhD.10/2026.08.05.Yu.01.10 ilmiy kengashida (avtoreferatda sana ko‘rsatilmagan). Ishda transport huquqi mustaqil kompleks soha sifatida asoslanib, O‘zbekistonda uning rivojlanishi besh davrga ajratilgan va yagona Transport kodeksi konsepsiyasi taklif qilingan. Yo‘l harakatining zaif ishtirokchilari ustuvorligi, yo‘l to‘lovlari va sun’iy intellektli avtomobillar keltirgan zarar uchun ishlab chiqaruvchi, dasturiy ta’minot egasi va operatorning javobgarligi bo‘yicha takliflar berilgan.",
+  "link": "https://api.ziyonet.uz/uploads/books/10012852/FONw9Xbzb4qJFBR.pdf",
+  "intl": false,
+  "tr": {},
+  "fileId": "",
+  "fileUrl": "",
+  "fileName": "",
+  "fileSize": 0,
+  "createdAt": 1795487465662,
+  "updatedAt": 1795487465662
  }
 ]
