@@ -15220,5 +15220,519 @@
   "fileSize": 0,
   "createdAt": 1795487465662,
   "updatedAt": 1795487465662
+ },
+ {
+  "id": "trbidea-201",
+  "ident": "TRB-IDEA-201",
+  "title": "Development of a Novel Aerodynamic Solution to Mitigate Large Vibrations in Traffic Signal Structures",
+  "authors": [
+   "Alice Alipour",
+   "Iowa State University"
+  ],
+  "org": "TRB / NCHRP IDEA (AQSh)",
+  "cat": "report",
+  "year": 2020,
+  "lang": "en",
+  "ftype": "PDF",
+  "pages": 0,
+  "kw": [
+   "svetofor ustunlari",
+   "shamol tebranishi",
+   "aerodinamik so‘ndirgich",
+   "charchoq"
+  ],
+  "abs": "Cantilevered mast-arm traffic signal structures suffer fatigue cracking at the arm-to-pole joint because wind-induced vibration is barely damped. The team added thin flat plates to the signal heads as aerodynamic dampers, tested them in a wind tunnel and on a monitored field structure in Ames, Iowa, and calibrated an analytical model; simulations showed in-plane damping rising from about 0.44% to 4% and vibration amplitude roughly halved.",
+  "link": "https://onlinepubs.trb.org/onlinepubs/IDEA/FinalReports/Highway/NCHRP201.pdf",
+  "intl": true,
+  "tr": {
+   "uz": {
+    "t": "Svetofor konstruksiyalaridagi katta tebranishlarni kamaytiruvchi yangi aerodinamik yechim",
+    "ab": "Konsolli svetofor ustunlarida shamol keltirib chiqaradigan tebranish deyarli so‘nmaydi (mexanik so‘nish atigi 0,1–0,4%), shuning uchun konsol bilan ustun birikmasida charchoq yoriqlari paydo bo‘ladi. Tadqiqotchilar svetofor korpusiga qalinligi taxminan 2,5 mm bo‘lgan yassi plastinalar — “aerodinamik so‘ndirgichlar”ni o‘rnatib, ularni shamol trubasida va Ames shahridagi (Ayova) haqiqiy ustunda olti oy davomida sinab ko‘rishdi. Kalibrlangan model natijasiga ko‘ra, ikkinchi tebranish shaklida so‘nish 0,44% dan 4% gacha oshdi, tebranish amplitudasi esa qariyb ikki baravar kamaydi. O‘zbekistonning ochiq, shamolli dasht yo‘llari va shahar chorrahalaridagi svetofor hamda belgi ustunlarining xizmat muddatini uzaytirish uchun arzon yechim sifatida qiziqarli."
+   }
+  },
+  "fileId": "",
+  "fileUrl": "",
+  "fileName": "",
+  "fileSize": 0,
+  "createdAt": 1,
+  "updatedAt": 1
+ },
+ {
+  "id": "trbidea-206",
+  "ident": "TRB-IDEA-206",
+  "title": "Rule-Based Automated Safety Monitoring System for Work Zone Safety",
+  "authors": [
+   "Omprakash Gnawali",
+   "University of Houston",
+   "University of Nebraska–Lincoln"
+  ],
+  "org": "TRB / NCHRP IDEA (AQSh)",
+  "cat": "report",
+  "year": 2022,
+  "lang": "en",
+  "ftype": "PDF",
+  "pages": 0,
+  "kw": [
+   "ish zonasi xavfsizligi",
+   "UWB joylashuv",
+   "yo‘l texnikasi",
+   "ishchilar xavfsizligi"
+  ],
+  "abs": "Ultra-wideband (UWB) tracking of workers and heavy equipment in road work zones fails when trucks and machines block the radio signal. The project built new sensors with non-line-of-sight detection and the ViPER software that discards obstructed measurements and estimates vehicle pose from several tags; in field tests worker location errors fell to 0% and the system kept full update rates.",
+  "link": "https://onlinepubs.trb.org/onlinepubs/IDEA/FinalReports/Highway/NCHRP206.pdf",
+  "intl": true,
+  "tr": {
+   "uz": {
+    "t": "Joylashuvni kuzatishdan uzluksiz tahlilgacha: ish zonasi xavfsizligini qoidalar asosida avtomatlashtirish",
+    "ab": "Yo‘l ish zonalarida ishchilarning transport va og‘ir texnika urib ketishi natijasida halok bo‘lishi asosiy xavflardan biri; ularni UWB (o‘ta keng polosali) radiotizim bilan kuzatish esa yuk mashinalari signalni to‘sganda xato beradi. Loyihada signal to‘silganini aniqlaydigan yangi sensor va bunday o‘lchovlarni chiqarib tashlab, mashinaning holatini bir nechta metka bo‘yicha hisoblaydigan ViPER dasturi yaratildi. Shahar sharoitidagi sinovda ishchi joylashuvidagi xato ulushi 3–5% dan 0% ga tushdi, ma’lumot yangilanishi 100% saqlandi, mualliflar esa avvalgi versiyaga nisbatan xatolar 92% kamayganini qayd etishgan. O‘zbekistonda yo‘l ta’mirlash ishlari harakat to‘xtatilmasdan olib boriladigan joylarda ishchilarni himoya qilish tizimlarini joriy etish uchun foydali tajriba."
+   }
+  },
+  "fileId": "",
+  "fileUrl": "",
+  "fileName": "",
+  "fileSize": 0,
+  "createdAt": 1,
+  "updatedAt": 1
+ },
+ {
+  "id": "trbidea-208",
+  "ident": "TRB-IDEA-208",
+  "title": "Determining Bridge Deck Chloride Quantities Using Ground Penetrating Radar",
+  "authors": [
+   "Anthony J. Alongi",
+   "Penetradar Corporation"
+  ],
+  "org": "TRB / NCHRP IDEA (AQSh)",
+  "cat": "report",
+  "year": 2020,
+  "lang": "en",
+  "ftype": "PDF",
+  "pages": 0,
+  "kw": [
+   "georadar",
+   "xlorid",
+   "ko‘prik qoplamasi",
+   "armatura korroziyasi",
+   "buzmasdan nazorat"
+  ],
+  "abs": "Chloride from de-icing salt corrodes bridge deck reinforcement, but measuring it normally needs many cores. This project calibrated air-coupled GPR signal attenuation at the top rebar level against a few lab-tested cores and mapped chloride over a whole deck in Virginia; three cores were enough for a reasonable prediction, with a back-test error of about ±0.073 lb/yd³, provided the deck moisture is uniform.",
+  "link": "https://onlinepubs.trb.org/onlinepubs/IDEA/FinalReports/Highway/NCHRP208.pdf",
+  "intl": true,
+  "tr": {
+   "uz": {
+    "t": "Georadar bilan ko‘prik qoplamasidagi xlorid miqdorini aniqlash",
+    "ab": "Muzga qarshi tuzlardan kelgan xloridlar ko‘prik qoplamasidagi armaturani zanglatadi, uni o‘lchash uchun esa odatda harakatni to‘xtatib ko‘plab kern (namuna) olish kerak bo‘ladi. Tadqiqotda havodan ishlaydigan georadar (GPR) signalining yuqori armatura sathidagi so‘nishi bir nechta laboratoriyada sinalgan kern bilan bog‘lanib, Virjiniyadagi ko‘prikning butun qoplamasi bo‘yicha xlorid xaritasi tuzildi. Atigi uchta kern bilan kalibrlash yetarli bo‘ldi: tekshiruv xatosi taxminan ±0,073 funt/yard³ ni tashkil etdi, qoplamaning 47,7% maydonida xlorid 2 funt/yard³ chegarasidan oshgani aniqlandi; ammo usul qoplama namligi bir xil bo‘lgandagina ishonchli, juda quruq yoki muzlagan holatda emas. Qishda tuz sepiladigan O‘zbekiston ko‘priklarini kam kern bilan tez tekshirish va ta’mirni rejalashtirish uchun foydali."
+   }
+  },
+  "fileId": "",
+  "fileUrl": "",
+  "fileName": "",
+  "fileSize": 0,
+  "createdAt": 1,
+  "updatedAt": 1
+ },
+ {
+  "id": "trbidea-209",
+  "ident": "TRB-IDEA-209",
+  "title": "An Automated System for Pedestrian Facility Data Collection from Aerial Images",
+  "authors": [
+   "Yuanyuan Zhang",
+   "University of Southern Mississippi"
+  ],
+  "org": "TRB / NCHRP IDEA (AQSh)",
+  "cat": "report",
+  "year": 2021,
+  "lang": "en",
+  "ftype": "PDF",
+  "pages": 0,
+  "kw": [
+   "piyodalar o‘tish joyi",
+   "trotuar",
+   "aerosurat",
+   "sun’iy intellekt",
+   "yo‘l inventarizatsiyasi"
+  ],
+  "abs": "Few US states hold data on where crosswalks and sidewalks exist because collecting it by hand is slow and costly. The team trained convolutional neural networks on aerial imagery labelled from OpenStreetMap, added a street-view check for occluded spots and a segmentation model for crosswalk length, reaching about 96% accuracy for crosswalks and 93% for sidewalks in tests.",
+  "link": "https://onlinepubs.trb.org/onlinepubs/IDEA/FinalReports/Highway/NCHRP209.pdf",
+  "intl": true,
+  "tr": {
+   "uz": {
+    "t": "Aerosuratlardan piyodalar infratuzilmasi ma’lumotlarini avtomatik yig‘ish tizimi",
+    "ab": "AQShda piyodalar o‘tish joylari va trotuarlar haqida ma’lumot kam, chunki ularni dalada qo‘lda yig‘ish qimmat va ko‘p vaqt talab qiladi. Tadqiqotchilar OpenStreetMap belgilari asosida aerosuratlarda o‘tish joyi va trotuarni aniqlaydigan neyron tarmoqlarni o‘qitishdi, daraxt yoki mashina to‘sib qo‘ygan joylarni ko‘cha panoramalari bilan tekshirishdi va o‘tish joyi uzunligini o‘lchaydigan modelni qo‘shishdi. Sinovlarda o‘tish joylari taxminan 96%, trotuarlar 93% aniqlik bilan topildi, to‘silgan holatlarda esa aniqlik 55,6% dan 83% gacha oshdi. O‘zbekiston shaharlarida piyodalar infratuzilmasini raqamli inventarizatsiya qilish va yo‘l xavfsizligini rejalashtirish uchun tayyor yondashuv."
+   }
+  },
+  "fileId": "",
+  "fileUrl": "",
+  "fileName": "",
+  "fileSize": 0,
+  "createdAt": 1,
+  "updatedAt": 1
+ },
+ {
+  "id": "trbidea-210",
+  "ident": "TRB-IDEA-210",
+  "title": "Material Characteristics of Cu-Based Superelastic Alloys for Applications in Bridge Columns to Improve Seismic Performance",
+  "authors": [
+   "Bora Gencturk",
+   "University of Southern California",
+   "Infrastructure Innovation, LLC"
+  ],
+  "org": "TRB / NCHRP IDEA (AQSh)",
+  "cat": "report",
+  "year": 2022,
+  "lang": "en",
+  "ftype": "PDF",
+  "pages": 0,
+  "kw": [
+   "o‘ta elastik qotishma",
+   "ko‘prik ustunlari",
+   "seysmik barqarorlik",
+   "korroziya",
+   "Cu-Al-Mn"
+  ],
+  "abs": "Nickel-titanium superelastic alloys can let bridge columns recentre after earthquakes but are expensive and hard to machine. The study tested cheaper copper-aluminium-manganese (CAM) alloys for fatigue at -40 to 50°C, long-term corrosion, machinability and coupling to steel rebar; single-crystal CAM bars survived 50,000 cycles at 5% strain and corroded at about a third of the rate of mild steel, with splicing remaining the main barrier.",
+  "link": "https://onlinepubs.trb.org/onlinepubs/IDEA/FinalReports/Highway/NCHRP210.pdf",
+  "intl": true,
+  "tr": {
+   "uz": {
+    "t": "Ko‘prik ustunlari seysmik barqarorligi uchun mis asosidagi o‘ta elastik qotishmalar xossalari",
+    "ab": "Zilziladan keyin ko‘prik ustunlarini asl holatiga qaytarish uchun nikel-titan o‘ta elastik qotishmalari ishlatiladi, ammo ular qimmat, ishlov berish qiyin va past haroratda xossasini yo‘qotadi. Tadqiqotda arzonroq mis-alyuminiy-marganes (CAM) qotishmasi -40°C dan 50°C gacha haroratda charchoqqa, 1051 kunlik korroziyaga, tokarlik ishlov berishga va po‘lat armatura bilan ulanishga sinaldi. Monokristall CAM sterjenlar 5% deformatsiyada 50 000 tsiklga yoriqsiz bardosh berdi (NiTi esa 6–89 tsiklda sindi), korroziya tezligi oddiy po‘latnikidan qariyb uch baravar past bo‘ldi (0,0565 va 0,191 mm/yil), qo‘shimcha xarajat esa NiTi variantining taxminan to‘rtdan biriga teng chiqdi. Seysmik faol O‘zbekiston hududlarida ko‘priklarni zilzilaga chidamli loyihalash bo‘yicha istiqbolli material yo‘nalishi."
+   }
+  },
+  "fileId": "",
+  "fileUrl": "",
+  "fileName": "",
+  "fileSize": 0,
+  "createdAt": 1,
+  "updatedAt": 1
+ },
+ {
+  "id": "trbidea-212",
+  "ident": "TRB-IDEA-212",
+  "title": "Non-Gating Guardrail Terminal",
+  "authors": [
+   "Dean L. Sicking",
+   "University of Alabama at Birmingham"
+  ],
+  "org": "TRB / NCHRP IDEA (AQSh)",
+  "cat": "report",
+  "year": 2020,
+  "lang": "en",
+  "ftype": "PDF",
+  "pages": 0,
+  "kw": [
+   "to‘siq uch qismi",
+   "yo‘l to‘siqlari",
+   "to‘qnashuv sinovi",
+   "passiv xavfsizlik"
+  ],
+  "abs": "Conventional guardrail end terminals 'gate' when hit at an angle, letting the vehicle pass behind the barrier. Using crash-test literature, LS-DYNA simulations and a prototype with a folding head, square posts and an anchored cable, the researchers showed in two 15-degree full-scale tests that the vehicle stayed engaged with the terminal, indicating a non-gating terminal is feasible.",
+  "link": "https://onlinepubs.trb.org/onlinepubs/IDEA/FinalReports/Highway/NCHRP212.pdf",
+  "intl": true,
+  "tr": {
+   "uz": {
+    "t": "Ochilmaydigan turdagi to‘siq uch qismlari",
+    "ab": "An’anaviy yo‘l to‘sig‘i (metall ograda) uch qismiga burchak ostida urilganda u “darvoza” kabi ochilib, avtomobil to‘siq ortiga o‘tib ketadi; shuning uchun uning orqasida keng xavfsiz zona qoldirish kerak bo‘ladi. Mualliflar 47 ta to‘qnashuv sinovini tahlil qilib, LS-DYNA dasturida modellashtirishdi va buklanadigan uch qism, kvadrat ustunlar hamda langarlangan trosdan iborat prototip yasashdi. 15 daraja burchakdagi ikki sinovda (Ford Explorer ~80 km/soat va Mazda Protégé ~103 km/soat) avtomobil to‘siq uch qismidan ajralmay to‘xtadi va mualliflar fikricha MASH talablariga javob bergan bo‘lardi, ammo bu sinovlar hali rasmiy emas. O‘zbekiston magistral yo‘llarida to‘siqlar uchlarida sodir bo‘ladigan og‘ir avariyalarni kamaytirish uchun muhim yo‘nalish."
+   }
+  },
+  "fileId": "",
+  "fileUrl": "",
+  "fileName": "",
+  "fileSize": 0,
+  "createdAt": 1,
+  "updatedAt": 1
+ },
+ {
+  "id": "trbidea-213",
+  "ident": "TRB-IDEA-213",
+  "title": "SEAHIVE - Sustainable Estuarine and Marine Revetment",
+  "authors": [
+   "Landolf Rhode-Barbarigos",
+   "University of Miami"
+  ],
+  "org": "TRB / NCHRP IDEA (AQSh)",
+  "cat": "report",
+  "year": 2022,
+  "lang": "en",
+  "ftype": "PDF",
+  "pages": 0,
+  "kw": [
+   "qirg‘oq himoyasi",
+   "perforatsiyalangan beton",
+   "to‘lqin energiyasi",
+   "yuvilishdan himoya"
+  ],
+  "abs": "Vertical seawalls reflect rather than absorb wave energy and support little marine life. SEAHIVE uses modular hexagonal perforated concrete elements; wave tank tests showed perforations cut reflection by roughly 15–70% and the system dissipated 1.2 to 3.5 times more energy than a solid wall, leading to three pilot installations in South Florida.",
+  "link": "https://onlinepubs.trb.org/onlinepubs/IDEA/FinalReports/Highway/NCHRP213.pdf",
+  "intl": true,
+  "tr": {
+   "uz": {
+    "t": "SEAHIVE — daryo quyilishi va dengiz qirg‘oqlari uchun barqaror himoya qoplamasi",
+    "ab": "Qirg‘oq bo‘yidagi yo‘llarni himoya qiluvchi vertikal devorlar to‘lqin energiyasini yutmay, qaytaradi va tabiiy qirg‘oqqa nisbatan biologik xilma-xillikni kamaytiradi. SEAHIVE — teshikli olti burchakli modulli beton elementlardan iborat tizim bo‘lib, Mayami universitetining to‘lqin havzasida yakka elementlar, 15 elementli devor va suv ostidagi rif shakli sinaldi. Teshiklar to‘lqin qaytishini 15–70% kamaytirdi, tizim esa yaxlit devorga nisbatan 1,2–3,5 baravar ko‘p energiya so‘ndirdi; Florida janubida uchta tajriba inshooti qurildi. O‘zbekistonda dengiz yo‘q, lekin daryo va kanal bo‘yidagi yo‘l ko‘tarmalari hamda ko‘prik tayanchlarini yuvilishdan himoya qilishda teshikli beton elementlar g‘oyasidan foydalanish mumkin."
+   }
+  },
+  "fileId": "",
+  "fileUrl": "",
+  "fileName": "",
+  "fileSize": 0,
+  "createdAt": 1,
+  "updatedAt": 1
+ },
+ {
+  "id": "trbidea-214",
+  "ident": "TRB-IDEA-214",
+  "title": "An Enhanced Network-Level Curve Safety Assessment and Monitoring Using Mobile Devices",
+  "authors": [
+   "Yichang (James) Tsai",
+   "Georgia Institute of Technology"
+  ],
+  "org": "TRB / NCHRP IDEA (AQSh)",
+  "cat": "report",
+  "year": 2021,
+  "lang": "en",
+  "ftype": "PDF",
+  "pages": 0,
+  "kw": [
+   "yo‘l burilishlari",
+   "tavsiya etilgan tezlik",
+   "smartfon",
+   "yo‘l xavfsizligi",
+   "virajlar"
+  ],
+  "abs": "Assessing curve advisory speeds with dedicated devices is slow and costly. Georgia Tech used low-cost smartphones and an app recording GPS, inertial data and video, estimating path radius from the gyroscope and correcting for vehicle body roll; on the NCAT test track superelevation error was about 1.4–1.5% and advisory speeds were within about 1 mph of the reference.",
+  "link": "https://onlinepubs.trb.org/onlinepubs/IDEA/FinalReports/Highway/NCHRP214.pdf",
+  "intl": true,
+  "tr": {
+   "uz": {
+    "t": "Mobil qurilmalar bilan tarmoq miqyosida burilishlar xavfsizligini baholash va kuzatish",
+    "ab": "AQShda halokatli avariyalarning 25% yo‘llarning atigi 5% ini tashkil etadigan burilishlarda sodir bo‘ladi, burilishlardagi tavsiya etilgan tezlikni maxsus asboblar bilan aniqlash esa bir shtat uchun bir-ikki yil davom etadi. Jorjiya texnologiya instituti arzon smartfon va GoPro kamerasi hamda GPS, inersial datchik va video yozib oluvchi AllGather ilovasidan foydalanib, burilish radiusini giroskop orqali hisobladi va avtomobil kuzovining og‘ishini tuzatdi. NCAT sinov trassasida ko‘ndalang qiyalik xatosi 1,4–1,5% gacha kamaydi, radius loyiha qiymatiga juda yaqin chiqdi (478 va 476 fut), tavsiya etilgan tezlik esa etalondan taxminan 1 mil/soat farq qildi. O‘zbekistonning tog‘li va serqatnov yo‘llarida burilishlarni arzon usulda baholab, ogohlantiruvchi belgilarni to‘g‘ri o‘rnatish uchun amaliy usul."
+   }
+  },
+  "fileId": "",
+  "fileUrl": "",
+  "fileName": "",
+  "fileSize": 0,
+  "createdAt": 1,
+  "updatedAt": 1
+ },
+ {
+  "id": "trbidea-215",
+  "ident": "TRB-IDEA-215",
+  "title": "Achieving Resilient Multi-Span Bridge by using Buckling-Restrained Braces",
+  "authors": [
+   "Homero Carrion-Cabrera",
+   "Michel Bruneau",
+   "University at Buffalo"
+  ],
+  "org": "TRB / NCHRP IDEA (AQSh)",
+  "cat": "report",
+  "year": 2022,
+  "lang": "en",
+  "ftype": "PDF",
+  "pages": 0,
+  "kw": [
+   "ko‘priklar",
+   "seysmik himoya",
+   "bo‘ylama egilishi cheklangan bog‘lama",
+   "shake-stol sinovi"
+  ],
+  "abs": "Multi-span bridges usually survive earthquakes either by damaging their columns or by using costly base isolation. This work placed buckling-restrained braces as sacrificial fuses in ductile end diaphragms of simply supported spans, developed a simple equivalent lateral force design procedure from nonlinear analyses, and verified it with shake-table tests of a 1/2.5-scale specimen, where brace core ductilities above 20 were reached.",
+  "link": "https://onlinepubs.trb.org/onlinepubs/IDEA/FinalReports/Highway/NCHRP215.pdf",
+  "intl": true,
+  "tr": {
+   "uz": {
+    "t": "Bo‘ylama egilishi cheklangan bog‘lamalar bilan ko‘p oraliqli ko‘priklarning chidamliligini oshirish",
+    "ab": "Ko‘p oraliqli ko‘priklar zilzilada odatda ustunlarida plastik sharnir hosil bo‘lishi (ya’ni shikastlanish) yoki qimmat seysmik izolyatsiya hisobiga omon qoladi. Buffalo universiteti tadqiqotchilari oraliqlar uchidagi diafragmalarga bo‘ylama egilishi cheklangan bog‘lamalar (BRB) — “saqlagich” vazifasini bajaruvchi almashtiriladigan elementlarni o‘rnatib, 2–11 oraliqli ko‘priklarni nochiziqli hisoblashdi va oddiy loyihalash usulini taklif qilishdi. 1/2,5 masshtabli namuna seysmik platformada sinalganda bog‘lamalar 20 dan ortiq plastiklikka erishdi, hisob esa o‘lchangan ta’sirlardan biroz yuqori, ya’ni xavfsiz tomonga chiqdi; bitta bog‘lama narxi 2000–5000 dollar atrofida. Seysmik hududlarda joylashgan O‘zbekiston ko‘priklarini zilziladan keyin ham foydalanishga yaroqli qilib loyihalash uchun muhim."
+   }
+  },
+  "fileId": "",
+  "fileUrl": "",
+  "fileName": "",
+  "fileSize": 0,
+  "createdAt": 1,
+  "updatedAt": 1
+ },
+ {
+  "id": "trbidea-216",
+  "ident": "TRB-IDEA-216",
+  "title": "A Portable Single Lane Traffic Counting Device",
+  "authors": [
+   "Terry L. Lee",
+   "Leetron Vision, LLC"
+  ],
+  "org": "TRB / NCHRP IDEA (AQSh)",
+  "cat": "report",
+  "year": 2021,
+  "lang": "en",
+  "ftype": "PDF",
+  "pages": 0,
+  "kw": [
+   "transport oqimini hisoblash",
+   "videodetektor",
+   "sun’iy intellekt",
+   "transport tasnifi"
+  ],
+  "abs": "Laying pneumatic road tubes for traffic counts puts workers in the live lane. Leetron Vision built a battery-powered, single-lane video counter that combines simple image processing with AI detection to save processing power and extend battery life beyond four days; internal tests gave count and FHWA 13-class classification accuracy above 98%, with setup taking minutes instead of 15–20.",
+  "link": "https://onlinepubs.trb.org/onlinepubs/IDEA/FinalReports/Highway/NCHRP216.pdf",
+  "intl": true,
+  "tr": {
+   "uz": {
+    "t": "Bir bo‘lakli ko‘chma transport hisoblagich qurilmasi",
+    "ab": "Pnevmatik shlanglar yordamida transport sanash uchun ishchilar harakatlanayotgan bo‘lakda tiz cho‘kib, qoplamaga mix qoqishlari kerak — bu xavfli va ma’lumot sifati ham past. Leetron Vision kompaniyasi kamera, kompyuter va akkumulyator bitta korpusda joylashgan, bir bo‘lakni kuzatadigan ko‘chma videohisoblagich yaratdi; u oddiy tasvir tahlilini zarur paytdagina sun’iy intellekt bilan birlashtirib, hisoblash quvvatini 50–70% tejaydi va batareyani 2 kundan 4 kundan ortiq muddatga yetkazadi. Ichki sinovlarda sanash va 13 toifali tasnif aniqligi 98% dan oshdi, o‘rnatish 15–20 daqiqa o‘rniga bir necha daqiqa oldi, qurilma narxi 2500 dollar. O‘zbekistonda yo‘llardagi transport jadalligini xavfsiz va arzon hisobga olish, ta’mir va qurilishni rejalashtirish uchun foydali."
+   }
+  },
+  "fileId": "",
+  "fileUrl": "",
+  "fileName": "",
+  "fileSize": 0,
+  "createdAt": 1,
+  "updatedAt": 1
+ },
+ {
+  "id": "trbidea-217",
+  "ident": "TRB-IDEA-217",
+  "title": "A Real-Time Proactive Intersection Safety Monitoring and Visualization System Based on Radar Sensor Data",
+  "authors": [
+   "Zhixia (Richard) Li",
+   "University of Louisville"
+  ],
+  "org": "TRB / NCHRP IDEA (AQSh)",
+  "cat": "report",
+  "year": 2022,
+  "lang": "en",
+  "ftype": "PDF",
+  "pages": 0,
+  "kw": [
+   "chorraha xavfsizligi",
+   "radar datchigi",
+   "to‘qnashuvgacha vaqt",
+   "yo‘l harakati monitoringi"
+  ],
+  "abs": "Intersection safety analyses usually rely on past crash records. The IPSV system uses four 24 GHz Doppler radars and an automated pipeline that computes time-to-collision to detect rear-end and crossing conflicts continuously; field validation in Louisville gave about 95% accuracy in conflict severity and an 80% true-positive rate for conflict counts.",
+  "link": "https://onlinepubs.trb.org/onlinepubs/IDEA/FinalReports/Highway/NCHRP217.pdf",
+  "intl": true,
+  "tr": {
+   "uz": {
+    "t": "Radar ma’lumotlari asosida chorraha xavfsizligini real vaqtda kuzatish va vizuallashtirish tizimi",
+    "ab": "Chorrahalardagi xavfni baholash odatda allaqachon sodir bo‘lgan avariyalar statistikasiga tayanadi, ya’ni kechikib harakat qilinadi. Luisvill universiteti chorrahaga to‘rtta 24 GGs Doppler radarini o‘rnatib, ma’lumotni avtomatik tozalaydigan, harakat yo‘nalishlarini ajratadigan va “to‘qnashuvgacha vaqt” (TTC) bo‘yicha orqadan urilish va kesishuv ziddiyatlarini aniqlaydigan IPSV tizimini yaratdi. Dala sinovida ziddiyat og‘irligi taxminan 95% aniqlik bilan baholandi, ziddiyatlar soni bo‘yicha to‘g‘ri aniqlash 80%, noto‘g‘ri signal yo‘qligi 100% bo‘ldi; bir haftada bitta chorrahada 823 kesishuv va 1349 orqadan urilish ziddiyati qayd etildi. O‘zbekiston shaharlaridagi xavfli chorrahalarni avariya sodir bo‘lishidan oldin aniqlash va svetofor rejimini takomillashtirish uchun foydali."
+   }
+  },
+  "fileId": "",
+  "fileUrl": "",
+  "fileName": "",
+  "fileSize": 0,
+  "createdAt": 1,
+  "updatedAt": 1
+ },
+ {
+  "id": "trbidea-220",
+  "ident": "TRB-IDEA-220",
+  "title": "Bridge Deck Sealer Monitor: Thermal SealCheck",
+  "authors": [
+   "Paul A. Fuchs",
+   "Glenn A. Washer",
+   "Fuchs Consulting, Inc."
+  ],
+  "org": "TRB / NCHRP IDEA (AQSh)",
+  "cat": "report",
+  "year": 2021,
+  "lang": "en",
+  "ftype": "PDF",
+  "pages": 0,
+  "kw": [
+   "ko‘prik qoplamasi",
+   "germetik shimdirish",
+   "termografiya",
+   "buzmasdan nazorat"
+  ],
+  "abs": "There was no standard way to check in place whether a penetrating sealer still protects a bridge deck, so resealing is done on a fixed schedule. SealCheck wets the deck and uses time-lapse infrared thermography to compare evaporation signatures; in the lab sealed concrete evaporated at a clearly different rate (ratio about 1.8), and on two in-service bridges about 90% of regions were classified correctly in under an hour of data.",
+  "link": "https://onlinepubs.trb.org/onlinepubs/IDEA/FinalReports/Highway/NCHRP220.pdf",
+  "intl": true,
+  "tr": {
+   "uz": {
+    "t": "Ko‘prik qoplamasi germetigini kuzatish: Thermal Sealcheck",
+    "ab": "Ko‘prik qoplamasiga shimdiriladigan himoya germetiklari hanuzgacha ishlayotganini joyida tekshirishning standart usuli yo‘q, shu sababli qayta ishlov odatda har 3–10 yilda reja asosida bajariladi. SealCheck tizimi qoplamani suv bilan namlab, infraqizil kamera orqali vaqt bo‘yicha suratga oladi va bug‘lanish natijasida hosil bo‘ladigan harorat izini tahlil qiladi: germetiklangan beton boshqacha bug‘lanadi. Laboratoriyada germetiklangan va germetiklanmagan plitalar bug‘lanish tezligi nisbati 1,80 ± 0,06 ni tashkil qildi, ikki amaldagi ko‘prikda hududlarning taxminan 90% to‘g‘ri baholandi, o‘lchash uchun bir soatdan kam vaqt ketdi. O‘zbekiston ko‘priklarida tuz va namlikdan himoya ishlarini rejaga emas, haqiqiy holatga qarab o‘tkazish orqali mablag‘ni tejash imkonini beradi."
+   }
+  },
+  "fileId": "",
+  "fileUrl": "",
+  "fileName": "",
+  "fileSize": 0,
+  "createdAt": 1,
+  "updatedAt": 1
+ },
+ {
+  "id": "trbidea-221",
+  "ident": "TRB-IDEA-221",
+  "title": "Development of In Situ Cyclic Borehole Shear Soil Test Device",
+  "authors": [
+   "Jeramy Ashlock",
+   "Iowa State University"
+  ],
+  "org": "TRB / NCHRP IDEA (AQSh)",
+  "cat": "report",
+  "year": 2023,
+  "lang": "en",
+  "ftype": "PDF",
+  "pages": 0,
+  "kw": [
+   "geotexnika",
+   "gruntni joyida sinash",
+   "tsiklik yuklama",
+   "ichki ishqalanish burchagi",
+   "quduq"
+  ],
+  "abs": "Lab tests on soil samples are slow and suffer from disturbance, while SPT and CPT rely on correlations and apply no cyclic load. Iowa State developed a cyclic borehole shear test device that grips the wall of a 3-inch borehole and applies static and cyclic shear in place; in western Iowa loess it gave a friction angle of 37.4° versus 36.2° from an established borehole shear test, and field trials in several states showed it can capture cyclic soil behaviour.",
+  "link": "https://onlinepubs.trb.org/onlinepubs/IDEA/FinalReports/Highway/NCHRP221.pdf",
+  "intl": true,
+  "tr": {
+   "uz": {
+    "t": "Quduqda gruntni joyida tsiklik siljishga sinash qurilmasi",
+    "ab": "Poydevor va tirgak devorlarni loyihalash uchun gruntning ichki ishqalanish burchagi va bog‘lanishi kerak, ammo laboratoriya sinovlari uzoq davom etadi va namuna buziladi, SPT va CPT esa taxminiy korrelyatsiyaga tayanib, tsiklik yuklama bermaydi. Ayova shtat universiteti 76 mm diametrli quduq devoriga siqiladigan va gruntni joyida statik hamda tsiklik siljishga sinaydigan CBST qurilmasini yaratib, uni Ayova, Janubiy Karolina va Oregonda sinab ko‘rdi. G‘arbiy Ayova lyossida qurilma ichki ishqalanish burchagini 37,4° va bog‘lanishni 0,84 psi deb ko‘rsatdi, mavjud quduq sinovi esa 36,2° va 0,96 psi berdi; mualliflar siljish va deformatsiya o‘rtasidagi bog‘liqlik hali qo‘shimcha tadqiqot talab qilishini ta’kidlashgan. O‘zbekistonda keng tarqalgan lyoss va cho‘kuvchan gruntlarda yo‘l ko‘tarmalari va ko‘prik poydevorlarini, ayniqsa seysmik yuklamani hisobga olib, loyihalash uchun juda dolzarb."
+   }
+  },
+  "fileId": "",
+  "fileUrl": "",
+  "fileName": "",
+  "fileSize": 0,
+  "createdAt": 1,
+  "updatedAt": 1
+ },
+ {
+  "id": "trbidea-223",
+  "ident": "TRB-IDEA-223",
+  "title": "Fatigue Crack Inspection Using Computer Vision and Augmented Reality",
+  "authors": [
+   "Jian Li",
+   "The University of Kansas"
+  ],
+  "org": "TRB / NCHRP IDEA (AQSh)",
+  "cat": "report",
+  "year": 2022,
+  "lang": "en",
+  "ftype": "PDF",
+  "pages": 0,
+  "kw": [
+   "po‘lat ko‘priklar",
+   "charchoq yoriqlari",
+   "kompyuter ko‘rishi",
+   "to‘ldirilgan reallik",
+   "ko‘prik inspeksiyasi"
+  ],
+  "abs": "Fatigue cracks in steel bridges are hard to spot visually, and edge-based image methods confuse them with scratches or corrosion marks. The team tracked surface motion in short videos under load to reveal cracks, removed camera shake by global motion compensation, developed a faster distance-based method (0.2 s per frame) and displayed results to inspectors through a HoloLens 2 augmented-reality app; laboratory detection reached an IoU score of up to 0.77.",
+  "link": "https://onlinepubs.trb.org/onlinepubs/IDEA/FinalReports/Highway/NCHRP223.pdf",
+  "intl": true,
+  "tr": {
+   "uz": {
+    "t": "Kompyuter ko‘rishi va to‘ldirilgan reallik bilan charchoq yoriqlarini tekshirish",
+    "ab": "Po‘lat ko‘priklardagi charchoq yoriqlarini ko‘z bilan topish qiyin, kontur asosidagi tasvir tahlili esa ularni tirnalish, zang izi yoki konstruksiya chegaralari bilan adashtiradi. Kanzas universiteti yuk ta’siridagi konstruksiyaning qisqa videosida sirt nuqtalarining harakatini kuzatib, yoriq ikki tomoni turlicha siljishidan uni aniqlaydigan usulni ishlab chiqdi, kamera tebranishini kompensatsiya qildi va natijani HoloLens 2 ko‘zoynagi orqali inspektorga to‘ldirilgan reallikda ko‘rsatdi. Tezlashtirilgan usul kadrga 0,2 soniya sarfladi (avvalgisi 1,75 soniya), laboratoriyada aniqlash ko‘rsatkichi (IoU) 0,77 gacha yetdi; dala sinovi juda ingichka yoriqlarni aniqlash hali qiyinligini ko‘rsatdi. O‘zbekistonda eskirib borayotgan po‘lat ko‘priklarni tekshirishni raqamlashtirish va inspektorlar malakasiga bog‘liqlikni kamaytirish uchun istiqbolli yo‘nalish."
+   }
+  },
+  "fileId": "",
+  "fileUrl": "",
+  "fileName": "",
+  "fileSize": 0,
+  "createdAt": 1,
+  "updatedAt": 1
  }
 ]
