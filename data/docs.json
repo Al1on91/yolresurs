@@ -15734,5 +15734,691 @@
   "fileSize": 0,
   "createdAt": 1,
   "updatedAt": 1
+ },
+ {
+  "id": "a20261125-01",
+  "ident": "YR-20261125-01",
+  "title": "UHPC Overlay Construction Checklist (FHWA-HRT-27-011)",
+  "authors": [
+   "FHWA Turner-Fairbank Highway Research Center"
+  ],
+  "org": "FHWA (AQSh)",
+  "cat": "guide",
+  "year": 2026,
+  "lang": "en",
+  "ftype": "PDF",
+  "pages": 0,
+  "kw": [
+   "ko‘prik qoplamasi",
+   "UHPC",
+   "o‘ta yuqori mustahkam beton",
+   "overlay",
+   "bridge deck",
+   "сверхвысокопрочный бетон"
+  ],
+  "abs": "A TechNote checklist that organises UHPC bridge-deck overlay delivery into six phases from pre-award to project closeout. It recommends verifying deck soundness, using a 500 ppm chloride threshold to set removal depth, prequalifying the mix and running a prototype casting before field placement.",
+  "link": "https://highways.dot.gov/sites/fhwa.dot.gov/files/FHWA-HRT-27-011.pdf",
+  "intl": true,
+  "tr": {
+   "uz": {
+    "t": "UHPC ko‘prik qoplamasi (overlay) qurilishi bo‘yicha nazorat ro‘yxati",
+    "ab": "FHWA texnik qaydnomasi o‘ta yuqori mustahkam beton (UHPC) bilan ko‘prik plitasini qoplash ishlarini olti bosqichga ajratadi: tenderdan oldingi, qurilishdan oldingi, prototip quyish, joyida quyish, quyishdan keyingi va loyihani yopish. Olib tashlanadigan qatlam chuqurligini xloridlar miqdori 500 ppm chegarasi bo‘yicha belgilash, aralashmani oldindan sinovdan o‘tkazish va dala ishidan avval prototip quyishni tavsiya etadi. O‘zbekistondagi eskirgan temirbeton ko‘priklarni ta’mirlashda yupqa va chidamli UHPC qoplamalarni joriy etish uchun amaliy qo‘llanma bo‘la oladi."
+   }
+  },
+  "fileId": "",
+  "fileUrl": "",
+  "fileName": "",
+  "fileSize": 0,
+  "createdAt": 1795573795249,
+  "updatedAt": 1795573795249
+ },
+ {
+  "id": "a20261125-02",
+  "ident": "YR-20261125-02",
+  "title": "Validity of Electrical-Based Durability Tests for Concrete Containing Colloidal Nanosilica (FHWA-HRT-26-064)",
+  "authors": [
+   "Amir Malakooti",
+   "Payam Hosseini",
+   "Michelle A. Cooper",
+   "Scott Muzenski"
+  ],
+  "org": "FHWA (AQSh)",
+  "cat": "report",
+  "year": 2026,
+  "lang": "en",
+  "ftype": "PDF",
+  "pages": 0,
+  "kw": [
+   "beton chidamliligi",
+   "nanokremnezem",
+   "elektr qarshilik",
+   "durability",
+   "resistivity",
+   "нанокремнезём"
+  ],
+  "abs": "The TechNote checks whether surface and uniaxial resistivity tests remain valid for concrete with colloidal nanosilica admixtures, comparing three commercial products at two w/cm ratios. At recommended dosages the admixtures did not significantly change electrical results after 7 days, but bulk chloride diffusion testing is advised where validity is in doubt.",
+  "link": "https://highways.dot.gov/sites/fhwa.dot.gov/files/FHWA-HRT-26-064.pdf",
+  "intl": true,
+  "tr": {
+   "uz": {
+    "t": "Kolloid nanokremnezem qo‘shilgan betonning chidamliligini elektr usullar bilan baholashning ishonchliligi",
+    "ab": "Tadqiqotda uchta tijorat kolloid nanokremnezem qo‘shimchasi ikki xil suv-sement nisbatida sinalib, sirt va bir o‘qli elektr qarshilik testlari betonning uzoq muddatli chidamliligini to‘g‘ri ko‘rsatishi tekshirildi. Tavsiya etilgan dozalarda 7 kundan keyin elektr natijalarga sezilarli ta’sir topilmadi, ammo ayrim hollarda xlorid diffuziyasi biroz yuqori bo‘lgani uchun natijalarni bulk diffuziya sinovi bilan tasdiqlash maslahat beriladi. O‘zbekistonda yo‘l va ko‘prik betonlarini tez sinash usullarini joriy qilishda yangi qo‘shimchalar bilan ehtiyotkorlikni eslatadi."
+   }
+  },
+  "fileId": "",
+  "fileUrl": "",
+  "fileName": "",
+  "fileSize": 0,
+  "createdAt": 1795573795250,
+  "updatedAt": 1795573795250
+ },
+ {
+  "id": "a20261125-03",
+  "ident": "YR-20261125-03",
+  "title": "A Study on the Influence of Asphalt Layer Temperature on TSDD-Measured Deflection Slopes and Deflections (FHWA-HRT-26-057)",
+  "authors": [
+   "Mahdi Nasimifar",
+   "Atish Nadkarni"
+  ],
+  "org": "FHWA (AQSh)",
+  "cat": "report",
+  "year": 2026,
+  "lang": "en",
+  "ftype": "PDF",
+  "pages": 0,
+  "kw": [
+   "egilish",
+   "asfalt harorati",
+   "TSD",
+   "deflectometer",
+   "LTPP",
+   "прогиб покрытия"
+  ],
+  "abs": "Using more than 250,000 simulated pavement cases built from LTPP data, the report studies how asphalt layer temperature affects traffic speed deflection device measurements. It shows that deflection slopes are more temperature-sensitive than deflections and develops device-independent temperature adjustment models validated with Danish field data.",
+  "link": "https://highways.dot.gov/sites/fhwa.dot.gov/files/FHWA-HRT-26-057.pdf",
+  "intl": true,
+  "tr": {
+   "uz": {
+    "t": "Asfalt qatlami haroratining harakat tezligida o‘lchanadigan egilish va egilish qiyaliklariga ta’siri",
+    "ab": "Hisobot LTPP ma’lumotlari asosida 250 000 dan ortiq yo‘l konstruksiyasi uchun harakat tezligida ishlaydigan deflektometr (TSDD) o‘lchovlarini modellashtiradi. Harorat ta’siri zonasi yupqa qatlamda yuk atrofida ~500 mm dan qalin qatlamda ~1500 mm gacha kengayishi, egilish qiyaliklari esa egilishlarga nisbatan haroratga sezgirroq ekanligi ko‘rsatilgan; Daniya dala ma’lumotlari bilan tasdiqlangan tuzatish modellari ishlab chiqilgan. O‘zbekistonning keskin kontinental iqlimida yo‘l qoplamalarini diagnostika qilishda harorat tuzatishlari ayniqsa muhim."
+   }
+  },
+  "fileId": "",
+  "fileUrl": "",
+  "fileName": "",
+  "fileSize": 0,
+  "createdAt": 1795573795251,
+  "updatedAt": 1795573795251
+ },
+ {
+  "id": "a20261125-04",
+  "ident": "YR-20261125-04",
+  "title": "A Framework to Procure Nondestructive Testing and Evaluation Services for Highway Bridges (FHWA-HRT-26-056)",
+  "authors": [
+   "Heng Liu",
+   "Shane Boone",
+   "Hoda Azari",
+   "Marybeth Miceli"
+  ],
+  "org": "FHWA (AQSh)",
+  "cat": "guide",
+  "year": 2026,
+  "lang": "en",
+  "ftype": "PDF",
+  "pages": 0,
+  "kw": [
+   "ko‘prik diagnostikasi",
+   "buzmasdan sinash",
+   "NDT",
+   "xarid",
+   "bridge inspection",
+   "неразрушающий контроль"
+  ],
+  "abs": "The report reviews how agencies procure nondestructive testing and evaluation services for bridges, based on procurement documents, a survey and interviews with nine agencies. It finds weak data-quality requirements and inconsistent evaluation criteria, and proposes a procurement framework with an example solicitation and sample contract language.",
+  "link": "https://highways.dot.gov/sites/fhwa.dot.gov/files/FHWA-HRT-26-056.pdf",
+  "intl": true,
+  "tr": {
+   "uz": {
+    "t": "Avtomobil yo‘li ko‘priklari uchun buzmasdan sinash va baholash (NDT&E) xizmatlarini xarid qilish tizimi",
+    "ab": "Hujjat AQSh shtat yo‘l agentliklari ko‘priklarni buzmasdan sinash xizmatlarini qanday xarid qilishini xarid hujjatlari, so‘rovnoma va to‘qqiz agentlik bilan suhbatlar asosida tahlil qiladi. Ko‘pincha usul emas, pudratchi tajribasi talab qilinishi, QA/QC va xom ma’lumotlarni topshirish talablari kamligi aniqlangan; namunaviy tender hujjati va shartnoma bandlari taklif etiladi. O‘zbekistonda ko‘priklar holatini instrumental tekshirish xizmatlarini buyurtma qilishda texnik topshiriq tuzish uchun foydali namuna."
+   }
+  },
+  "fileId": "",
+  "fileUrl": "",
+  "fileName": "",
+  "fileSize": 0,
+  "createdAt": 1795573795252,
+  "updatedAt": 1795573795252
+ },
+ {
+  "id": "a20261125-05",
+  "ident": "YR-20261125-05",
+  "title": "Impacts of Wildfires on Highway Assets (FHWA-HRT-26-005)",
+  "authors": [
+   "Prashant Ram",
+   "Sarah Lopez",
+   "Jeff Stempihar",
+   "Kurt Smith"
+  ],
+  "org": "FHWA (AQSh)",
+  "cat": "report",
+  "year": 2026,
+  "lang": "en",
+  "ftype": "PDF",
+  "pages": 0,
+  "kw": [
+   "yong‘in",
+   "yo‘l aktivlari",
+   "barqarorlik",
+   "wildfire",
+   "resilience",
+   "лесные пожары"
+  ],
+  "abs": "This TechBrief reviews how wildfires affect pavements, culverts, bridges, signs and guardrails, drawing on interviews with agencies. Direct fire damage is usually local, while post-fire flooding, debris flows and heavy response traffic cause most harm; it recommends pre-fire pavement baselines and fire-resistant drainage and roadside materials.",
+  "link": "https://highways.dot.gov/sites/fhwa.dot.gov/files/FHWA-HRT-26-005.pdf",
+  "intl": true,
+  "tr": {
+   "uz": {
+    "t": "Tabiiy yong‘inlarning avtomobil yo‘li aktivlariga ta’siri",
+    "ab": "Texnik byulleten yong‘inlarning yo‘l qoplamalari, quvurlar, ko‘priklar, belgilar va to‘siqlarga ta’sirini agentliklar tajribasi asosida ko‘rib chiqadi. Bevosita olov zarari odatda mahalliy bo‘lib, asosiy zarar yong‘indan keyingi sel, loyqa oqimlar va qutqaruv texnikasining og‘ir harakatidan kelishi ko‘rsatilgan; yong‘ingacha qoplama holatini qayd etish va yonmaydigan materiallardan foydalanish tavsiya qilinadi. O‘zbekistonning tog‘ va tog‘oldi yo‘llarida sel xavfini baholashda ham shunga o‘xshash yondashuv qo‘llanishi mumkin."
+   }
+  },
+  "fileId": "",
+  "fileUrl": "",
+  "fileName": "",
+  "fileSize": 0,
+  "createdAt": 1795573795253,
+  "updatedAt": 1795573795253
+ },
+ {
+  "id": "a20261125-06",
+  "ident": "YR-20261125-06",
+  "title": "Portland Limestone Cement Variability (FHWA-HRT-25-116)",
+  "authors": [
+   "Payam Hosseini",
+   "Michelle A. Cooper",
+   "Scott Muzenski"
+  ],
+  "org": "FHWA (AQSh)",
+  "cat": "report",
+  "year": 2025,
+  "lang": "en",
+  "ftype": "PDF",
+  "pages": 0,
+  "kw": [
+   "ohaktoshli portlandsement",
+   "PLC",
+   "sement sifati",
+   "beton",
+   "limestone cement",
+   "портландцемент с известняком"
+  ],
+  "abs": "The TechNote characterises 18 Portland limestone cement samples from 13 plants in 9 states and reviews prior studies of PLC variability. Blaine fineness proved a poor predictor of behaviour, sulfate–aluminate balance strongly influenced early hydration, and several samples fell outside SO3 and limestone content limits.",
+  "link": "https://highways.dot.gov/sites/fhwa.dot.gov/files/FHWA-HRT-25-116.pdf",
+  "intl": true,
+  "tr": {
+   "uz": {
+    "t": "Ohaktoshli portlandsement (PLC) xossalarining o‘zgaruvchanligi",
+    "ab": "Tadqiqotda AQShning 9 shtatidagi 13 zavoddan olingan 18 ta ohaktoshli portlandsement namunasi fizik va kimyoviy jihatdan tavsiflangan. Blaine solishtirma yuzasi sement xulqini yomon bashorat qilishi, sulfat-aluminat muvozanati esa dastlabki gidratatsiyaga kuchli ta’sir etishi aniqlangan; 18 namunadan 7 tasi SO3 bo‘yicha 3 % chegaradan oshgan. O‘zbekistonda yo‘l betoni uchun aralash sementlardan foydalanish kengayayotgan sharoitda kirish nazoratini kuchaytirish zarurligini ko‘rsatadi."
+   }
+  },
+  "fileId": "",
+  "fileUrl": "",
+  "fileName": "",
+  "fileSize": 0,
+  "createdAt": 1795573795254,
+  "updatedAt": 1795573795254
+ },
+ {
+  "id": "a20261125-07",
+  "ident": "YR-20261125-07",
+  "title": "Validating a Density Profiling System for Asphalt Compaction Assessment (FHWA-HRT-26-011)",
+  "authors": [
+   "FHWA NDE Research Program"
+  ],
+  "org": "FHWA (AQSh)",
+  "cat": "report",
+  "year": 2025,
+  "lang": "en",
+  "ftype": "PDF",
+  "pages": 0,
+  "kw": [
+   "asfalt zichlash",
+   "georadar",
+   "zichlik nazorati",
+   "GPR",
+   "compaction",
+   "контроль плотности асфальта"
+  ],
+  "abs": "This fact sheet summarises FHWA validation of a ground-penetrating-radar Density Profiling System that maps the dielectric constant of new asphalt as a proxy for density and air voids. It notes mild temperature sensitivity, sensitivity to surface moisture and a shallow scanning depth, and supports linear regression for quality control.",
+  "link": "https://highways.dot.gov/sites/fhwa.dot.gov/files/FHWA-HRT-26-011.pdf",
+  "intl": true,
+  "tr": {
+   "uz": {
+    "t": "Asfalt zichlanishini baholash uchun zichlik profillash tizimini tekshirish",
+    "ab": "Faktlar varag‘i yangi asfalt qatlamining dielektrik doimiysini georadar (GPR) bilan uzluksiz o‘lchab, zichlik va havo bo‘shliqlarini butun maydon bo‘ylab baholaydigan tizimni FHWA sinovlari natijalari bilan tanishtiradi. Harorat ta’siri AASHTO chegarasi ichida, ammo sirt namligi ta’sir qilishi va 2,0 GGs antenna uchun skanerlash chuqurligi 5 sm dan kam ekanligi qayd etilgan. O‘zbekistonda kern olish o‘rniga tezkor, buzmasdan sifat nazoratini joriy etish uchun foydali."
+   }
+  },
+  "fileId": "",
+  "fileUrl": "",
+  "fileName": "",
+  "fileSize": 0,
+  "createdAt": 1795573795255,
+  "updatedAt": 1795573795255
+ },
+ {
+  "id": "a20261125-08",
+  "ident": "YR-20261125-08",
+  "title": "Macrotexture Model Development for Asphalt Mixtures Aimed at Safety Analysis (FHWA-HRT-25-100)",
+  "authors": [
+   "Gerardo Flintsch",
+   "Edgar de León Izeppi",
+   "Alejandra Medina",
+   "Behrokh Bazmara",
+   "Ilker Boz",
+   "Andy Mergenmeier",
+   "Amir Golalipour"
+  ],
+  "org": "FHWA (AQSh)",
+  "cat": "report",
+  "year": 2025,
+  "lang": "en",
+  "ftype": "PDF",
+  "pages": 0,
+  "kw": [
+   "makrotekstura",
+   "g‘ildirak ilashishi",
+   "yo‘l xavfsizligi",
+   "MPD",
+   "macrotexture",
+   "макротекстура"
+  ],
+  "abs": "The TechBrief presents models that predict as-built asphalt macrotexture (MPD) from gradation and mix properties, using highway-speed data from several states and NCAT. A linear model and an XGBoost model are offered, with a framework for using predictions in mix design to meet safety-related texture targets.",
+  "link": "https://highways.dot.gov/sites/fhwa.dot.gov/files/FHWA-HRT-25-100.pdf",
+  "intl": true,
+  "tr": {
+   "uz": {
+    "t": "Xavfsizlik tahlili uchun asfalt aralashmalarining makroteksturasini bashorat qilish modeli",
+    "ab": "Byulletenda yetti shtat va NCAT ma’lumotlari asosida asfalt qoplamaning qurilgandan keyingi makroteksturasini (MPD) granulometriya va aralashma xossalari orqali bashorat qiluvchi modellar taqdim etilgan. Eng yaxshi chiziqli model bir jinslilik koeffitsiyenti, No.8 va No.200 elakdan o‘tish foizi va bitum bilan to‘ldirilgan bo‘shliqlarni hisobga oladi, XGBoost modeli esa biroz aniqroq. O‘zbekistonda aralashma loyihalashda ilashish va xavfsizlik talablarini oldindan ta’minlashga yordam beradi."
+   }
+  },
+  "fileId": "",
+  "fileUrl": "",
+  "fileName": "",
+  "fileSize": 0,
+  "createdAt": 1795573795256,
+  "updatedAt": 1795573795256
+ },
+ {
+  "id": "a20261125-09",
+  "ident": "YR-20261125-09",
+  "title": "Long-Term Pavement Performance Program Updates on Accomplishments and Benefits (FHWA-HRT-26-021)",
+  "authors": [
+   "Federal Highway Administration"
+  ],
+  "org": "FHWA (AQSh)",
+  "cat": "report",
+  "year": 2026,
+  "lang": "en",
+  "ftype": "PDF",
+  "pages": 0,
+  "kw": [
+   "LTPP",
+   "yo‘l qoplamasi monitoringi",
+   "ma’lumotlar bazasi",
+   "pavement performance",
+   "мониторинг покрытий"
+  ],
+  "abs": "A short update on the LTPP programme, which has monitored over 2,500 test sections since 1989. It highlights uses such as calibrating Pavement ME models, the Distress Identification Manual and LTPPBind, and estimates about 6.8 billion USD in agency savings through 2025.",
+  "link": "https://highways.dot.gov/sites/fhwa.dot.gov/files/FHWA-HRT-26-021.pdf",
+  "intl": true,
+  "tr": {
+   "uz": {
+    "t": "LTPP dasturi: yutuqlar va foydalar bo‘yicha yangilanish",
+    "ab": "Hujjat 1989 yildan beri Shimoliy Amerikadagi 2500 dan ortiq sinov uchastkalarini kuzatib kelayotgan uzoq muddatli qoplama samaradorligi (LTPP) dasturining natijalarini qisqacha bayon qiladi. Pavement ME modellarini kalibrlash, nuqsonlarni aniqlash qo‘llanmasi va LTPPBind kabi mahsulotlar hamda 1989–2025 yillarda agentliklarga taxminan 6,8 mlrd dollar tejamkorlik keltirgani qayd etilgan. O‘zbekistonda milliy yo‘l qoplamalari monitoring bazasini yaratish g‘oyasi uchun ishonchli dalil."
+   }
+  },
+  "fileId": "",
+  "fileUrl": "",
+  "fileName": "",
+  "fileSize": 0,
+  "createdAt": 1795573795257,
+  "updatedAt": 1795573795257
+ },
+ {
+  "id": "a20261125-10",
+  "ident": "YR-20261125-10",
+  "title": "Safety Effects of Full-Length Retroreflective Posts for In-Curve Horizontal Alignment Signs (FHWA-HRT-26-066)",
+  "authors": [
+   "Michael P. Pratt",
+   "Srinivas R. Geedipally"
+  ],
+  "org": "FHWA (AQSh)",
+  "cat": "report",
+  "year": 2026,
+  "lang": "en",
+  "ftype": "PDF",
+  "pages": 0,
+  "kw": [
+   "yo‘l belgilari",
+   "burilish",
+   "nur qaytaruvchi ustun",
+   "CMF",
+   "road safety",
+   "безопасность на кривых"
+  ],
+  "abs": "An Empirical Bayes before–after study of full-length yellow retroreflective posts on chevron and large-arrow signs at curves in Pennsylvania and Texas. Crash modification factors were 0.82 for total, 0.73 for fatal-and-injury and 0.66 for night crashes, with an average benefit–cost ratio of about 10.",
+  "link": "https://highways.dot.gov/sites/fhwa.dot.gov/files/FHWA-HRT-26-066.pdf",
+  "intl": true,
+  "tr": {
+   "uz": {
+    "t": "Burilishdagi belgilar ustunlarini to‘liq uzunlikda nur qaytaruvchi qilishning xavfsizlikka ta’siri",
+    "ab": "Pensilvaniya va Texasdagi egri uchastkalarda shevron va katta strelka belgilarining ustunlarini to‘liq sariq nur qaytaruvchi plyonka bilan qoplash samarasi Empirical Bayes «oldin-keyin» usulida baholangan. Avariyalar umumiy soni 18 %, o‘lim va jarohatli avariyalar 27 %, tungi avariyalar 34 % kamaygan, foyda-xarajat nisbati o‘rtacha 10,1 ni tashkil etgan. O‘zbekistonning tog‘ yo‘llaridagi xavfli burilishlarda arzon va samarali chora sifatida qo‘llash mumkin."
+   }
+  },
+  "fileId": "",
+  "fileUrl": "",
+  "fileName": "",
+  "fileSize": 0,
+  "createdAt": 1795573795258,
+  "updatedAt": 1795573795258
+ },
+ {
+  "id": "a20261125-11",
+  "ident": "YR-20261125-11",
+  "title": "Quality Assurance Stewardship Review, Summary Report 2019-2023 (FHWA-HIF-24-074)",
+  "authors": [
+   "Max G. Grogg"
+  ],
+  "org": "FHWA (AQSh)",
+  "cat": "report",
+  "year": 2024,
+  "lang": "en",
+  "ftype": "PDF",
+  "pages": 0,
+  "kw": [
+   "sifat kafolati",
+   "laboratoriya",
+   "qurilish nazorati",
+   "quality assurance",
+   "23 CFR 637",
+   "контроль качества"
+  ],
+  "abs": "The report summarises 17 state Quality Assurance Stewardship Reviews conducted 2019–2023 against federal QA regulations. Recurring issues include accepting contractor test results without adequate validation and weak independent assurance, while strengths include accredited laboratories and growing use of percent-within-limits and balanced mix design.",
+  "link": "https://www.fhwa.dot.gov/pavement/materials/hif24074.pdf",
+  "intl": true,
+  "tr": {
+   "uz": {
+    "t": "Sifat kafolati bo‘yicha nazorat tekshiruvlari: 2019–2023 yillar umumiy hisoboti",
+    "ab": "Hisobot 17 ta shtat yo‘l agentligida qurilish materiallari sifatini kafolatlash federal talablarga (23 CFR 637) muvofiqligini tekshirish natijalarini umumlashtiradi. Pudratchi sinov natijalarini yetarli tekshiruvsiz qabul qilish, mustaqil nazorat dasturlaridagi kamchiliklar va laboratoriyalar malakasi hujjatlarining noaniqligi takroriy muammolar sifatida ko‘rsatilgan. O‘zbekistonda yo‘l qurilishida buyurtmachi va pudratchi nazorati vakolatlarini ajratish tizimini takomillashtirishda tajriba manbai."
+   }
+  },
+  "fileId": "",
+  "fileUrl": "",
+  "fileName": "",
+  "fileSize": 0,
+  "createdAt": 1795573795259,
+  "updatedAt": 1795573795259
+ },
+ {
+  "id": "a20261125-12",
+  "ident": "YR-20261125-12",
+  "title": "Evaluation of Post-Consumer Recycled Plastics in Asphalt Mixtures via the Dry Process (NCHRP Research Report 1143)",
+  "authors": [
+   "Randy West",
+   "Fan Yin",
+   "Nam Tran",
+   "et al. (NCAT, Western Research Institute)"
+  ],
+  "org": "TRB / NCHRP (AQSh)",
+  "cat": "report",
+  "year": 2025,
+  "lang": "en",
+  "ftype": "WEB",
+  "pages": 0,
+  "kw": [
+   "plastik chiqindilar",
+   "asfaltbeton",
+   "quruq usul",
+   "recycled plastics",
+   "RAP",
+   "переработанный пластик"
+  ],
+  "abs": "NCHRP Research Report 1143 evaluates adding post-consumer recycled LDPE, HDPE and polypropylene to asphalt mixtures by the dry process. It covers volumetrics, workability, performance, life-cycle cost, worker safety, environmental impact and recyclability, with a Recycled Plastics Guide and a mixture results database.",
+  "link": "https://www.nationalacademies.org/read/28867/chapter/1",
+  "intl": true,
+  "tr": {
+   "uz": {
+    "t": "Iste’moldan keyingi qayta ishlangan plastiklarni asfalt aralashmalariga quruq usulda qo‘shishni baholash",
+    "ab": "NCHRP 1143-hisobotida LDPE, HDPE va polipropilen kabi maishiy plastik chiqindilarni asfaltbetonga quruq usulda qo‘shish laboratoriya, zavod va dala namunalarida sinovdan o‘tkazilgan. Hajmiy ko‘rsatkichlar, ishlanuvchanlik, uzoq muddatli samaradorlik, hayotiy sikl narxi, ishchilar xavfsizligi, ekologik ta’sir va qayta ishlanuvchanlik baholanib, amaliy qo‘llanma tayyorlangan. O‘zbekistonda plastik chiqindilarni yo‘l qurilishida ishlatish tashabbuslarini ilmiy asoslashda muhim manba."
+   }
+  },
+  "fileId": "",
+  "fileUrl": "",
+  "fileName": "",
+  "fileSize": 0,
+  "createdAt": 1795573795260,
+  "updatedAt": 1795573795260
+ },
+ {
+  "id": "a20261125-13",
+  "ident": "YR-20261125-13",
+  "title": "Recycled Asphalt Materials: Binder Availability and Its Impact on Mix Performance (NCHRP Web-Only Document 450)",
+  "authors": [
+   "Fan Yin",
+   "Nam Tran",
+   "Amy Epps Martin",
+   "et al. (NCAT, TTI)"
+  ],
+  "org": "TRB / NCHRP (AQSh)",
+  "cat": "report",
+  "year": 2026,
+  "lang": "en",
+  "ftype": "WEB",
+  "pages": 0,
+  "kw": [
+   "RAP",
+   "qayta ishlangan asfalt",
+   "bitum mavjudligi",
+   "recycled binder availability",
+   "AASHTO M 323",
+   "регенерированный асфальт"
+  ],
+  "abs": "The document investigates how much aged binder in RAP and RAS actually blends with virgin binder and how this affects cracking, rutting and stiffness of high-recycled mixtures. It delivers draft test methods, proposed revisions to AASHTO PP 127, M 323 and R 35, and a process for including binder availability in mix design.",
+  "link": "https://www.nationalacademies.org/read/29391",
+  "intl": true,
+  "tr": {
+   "uz": {
+    "t": "Qayta ishlangan asfalt materiallari: bog‘lovchining faol qismi va uning aralashma samaradorligiga ta’siri",
+    "ab": "Hujjat RAP va RAS tarkibidagi eskirgan bitumning qancha qismi yangi bitum bilan haqiqatan aralashishini (RBA) aniqlash usullarini tanlash, sezgirlik tahlili, aralashma samaradorligi va iqtisodiy samarani to‘rt bosqichda o‘rganadi. Natijada RBA ni aniqlash bo‘yicha sinov usullari loyihalari va AASHTO PP 127, M 323, R 35 standartlariga o‘zgartirishlar taklif qilingan. O‘zbekistonda frezalangan asfaltdan yuqori ulushda foydalanish me’yorlarini ishlab chiqishda asos bo‘la oladi."
+   }
+  },
+  "fileId": "",
+  "fileUrl": "",
+  "fileName": "",
+  "fileSize": 0,
+  "createdAt": 1795573795261,
+  "updatedAt": 1795573795261
+ },
+ {
+  "id": "a20261125-14",
+  "ident": "YR-20261125-14",
+  "title": "Assessment of Geometric Design Practices for U.S. Roadways (NCHRP Research Report 1198)",
+  "authors": [
+   "National Academies of Sciences, Engineering, and Medicine"
+  ],
+  "org": "TRB / NCHRP (AQSh)",
+  "cat": "report",
+  "year": 2026,
+  "lang": "en",
+  "ftype": "WEB",
+  "pages": 0,
+  "kw": [
+   "geometrik loyihalash",
+   "Green Book",
+   "yo‘l loyihalash me’yorlari",
+   "geometric design",
+   "performance-based design",
+   "геометрическое проектирование"
+  ],
+  "abs": "NCHRP Research Report 1198 assesses U.S. geometric design practice to inform the 8th edition of the AASHTO Green Book and includes draft language. It recommends a shift from rigid criteria toward flexible, context-sensitive and performance-based design, with a proposed 19-chapter structure. Free PDF requires guest login on the publisher site.",
+  "link": "https://www.nationalacademies.org/publications/29570",
+  "intl": true,
+  "tr": {
+   "uz": {
+    "t": "AQSh avtomobil yo‘llarini geometrik loyihalash amaliyotini baholash",
+    "ab": "NCHRP 1198-hisoboti AASHTO «Green Book» qo‘llanmasining 8-nashrini tayyorlash uchun geometrik loyihalash amaliyotini baholaydi va yangi matn loyihasini taklif qiladi. Qat’iy mezonlarga asoslangan loyihalashdan moslashuvchan, kontekstga mos va samaradorlikka asoslangan yondashuvga o‘tish, 19 bobli yangi tuzilma va natijalarni o‘lchanadigan ko‘rsatkichlar bilan baholash tavsiya etilgan. O‘zbekistonda ShNQ 2.05.02 kabi yo‘l loyihalash me’yorlarini yangilashda zamonaviy xalqaro yo‘nalishni ko‘rsatadi."
+   }
+  },
+  "fileId": "",
+  "fileUrl": "",
+  "fileName": "",
+  "fileSize": 0,
+  "createdAt": 1795573795262,
+  "updatedAt": 1795573795262
+ },
+ {
+  "id": "a20261125-15",
+  "ident": "YR-20261125-15",
+  "title": "Design and Evaluation of Pavements for Low-Volume Roads with Heavy Loads (NCHRP Synthesis 666)",
+  "authors": [
+   "Abu Sufian",
+   "Hyung Lee",
+   "Zafrul Khan"
+  ],
+  "org": "TRB / NCHRP (AQSh)",
+  "cat": "report",
+  "year": 2026,
+  "lang": "en",
+  "ftype": "WEB",
+  "pages": 0,
+  "kw": [
+   "kam intensivli yo‘llar",
+   "og‘ir yuk",
+   "qishloq yo‘llari",
+   "low-volume roads",
+   "heavy loads",
+   "дороги низкой интенсивности"
+  ],
+  "abs": "The synthesis documents how state DOTs design and evaluate paved and unpaved low-volume roads that carry heavy loads, from a literature review, a survey and four case examples. Of 30 DOTs responsible for such roads only 4 explicitly account for heavy loads, and cracking is the most common distress.",
+  "link": "https://www.nationalacademies.org/read/29536/chapter/1",
+  "intl": true,
+  "tr": {
+   "uz": {
+    "t": "Og‘ir yuklar ta’siridagi kam intensivli yo‘llar qoplamalarini loyihalash va baholash",
+    "ab": "NCHRP 666-sintezi shtat yo‘l agentliklari og‘ir yuk tashiladigan kam intensivli (asosan 500–1000 avt/sutka) asfaltlangan va shag‘alli yo‘llarni qanday loyihalashi va baholashini adabiyotlar, so‘rovnoma va Vayoming, Indiana, Nyu-Jersi, Nebraska misollari asosida o‘rganadi. Bunday yo‘llarga mas’ul 30 agentlikdan faqat 4 tasi loyihada og‘ir yuklarni hisobga oladi, eng ko‘p uchraydigan nuqson yoriqlanish ekanligi aniqlangan. O‘zbekistonda paxta, g‘alla va qurilish yuklarini tashiydigan mahalliy va qishloq yo‘llarini loyihalashda bevosita dolzarb."
+   }
+  },
+  "fileId": "",
+  "fileUrl": "",
+  "fileName": "",
+  "fileSize": 0,
+  "createdAt": 1795573795263,
+  "updatedAt": 1795573795263
+ },
+ {
+  "id": "a20261125-16",
+  "ident": "YR-20261125-16",
+  "title": "Advancing Pavement and Bridge Asset Performance Through Transportation Programming (FHWA-HEP-26-001)",
+  "authors": [
+   "Catherine Duffy",
+   "Michael Grant",
+   "Michael Poore",
+   "Brad W. Allen",
+   "Shafkat Alam-Khan"
+  ],
+  "org": "FHWA (AQSh)",
+  "cat": "report",
+  "year": 2026,
+  "lang": "en",
+  "ftype": "WEB",
+  "pages": 0,
+  "kw": [
+   "aktivlarni boshqarish",
+   "investitsiya dasturi",
+   "ko‘prik va qoplama holati",
+   "asset management",
+   "STIP",
+   "управление активами"
+  ],
+  "abs": "The report examines how state DOTs and MPOs use National Highway System pavement and bridge condition in their investment programmes, based on documents from 10 DOTs and 10 MPOs, interviews and peer exchanges. It identifies obstacles such as data gaps and funding uncertainty and presents case studies and strategies for performance-based programming.",
+  "link": "https://rosap.ntl.bts.gov/view/dot/93513",
+  "intl": true,
+  "tr": {
+   "uz": {
+    "t": "Transport investitsiya dasturlari orqali qoplama va ko‘priklar holatini yaxshilash",
+    "ab": "Hisobot 10 ta shtat yo‘l agentligi va 10 ta metropoliten rejalashtirish tashkiloti hujjatlari, suhbatlar va tajriba almashinuvlari asosida qoplama va ko‘priklar holatining loyiha tanlash va moliyalashtirishda qanday hisobga olinishini tahlil qiladi. Raqobatlashuvchi ustuvorliklar, ma’lumotlar yetishmasligi, xodimlar salohiyati va moliyaviy noaniqlik asosiy to‘siqlar sifatida ko‘rsatilgan, to‘rtta keys va strategiyalar berilgan. O‘zbekistonda yo‘l ta’mirlash dasturlarini holat ko‘rsatkichlariga asoslab tuzish uchun foydali."
+   }
+  },
+  "fileId": "",
+  "fileUrl": "",
+  "fileName": "",
+  "fileSize": 0,
+  "createdAt": 1795573795264,
+  "updatedAt": 1795573795264
+ },
+ {
+  "id": "a20261125-17",
+  "ident": "YR-20261125-17",
+  "title": "O‘zbekistonda yo‘lovchi tashishni tashkil etishning kichik tadbirkorlik shakllaridan foydalanish metodologiyasini takomillashtirish (iqtisodiyot fanlari doktori (DSc) dissertatsiyasi avtoreferati)",
+  "authors": [
+   "Aytiyeva Sevara Allaberdiyevna"
+  ],
+  "org": "Toshkent davlat iqtisodiyot universiteti (O‘zbekiston)",
+  "cat": "thesis",
+  "year": 2026,
+  "lang": "uz",
+  "ftype": "PDF",
+  "pages": 0,
+  "kw": [
+   "yo‘lovchi tashish",
+   "kichik biznes",
+   "avtomobil transporti",
+   "yo‘l sifati",
+   "пассажирские перевозки",
+   "passenger transport"
+  ],
+  "abs": "Iqtisodiyot fanlari doktori (DSc) dissertatsiyasi avtoreferati, ixtisoslik 08.00.15 – Tadbirkorlik va kichik biznes iqtisodiyoti; Toshkent davlat iqtisodiyot universiteti huzuridagi DSc.03/2025.27.12.I.23.04 raqamli ilmiy kengash, 2026 yil (himoya kuni avtoreferatda ko‘rsatilmagan). Ishda 2000–2024 yillar ma’lumotlari va panel ekonometrik modellar asosida yo‘l sifati, raqamlashtirish va yoqilg‘i xarajatlarining yo‘lovchi tashish hajmiga ta’siri tahlil qilinib, 2030 yilgacha prognozlar va litsenziyalash, tarif siyosati bo‘yicha tavsiyalar berilgan.",
+  "link": "https://api.ziyonet.uz/uploads/books/10005547/gOK2nbm6M9WJujc.pdf",
+  "intl": false,
+  "tr": {},
+  "fileId": "",
+  "fileUrl": "",
+  "fileName": "",
+  "fileSize": 0,
+  "createdAt": 1795573795265,
+  "updatedAt": 1795573795265
+ },
+ {
+  "id": "a20261125-18",
+  "ident": "YR-20261125-18",
+  "title": "Hududiy iqtisodiyotni barqaror rivojlantirishda transport xizmatlaridan samarali foydalanish (Xorazm viloyati misolida) (iqtisodiyot fanlari bo‘yicha falsafa doktori (PhD) dissertatsiyasi avtoreferati)",
+  "authors": [
+   "Karimova Shaxnoza Uktamovna"
+  ],
+  "org": "Urganch davlat universiteti (O‘zbekiston)",
+  "cat": "thesis",
+  "year": 2026,
+  "lang": "uz",
+  "ftype": "PDF",
+  "pages": 0,
+  "kw": [
+   "transport xizmatlari",
+   "Xorazm",
+   "logistika",
+   "hududiy iqtisodiyot",
+   "транспортные услуги",
+   "regional economy"
+  ],
+  "abs": "Iqtisodiyot fanlari bo‘yicha falsafa doktori (PhD) dissertatsiyasi avtoreferati, ixtisoslik 08.00.12 – Mintaqaviy iqtisodiyot; Abu Rayhon Beruniy nomidagi Urganch davlat universiteti huzuridagi DSc.03/2025.27.12.I.06.04 raqamli ilmiy kengash, 2026 yil (himoya kuni avtoreferatda bo‘sh qoldirilgan). Tadqiqotda Xorazm viloyati transport xizmatlarining notekis rivojlanishi tahlil qilinib, «Smart Logistics Corridor – Khorezm» modeli, raqamli transport-logistika klasteri va ARDL/ARIMA asosida 2026–2030 yillar prognozi taklif etilgan.",
+  "link": "https://api.ziyonet.uz/uploads/books/10000184/7Ni4npW5sj2S875.pdf",
+  "intl": false,
+  "tr": {},
+  "fileId": "",
+  "fileUrl": "",
+  "fileName": "",
+  "fileSize": 0,
+  "createdAt": 1795573795266,
+  "updatedAt": 1795573795266
  }
 ]
