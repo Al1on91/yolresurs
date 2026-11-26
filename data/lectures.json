@@ -1,0 +1,34 @@
+{
+ "v": "2026-11-26",
+ "items": [
+  {
+   "id": "kesishma-va-tutashmalar",
+   "title": "Avtomobil yo‘llarida kesishma va tutashmalarni loyihalash",
+   "subject": "Avtomobil yo‘llarini loyihalash",
+   "date": "2026-11-26",
+   "intl": true,
+   "srcN": 2,
+   "kw": [
+    "kesishma",
+    "tutashma",
+    "transport yechimi",
+    "halqasimon kesishma",
+    "tezlikni o‘zgartirish tasmasi",
+    "temir yo‘l kesishmasi",
+    "ShNQ 2.05.02-23"
+   ],
+   "topics": [],
+   "reqIds": [],
+   "pages": {
+    "10": 10,
+    "15": 15,
+    "20": 19
+   },
+   "words": {
+    "10": 1937,
+    "15": 3450,
+    "20": 4788
+   }
+  }
+ ]
+}

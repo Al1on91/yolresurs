@@ -8,7 +8,7 @@
   const sb=HAS_SB?window.supabase.createClient(CFG.supabaseUrl,CFG.supabaseAnonKey,{auth:{persistSession:true,autoRefreshToken:true}}):null;
   window.YR_SB=sb;
   const PUBLIC=["docs","news","links","collections","site","specialists","qa","specstat","norms"];
-  const ANON_INSERT=["submissions","specreq","qareq"];
+  const ANON_INSERT=["submissions","specreq","qareq","lecreq"];
   const STATIC=["docs","news","links","collections","site","specialists","qa","specstat","norms"];
   let session=null, isAdmin=false;
   const staticCache={}, sbCache={}, subs=[];
