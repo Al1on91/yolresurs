@@ -7,6 +7,14 @@ Foydalanuvchilar «Ma’ruzalar» bo‘limida (`#lectures`) mavzu yuboradi. So�
 Tayyor ma’ruza — `data/lectures/<id>.json`. Indeks `data/lectures.json` ni qo‘lda yozmang: `python3 scripts/lecture_index.py` uni tekshirib, qayta quradi
 (xato bo‘lsa 1 kodi bilan chiqadi). So‘rov bajarilgan deb hisoblanadi, agar uning `id` si biror ma’ruzaning `reqIds` ro‘yxatida bo‘lsa.
 
+## Hujjat matnini olish (raqamlar shu yerdan)
+`https://ixzbxzoebwgmzscyettd.supabase.co/functions/v1/normtext?doc=<lex.uz raqami>` — lex.uz hujjatini oddiy matn qilib beradi:
+- `&toc=1` — boblar, paragraflar, jadvallar, ilovalar (qator raqami bilan);
+- `&from=150&to=212` — 150–212-bandlar matni;
+- `&q=жадвал` — so‘z qatnashgan qatorlar;  `&line=3950&n=120` — qator raqamidan boshlab 120 qator (jadvallar uchun).
+Javob 24 000 belgidan oshsa kesiladi — oraliqni toraytiring. Matn lex.uz da kirill yozuvida; ma’ruza o‘zbek lotin yozuvida yoziladi.
+Asosiy hujjatlar (lex.uz raqami): ShNQ 2.05.02-23 «Avtomobil yo‘llari» — 7205692; ShNQ 2.05.03-22 «Ko‘priklar va quvurlar» — 6130301; ShNQ 2.05.05-24 «Tunnellar» — 7179741; ShNQ 2.07.06-24 «Shahar ko‘cha-yo‘llari» 1/2/3-qism — 7039154 / 7325622 / 7327695; ShNQ 3.01.03-24 «Qurilishda geodeziya ishlari» — 7165467; ShNQ 3.06.07-23 «Ko‘priklarni tekshirish va sinash» — 6579145; «Avtomobil yo‘llari to‘g‘risida»gi Qonun O‘RQ-1162 — lex.uz/mact/8380201. Boshqa hujjatlar uchun `data/norms.json` dagi manba havolasidan raqamni oling.
+
 ## Asosiy qoidalar
 1. **Faqat amaldagi hujjatlar.** `src` dagi har bir hujjat `data/norms.json` da `status` = `active` yoki `amended` bo‘lishi va rasmiy manbada (lex.uz, tmsiti.uz, avtoyulnorma.uz) amalda ekani tekshirilgan bo‘lishi kerak. `replaced`, `cancelled`, `updating`, `draft` hujjatlar ishlatilmaydi. Har bir `src` yozuvida `"st":"active"` yoki `"amended"`.
 2. **Har bir raqam — band bilan.** Matndagi har bir son, o‘lcham, chegaraviy qiymat `[[kalit|NNN-band]]` havolasi bilan beriladi va hujjatning o‘sha bandida haqiqatda yozilgan bo‘ladi. Hujjat matnini o‘qimasdan raqam yozilmaydi. Taxmin, «odatda», xotiradan raqam — taqiqlanadi.
