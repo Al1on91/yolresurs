@@ -16420,5 +16420,808 @@
   "fileSize": 0,
   "createdAt": 1795573795266,
   "updatedAt": 1795573795266
+ },
+ {
+  "id": "a20261126-01",
+  "ident": "YR-20261126-01",
+  "title": "ГОСТ Р 72316-2025 «Дороги автомобильные общего пользования. Земляное полотно. Георадиолокационные методы обследования»",
+  "authors": [
+   "Росстандарт"
+  ],
+  "org": "Rosstandart (Rossiya)",
+  "cat": "norm",
+  "year": 2025,
+  "lang": "ru",
+  "ftype": "PDF",
+  "pages": 0,
+  "kw": [
+   "yo‘l poyi",
+   "georadar",
+   "tekshirish usullari",
+   "земляное полотно",
+   "георадиолокация",
+   "GPR"
+  ],
+  "abs": "Russian national standard (in force from 1 December 2025) setting ground-penetrating radar methods for checking roadbed construction and surveying foundations. It covers embankments higher than 3 m, soil-replacement backfills, trenches, culverts and bridge approach transition zones.",
+  "link": "https://meganorm.ru/Data/859/85934.pdf",
+  "intl": true,
+  "tr": {
+   "uz": {
+    "t": "GOST R 72316-2025 «Umumiy foydalanishdagi avtomobil yo‘llari. Yo‘l poyi. Georadiolokatsion tekshirish usullari»",
+    "ab": "Standart yo‘l poyini qurish, rekonstruksiya va ta’mirlashda georadar (GPR) yordamida nazorat qilish va asoslarni tekshirish talablarini belgilaydi: balandligi 3 m dan ortiq ko‘tarmalar, grunt almashtirish joylari, xandaqlar, quvurlar hamda ko‘prikka o‘tish zonalari qamrab olingan. 2025-yil 1-dekabrdan amalda. O‘zbekistonda ko‘prik oldi o‘tish zonalaridagi cho‘kishlar va ko‘tarmalar sifatini buzmasdan nazorat qilish uchun tayyor metodik asos bo‘la oladi."
+   }
+  },
+  "fileId": "",
+  "fileUrl": "",
+  "fileName": "",
+  "fileSize": 0,
+  "createdAt": 1795660194213,
+  "updatedAt": 1795660194213
+ },
+ {
+  "id": "a20261126-02",
+  "ident": "YR-20261126-02",
+  "title": "ГОСТ Р 71999-2025 «Дороги автомобильные общего пользования. Линии связи. Требования к размещению»",
+  "authors": [
+   "Росстандарт"
+  ],
+  "org": "Rosstandart (Rossiya)",
+  "cat": "norm",
+  "year": 2025,
+  "lang": "ru",
+  "ftype": "PDF",
+  "pages": 0,
+  "kw": [
+   "aloqa liniyalari",
+   "yo‘l mintaqasi",
+   "kabel",
+   "линии связи",
+   "полоса отвода",
+   "communication lines"
+  ],
+  "abs": "Russian national standard in force from 1 May 2025 that sets requirements for placing cable communication lines within the right-of-way and roadside strip of public roads. It applies both to designing the lines and to road construction, repair and operation.",
+  "link": "https://meganorm.ru/Data/846/84662.pdf",
+  "intl": true,
+  "tr": {
+   "uz": {
+    "t": "GOST R 71999-2025 «Avtomobil yo‘llari. Aloqa liniyalari. Joylashtirish talablari»",
+    "ab": "Hujjat kabel aloqa liniyalarini yo‘l ajratma mintaqasi va yo‘l bo‘yi polosasida joylashtirish qoidalarini belgilaydi — loyihalash, qurilish, kapital ta’mir va ekspluatatsiya bosqichlari uchun. 2025-yil 1-maydan amalda. O‘zbekistonda yo‘l bo‘ylab optik tolali tarmoqlar va intellektual transport tizimlari kengayayotgan sharoitda yo‘l va kommunikatsiyalarning to‘qnashuvini oldini olish uchun foydali."
+   }
+  },
+  "fileId": "",
+  "fileUrl": "",
+  "fileName": "",
+  "fileSize": 0,
+  "createdAt": 1795660194214,
+  "updatedAt": 1795660194214
+ },
+ {
+  "id": "a20261126-03",
+  "ident": "YR-20261126-03",
+  "title": "ГОСТ Р 72576-2026 «Дороги автомобильные общего пользования. Пункты весового и габаритного контроля транспортных средств автоматические. Требования к проектированию»",
+  "authors": [
+   "Росстандарт"
+  ],
+  "org": "Rosstandart (Rossiya)",
+  "cat": "norm",
+  "year": 2026,
+  "lang": "ru",
+  "ftype": "PDF",
+  "pages": 0,
+  "kw": [
+   "vazn nazorati",
+   "avtomatik tarozi",
+   "WIM",
+   "весогабаритный контроль",
+   "АПВГК",
+   "weigh-in-motion"
+  ],
+  "abs": "Russian national standard (in force from 1 May 2026) with design requirements for road sections equipped with automatic weight and dimension control points. The points use in-motion linear weighing devices that measure vehicles without stopping them.",
+  "link": "https://files.stroyinf.ru/Data/871/87159.pdf",
+  "intl": true,
+  "tr": {
+   "uz": {
+    "t": "GOST R 72576-2026 «Avtomobil yo‘llari. Transport vositalarining avtomatik vazn va gabarit nazorati punktlari. Loyihalash talablari»",
+    "ab": "Standart harakatdagi transportni to‘xtatmasdan tortadigan (WIM) avtomatik vazn-gabarit nazorati punktlari o‘rnatiladigan yo‘l uchastkalarini loyihalash talablarini beradi: uchastka geometriyasi, qoplama tekisligi va jihozlarni joylashtirish. 2026-yil 1-maydan amalda. O‘zbekistonda og‘ir yuk mashinalari qoplamani tez yemirayotgani sababli avtomatik vazn nazoratini joriy etishda bevosita qo‘llanma bo‘la oladi."
+   }
+  },
+  "fileId": "",
+  "fileUrl": "",
+  "fileName": "",
+  "fileSize": 0,
+  "createdAt": 1795660194215,
+  "updatedAt": 1795660194215
+ },
+ {
+  "id": "a20261126-04",
+  "ident": "YR-20261126-04",
+  "title": "ГОСТ Р 72246-2025 «Дороги автомобильные общего пользования. Материалы вяжущие нефтяные битумные. Метод визуализации дисперсии полимера при помощи флуоресцентной микроскопии»",
+  "authors": [
+   "Росстандарт"
+  ],
+  "org": "Rosstandart (Rossiya)",
+  "cat": "norm",
+  "year": 2025,
+  "lang": "ru",
+  "ftype": "PDF",
+  "pages": 0,
+  "kw": [
+   "polimer-bitum",
+   "SBS",
+   "flyuoressent mikroskopiya",
+   "ПБВ",
+   "битум",
+   "polymer modified bitumen"
+  ],
+  "abs": "Russian test-method standard in force from 1 October 2025 for SBS-modified petroleum bitumen binders. It uses fluorescence microscopy to check whether a polymer phase is present, how evenly it is distributed and the size and shape of dispersed particles.",
+  "link": "https://files.stroyinf.ru/Data/856/85688.pdf",
+  "intl": true,
+  "tr": {
+   "uz": {
+    "t": "GOST R 72246-2025 «Neft bitumli bog‘lovchilar. Polimer dispersiyasini flyuoressent mikroskopiya yordamida vizuallashtirish usuli»",
+    "ab": "Standart SBS bilan modifikatsiyalangan bitumlarda polimer fazasi bor-yo‘qligi, uning bir tekis taqsimlanishi va zarrachalar o‘lchamini flyuoressent mikroskop orqali baholash tartibini belgilaydi. 2025-yil 1-oktabrdan amalda. O‘zbekistonda polimer-bitum bog‘lovchilar ishlab chiqarish va laboratoriya sifat nazoratini kuchaytirish uchun muhim usul."
+   }
+  },
+  "fileId": "",
+  "fileUrl": "",
+  "fileName": "",
+  "fileSize": 0,
+  "createdAt": 1795660194216,
+  "updatedAt": 1795660194216
+ },
+ {
+  "id": "a20261126-05",
+  "ident": "YR-20261126-05",
+  "title": "ГОСТ Р 72081-2025 «Дороги автомобильные общего пользования. Вяжущие полимерно-битумные дорожные на основе блоксополимеров типа стирол-бутадиен-стирол. Метод определения эластичности»",
+  "authors": [
+   "Росстандарт"
+  ],
+  "org": "Rosstandart (Rossiya)",
+  "cat": "norm",
+  "year": 2025,
+  "lang": "ru",
+  "ftype": "PDF",
+  "pages": 0,
+  "kw": [
+   "polimer-bitum bog‘lovchi",
+   "elastiklik",
+   "SBS",
+   "ПБВ",
+   "эластичность",
+   "elastic recovery"
+  ],
+  "abs": "Russian test-method standard (published October 2025, in force from 1 April 2026) for SBS-based polymer-bitumen road binders. It specifies how to determine their elasticity for use on roads, bridges and airfields.",
+  "link": "https://files.stroyinf.ru/Data/859/85935.pdf",
+  "intl": true,
+  "tr": {
+   "uz": {
+    "t": "GOST R 72081-2025 «SBS asosidagi polimer-bitum yo‘l bog‘lovchilari. Elastiklikni aniqlash usuli»",
+    "ab": "Hujjat yo‘l, ko‘prik va aerodrom qoplamalarida ishlatiladigan polimer-bitum bog‘lovchilarning (PBB) elastikligini laboratoriyada aniqlash usulini belgilaydi. 2026-yil 1-apreldan amalda. O‘zbekistonning issiq iqlimida izlanish (koleya) va yoriqlarga chidamli PBB tanlashda asosiy ko‘rsatkichni sinash uchun zarur."
+   }
+  },
+  "fileId": "",
+  "fileUrl": "",
+  "fileName": "",
+  "fileSize": 0,
+  "createdAt": 1795660194217,
+  "updatedAt": 1795660194217
+ },
+ {
+  "id": "a20261126-06",
+  "ident": "YR-20261126-06",
+  "title": "ГОСТ Р 58400.3-2025 «Дороги автомобильные общего пользования. Материалы вяжущие нефтяные битумные. Порядок определения марки»",
+  "authors": [
+   "Росстандарт"
+  ],
+  "org": "Rosstandart (Rossiya)",
+  "cat": "norm",
+  "year": 2025,
+  "lang": "ru",
+  "ftype": "PDF",
+  "pages": 0,
+  "kw": [
+   "bitum markasi",
+   "PG tasnifi",
+   "Superpave",
+   "марка битума",
+   "PG",
+   "bitumen grading"
+  ],
+  "abs": "Russian national standard in force from 1 June 2025 that sets the procedure for determining and confirming grades of petroleum bitumen binders under GOST R 58400.1 and 58400.2 (the performance-grade system). It is part of the Russian Superpave-based binder series.",
+  "link": "https://files.stroyinf.ru/Data/848/84802.pdf",
+  "intl": true,
+  "tr": {
+   "uz": {
+    "t": "GOST R 58400.3-2025 «Neft bitumli bog‘lovchilar. Markani aniqlash tartibi»",
+    "ab": "Standart bitum bog‘lovchilarning ekspluatatsion (PG) markasini GOST R 58400.1/58400.2 bo‘yicha aniqlash va tasdiqlash tartibini beradi. 2025-yil 1-iyundan amalda. O‘zbekistonda Superpave tizimiga o‘tish va bitumni iqlimga mos tanlash bo‘yicha amaliy namuna sifatida qimmatli."
+   }
+  },
+  "fileId": "",
+  "fileUrl": "",
+  "fileName": "",
+  "fileSize": 0,
+  "createdAt": 1795660194218,
+  "updatedAt": 1795660194218
+ },
+ {
+  "id": "a20261126-07",
+  "ident": "YR-20261126-07",
+  "title": "ГОСТ Р 72001-2025 «Дороги автомобильные общего пользования. Материалы геосинтетические. Общие технические условия»",
+  "authors": [
+   "Росстандарт"
+  ],
+  "org": "Rosstandart (Rossiya)",
+  "cat": "norm",
+  "year": 2025,
+  "lang": "ru",
+  "ftype": "PDF",
+  "pages": 0,
+  "kw": [
+   "geosintetika",
+   "geotekstil",
+   "geopanjara",
+   "геосинтетика",
+   "технические условия",
+   "geosynthetics"
+  ],
+  "abs": "Russian national standard introduced for the first time, in force from 1 May 2025, with general specifications for geosynthetic materials used in road construction, classified according to GOST R 55028.",
+  "link": "https://files.stroyinf.ru/Data/846/84661.pdf",
+  "intl": true,
+  "tr": {
+   "uz": {
+    "t": "GOST R 72001-2025 «Avtomobil yo‘llari. Geosintetik materiallar. Umumiy texnik shartlar»",
+    "ab": "Yo‘l qurilishida qo‘llaniladigan geosintetik materiallar (geotekstil, geopanjara, geotarmoq va boshqalar) uchun umumiy texnik talablar, sinov va qabul qoidalari. 2025-yil 1-maydan amalda. O‘zbekistonda sho‘r va cho‘kuvchan gruntlarda yo‘l poyini mustahkamlashda geosintetikadan foydalanish ko‘payib borayotgani uchun dolzarb."
+   }
+  },
+  "fileId": "",
+  "fileUrl": "",
+  "fileName": "",
+  "fileSize": 0,
+  "createdAt": 1795660194219,
+  "updatedAt": 1795660194219
+ },
+ {
+  "id": "a20261126-08",
+  "ident": "YR-20261126-08",
+  "title": "ГОСТ Р 72315-2025 «Дороги автомобильные общего пользования. Материалы геосинтетические для дренирования. Общие технические условия»",
+  "authors": [
+   "Росстандарт"
+  ],
+  "org": "Rosstandart (Rossiya)",
+  "cat": "norm",
+  "year": 2025,
+  "lang": "ru",
+  "ftype": "PDF",
+  "pages": 0,
+  "kw": [
+   "drenaj",
+   "geosintetika",
+   "yo‘l poyi",
+   "дренаж",
+   "геосинтетика",
+   "drainage geocomposite"
+  ],
+  "abs": "Russian national standard in force from 1 November 2025 giving general specifications for geosynthetic drainage materials used in road construction, classified under GOST R 55028.",
+  "link": "https://files.stroyinf.ru/Data/859/85970.pdf",
+  "intl": true,
+  "tr": {
+   "uz": {
+    "t": "GOST R 72315-2025 «Avtomobil yo‘llari. Drenaj uchun geosintetik materiallar. Umumiy texnik shartlar»",
+    "ab": "Standart yo‘l poyi va qoplama ostidan suvni chiqarishda ishlatiladigan drenaj geosintetiklariga qo‘yiladigan talablarni belgilaydi. 2025-yil 1-noyabrdan amalda. O‘zbekistonning sug‘oriladigan hududlarida grunt suvlari yuqoriligi sababli yo‘l poyi namlanishiga qarshi drenaj yechimlari uchun foydali."
+   }
+  },
+  "fileId": "",
+  "fileUrl": "",
+  "fileName": "",
+  "fileSize": 0,
+  "createdAt": 1795660194220,
+  "updatedAt": 1795660194220
+ },
+ {
+  "id": "a20261126-09",
+  "ident": "YR-20261126-09",
+  "title": "ГОСТ Р 72307-2025 «Дороги автомобильные общего пользования. Пары скольжения опорных частей для мостовых сооружений. Методы определения физических параметров»",
+  "authors": [
+   "Росстандарт"
+  ],
+  "org": "Rosstandart (Rossiya)",
+  "cat": "norm",
+  "year": 2025,
+  "lang": "ru",
+  "ftype": "PDF",
+  "pages": 0,
+  "kw": [
+   "ko‘prik tayanch qismlari",
+   "ishqalanish",
+   "sinov",
+   "опорные части",
+   "пары скольжения",
+   "bridge bearings"
+  ],
+  "abs": "Russian national standard in force from 1 December 2025 with laboratory bench test methods for sliding pairs in bridge bearings and in guides and movement restrainers. It determines permissible pressure, static and dynamic friction coefficients and wear; results are usable for seismicity up to 9 points.",
+  "link": "https://files.stroyinf.ru/Data/862/86219.pdf",
+  "intl": true,
+  "tr": {
+   "uz": {
+    "t": "GOST R 72307-2025 «Ko‘prik inshootlari tayanch qismlarining sirpanish juftlari. Fizik parametrlarni aniqlash usullari»",
+    "ab": "Ko‘prik tayanch qismlaridagi sirpanish juftlari uchun ruxsat etilgan bosim, statik va dinamik ishqalanish koeffitsiyentlari hamda yeyilishni stendda aniqlash usullari. Natijalar 9 ballgacha seysmik hududlar uchun qo‘llanadi. O‘zbekiston seysmik faol hudud bo‘lgani uchun ko‘prik tayanch qismlarini tanlash va sertifikatlashda ahamiyatli."
+   }
+  },
+  "fileId": "",
+  "fileUrl": "",
+  "fileName": "",
+  "fileSize": 0,
+  "createdAt": 1795660194221,
+  "updatedAt": 1795660194221
+ },
+ {
+  "id": "a20261126-10",
+  "ident": "YR-20261126-10",
+  "title": "ГОСТ Р 72306-2025 «Дороги автомобильные общего пользования. Направляющие и ограничители перемещений пролетных строений мостовых сооружений. Общие технические требования»",
+  "authors": [
+   "Росстандарт"
+  ],
+  "org": "Rosstandart (Rossiya)",
+  "cat": "norm",
+  "year": 2025,
+  "lang": "ru",
+  "ftype": "PDF",
+  "pages": 0,
+  "kw": [
+   "ko‘prik oraliq qurilmasi",
+   "siljish cheklagichlari",
+   "seysmik",
+   "ограничители перемещений",
+   "мосты",
+   "bridge restrainers"
+  ],
+  "abs": "Russian national standard in force from 1 December 2025 setting general technical requirements for guides and movement restrainers of bridge superstructures in any climate and in seismic zones up to 9 points. Dampers, seismic isolators and drawbridge elements are excluded.",
+  "link": "https://files.stroyinf.ru/Data/861/86183.pdf",
+  "intl": true,
+  "tr": {
+   "uz": {
+    "t": "GOST R 72306-2025 «Ko‘prik oraliq qurilmalarining yo‘naltirgichlari va siljish cheklagichlari. Umumiy texnik talablar»",
+    "ab": "Standart ko‘prik oraliq qurilmalarining gorizontal siljishini boshqaruvchi yo‘naltirgich va cheklagichlarga talablarni belgilaydi, jumladan 9 ballgacha seysmik hududlarda. O‘zbekiston ko‘priklarida zilzila paytida oraliq qurilmalar tushib ketishining oldini olish uchun amaliy asos."
+   }
+  },
+  "fileId": "",
+  "fileUrl": "",
+  "fileName": "",
+  "fileSize": 0,
+  "createdAt": 1795660194222,
+  "updatedAt": 1795660194222
+ },
+ {
+  "id": "a20261126-11",
+  "ident": "YR-20261126-11",
+  "title": "ГОСТ Р 72245-2025 «Дороги автомобильные общего пользования. Ворота габаритные. Общие требования»",
+  "authors": [
+   "Росстандарт"
+  ],
+  "org": "Rosstandart (Rossiya)",
+  "cat": "norm",
+  "year": 2025,
+  "lang": "ru",
+  "ftype": "PDF",
+  "pages": 0,
+  "kw": [
+   "gabarit darvozasi",
+   "ko‘prik osti gabariti",
+   "xavfsizlik",
+   "габаритные ворота",
+   "безопасность",
+   "height restriction gate"
+  ],
+  "abs": "Russian national standard in force from 1 November 2025 setting general requirements for new height-restriction gates installed before engineering structures on public roads. They protect overpasses and reduce crashes involving vehicles taller than the available clearance.",
+  "link": "https://files.stroyinf.ru/Data/856/85690.pdf",
+  "intl": true,
+  "tr": {
+   "uz": {
+    "t": "GOST R 72245-2025 «Avtomobil yo‘llari. Gabarit darvozalari. Umumiy talablar»",
+    "ab": "Hujjat yo‘l o‘tkazgichlar va ko‘priklar oldiga o‘rnatiladigan gabarit darvozalariga qo‘yiladigan talablarni belgilaydi — balandligi ko‘prik osti gabaritidan oshgan transportning inshootga urilishining oldini olish uchun. 2025-yil 1-noyabrdan amalda. O‘zbekiston shaharlarida yo‘l o‘tkazgichlarga yuk mashinalari urilish holatlarini kamaytirishda foydali."
+   }
+  },
+  "fileId": "",
+  "fileUrl": "",
+  "fileName": "",
+  "fileSize": 0,
+  "createdAt": 1795660194223,
+  "updatedAt": 1795660194223
+ },
+ {
+  "id": "a20261126-12",
+  "ident": "YR-20261126-12",
+  "title": "ГОСТ 33100-2023 «Дороги автомобильные общего пользования. Правила проектирования автомобильных дорог»",
+  "authors": [
+   "Межгосударственный совет по стандартизации, метрологии и сертификации (МГС)"
+  ],
+  "org": "MGS / Rosstandart (MDH)",
+  "cat": "norm",
+  "year": 2023,
+  "lang": "ru",
+  "ftype": "WEB",
+  "pages": 0,
+  "kw": [
+   "yo‘l loyihalash",
+   "davlatlararo standart",
+   "MDH",
+   "проектирование дорог",
+   "ГОСТ 33100",
+   "road design rules"
+  ],
+  "abs": "Interstate (EASC) standard adopted by protocol No. 167-P of 17 November 2023 that replaces GOST 33100-2014 and sets rules for designing new, reconstructed and major-repaired public roads, including toll roads. In Russia it took effect on 1 March 2025; the official text is on the Garant legal portal.",
+  "link": "https://base.garant.ru/408711391",
+  "intl": true,
+  "tr": {
+   "uz": {
+    "t": "GOST 33100-2023 «Umumiy foydalanishdagi avtomobil yo‘llari. Avtomobil yo‘llarini loyihalash qoidalari» (davlatlararo standart)",
+    "ab": "MDH davlatlararo standarti yangi qurilish, rekonstruksiya va kapital ta’mirlashda yo‘llarni loyihalash qoidalarini belgilaydi, pullik yo‘llarni ham qamrab oladi; GOST 33100-2014 o‘rnini bosadi. Vaqtinchalik yo‘llar va aholi punktlari ko‘chalari kirmaydi. O‘zbekiston Davlatlararo standartlashtirish kengashi a’zosi bo‘lgani uchun milliy yo‘l normalarini yangilashda bevosita solishtirish manbai."
+   }
+  },
+  "fileId": "",
+  "fileUrl": "",
+  "fileName": "",
+  "fileSize": 0,
+  "createdAt": 1795660194224,
+  "updatedAt": 1795660194224
+ },
+ {
+  "id": "a20261126-13",
+  "ident": "YR-20261126-13",
+  "title": "Доклад о стоимости строительства, реконструкции, капитального ремонта, ремонта и содержания 1 км автомобильных дорог общего пользования Российской Федерации (2025 год)",
+  "authors": [
+   "Министерство транспорта Российской Федерации"
+  ],
+  "org": "Mintrans (Rossiya)",
+  "cat": "report",
+  "year": 2025,
+  "lang": "ru",
+  "ftype": "PDF",
+  "pages": 0,
+  "kw": [
+   "yo‘l qurilishi narxi",
+   "1 km qiymati",
+   "saqlash xarajatlari",
+   "стоимость 1 км",
+   "содержание дорог",
+   "road unit costs"
+  ],
+  "abs": "Russian Ministry of Transport report giving weighted-average unit costs per kilometre of public roads by category (I–V) for construction, reconstruction, major repair, repair and maintenance in 2025. Data come from Rosavtodor institutions, Russian Highways and 83 regions; bridges, land and VAT are excluded.",
+  "link": "https://www.mintrans.gov.ru/file/563640",
+  "intl": true,
+  "tr": {
+   "uz": {
+    "t": "Rossiya Federatsiyasi umumiy foydalanishdagi 1 km avtomobil yo‘lini qurish, rekonstruksiya, ta’mirlash va saqlash qiymati to‘g‘risida ma’ruza (2025-yil)",
+    "ab": "Rossiya Transport vazirligi ma’ruzasi I–V toifadagi yo‘llar uchun 1 km qurilish, rekonstruksiya, kapital ta’mir, ta’mir va saqlashning o‘rtacha tortilgan narxlarini keltiradi; ma’lumotlar 30 ta federal muassasa va 83 hududdan yig‘ilgan, ko‘priklar, yer va QQS hisobga olinmagan. O‘zbekistonda yo‘l loyihalari smetasini va ta’mir xarajatlarini qo‘shni mamlakat bilan solishtirish uchun muhim manba."
+   }
+  },
+  "fileId": "",
+  "fileUrl": "",
+  "fileName": "",
+  "fileSize": 0,
+  "createdAt": 1795660194225,
+  "updatedAt": 1795660194225
+ },
+ {
+  "id": "a20261126-14",
+  "ident": "YR-20261126-14",
+  "title": "JTG/T 3332—2026 公路土工合成材料应用技术规范 — Technical Specifications for Application of Geosynthetics in Highway",
+  "authors": [
+   "中华人民共和国交通运输部 (Ministry of Transport of the PRC)"
+  ],
+  "org": "MOT (Xitoy)",
+  "cat": "norm",
+  "year": 2026,
+  "lang": "en",
+  "ftype": "WEB",
+  "pages": 0,
+  "kw": [
+   "geosintetika",
+   "yo‘l poyi",
+   "Xitoy normasi",
+   "геосинтетика",
+   "JTG",
+   "geosynthetics"
+  ],
+  "abs": "Chinese highway industry specification on the use of geosynthetics, replacing JTG/T D32—2012. The official announcement page links the full PDF text. Issued by MOT Announcement No. 26 of 2026; in force from 1 July 2026.",
+  "link": "https://xxgk.mot.gov.cn/jigou/glj/202605/t20260514_4205443.html",
+  "intl": true,
+  "tr": {
+   "uz": {
+    "t": "JTG/T 3332—2026 Avtomobil yo‘llarida geosintetik materiallarni qo‘llash texnik qoidalari (Xitoy)",
+    "ab": "Xitoy Transport vazirligining yangi qoidalari yo‘l poyi, qiyaliklar, drenaj va qoplamada geosintetiklarni loyihalash va qurish talablarini yangilaydi; 2012-yilgi eski normani bekor qiladi, 2026-yil 1-iyuldan amalda. O‘zbekistonda Xitoy pudratchilari qurayotgan yo‘llarda shu me’yorlar qo‘llanayotgani sababli ularni bilish muhim."
+   }
+  },
+  "fileId": "",
+  "fileUrl": "",
+  "fileName": "",
+  "fileSize": 0,
+  "createdAt": 1795660194226,
+  "updatedAt": 1795660194226
+ },
+ {
+  "id": "a20261126-15",
+  "ident": "YR-20261126-15",
+  "title": "JTG/T 5310—2026 公路养护决策技术规范 — Technical Specifications for Highway Maintenance Decision-Making",
+  "authors": [
+   "中华人民共和国交通运输部 (Ministry of Transport of the PRC)"
+  ],
+  "org": "MOT (Xitoy)",
+  "cat": "norm",
+  "year": 2026,
+  "lang": "en",
+  "ftype": "PDF",
+  "pages": 0,
+  "kw": [
+   "ta’mirni rejalashtirish",
+   "aktivlarni boshqarish",
+   "PQI",
+   "MQI",
+   "содержание дорог",
+   "maintenance decision"
+  ],
+  "abs": "Chinese specification for highway maintenance decision-making on roads of grade IV and above, covering data preparation, maintenance needs, intervention thresholds, performance prediction, investment-benefit analysis, project libraries and annual plans. It uses condition indices such as MQI, PQI, PCI, RQI and RDI. Issued by MOT Announcement No. 18 of 2026; in force from 1 June 2026.",
+  "link": "https://xxgk.mot.gov.cn/jigou/glj/202604/P020260428637192555739.pdf",
+  "intl": true,
+  "tr": {
+   "uz": {
+    "t": "JTG/T 5310—2026 Avtomobil yo‘llari ta’mirlash bo‘yicha qaror qabul qilish texnik qoidalari (Xitoy)",
+    "ab": "Hujjat yo‘l poyi, qoplama, ko‘prik, tunnel va yo‘l jihozlari uchun ta’mir vaqti, joyi, usuli va mablag‘ini aniqlashning bosqichma-bosqich tartibini beradi: holat ko‘rsatkichlari (MQI, PQI, PCI, RQI, RDI), aralashuv chegaralari, holatni bashorat qilish, investitsiya-samaradorlik tahlili, ko‘p yillik loyihalar bazasi va yillik reja. O‘zbekistonda yo‘l aktivlarini boshqarish tizimini va ta’mir ustuvorligini ilmiy asosda belgilashni joriy etish uchun tayyor model."
+   }
+  },
+  "fileId": "",
+  "fileUrl": "",
+  "fileName": "",
+  "fileSize": 0,
+  "createdAt": 1795660194227,
+  "updatedAt": 1795660194227
+ },
+ {
+  "id": "a20261126-16",
+  "ident": "YR-20261126-16",
+  "title": "JTG/T 3662—2026 公路沉管隧道施工技术规范 — Technical Specifications for Construction of Highway Immersed Tunnels",
+  "authors": [
+   "中华人民共和国交通运输部 (Ministry of Transport of the PRC)"
+  ],
+  "org": "MOT (Xitoy)",
+  "cat": "norm",
+  "year": 2026,
+  "lang": "en",
+  "ftype": "WEB",
+  "pages": 0,
+  "kw": [
+   "tunnel",
+   "cho‘ktiriladigan tunnel",
+   "qurilish",
+   "тоннель",
+   "JTG",
+   "immersed tunnel"
+  ],
+  "abs": "Chinese specification for the construction of highway immersed-tube tunnels. The announcement page links the full PDF text. Issued by MOT Announcement No. 54 of 2026; in force from 1 October 2026.",
+  "link": "https://xxgk.mot.gov.cn/jigou/glj/202608/t20260814_4220119.html",
+  "intl": true,
+  "tr": {
+   "uz": {
+    "t": "JTG/T 3662—2026 Avtomobil yo‘llarida cho‘ktirib quriladigan tunnellar qurilishi texnik qoidalari (Xitoy)",
+    "ab": "Suv havzalari ostidan o‘tkaziladigan cho‘ktiriladigan tunnellarni qurish: seksiyalarni tayyorlash, tashish, cho‘ktirish, ulash va sifat nazorati talablari. 2026-yil 1-oktabrdan amalda. O‘zbekistonda to‘g‘ridan-to‘g‘ri qo‘llanishi cheklangan bo‘lsa-da, katta kanallar va daryolar ostidan o‘tish yechimlarini o‘rganuvchi talabalar va mutaxassislar uchun ilg‘or tajriba."
+   }
+  },
+  "fileId": "",
+  "fileUrl": "",
+  "fileName": "",
+  "fileSize": 0,
+  "createdAt": 1795660194228,
+  "updatedAt": 1795660194228
+ },
+ {
+  "id": "a20261126-17",
+  "ident": "YR-20261126-17",
+  "title": "JTG/T 3682—2026 公路路面纤维材料应用技术规范 — Technical Specifications for Application of Fiber Materials in Highway Pavement",
+  "authors": [
+   "中华人民共和国交通运输部 (Ministry of Transport of the PRC)"
+  ],
+  "org": "MOT (Xitoy)",
+  "cat": "norm",
+  "year": 2026,
+  "lang": "en",
+  "ftype": "WEB",
+  "pages": 0,
+  "kw": [
+   "tolali materiallar",
+   "asfaltbeton",
+   "armirlash",
+   "фибра",
+   "асфальтобетон",
+   "fiber reinforced pavement"
+  ],
+  "abs": "Chinese specification on the use of fibre materials (e.g. in asphalt and cement concrete pavement layers). The official announcement page links the full PDF text. Issued by MOT Announcement No. 36 of 2026; in force from 1 August 2026.",
+  "link": "https://xxgk.mot.gov.cn/jigou/glj/202607/t20260708_4209139.html",
+  "intl": true,
+  "tr": {
+   "uz": {
+    "t": "JTG/T 3682—2026 Avtomobil yo‘li qoplamalarida tolali materiallarni qo‘llash texnik qoidalari (Xitoy)",
+    "ab": "Asfaltbeton va sement-beton qoplamalarga qo‘shiladigan tolalar (bazalt, polimer, lignin va boshqalar) talablari, dozalash, aralashmani loyihalash va qurilish nazorati. 2026-yil 1-avgustdan amalda. O‘zbekistonda mahalliy bazalt tolasidan asfaltbetonning yoriqbardoshligini oshirishda foydalanish bo‘yicha tadqiqotlar uchun qiyosiy manba."
+   }
+  },
+  "fileId": "",
+  "fileUrl": "",
+  "fileName": "",
+  "fileSize": 0,
+  "createdAt": 1795660194229,
+  "updatedAt": 1795660194229
+ },
+ {
+  "id": "a20261126-18",
+  "ident": "YR-20261126-18",
+  "title": "JTG/T 5410—2026 公路养护工程设计规范 — Specifications for Design of Highway Maintenance Works",
+  "authors": [
+   "中华人民共和国交通运输部 (Ministry of Transport of the PRC)"
+  ],
+  "org": "MOT (Xitoy)",
+  "cat": "norm",
+  "year": 2026,
+  "lang": "en",
+  "ftype": "WEB",
+  "pages": 0,
+  "kw": [
+   "ta’mir loyihasi",
+   "yo‘l saqlash",
+   "loyihalash",
+   "проектирование ремонта",
+   "JTG",
+   "maintenance design"
+  ],
+  "abs": "Chinese specification for designing highway maintenance works. The announcement page links the full PDF text. Issued by MOT Announcement No. 67 of 2026; in force from 1 November 2026.",
+  "link": "https://xxgk.mot.gov.cn/jigou/glj/202609/t20260924_4224857.html",
+  "intl": true,
+  "tr": {
+   "uz": {
+    "t": "JTG/T 5410—2026 Avtomobil yo‘llari ta’mirlash ishlarini loyihalash qoidalari (Xitoy)",
+    "ab": "Profilaktik, joriy va kapital ta’mir ishlarini loyihalash tartibi: tekshiruv ma’lumotlari, holatni baholash, yechim tanlash va loyiha hujjatlari tarkibi. 2026-yil 1-noyabrdan amalda. O‘zbekistonda mavjud yo‘l tarmog‘ini ta’mirlash hajmi yangi qurilishdan oshib borayotgan paytda ta’mir loyihalarini standartlashtirish uchun foydali."
+   }
+  },
+  "fileId": "",
+  "fileUrl": "",
+  "fileName": "",
+  "fileSize": 0,
+  "createdAt": 1795660194230,
+  "updatedAt": 1795660194230
+ },
+ {
+  "id": "a20261126-19",
+  "ident": "YR-20261126-19",
+  "title": "JTG/T 3322—2026 公路平面交叉设计规范 — Specifications for Design of Highway At-Grade Intersections",
+  "authors": [
+   "中华人民共和国交通运输部 (Ministry of Transport of the PRC)"
+  ],
+  "org": "MOT (Xitoy)",
+  "cat": "norm",
+  "year": 2026,
+  "lang": "en",
+  "ftype": "WEB",
+  "pages": 0,
+  "kw": [
+   "chorrahalar",
+   "bir sathli kesishma",
+   "loyihalash",
+   "пересечения",
+   "JTG",
+   "at-grade intersection"
+  ],
+  "abs": "Chinese specification for designing at-grade highway intersections. The announcement page links the full PDF text. Issued by MOT Announcement No. 55 of 2026; in force from 1 October 2026.",
+  "link": "https://xxgk.mot.gov.cn/jigou/glj/202608/t20260818_4222544.html",
+  "intl": true,
+  "tr": {
+   "uz": {
+    "t": "JTG/T 3322—2026 Avtomobil yo‘llarida bir sathli kesishmalarni loyihalash qoidalari (Xitoy)",
+    "ab": "Bir sathli chorrahalar va kesishmalarni loyihalash: turini tanlash, ko‘rinish masofalari, kanalizatsiyalash, burilish polosalari va xavfsizlik choralari. 2026-yil 1-oktabrdan amalda. O‘zbekistonda xalqaro yo‘llardagi chorrahalarda YTH ko‘p sodir bo‘lishi sababli ularni qayta loyihalashda qiyosiy me’yor."
+   }
+  },
+  "fileId": "",
+  "fileUrl": "",
+  "fileName": "",
+  "fileSize": 0,
+  "createdAt": 1795660194231,
+  "updatedAt": 1795660194231
+ },
+ {
+  "id": "a20261126-20",
+  "ident": "YR-20261126-20",
+  "title": "JTG/T 2312—2026 公路绿化技术规范 — Technical Specifications for Highway Landscaping and Greening",
+  "authors": [
+   "中华人民共和国交通运输部 (Ministry of Transport of the PRC)"
+  ],
+  "org": "MOT (Xitoy)",
+  "cat": "norm",
+  "year": 2026,
+  "lang": "en",
+  "ftype": "WEB",
+  "pages": 0,
+  "kw": [
+   "yo‘l bo‘yi ko‘kalamzorlashtirish",
+   "ekologiya",
+   "qiyalik",
+   "озеленение",
+   "JTG",
+   "highway greening"
+  ],
+  "abs": "Chinese specification for highway landscaping and greening. The announcement page links the full PDF text. Issued by MOT Announcement No. 49 of 2026; in force from 1 October 2026.",
+  "link": "https://xxgk.mot.gov.cn/jigou/glj/202608/t20260803_4211000.html",
+  "intl": true,
+  "tr": {
+   "uz": {
+    "t": "JTG/T 2312—2026 Avtomobil yo‘llarini ko‘kalamzorlashtirish texnik qoidalari (Xitoy)",
+    "ab": "Yo‘l bo‘yi, qiyaliklar, ajratuvchi polosa va xizmat ko‘rsatish hududlarini ko‘kalamzorlashtirishni loyihalash, ekish va parvarish qilish talablari. 2026-yil 1-oktabrdan amalda. O‘zbekistonda yo‘l bo‘yi ihota daraxtzorlari, qum ko‘chishi va chang bo‘ronlariga qarshi himoya uchun foydali tajriba."
+   }
+  },
+  "fileId": "",
+  "fileUrl": "",
+  "fileName": "",
+  "fileSize": 0,
+  "createdAt": 1795660194232,
+  "updatedAt": 1795660194232
+ },
+ {
+  "id": "a20261126-21",
+  "ident": "YR-20261126-21",
+  "title": "Shaharda transport-o‘tish bog‘lamalarini joylashtirish manzillari va parametrlarini tanlash",
+  "authors": [
+   "Mo‘minov To‘lqin Shoyqulovich"
+  ],
+  "org": "Toshkent davlat transport universiteti (O‘zbekiston)",
+  "cat": "thesis",
+  "year": 2026,
+  "lang": "uz",
+  "ftype": "WEB",
+  "pages": 0,
+  "kw": [
+   "transport-o‘tish bog‘lamasi",
+   "shahar transporti",
+   "dissertatsiya",
+   "транспортно-пересадочный узел",
+   "transport hub"
+  ],
+  "abs": "Texnika fanlari bo‘yicha falsafa doktori (PhD) dissertatsiyasi, ixtisoslik 05.08.01 — mamlakat, mintaqa, shahar va sanoat markazlarining transport tizimlari, transport logistikasi. Himoya Toshkent davlat transport universiteti huzuridagi PhD.10/2025.27.12.T.01.06 raqamli ilmiy kengashda 2026-yil 16-iyulda belgilangan. Avtoreferat PDF topilmadi, havola UzA dagi rasmiy himoya e’loniga beriladi.",
+  "link": "https://uza.uz/ar/posts/mominov-tolqin-shoyqulovichning-texnika-fanlari-boyicha-falsafa-doktori-phd-dissertatsiya-ishi-himoyasi-togrisida_876650",
+  "intl": false,
+  "tr": {},
+  "fileId": "",
+  "fileUrl": "",
+  "fileName": "",
+  "fileSize": 0,
+  "createdAt": 1795660194233,
+  "updatedAt": 1795660194233
+ },
+ {
+  "id": "a20261126-22",
+  "ident": "YR-20261126-22",
+  "title": "Termiz-Mozori-Sharif yo‘nalishida multimodal tashuvlarni tashkil qilish mexanizmlarini takomillashtirish",
+  "authors": [
+   "Maxsumov Isroiljon Axmedovich"
+  ],
+  "org": "Toshkent davlat transport universiteti (O‘zbekiston)",
+  "cat": "thesis",
+  "year": 2026,
+  "lang": "uz",
+  "ftype": "WEB",
+  "pages": 0,
+  "kw": [
+   "multimodal tashuv",
+   "Termiz–Mozori-Sharif",
+   "transport koridori",
+   "dissertatsiya",
+   "мультимодальные перевозки",
+   "multimodal transport"
+  ],
+  "abs": "Texnika fanlari bo‘yicha falsafa doktori (PhD) dissertatsiyasi, ixtisoslik 05.08.06 — g‘ildirakli va gusenitsali mashinalar va ularni ishlatish. Himoya Toshkent davlat transport universiteti huzuridagi DSc.10/2025.27.12.T.01.02 raqamli ilmiy kengashda 2026-yil 18-iyunda belgilangan. Avtoreferat PDF topilmadi, havola UzA dagi rasmiy himoya e’loniga beriladi.",
+  "link": "https://uza.uz/ar/posts/maxsumov-isroiljon-axmedovichning-texnika-fanlari-boyicha-falsafa-doktori-phd-dissertatsiya-ishi-himoyasi-togrisida_864789",
+  "intl": false,
+  "tr": {},
+  "fileId": "",
+  "fileUrl": "",
+  "fileName": "",
+  "fileSize": 0,
+  "createdAt": 1795660194234,
+  "updatedAt": 1795660194234
  }
 ]
