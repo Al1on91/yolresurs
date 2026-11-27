@@ -17225,756 +17225,454 @@
   "updatedAt": 1795660194234
  },
  {
-  "id": "a20261127-01",
-  "ident": "YR-20261127-01",
-  "title": "Calculation and Sharing of Route Travel Time Using ETC2.0 Probe Information in the Area Affected by the 2024 Noto Peninsula Earthquake",
+  "id": "trbidea-001",
+  "ident": "TRB-IDEA-001",
+  "title": "On-Line Real-Time Measurement and Control of Aggregate Gradation in Asphalt Plants",
   "authors": [
-   "NILIM Road Traffic Department"
+   "Felix Alba",
+   "Felix ALBA Consultants Inc."
   ],
-  "org": "NILIM / MLIT (Yaponiya)",
+  "org": "TRB / NCHRP IDEA (AQSh)",
   "cat": "report",
-  "year": 2025,
+  "year": 0,
   "lang": "en",
   "ftype": "PDF",
   "pages": 0,
   "kw": [
-   "zilziladan keyingi transport",
-   "ETC2.0 zond ma’lumotlari",
-   "harakat vaqti",
-   "favqulodda vaziyat",
-   "время в пути",
-   "probe data",
-   "disaster response"
+   "asfalt zavodi",
+   "granulometriya",
+   "mashina ko‘rish",
+   "sifat nazorati",
+   "to‘ldiruvchi"
   ],
-  "abs": "Describes how NILIM used ETC2.0 vehicle probe data to compute daily route travel times between key bases after the January 2024 Noto Peninsula earthquake. Results, available a few hours after data collection, were published for responders, and travel times fell markedly as roads were restored.",
-  "link": "https://www.nilim.go.jp/english/annual/annual2025/pdf_file/ar2025_204.pdf",
+  "abs": "A machine-vision prototype (AGCT) was built to measure aggregate gradation on the feed belt of a drum-mix asphalt plant every five minutes and to adjust bin feeder speeds automatically. Plant trials in Salt Lake City showed reproducibility within 2% and agreement with sieve analysis within 4% per sieve size, with corrections needed for clumping of moist fines.",
+  "link": "https://onlinepubs.trb.org/onlinepubs/archive/studies/idea/finalreports/highway/NCHRP001_Final_Report.pdf",
   "intl": true,
   "tr": {
    "uz": {
-    "t": "2024-yilgi Noto yarim oroli zilzilasi hududida ETC2.0 zond ma’lumotlari asosida yo‘nalishlar bo‘yicha harakat vaqtini hisoblash va tarqatish",
-    "ab": "Zilziladan keyin NILIM avtomobillardan keladigan ETC2.0 zond ma’lumotlari yordamida asosiy punktlar orasidagi yo‘nalishlar bo‘yicha kunlik harakat vaqtini hisoblab, uni MLIT saytida va ijtimoiy tarmoqda e’lon qilgan; masalan, Nanao–Anamizu yo‘nalishida ertalabki harakat vaqti dastlab 121 daqiqa bo‘lib, yo‘llar tiklangan sari qisqargan. Natijalar 1–3 soat ichida tayyor bo‘lgan va qutqaruv xizmatlariga qo‘llanma bo‘lgan. O‘zbekistonda zilzila xavfi yuqori hududlar uchun favqulodda vaziyatda yo‘l tarmog‘i holatini real vaqtda kuzatish tizimini yaratishda namuna bo‘ladi."
+    "t": "Asfalt zavodlarida to‘ldiruvchi granulometriyasini real vaqtda o‘lchash va boshqarish uchun to‘liq o‘lchamli prototip yaratish",
+    "ab": "Asfalt zavodida to‘ldiruvchi tarkibi (granulometriyasi) odatda kechikib, elak tahlili bilan tekshiriladi, shu sababli aralashma me’yordan chiqib ketishi mumkin. Loyihada konveyer lentasidagi toshni videokamera va tasvirni qayta ishlash orqali har 5 daqiqada o‘lchaydigan va bunkerlar uzatmasini avtomatik sozlaydigan AGCT prototipi yaratilib, Solt-Leyk-Siti shahridagi zavodda sinaldi. Takroriy o‘lchashlar har bir elak o‘lchami bo‘yicha 2% ichida, standart elak tahliliga nisbatan esa 4% ichida mos keldi; nam mayda zarrachalar yopishib qolgani uchun #200 elakdan o‘tgan ulushga taxminan 4% tuzatish kiritildi. O‘zbekistondagi asfalt zavodlarida aralashma sifatini real vaqtda nazorat qilish va qoplamaning bir xilligini oshirish uchun bu yondashuv foydali."
    }
   },
   "fileId": "",
   "fileUrl": "",
   "fileName": "",
   "fileSize": 0,
-  "createdAt": 1795746593105,
-  "updatedAt": 1795746593105
+  "createdAt": 1,
+  "updatedAt": 1
  },
  {
-  "id": "a20261127-02",
-  "ident": "YR-20261127-02",
-  "title": "Research and Development into how the Construction of Road Networks Contributes to Solving Social Problems",
+  "id": "trbidea-003",
+  "ident": "TRB-IDEA-003",
+  "title": "Development of Guidelines for Low-Cost Sprayed Zinc Galvanic Anode for Control of Corrosion of Reinforcing Steel in Marine Bridge Substructures",
   "authors": [
-   "YOSHIDA Hidenori (NILIM Road Traffic Department)"
+   "Alberto A. Sagüés (University of South Florida)",
+   "Rodney G. Powers (Florida DOT)"
   ],
-  "org": "NILIM / MLIT (Yaponiya)",
+  "org": "TRB / NCHRP IDEA (AQSh)",
   "cat": "report",
-  "year": 2025,
+  "year": 1995,
   "lang": "en",
   "ftype": "PDF",
   "pages": 0,
   "kw": [
-   "yo‘l tarmog‘i",
-   "avtonom haydash",
-   "dekarbonizatsiya",
-   "transport sanog‘i",
-   "дорожная сеть",
-   "road network",
-   "autonomous trucks"
+   "katod himoyasi",
+   "rux anod",
+   "armatura korroziyasi",
+   "ko‘prik tayanchi",
+   "xloridlar"
   ],
-  "abs": "Overview by the director of NILIM's Road Traffic Department of research on evaluating road network service levels with digital tools, including an AI-assisted road traffic census. It also covers road-side support for Level 4 autonomous trucks and the road sector's role in decarbonisation and zero-accident goals.",
-  "link": "https://www.nilim.go.jp/english/annual/annual2025/pdf_file/ar2025_114.pdf",
+  "abs": "Arc-sprayed zinc, about 0.4–0.5 mm thick, was applied as a sacrificial anode on seven test areas of a 1959 bridge in Tampa Bay and monitored for about 18 months. Steel current densities of roughly 0.1–1 µA/cm² and polarization decay typically above 100 mV indicated adequate protection, and the report includes an implementation manual.",
+  "link": "https://onlinepubs.trb.org/onlinepubs/archive/studies/idea/finalreports/highway/NCHRP003_Final_Report.pdf",
   "intl": true,
   "tr": {
    "uz": {
-    "t": "Yo‘l tarmoqlarini qurish ijtimoiy muammolarni hal qilishga qanday hissa qo‘shishi bo‘yicha tadqiqot va ishlanmalar",
-    "ab": "Maqolada yo‘l tarmog‘i xizmat darajasini raqamli vositalar bilan baholash, 2025-moliya yilida sun’iy intellektli tasvir tahlili bilan o‘tkaziladigan yo‘l harakati sanog‘i, 2026-yildan 4-darajali avtonom yuk mashinalari va Shin-Tomei magistralida qo‘shilishni qo‘llab-quvvatlash tizimlari bayon etilgan. Yo‘l sektori Yaponiyadagi CO2 chiqindilarining taxminan 16 foizini berishi va dekarbonizatsiya choralari ham ko‘rsatilgan. O‘zbekiston yo‘l tarmog‘ini rejalashtirish va raqamli monitoring strategiyasini ishlab chiqishda foydali yo‘nalishlarni beradi."
+    "t": "Dengiz ko‘priklari tayanchlarida armatura korroziyasini nazorat qilish uchun arzon purkalgan rux galvanik anodi bo‘yicha tavsiyalar",
+    "ab": "Dengiz suvidagi xloridlar ko‘prik tayanchlaridagi armaturani zanglatib, betonni yorib yuboradi, tok bilan ishlaydigan katod himoyasi esa qimmat. Tadqiqotda tozalangan beton va armatura ustiga 0,4–0,5 mm qalinlikda rux purkalib, u “qurbon” anod sifatida ishlatildi va Tampa ko‘rfazidagi 1959-yilgi ko‘prikning 7 ta uchastkasida taxminan 18 oy kuzatildi. Armaturadagi tok zichligi odatda 0,11–1,1 µA/sm², qutblanish pasayishi esa ko‘pincha 100 mV dan yuqori bo‘lib, qabul qilingan himoya mezoniga javob berdi; anod qatlami butun sinov davomida butun saqlandi. Qishda tuz sepiladigan va sho‘r gruntli hududlardagi O‘zbekiston ko‘priklari tayanchlarini ta’mirlashda bu arzon usul oddiy yamoq qo‘yishga muqobil bo‘lishi mumkin."
    }
   },
   "fileId": "",
   "fileUrl": "",
   "fileName": "",
   "fileSize": 0,
-  "createdAt": 1795746593106,
-  "updatedAt": 1795746593106
+  "createdAt": 1,
+  "updatedAt": 1
  },
  {
-  "id": "a20261127-03",
-  "ident": "YR-20261127-03",
-  "title": "Research on Grasping and Evaluating Road Traffic Conditions to Improve Road Performance",
+  "id": "trbidea-004",
+  "ident": "TRB-IDEA-004",
+  "title": "Exploring the Feasibility of Replacing Latex with Asphalt Emulsion for Use in Bridge Deck Overlays",
   "authors": [
-   "KAWAMOTO Naoyuki",
-   "NAGASHIMA Ukyo",
-   "TANAKA Yoshihiro",
-   "DOHI Manabu"
+   "Chen-Ye David Yang",
+   "Menashi D. Cohen",
+   "Sidney Diamond",
+   "Purdue University"
   ],
-  "org": "NILIM / MLIT (Yaponiya)",
+  "org": "TRB / NCHRP IDEA (AQSh)",
   "cat": "report",
-  "year": 2025,
+  "year": 1995,
   "lang": "en",
   "ftype": "PDF",
   "pages": 0,
   "kw": [
-   "o‘tkazuvchanlik qobiliyati",
-   "hisobiy harakat jadalligi",
-   "K-koeffitsient",
-   "pcu/soat",
-   "пропускная способность",
-   "road capacity",
-   "design hourly volume"
+   "asfalt emulsiyasi",
+   "modifikatsiyalangan beton",
+   "ko‘prik qoplamasi",
+   "xlorid o‘tkazuvchanligi",
+   "sovuqqa chidamlilik"
   ],
-  "abs": "Analyses traffic count data from over a thousand national highway spots to test whether nationwide design factors such as the K-factor and basic lane capacity still fit actual conditions. Observed peak volumes on major routes are lower than the standard values, so the authors recommend revisiting design volumes and capacity.",
-  "link": "https://www.nilim.go.jp/english/annual/annual2025/pdf_file/ar2025_412.pdf",
+  "abs": "The study tested whether adding 10% or 20% asphalt emulsion (by cement weight) to concrete could replace costly latex in bridge deck overlays. The emulsion entrained excessive air (about 10–12% fresh), lowering strength, and chloride permeability improved only slightly; the authors judged the concept exploratory and not ready for implementation.",
+  "link": "https://onlinepubs.trb.org/onlinepubs/archive/studies/idea/finalreports/highway/NCHRP004_Final_Report.pdf",
   "intl": true,
   "tr": {
    "uz": {
-    "t": "Yo‘l samaradorligini oshirish uchun yo‘l harakati sharoitlarini aniqlash va baholash bo‘yicha tadqiqot",
-    "ab": "Tadqiqotda 1046 ta milliy yo‘l kuzatuv nuqtasi ma’lumotlari asosida tog‘li hududlarda hisobiy soatlik koeffitsient (K) zich aholi punktlariga nisbatan yuqoriroq va tarqoqroq ekani aniqlangan, shuning uchun yagona umumdavlat qiymati hamma joyga mos kelmasligi ko‘rsatilgan. Bir polosaning bazaviy o‘tkazuvchanligi 2200 pcu/soat bo‘lsa-da, milliy yo‘llarda kuzatilgan o‘rtacha qiymat ancha past. O‘zbekistonda yo‘l toifasi va polosalar sonini belgilovchi me’yorlardagi hisobiy jadallik va o‘tkazuvchanlik ko‘rsatkichlarini qayta ko‘rib chiqishda foydali uslub."
+    "t": "Lateksni asfalt emulsiyasi bilan almashtirish",
+    "ab": "Ko‘prik qoplamasi ustidagi beton qatlamga suv va xlorid kirmasligi uchun qimmat lateks qo‘shiladi; tadqiqot uning o‘rniga arzon asfalt emulsiyasini ishlatish mumkinmi, degan savolga javob izladi. Betonga sement og‘irligiga nisbatan 10% va 20% emulsiya qo‘shilib, mustahkamlik, xlorid o‘tkazuvchanligi va sovuqqa chidamlilik sinaldi. Emulsiya betonda havo miqdorini 3% dan 10–12% gacha oshirib, mustahkamlikni pasaytirdi, 28 kunlik xlorid o‘tkazuvchanligi esa (oddiy betonda ~4700 kulon) deyarli kamaymadi; mualliflar natijani hali amaliyotga tayyor emas deb baholadi. Bitum mahsulotlari arzon bo‘lgan O‘zbekistonda bu ish emulsiya-beton aralashmalarini sinashda qanday xatolardan qochish kerakligini ko‘rsatadi."
    }
   },
   "fileId": "",
   "fileUrl": "",
   "fileName": "",
   "fileSize": 0,
-  "createdAt": 1795746593107,
-  "updatedAt": 1795746593107
+  "createdAt": 1,
+  "updatedAt": 1
  },
  {
-  "id": "a20261127-04",
-  "ident": "YR-20261127-04",
-  "title": "Efforts Toward the Realization of Autonomous Driving Trucks Supported by Road Infrastructure",
+  "id": "trbidea-005",
+  "ident": "TRB-IDEA-005",
+  "title": "Magnetic Resonance for In-Situ Determination of Asphalt Aging and Moisture Content",
   "authors": [
-   "MATSUBARA Tomohiro",
-   "YAMAMOTO Daiki",
-   "NAKAGAWA Toshimasa"
+   "James Derwin King",
+   "Qingwen Ni",
+   "Southwest Research Institute"
   ],
-  "org": "NILIM / MLIT (Yaponiya)",
+  "org": "TRB / NCHRP IDEA (AQSh)",
   "cat": "report",
-  "year": 2025,
+  "year": 1994,
   "lang": "en",
   "ftype": "PDF",
   "pages": 0,
   "kw": [
-   "avtonom yuk mashinalari",
-   "kooperativ ITS",
-   "magistral yo‘l",
-   "qo‘shilishni qo‘llab-quvvatlash",
-   "автономные грузовики",
-   "autonomous trucks",
-   "road-side support"
+   "bitum eskirishi",
+   "magnit rezonans",
+   "buzmasdan nazorat",
+   "asfalt qoplama",
+   "namlik"
   ],
-  "abs": "Reports NILIM's FY2024 demonstration of Level 4 autonomous trucks on priority night-time lanes of the Shin-Tomei Expressway. Road-side systems supply merging support, dropped-object and work-zone information, with technical specifications planned for FY2025.",
-  "link": "https://www.nilim.go.jp/english/annual/annual2025/pdf_file/ar2025_415.pdf",
+  "abs": "Laboratory NMR and EPR measurements on 12 SHRP reference asphalts showed that relaxation times correlate with penetration and viscosity and change with oxidative aging. Field trials with a surface NMR unit detected signals from pavement at 25 mm depth, but the authors concluded a more sensitive, trailer-mounted NMR/EPR system is needed.",
+  "link": "https://onlinepubs.trb.org/onlinepubs/archive/studies/idea/finalreports/highway/NCHRP005_Final_Report.pdf",
   "intl": true,
   "tr": {
    "uz": {
-    "t": "Yo‘l infratuzilmasi yordamida avtonom yuk mashinalarini joriy etish bo‘yicha ishlar",
-    "ab": "Shin-Tomei tezyurar yo‘lida tungi soatlarda ajratilgan ustuvor polosalarda 4-darajali avtonom yuk mashinalari sinovi o‘tkazilgan; yo‘l bo‘yidagi tizim qo‘shilish, yo‘lga tushgan buyumlar va ta’mirlash ishlari haqida ma’lumot uzatadi. Samaradorlik qulaylik, xavfsizlik (TTC, PICUD) va ravonlik ko‘rsatkichlari bilan baholanadi, 2025-yilda texnik spetsifikatsiyalar tayyorlanishi rejalashtirilgan. Kelajakda O‘zbekistonning xalqaro tranzit yo‘laklarida aqlli yo‘l infratuzilmasini rejalashtirishda e’tiborga olinadigan tajriba."
+    "t": "Magnit rezonans texnologiyasini tadqiq etish",
+    "ab": "Asfalt qoplamaning ichki holatini, ayniqsa bitumning eskirishini, ko‘z bilan ko‘rib baholab bo‘lmaydi. Tadqiqotda 12 xil bitum laboratoriyada yadro magnit rezonansi (NMR) va elektron paramagnit rezonans (EPR) usullari bilan o‘lchandi, so‘ng 60°C da kislorod bilan 740 soatgacha sun’iy eskirtirildi; dalada esa sirtdan o‘lchaydigan NMR qurilmasi sinaldi. T1 relaksatsiya vaqti penetratsiya bilan yaxshi bog‘landi, T2 esa oksidlanishdan eskirishni eng barqaror ko‘rsatdi; dalada 25 mm chuqurlikdan signal olindi, ammo mavjud uskuna sezgirligi yetarli emasligi va yangi, tirkamaga o‘rnatiladigan tizim kerakligi aytildi. Issiq iqlimda bitum tez eskiradigan O‘zbekiston yo‘llari uchun qoplamani buzmasdan baholash usullari dolzarb."
    }
   },
   "fileId": "",
   "fileUrl": "",
   "fileName": "",
   "fileSize": 0,
-  "createdAt": 1795746593108,
-  "updatedAt": 1795746593108
+  "createdAt": 1,
+  "updatedAt": 1
  },
  {
-  "id": "a20261127-05",
-  "ident": "YR-20261127-05",
-  "title": "Support for the introduction of green infrastructure in road space – by using road greening as an example –",
+  "id": "trbidea-006",
+  "ident": "TRB-IDEA-006",
+  "title": "Excogitated Composite Multifunctional Layer for Pavement Systems",
   "authors": [
-   "Yoshiki Nezu",
-   "Keiko Ohkouchi",
-   "Hiroyoshi Hashimoto"
+   "Barry J. Dempsey",
+   "University of Illinois at Urbana-Champaign"
   ],
-  "org": "NILIM / MLIT (Yaponiya)",
+  "org": "TRB / NCHRP IDEA (AQSh)",
   "cat": "report",
-  "year": 2024,
+  "year": 1995,
   "lang": "en",
   "ftype": "PDF",
   "pages": 0,
   "kw": [
-   "yo‘l ko‘kalamzorlashtirish",
-   "yashil infratuzilma",
-   "yo‘l muhiti",
-   "озеленение дорог",
-   "green infrastructure",
-   "road greening"
+   "geosintetika",
+   "ajratuvchi qatlam",
+   "drenaj",
+   "asos va grunt",
+   "yo‘l to‘shamasi"
   ],
-  "abs": "Reframes conventional road greening as green infrastructure that makes road space more comfortable and attractive. Based on about 20 Japanese case studies, it stresses joint planning with local stakeholders and agreeing on maintenance costs and roles in advance.",
-  "link": "https://www.nilim.go.jp/english/annual/annual2024/pdf_file/ar2024_416.pdf",
+  "abs": "A lightweight, rollable composite layer was developed to separate granular base from soft subgrade, add shear and tensile resistance and provide drainage. In shear, CBR and large test-cell loading, the improved layer outperformed a woven geotextile and a geogrid and reduced permanent deformation, though field trials and cost analysis were still recommended.",
+  "link": "https://onlinepubs.trb.org/onlinepubs/archive/studies/idea/finalreports/highway/NCHRP006_Final_Report.pdf",
   "intl": true,
   "tr": {
    "uz": {
-    "t": "Yo‘l makoniga yashil infratuzilmani joriy etishni qo‘llab-quvvatlash — yo‘llarni ko‘kalamzorlashtirish misolida",
-    "ab": "Taxminan 20 ta misol (Saitama, Asaka, Kawasaki va boshqalar) tahlili asosida yo‘l ko‘kalamzorlashtirish loyihalari muvaffaqiyati yo‘l egasi va mahalliy manfaatdorlar birgalikda rejalashtirishi hamda parvarish xarajatlari va mas’uliyatni oldindan kelishib olishiga bog‘liq ekani ko‘rsatilgan. Har bir bosqich uchun e’tibor beriladigan jihatlar ishlab chiqilgan. Issiq iqlimli O‘zbekiston shahar va shahar atrofi yo‘llarida soya beruvchi daraxtzorlar va ko‘kalamzor yo‘laklarni rejalashtirishda foydali."
+    "t": "Kompozit qoplama qatlami",
+    "ab": "Yumshoq grunt ustidagi yo‘l asosida shag‘al grunt bilan aralashib, qoplama cho‘kadi va suv to‘planadi. Loyihada bir vaqtning o‘zida ajratuvchi, mustahkamlovchi va drenaj vazifasini bajaradigan, rulon holida yotqiziladigan kompozit qatlam ishlab chiqildi va siljish, CBR hamda 1,83×1,83 m katta stendda 292 kPa takroriy yuklama bilan sinaldi. Yangi qatlam to‘qilgan geotekstil va geopanjaraga nisbatan siljishga ko‘proq qarshilik ko‘rsatdi va doimiy deformatsiyani sezilarli kamaytirdi, geopanjarali va qatlamsiz uchastkalarda esa asos bilan grunt aralashib ketdi. Sho‘r va nam, kuchsiz gruntli hududlarda yo‘l qurayotgan O‘zbekiston uchun bunday ko‘p funksiyali qatlamlar asos xizmat muddatini uzaytirishi mumkin."
    }
   },
   "fileId": "",
   "fileUrl": "",
   "fileName": "",
   "fileSize": 0,
-  "createdAt": 1795746593109,
-  "updatedAt": 1795746593109
+  "createdAt": 1,
+  "updatedAt": 1
  },
  {
-  "id": "a20261127-06",
-  "ident": "YR-20261127-06",
-  "title": "Toward the promotion of increasing efficiency in traffic volume survey and introducing machine observation",
+  "id": "trbidea-007",
+  "ident": "TRB-IDEA-007",
+  "title": "Strategy for Coating Structural Steel without Stringent Blasting Requirements",
   "authors": [
-   "Hideo Yamashita",
-   "Manabu Dohi",
-   "Masamichi Takimoto",
-   "Shigeki Sugiyama"
+   "Simon K. Boocock",
+   "Raymond E. F. Weaver",
+   "Steel Structures Painting Council (SSPC)",
+   "Richard P. Krepski (Intermet Technology)"
   ],
-  "org": "NILIM / MLIT (Yaponiya)",
+  "org": "TRB / NCHRP IDEA (AQSh)",
   "cat": "report",
-  "year": 2024,
+  "year": 1995,
   "lang": "en",
   "ftype": "PDF",
   "pages": 0,
   "kw": [
-   "harakat jadalligini o‘lchash",
-   "avtomatik hisoblagich",
-   "yo‘l harakati sanog‘i",
-   "учёт интенсивности движения",
-   "traffic count",
-   "machine observation"
+   "po‘lat konstruksiya",
+   "bo‘yoq qoplama",
+   "termik purkash",
+   "qo‘rg‘oshinli bo‘yoq",
+   "korroziyadan himoya"
   ],
-  "abs": "Reviews the use of automatic (machine) traffic counting in Japan's Road Traffic Census, which covered about a quarter of surveyed length in FY2021 but far less on local roads. Identifies barriers for local governments and outlines a manual comparing image-processing, optical and radio-wave sensing methods.",
-  "link": "https://www.nilim.go.jp/english/annual/annual2024/pdf_file/ar2024_414.pdf",
+  "abs": "To avoid costly blast cleaning of steel bearing old lead-based paint, the project tested penetrating epoxy sealers followed by thermal-spray polymer or zero-VOC liquid topcoats. After 1,704 hours of cyclic salt fog, UV and freeze-thaw exposure, thermal-spray systems showed no blistering and much higher impact resistance than controls, and were judged a viable overcoating option.",
+  "link": "https://onlinepubs.trb.org/onlinepubs/archive/studies/idea/finalreports/highway/NCHRP007_Final_Report.pdf",
   "intl": true,
   "tr": {
    "uz": {
-    "t": "Harakat jadalligini o‘rganish samaradorligini oshirish va mashina yordamida kuzatuvni joriy etish",
-    "ab": "2021-moliya yilidagi yo‘l harakati sanog‘ida avtomatik kuzatuv o‘rganilgan uzunlikning taxminan 26 foizini qamragan: milliy yo‘llarda ~75 foiz, mahalliy yo‘llarda esa ~15 foiz. Mahalliy hokimiyatlar xodim tejalishi va o‘lchov barqarorligini ijobiy baholagan, ammo uslubiy ko‘rsatmalar va uskunalar yetishmasligini aytgan; shu sababli usullarni taqqoslovchi qo‘llanma tayyorlanmoqda. O‘zbekistonda yo‘llarda harakat jadalligini avtomatik hisoblash tizimini kengaytirishda amaliy tavsiyalar beradi."
+    "t": "Qat’iy abraziv tozalashsiz konstruktiv po‘latni qoplash strategiyasi",
+    "ab": "Eski qo‘rg‘oshinli bo‘yoqli po‘lat ko‘priklarni qum oqimi bilan tozalash qimmat va atrof-muhitni ifloslantiradi. Loyihada eski bo‘yoq ustidan singuvchi epoksi grunt va termik purkalgan polimer yoki uchuvchi moddasiz suyuq qoplama surtish usuli sinaldi; namunalar 1704 soat davomida tuzli tuman, ultrabinafsha nur va muzlash-erishga duchor qilindi. Termik purkalgan qoplamalarda pufaklanish kuzatilmadi va ular 7,9 J zarbaga shikastlanmasdan chidadi, nazorat bo‘yoqlari esa 3,4 J yoki undan kam zarbada buzildi; shisha mikrosferalarning foydasi isbotlanmadi. O‘zbekistondagi eski po‘lat ko‘prik va yo‘l o‘tkazgichlarini qayta bo‘yashda bu usul tozalash xarajatini kamaytirishi mumkin."
    }
   },
   "fileId": "",
   "fileUrl": "",
   "fileName": "",
   "fileSize": 0,
-  "createdAt": 1795746593110,
-  "updatedAt": 1795746593110
+  "createdAt": 1,
+  "updatedAt": 1
  },
  {
-  "id": "a20261127-07",
-  "ident": "YR-20261127-07",
-  "title": "Development of a processing system to enhance the utilization of ETC2.0 probe data",
+  "id": "trbidea-008",
+  "ident": "TRB-IDEA-008",
+  "title": "Conservation Traffic Control Load Switch",
   "authors": [
-   "Shinji Itsubo",
-   "Yoshia Sakai",
-   "Masaaki Ishihara",
-   "Yuki Ohsumi"
+   "Gregory A. Filbrun",
+   "Conservation Load Switch, Inc."
   ],
-  "org": "NILIM / MLIT (Yaponiya)",
+  "org": "TRB / NCHRP IDEA (AQSh)",
   "cat": "report",
-  "year": 2024,
+  "year": 1996,
   "lang": "en",
   "ftype": "PDF",
   "pages": 0,
   "kw": [
-   "zond ma’lumotlari",
-   "xaritaga moslashtirish",
-   "ITS",
-   "katta ma’lumotlar",
-   "зондовые данные",
-   "probe data",
-   "map matching"
+   "svetofor",
+   "lampa resursi",
+   "kuchlanishni rostlash",
+   "energiya tejash",
+   "yo‘l harakatini boshqarish"
   ],
-  "abs": "Describes a new NILIM system to improve map-matching accuracy and processing speed for ETC2.0 probe data, which amounts to around a billion points per day. Highways and ordinary roads are processed separately using roadside unit data to infer road type.",
-  "link": "https://www.nilim.go.jp/english/annual/annual2024/pdf_file/ar2024_417.pdf",
+  "abs": "A microcontroller-based load switch was designed to soft-start traffic-signal lamps and regulate their voltage to 102 V, reducing filament stress. One hundred units were built and tested, about 70 of them at state DOT signal labs; output stayed within ±1 V across 102–135 V input, and the authors estimated at least a fourfold increase in lamp life.",
+  "link": "https://onlinepubs.trb.org/onlinepubs/archive/studies/idea/finalreports/highway/NCHRP008_Final_Report.pdf",
   "intl": true,
   "tr": {
    "uz": {
-    "t": "ETC2.0 zond ma’lumotlaridan foydalanishni kengaytirish uchun qayta ishlash tizimini yaratish",
-    "ab": "Kuniga taxminan 1 milliard nuqta (har ~200 m da joylashuv) keladigan ETC2.0 ma’lumotlarini yo‘l xaritasiga aniqroq va tezroq moslashtirish uchun tezyurar va oddiy yo‘llar alohida qayta ishlanadigan tizim ishlab chiqilmoqda. Oddiy yo‘llar uzunligi tezyurar yo‘llardan ~87 baravar ko‘p bo‘lsa ham, ma’lumotlarning yarmi tezyurar yo‘llardan keladi. O‘zbekistonda navigatsiya va GPS-trek ma’lumotlari asosida yo‘l harakatini monitoring qilish tizimlarini yaratishda namunadir."
+    "t": "Energiya tejovchi svetofor yuklama kaliti",
+    "ab": "Svetofor lampalari tez kuyadi, ularni almashtirish esa qimmat va ishchilar uchun xavfli; asosiy sabab – yuqori harorat va yoqilganda keladigan katta tok zarbasi. Loyihada lampani asta-sekin yoqadigan va kuchlanishini 102 V da ushlab turadigan mikrokontrollerli yuklama kaliti yaratildi, 100 dona ishlab chiqarilib, ularning 70 ga yaqini shtatlar laboratoriyalarida −34°C dan +74°C gacha sinaldi. Kirish kuchlanishi 102–135 V oralig‘ida o‘zgarganda chiqish ±1 V ichida qoldi, lampa umri kamida 4 barobar uzayishi baholandi; sinovlarda bitta qurilma ishdan chiqdi va o‘rnini bosgani o‘tdi. Tarmoq kuchlanishi tebranadigan O‘zbekiston chorrahalarida bunday qurilma svetoforga xizmat ko‘rsatish xarajatlarini kamaytirishi mumkin."
    }
   },
   "fileId": "",
   "fileUrl": "",
   "fileName": "",
   "fileSize": 0,
-  "createdAt": 1795746593111,
-  "updatedAt": 1795746593111
+  "createdAt": 1,
+  "updatedAt": 1
  },
  {
-  "id": "a20261127-08",
-  "ident": "YR-20261127-08",
-  "title": "An Analysis of the Results of Regular Road Tunnel Inspections",
+  "id": "trbidea-009",
+  "ident": "TRB-IDEA-009",
+  "title": "Corrosion-Resistant Steel Reinforcing Bars",
   "authors": [
-   "SATŌ Tadashi",
-   "FUJIWARA Akane",
-   "SAWAGUCHI Hiroki",
-   "NISHIDA Hideaki"
+   "David Darwin",
+   "Carl E. Locke, Jr.",
+   "University of Kansas"
   ],
-  "org": "NILIM / MLIT (Yaponiya)",
+  "org": "TRB / NCHRP IDEA (AQSh)",
   "cat": "report",
-  "year": 2023,
+  "year": 1995,
   "lang": "en",
   "ftype": "PDF",
   "pages": 0,
   "kw": [
-   "tonnel inspeksiyasi",
-   "tonnel qoplamasi",
-   "deformatsiya",
-   "texnik holat sinfi",
-   "обследование тоннелей",
-   "tunnel inspection",
-   "lining deterioration"
+   "armatura",
+   "korroziya",
+   "muzga qarshi tuzlar",
+   "mikrolegirlangan po‘lat",
+   "epoksi qoplama"
   ],
-  "abs": "Analyses the first (FY2014–2018) and second rounds of mandatory periodic inspections of nationally administered mountain road tunnels. It reports the distribution of soundness classes and shows that lining spalling and peeling, mostly at joints and earlier repairs, dominate serious defects.",
-  "link": "https://www.nilim.go.jp/english/annual/annual2023/pdf_file/ar2023_315.pdf",
+  "abs": "A microalloyed (Cu, Cr, P) corrosion-resistant reinforcing steel was compared with conventional bars in mortar and concrete exposed to deicing salts. The new steel corroded at roughly half the rate of conventional steel at lower chloride levels, initiated corrosion at a higher chloride content, and in quenched-and-tempered form met Grade 60 requirements; long-term trials were still recommended.",
+  "link": "https://onlinepubs.trb.org/onlinepubs/archive/studies/idea/finalreports/highway/NCHRP009_Final_Report.pdf",
   "intl": true,
   "tr": {
    "uz": {
-    "t": "Avtomobil yo‘li tonnellarini davriy tekshirish natijalari tahlili",
-    "ab": "Birinchi tekshiruv davrida 1421 ta tonnelning ~3 foizi I, 63 foizi II, 34 foizi III va 0,2 foizi IV sinfga baholangan; III–IV sinfdagi qoplama nuqsonlarining 92 foizi ko‘pchish va ko‘chish bo‘lib, asosan choklarda (65%) va avval ta’mirlangan joylarda (34%) uchragan. Ikki davrni solishtirish umumiy nuqsonlar soni deyarli o‘zgarmaganini ko‘rsatgan. Qamchiq kabi tog‘ dovonlaridagi O‘zbekiston avtomobil tonnellarini tekshirish tartibi va baholash mezonlarini ishlab chiqishda foydali."
+    "t": "Korroziyaga chidamli po‘lat armatura sterjenlari",
+    "ab": "Muzga qarshi tuzlar va dengiz muhitida beton ichidagi armatura zanglashi ko‘priklar ta’mirini juda qimmatlashtiradi. Tadqiqotda mis, xrom va fosfor qo‘shilgan korroziyaga chidamli po‘lat oddiy armatura bilan qorishma va betonda, 15% NaCl eritmasida ho‘llash-quritish sikllari bilan taxminan 48 hafta sinaldi. Past xlorid konsentratsiyasida yangi po‘lat oddiysiga qaraganda taxminan ikki marta sekin zanglidi, korroziya boshlanishi uchun ~0,6 o‘rniga ~1,1 kg/m³ xlorid kerak bo‘ldi, toblab bo‘shatilgan turi Grade 60 talablariga javob berdi; epoksi qoplama bilan birga ishlatilganda korroziya ancha kech boshlandi. Qishda yo‘lga tuz sepiladigan O‘zbekistonda ko‘prik va yo‘l o‘tkazgichlar uchun armatura tanlashda bu natijalar foydali."
    }
   },
   "fileId": "",
   "fileUrl": "",
   "fileName": "",
   "fileSize": 0,
-  "createdAt": 1795746593112,
-  "updatedAt": 1795746593112
+  "createdAt": 1,
+  "updatedAt": 1
  },
  {
-  "id": "a20261127-09",
-  "ident": "YR-20261127-09",
-  "title": "Analysis of the Impact on Traffic Functions of Scouring of Road Earthwork Structures and Slope Collapses, Etc. Due to Torrential Rain",
+  "id": "trbidea-011",
+  "ident": "TRB-IDEA-011",
+  "title": "Rehabilitation of Steel Bridge Girders through the Application of Advanced Composite Materials",
   "authors": [
-   "YOSHIKAWA Masahiro",
-   "WATANABE Kazuhiro",
-   "AOYAMA Jun",
-   "KITAJIMA Hiroki"
+   "John W. Gillespie, Jr.",
+   "University of Delaware"
   ],
-  "org": "NILIM / MLIT (Yaponiya)",
+  "org": "TRB / NCHRP IDEA (AQSh)",
   "cat": "report",
-  "year": 2023,
+  "year": 1996,
   "lang": "en",
   "ftype": "PDF",
   "pages": 0,
   "kw": [
-   "yo‘l poyi yuvilishi",
-   "qiyalik qulashi",
-   "sel",
-   "jala",
-   "размыв земляного полотна",
-   "slope failure",
-   "scouring"
+   "po‘lat ko‘prik",
+   "kompozit materiallar",
+   "uglerod plastik",
+   "ko‘prikni kuchaytirish",
+   "korroziya"
   ],
-  "abs": "Studies scouring of road embankments and slope collapses on directly managed national roads caused by torrential rain, using 152 damage cases. It derives practical indicators, such as opposite-bank sandbars and slope angle and catchment thresholds, for spotting high-risk sections.",
-  "link": "https://www.nilim.go.jp/english/annual/annual2023/pdf_file/ar2023_316.pdf",
+  "abs": "Corroded steel bridge girders were strengthened with adhesively bonded carbon-fibre composites instead of bolted steel plates. Small-scale beams gained about 11–30% in stiffness and 37–71% in strength, and two full-scale corroded girders from a demolished bridge also showed clear gains, with bond failure at patch ends identified as the main risk.",
+  "link": "https://onlinepubs.trb.org/onlinepubs/archive/studies/idea/finalreports/highway/NCHRP011_Final_Report.pdf",
   "intl": true,
   "tr": {
    "uz": {
-    "t": "Kuchli jala natijasida yo‘l yer inshootlarining yuvilishi va qiyaliklar qulashining harakat funksiyasiga ta’siri tahlili",
-    "ab": "40 ta yuvilish va 112 ta qiyalik qulashi/tuproq oqimi holati tahlil qilingan: daryo burilishining tashqi qismidagi yo‘llar 70% holatda bir hafta ichida yopilgan, qarama-qarshi qirg‘oqda qumloq orol bo‘lsa yuvilish ~3 baravar ko‘p uchragan. 25° dan kam qiyalik va 15 000 m² dan kichik suv yig‘ish maydonida tuproq yo‘lga deyarli yetmagan. O‘zbekistonning tog‘li va sel xavfli yo‘llarida xavfli uchastkalarni aniqlash va himoya choralarini rejalashtirishda bevosita foydali."
+    "t": "Zamonaviy kompozit materiallar yordamida po‘lat ko‘priklarni tiklash",
+    "ab": "Zanglagan po‘lat ko‘prik to‘sinlarining pastki tokchasi yupqalashib, ko‘prik yuk ko‘tarish qobiliyatini yo‘qotadi; an’anaviy po‘lat plastina bilan kuchaytirish og‘ir va harakatni to‘xtatishni talab qiladi. Tadqiqotda to‘sinlarga yelim bilan uglerod tolali kompozit plastinalar yopishtirildi: kichik to‘sinlarda besh xil sxema, so‘ng buzilgan ko‘prikdan olingan ikkita haqiqiy zanglagan to‘sin sinab ko‘rildi. Kichik to‘sinlarda bikrlik 11–30%, mustahkamlik 37–71% oshdi; ko‘proq zanglagan to‘liq o‘lchamli to‘sinning mustahkamligi dastlabki plastik momentning ~68% idan ~85% igacha ko‘tarildi, asosiy xavf esa plastina uchlarida yelimning ajralishi ekani aniqlandi. Eskirgan po‘lat ko‘priklarni harakatni uzoq to‘xtatmasdan kuchaytirish O‘zbekiston yo‘l tarmog‘i uchun ham dolzarb."
    }
   },
   "fileId": "",
   "fileUrl": "",
   "fileName": "",
   "fileSize": 0,
-  "createdAt": 1795746593113,
-  "updatedAt": 1795746593113
+  "createdAt": 1,
+  "updatedAt": 1
  },
  {
-  "id": "a20261127-10",
-  "ident": "YR-20261127-10",
-  "title": "Initiatives for Realizing Automated Driving on Expressways",
+  "id": "trbidea-012",
+  "ident": "TRB-IDEA-012",
+  "title": "Advanced Testing of an Automated NDE System for Highway Pavement Surface Condition Assessment",
   "authors": [
-   "ITSUBO Shinji",
-   "NAKAGAWA Toshimasa",
-   "ISHIHARA Masaaki",
-   "YUASA Katsuhiko",
-   "HANAMORI Teruaki"
+   "Sidney A. Guralnick",
+   "Eric S. Suen",
+   "Illinois Institute of Technology"
   ],
-  "org": "NILIM / MLIT (Yaponiya)",
+  "org": "TRB / NCHRP IDEA (AQSh)",
   "cat": "report",
-  "year": 2023,
+  "year": 1995,
   "lang": "en",
   "ftype": "PDF",
   "pages": 0,
   "kw": [
-   "avtomatlashtirilgan haydash",
-   "yo‘l chiziqlari",
-   "qo‘shilishni qo‘llab-quvvatlash",
-   "LKAS",
-   "автоматизированное вождение",
-   "lane markings",
-   "automated driving"
+   "qoplama holati",
+   "soya muare",
+   "buzmasdan nazorat",
+   "notekislik",
+   "kuzatuv laboratoriyasi"
   ],
-  "abs": "Reports NILIM research on a merging support information system for automated vehicles entering expressways and on how faded lane markings affect lane-keeping assist. Test-track trials showed successful merges with support, and draft technical specifications were prepared.",
-  "link": "https://www.nilim.go.jp/english/annual/annual2023/pdf_file/ar2023_313.pdf",
+  "abs": "A trailer-mounted shadow-moiré system records fringe patterns of the pavement surface with a CCD camera at highway speed and later computes elevation, roughness and slope change. It operated at up to 88 km/h, with elevation errors no greater than 4% and a cost of about $60,000, detecting rutting, bumps and potholes but generally not in-plane cracks.",
+  "link": "https://onlinepubs.trb.org/onlinepubs/archive/studies/idea/finalreports/highway/NCHRP012_Final_Report.pdf",
   "intl": true,
   "tr": {
    "uz": {
-    "t": "Tezyurar yo‘llarda avtomatlashtirilgan haydashni amalga oshirish bo‘yicha tashabbuslar",
-    "ab": "Qisqa tezlanish polosasi bo‘lgan sinov maydonida qo‘llab-quvvatlash tizimi yordamida barcha avtomobillar asosiy oqimga xavfsiz qo‘shilgan va shu asosda texnik spetsifikatsiyalar loyihasi tayyorlangan. Yo‘l chiziqlari xiralashganda polosada ushlab turish tizimi (LKAS) ishlamay qolishi aniqlangan. O‘zbekistonda yo‘l chiziqlari sifati va ularni yangilash me’yorlarini kelajakdagi aqlli avtomobillar talablari bilan bog‘lashda muhim."
+    "t": "Yo‘l qoplamasi sirtini baholovchi avtomatik buzmasdan nazorat (NDE) tizimini sinovdan o‘tkazish",
+    "ab": "Yo‘l qoplamasini ko‘z bilan tekshirish harakatni to‘sishni talab qiladi va sub’ektiv, lazerli avtomatik tizimlar esa kichik tashkilotlar uchun qimmat. Loyihada tirkamaga o‘rnatilgan “soya muare” tizimi sinaldi: panjara orqali yorug‘lik qoplamaga tushirilib, kamera hosil bo‘lgan chiziqlarni yozib oladi, dastur esa sirt balandligi va notekisligini hisoblaydi. Tizim 88 km/soat tezlikda ishladi, balandlik xatosi 4% dan oshmadi, masofa o‘lchash xatosi o‘rtacha 0,0125% bo‘ldi, narxi taxminan 60 000 dollar; u izlanish (koleya), do‘ngliklar va chuqurlarni yaxshi aniqladi, ammo tekislikdagi yoriqlarni deyarli sezmadi. Arzon mobil diagnostika vositalari O‘zbekistondagi viloyat yo‘l tashkilotlari uchun qoplama holatini muntazam baholashga yordam berishi mumkin."
    }
   },
   "fileId": "",
   "fileUrl": "",
   "fileName": "",
   "fileSize": 0,
-  "createdAt": 1795746593114,
-  "updatedAt": 1795746593114
+  "createdAt": 1,
+  "updatedAt": 1
  },
  {
-  "id": "a20261127-11",
-  "ident": "YR-20261127-11",
-  "title": "Analysis of the Effects for Travel Speed on Arterial Roads by Unsignalized Intersections Access",
+  "id": "trbidea-013",
+  "ident": "TRB-IDEA-013",
+  "title": "New Additive for Improved Durability of Concrete and Prevention of Reinforcing Corrosion",
   "authors": [
-   "AOYAMA Eri",
-   "MATSUMOTO Kōji",
-   "KAWAMOTO Naoyuki",
-   "SHIGETA Kengo"
+   "Jack E. Stephens",
+   "University of Connecticut"
   ],
-  "org": "NILIM / MLIT (Yaponiya)",
+  "org": "TRB / NCHRP IDEA (AQSh)",
   "cat": "report",
-  "year": 2023,
+  "year": 1995,
   "lang": "en",
   "ftype": "PDF",
   "pages": 0,
   "kw": [
-   "svetoforsiz chorrahalar",
-   "harakat tezligi",
-   "magistral ko‘cha",
-   "kechikish",
-   "нерегулируемые перекрёстки",
-   "travel speed",
-   "access management"
+   "beton qo‘shimchasi",
+   "sovuqqa chidamlilik",
+   "havo jalb qilish",
+   "kul (fly ash)",
+   "og‘ir metallar"
   ],
-  "abs": "Uses video observation at six unsignalized intersections on national highways and traffic simulation to quantify how entering and exiting vehicles slow arterial traffic. Fewer access points reduced delay and raised travel speeds.",
-  "link": "https://www.nilim.go.jp/english/annual/annual2023/pdf_file/ar2023_310.pdf",
+  "abs": "A dipolar dicarboxylic acid diammonium salt was tested as a concrete admixture at about 1–8% of cement weight. It gave freeze-thaw protection comparable to conventional air entrainment but reduced strength, and it sharply cut lead leaching from incinerator fly ash, making it a candidate for non-structural precast items such as barriers.",
+  "link": "https://onlinepubs.trb.org/onlinepubs/archive/studies/idea/finalreports/highway/NCHRP013_Final_Report.pdf",
   "intl": true,
   "tr": {
    "uz": {
-    "t": "Svetoforsiz chorrahalardan kirish-chiqishning magistral yo‘llardagi harakat tezligiga ta’siri tahlili",
-    "ab": "Kuzatuvlarga ko‘ra, kiruvchi yoki chiquvchi avtomobil ortidagi transport ~50 m oldin sekinlashib, tezlik ~150 m dan keyin tiklangan; har bir avtomobil uchun kechikish 2–3 soniyani tashkil etgan. Simulyatsiya chorrahalar sonini kamaytirish kechikishni kamaytirib, tezlikni oshirishini ko‘rsatgan. O‘zbekistonda xalqaro va davlat ahamiyatidagi yo‘llarga yon tomondan ulanishlarni cheklash (access management) qoidalarini asoslashda foydali."
+    "t": "Beton chidamliligini oshirish va armatura korroziyasining oldini olish uchun yangi qo‘shimchalar",
+    "ab": "Betonning muzlash-erishdan buzilishi va armatura korroziyasi yo‘l inshootlarining asosiy muammolaridan; oddiy havo jalb qiluvchi qo‘shimcha esa titratishda yo‘qolishi mumkin. Tadqiqotda yangi organik tuz (dikarbon kislotaning diammoniy tuzi) sement og‘irligiga nisbatan 1–8% qo‘shilib, mustahkamlik, sovuqqa chidamlilik, kapillyar so‘rilish va kuldan og‘ir metallar yuvilishi sinaldi. 300 sikldan keyin 1% qo‘shimchali beton dinamik modulining ~98% ini saqladi, oddiy beton esa 300 siklgacha buzildi; ammo mustahkamlik sezilarli pasaydi, qo‘shimcha bilan ishlov berilgan kuldan qo‘rg‘oshin yuvilishi esa taxminan 11 000 dan 106 µg/l gacha kamaydi. O‘zbekistonda qishda tuz sepiladigan yo‘llardagi ajratuvchi to‘siqlar kabi yig‘ma beton buyumlar uchun bunday qo‘shimchalar qiziqarli."
    }
   },
   "fileId": "",
   "fileUrl": "",
   "fileName": "",
   "fileSize": 0,
-  "createdAt": 1795746593115,
-  "updatedAt": 1795746593115
+  "createdAt": 1,
+  "updatedAt": 1
  },
  {
-  "id": "a20261127-12",
-  "ident": "YR-20261127-12",
-  "title": "Examination of Method for Gaining Information on Traffic Safety in Bicycle Traffic Spaces Through On-Site Travel and Surveys",
+  "id": "trbidea-014",
+  "ident": "TRB-IDEA-014",
+  "title": "Unreinforced, Centrally Prestressed Columns and Piles",
   "authors": [
-   "MATSUDA Naoko",
-   "IKEDA Takeshi",
-   "INOUE Wataru"
+   "D.V. Reddy (Florida Atlantic University)",
+   "Paul Csagoly"
   ],
-  "org": "NILIM / MLIT (Yaponiya)",
+  "org": "TRB / NCHRP IDEA (AQSh)",
   "cat": "report",
-  "year": 2023,
+  "year": 1997,
   "lang": "en",
   "ftype": "PDF",
   "pages": 0,
   "kw": [
-   "velosiped yo‘laklari",
-   "yo‘l harakati xavfsizligi",
-   "xavf hissi",
-   "velosiped infratuzilmasi",
-   "велодорожки",
-   "bicycle lanes",
-   "road safety"
+   "beton ustun",
+   "qoziq",
+   "oldindan zo‘riqtirish",
+   "seysmik himoya",
+   "ko‘prik tayanchi"
   ],
-  "abs": "Seeks indicators for the safety effects of bicycle traffic spaces through field rides and surveys on several route types. Perceived danger, comfort and swerving behaviour correlated strongly and are proposed as valid safety indicators where accident data are too sparse.",
-  "link": "https://www.nilim.go.jp/english/annual/annual2023/pdf_file/ar2023_311.pdf",
+  "abs": "The study proposed columns and piles with all prestressing steel moved to a single central tendon and no conventional reinforcement, plus a concrete-wafer hinge device to reduce earthquake forces. Small-scale tests showed such members performing at least as well as traditional ones, and a bridge model with the hinge cut the code response coefficient by about 68%, though results remain preliminary.",
+  "link": "https://onlinepubs.trb.org/onlinepubs/archive/studies/idea/finalreports/highway/NCHRP014_Final_Report.pdf",
   "intl": true,
   "tr": {
    "uz": {
-    "t": "Joyida harakatlanish va so‘rovlar orqali velosiped harakati zonalarida yo‘l xavfsizligi haqida ma’lumot olish usulini o‘rganish",
-    "ab": "2020-yil martigacha Yaponiyada ~2900 km velosiped yo‘laklari qurilgan, ularning ~70 foizi umumiy qatnov qismida belgilangan. Tajribalarda xavf hissi alohida velosiped yo‘lagida eng past, yo‘lak yo‘q yo‘llarda eng yuqori bo‘lgan; xavf hissi, qulaylik va burilib o‘tish holatlari kuchli o‘zaro bog‘liq. O‘zbekiston shaharlarida velosiped yo‘laklarini rejalashtirish va ularning samarasini baholashda qo‘llash mumkin."
+    "t": "Armaturasiz, markazdan oldindan zo‘riqtirilgan beton ustunlar va qoziqlar",
+    "ab": "Oddiy temir-beton ustunlarda beton va po‘lat bir-biriga mos ishlamaydi, armatura zanglab himoya qatlamini ko‘chiradi va zilzilada ustunlar yomon ishlaydi. Tadqiqotda barcha zo‘riqtiruvchi po‘lat markazdagi bitta arqonga yig‘ilgan, ko‘ndalang armaturasiz ustun va qoziqlar 16 ta qisqa ustun sinovida an’anaviy turlar bilan solishtirildi, ustunlarni ulash uchun esa beton plastinali egiluvchan sharnir sinaldi. Markazdan zo‘riqtirilgan qoziqning chegaraviy momenti an’anaviynikidan biroz yuqori bo‘ldi (2795 ga qarshi 2720 kip-dyuym), sharnirli ko‘prik modelida esa me’yoriy seysmik javob koeffitsiyenti taxminan 68,5% kamaydi; natijalar kichik masshtabli va dastlabki. Seysmik faol O‘zbekistonda ko‘prik tayanchlarini korroziya va zilzilaga chidamli qilish yo‘llarini izlashda bu g‘oya e’tiborga loyiq."
    }
   },
   "fileId": "",
   "fileUrl": "",
   "fileName": "",
   "fileSize": 0,
-  "createdAt": 1795746593116,
-  "updatedAt": 1795746593116
- },
- {
-  "id": "a20261127-13",
-  "ident": "YR-20261127-13",
-  "title": "Developing and Implementing APIs in Road-Related Systems",
-  "authors": [
-   "NIIKURA Isaya",
-   "ŌTE Masayuki",
-   "NISHIMURA Tōru"
-  ],
-  "org": "NILIM / MLIT (Yaponiya)",
-  "cat": "report",
-  "year": 2023,
-  "lang": "en",
-  "ftype": "PDF",
-  "pages": 0,
-  "kw": [
-   "yo‘l ma’lumotlar platformasi",
-   "API",
-   "GIS",
-   "yo‘l belgilari bazasi",
-   "дорожная база данных",
-   "road data platform",
-   "xROAD"
-  ],
-  "abs": "Explains how NILIM is building API links among road data systems within MLIT's xROAD platform. Systems include automatic GIS generation from as-built CAD drawings, a road sign database and mobile mapping data distribution.",
-  "link": "https://www.nilim.go.jp/english/annual/annual2023/pdf_file/ar2023_349.pdf",
-  "intl": true,
-  "tr": {
-   "uz": {
-    "t": "Yo‘l bilan bog‘liq tizimlarda API ishlab chiqish va joriy etish",
-    "ab": "MLIT ning xROAD yo‘l ma’lumotlar platformasi doirasida pudratchilarning ijro chizmalaridan yo‘l inshootlarini 30 qatlamga ajratib avtomatik GIS ma’lumotlari yaratiladi va xizmat ko‘rsatiladi. Yangi yo‘l belgilari bazasi va mobil xaritalash (MMS) tizimi milliy yo‘l inshootlari inspeksiyasi bazasi bilan API orqali bog‘lanmoqda. O‘zbekistonda yagona raqamli yo‘l ma’lumotlar bazasi (yo‘l pasportlari, belgilar, inspeksiya) yaratishda namuna."
-   }
-  },
-  "fileId": "",
-  "fileUrl": "",
-  "fileName": "",
-  "fileSize": 0,
-  "createdAt": 1795746593117,
-  "updatedAt": 1795746593117
- },
- {
-  "id": "a20261127-14",
-  "ident": "YR-20261127-14",
-  "title": "Development of Methods for Determining Disaster Potential and Preventive Measures for Bridge Washouts and Scouring",
-  "authors": [
-   "SHIRATO Masahiro",
-   "OKADA Takao",
-   "SASADA Yukihisa",
-   "IHARA Takehiro"
-  ],
-  "org": "NILIM / MLIT (Yaponiya)",
-  "cat": "report",
-  "year": 2022,
-  "lang": "en",
-  "ftype": "PDF",
-  "pages": 0,
-  "kw": [
-   "ko‘prik tayanchlari yuvilishi",
-   "ko‘prik oqib ketishi",
-   "toshqin",
-   "poydevor",
-   "размыв опор мостов",
-   "bridge scour",
-   "washout"
-  ],
-  "abs": "Develops mechanics-based methods to identify road bridges at risk of scour and washout during floods, checked against past flood cases including 20 bridges in the Kuma River basin. Gives scour-depth thresholds for different foundation types and notes that bearings tended to fail first.",
-  "link": "https://www.nilim.go.jp/english/annual/annual2022/pdf_file/1_008.pdf",
-  "intl": true,
-  "tr": {
-   "uz": {
-    "t": "Ko‘priklarning oqib ketishi va tayanchlar yuvilishi xavfini aniqlash hamda oldini olish choralari usullarini ishlab chiqish",
-    "ab": "Hisobiy oqim tezligi 5 m/s qabul qilinib, xavfsizlik nisbati 1 dan kichik bo‘lsa xavf belgisi deb olingan; to‘g‘ridan-to‘g‘ri poydevorlar yuqori sathidan 1 m pastgacha, qoziq va kesson poydevorlar esa uzunligining yarmigacha yuvilganda shikastlanishi mumkinligi ko‘rsatilgan. Kuma daryosidagi 20 ko‘prik misolida tayanch qismlar ustun va to‘siqlardan oldin ishdan chiqqan. O‘zbekistonning tog‘ daryolari ustidagi ko‘priklarini sel va toshqin xavfi bo‘yicha baholashda bevosita qo‘llash mumkin."
-   }
-  },
-  "fileId": "",
-  "fileUrl": "",
-  "fileName": "",
-  "fileSize": 0,
-  "createdAt": 1795746593118,
-  "updatedAt": 1795746593118
- },
- {
-  "id": "a20261127-15",
-  "ident": "YR-20261127-15",
-  "title": "Technical Support for Frequently Occurring Road Disasters",
-  "authors": [
-   "FUKUDA Yukihiro (NILIM Road Structures Department)"
-  ],
-  "org": "NILIM / MLIT (Yaponiya)",
-  "cat": "report",
-  "year": 2022,
-  "lang": "en",
-  "ftype": "PDF",
-  "pages": 0,
-  "kw": [
-   "yo‘l falokatlari",
-   "texnik yordam",
-   "ko‘prik yuvilishi",
-   "favqulodda tiklash",
-   "дорожные бедствия",
-   "road disasters",
-   "technical support"
-  ],
-  "abs": "Describes how NILIM's Road Structures Department dispatches bridge, tunnel and earthwork experts to help local and regional road administrators investigate causes and plan emergency recovery after disasters. It also covers training material on bridge scour for inspectors and scale-model hydraulic tests.",
-  "link": "https://www.nilim.go.jp/english/annual/annual2022/pdf_file/0_006.pdf",
-  "intl": true,
-  "tr": {
-   "uz": {
-    "t": "Tez-tez sodir bo‘ladigan yo‘l falokatlarida texnik yordam",
-    "ab": "Departament FY2021 da ham PWRI bilan birga ko‘prik, tonnel va yer inshootlari mutaxassislarini falokat joylariga yuborib, sabablarni aniqlash va shoshilinch tiklash bo‘yicha maslahat bergan; 2021-yil avgustida ko‘prik inspektorlari uchun yuvilish bo‘yicha o‘quv materiallari loyihasi chiqarilgan. 2020-yil jalasida shikastlangan ko‘prikning 1:30 masshtabli modelida gidravlik sinovlar o‘tkazilgan. O‘zbekistonda yo‘l falokatlariga tezkor muhandislik javobi tizimini tashkil etishda namuna."
-   }
-  },
-  "fileId": "",
-  "fileUrl": "",
-  "fileName": "",
-  "fileSize": 0,
-  "createdAt": 1795746593119,
-  "updatedAt": 1795746593119
- },
- {
-  "id": "a20261127-16",
-  "ident": "YR-20261127-16",
-  "title": "Current State of and Challenges in Support Policies for Activities by Local Residents, Etc. to Remove Snow from Roads",
-  "authors": [
-   "HARANO Takashi",
-   "OMATA Motoyoshi"
-  ],
-  "org": "NILIM / MLIT (Yaponiya)",
-  "cat": "report",
-  "year": 2022,
-  "lang": "en",
-  "ftype": "PDF",
-  "pages": 0,
-  "kw": [
-   "qor tozalash",
-   "qishki saqlash",
-   "aholi ishtiroki",
-   "munitsipalitetlar",
-   "зимнее содержание дорог",
-   "snow removal",
-   "winter maintenance"
-  ],
-  "abs": "Surveys how Japanese municipalities in heavy-snowfall areas support residents who clear snow from roads. About 30 % of 532 designated municipalities offer support, most commonly by lending snowplows, covering activity costs or subsidising equipment.",
-  "link": "https://www.nilim.go.jp/english/annual/annual2022/pdf_file/4_004.pdf",
-  "intl": true,
-  "tr": {
-   "uz": {
-    "t": "Aholining yo‘llardan qor tozalash faoliyatini qo‘llab-quvvatlash siyosatining hozirgi holati va muammolari",
-    "ab": "Kuchli qor yog‘adigan 532 munitsipalitetdan 161 tasi (30%) aholining qor tozalashini qo‘llab-quvvatlaydi: qor tozalagich ijaraga berish (16%), xarajatlarni qoplash (14%) va texnika xaridiga subsidiya (10%) eng keng tarqalgan. Qo‘llab-quvvatlash aholisi ko‘p va yo‘l tarmog‘i uzun munitsipalitetlarda ko‘proq. O‘zbekistonning tog‘li tumanlari va dovonlarida qishki yo‘l saqlashga mahalla va aholini jalb qilish mexanizmlarini ishlab chiqishda foydali."
-   }
-  },
-  "fileId": "",
-  "fileUrl": "",
-  "fileName": "",
-  "fileSize": 0,
-  "createdAt": 1795746593120,
-  "updatedAt": 1795746593120
- },
- {
-  "id": "a20261127-17",
-  "ident": "YR-20261127-17",
-  "title": "Technical Development to Popularize Physical Devices Contributing to the Formation of Safe and Secure Residential Streets",
-  "authors": [
-   "Takeshi Ikeda",
-   "Takashi Hirakawa",
-   "Fumika Mori",
-   "Maho Murakami",
-   "Hiroshi Kobayashi"
-  ],
-  "org": "NILIM / MLIT (Yaponiya)",
-  "cat": "report",
-  "year": 2022,
-  "lang": "en",
-  "ftype": "PDF",
-  "pages": 0,
-  "kw": [
-   "sun’iy notekisliklar",
-   "tezlikni pasaytirish",
-   "turar-joy ko‘chalari",
-   "yo‘l xavfsizligi",
-   "искусственные неровности",
-   "road humps",
-   "traffic calming"
-  ],
-  "abs": "Addresses barriers to installing traffic-calming devices such as road humps on residential streets. Test construction showed a near-sine-wave hump profile can be built simply, and the study reviews snow-clearing practice over humps in snowy regions.",
-  "link": "https://www.nilim.go.jp/english/annual/annual2022/pdf_file/3_002.pdf",
-  "intl": true,
-  "tr": {
-   "uz": {
-    "t": "Xavfsiz turar-joy ko‘chalarini shakllantirishga xizmat qiluvchi jismoniy qurilmalarni keng joriy etish bo‘yicha texnik ishlanmalar",
-    "ab": "Sinov maydonida sinusoidal shaklga yaqin sun’iy notekislikni oddiy shablonlar va mavjud qoplamani qisman kesish usuli bilan qurish mumkinligi tasdiqlangan; mobil xaritalash orqali mavjud notekisliklar ideal shakldan farq qilishi aniqlangan. Qorli hududlarda qor tozalash usullari (pichoqni ko‘tarish, qor eritish quvurlari) ham ko‘rib chiqilgan. O‘zbekiston mahalla ko‘chalari va maktab atrofida sun’iy notekisliklarni to‘g‘ri loyihalash va qurish standartlarini takomillashtirishda foydali."
-   }
-  },
-  "fileId": "",
-  "fileUrl": "",
-  "fileName": "",
-  "fileSize": 0,
-  "createdAt": 1795746593121,
-  "updatedAt": 1795746593121
- },
- {
-  "id": "a20261127-18",
-  "ident": "YR-20261127-18",
-  "title": "The Study on Current Status and Implementation Strategy of MOLIT's ODA Projects - Focusing on Transport Infrastructure-",
-  "authors": [
-   "The Korea Transport Institute (KOTI)"
-  ],
-  "org": "KOTI (Koreya)",
-  "cat": "report",
-  "year": 2023,
-  "lang": "en",
-  "ftype": "WEB",
-  "pages": 0,
-  "kw": [
-   "rasmiy rivojlanish yordami",
-   "ODA",
-   "transport infratuzilmasi",
-   "xalqaro hamkorlik",
-   "официальная помощь развитию",
-   "official development assistance",
-   "transport infrastructure"
-  ],
-  "abs": "KOTI policy study on the Korean Ministry of Land, Infrastructure and Transport's ODA in the transport sector. It identifies gaps in the basic ODA plan, recommends linking grants, loans and PPP for follow-up projects, and ranks priority transport areas by region from an expert survey. The record page gives the English abstract.",
-  "link": "https://english.koti.re.kr/eng/bbs/policyRschView.do?bbs_no=68621",
-  "intl": true,
-  "tr": {
-   "uz": {
-    "t": "Koreya MOLIT vazirligining rasmiy rivojlanish yordami (ODA) loyihalarining hozirgi holati va amalga oshirish strategiyasi — transport infratuzilmasi misolida",
-    "ab": "Tadqiqot Koreya transport sohasidagi ODA asosiy rejasi juda umumiy ekanini ko‘rsatib, bo‘shliqlarni to‘ldirish, grant, kredit va davlat-xususiy sheriklikni bog‘lash orqali keyingi loyihalarni qo‘llab-quvvatlashni taklif qiladi; ekspertlar so‘rovi asosida mintaqalar bo‘yicha ustuvor transport yo‘nalishlari belgilangan. Koreya O‘zbekistonning muhim hamkori bo‘lgani uchun, Koreya ODA mexanizmlarini tushunish yo‘l loyihalari uchun Koreya mablag‘larini jalb qilishda amaliy ahamiyatga ega."
-   }
-  },
-  "fileId": "",
-  "fileUrl": "",
-  "fileName": "",
-  "fileSize": 0,
-  "createdAt": 1795746593122,
-  "updatedAt": 1795746593122
- },
- {
-  "id": "a20261127-19",
-  "ident": "YR-20261127-19",
-  "title": "Shahar magistral ko‘chalarining transport-ekspluatatsion holatini transport shovqiniga ta’sirini baholash va prognozlash (Toshkent shahri misolida)",
-  "authors": [
-   "Holiqov Alisher Isan o‘g‘li"
-  ],
-  "org": "Toshkent davlat transport universiteti (O‘zbekiston)",
-  "cat": "thesis",
-  "year": 2022,
-  "lang": "uz",
-  "ftype": "WEB",
-  "pages": 0,
-  "kw": [
-   "transport shovqini",
-   "magistral ko‘chalar",
-   "transport-ekspluatatsion holat",
-   "Toshkent",
-   "dissertatsiya",
-   "транспортный шум",
-   "traffic noise"
-  ],
-  "abs": "Texnika fanlari bo‘yicha falsafa doktori (PhD) dissertatsiyasi, ixtisoslik 05.09.02 — asoslar, poydevor va yer osti inshootlari; ko‘priklar va transport tonnellari; yo‘llar, metropolitenlar. Himoya Toshkent davlat transport universiteti huzuridagi DSc.18/30.12.2019.T.09.01 raqamli ilmiy kengashda 2022-yil 19-martda (onlayn) belgilangan. Avtoreferat PDF topilmadi, havola UzA dagi rasmiy himoya e’loniga beriladi.",
-  "link": "https://uza.uz/uz/posts/holiqov-alisher-isan-oglining-texnika-fanlari-boyicha-falsafa-doktori-phd-dissertatsiya-ishi-himoyasi-togrisida_354092",
-  "intl": false,
-  "tr": {},
-  "fileId": "",
-  "fileUrl": "",
-  "fileName": "",
-  "fileSize": 0,
-  "createdAt": 1795746593123,
-  "updatedAt": 1795746593123
+  "createdAt": 1,
+  "updatedAt": 1
  }
 ]
